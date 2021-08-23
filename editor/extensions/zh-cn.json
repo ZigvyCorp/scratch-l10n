@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "右",
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
-    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜"
+    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
+    "widget.categoryName": "钢笔",
+    "widget.addTextbox": "添加文本框 位置　X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 文字颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 行 [MULTIPLELINE] 滚动 [SCROLL] 模式 [ MODE] 名为 [NAME]",
+    "widget.textFromName": "文本框 [NAME] 内的文字",
+    "widget.setText": "将 [NAME] 的文本设置为 [TEXT]",
+    "widget.appendText": "将 [TEXT] 附加到文本框 [NAME]",
+    "widget.addLabel": "添加标签 [TEXT] 位置 X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 文本颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 命名为 [NAME]",
+    "widget.addButton": "添加按钮 [TEXT] 位置 X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 文本颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 命名为 [NAME]",
+    "widget.whenButtonClicked": "当名为 [NAME] 的按钮被点击的时候",
+    "widget.whenTextBoxChanges": "当名为 [NAME] 的文本框被更改时",
+    "widget.setTextStyle": "设置文字样式 [FONT] 字体大小 [FONTSIZE] 文字颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 粗度 [BOLDNESS] [NAME]",
+    "widget.removeWidget": "删除名为 [NAME] 的小控件",
+    "widget.removeAllWidgets": "删除所有小控件",
+    "widget.setVisibility": "设置名为 [NAME] 的小控件可见性 [VISIBILITY]"
 }

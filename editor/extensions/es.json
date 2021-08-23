@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "derecha",
     "wedo2.tiltDirection.up": "arriba",
     "wedo2.whenDistance": "cuando distancia [OP] [REFERENCE]",
-    "wedo2.whenTilted": "al inclinar hacia [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "al inclinar hacia [TILT_DIRECTION_ANY]",
+    "widget.categoryName": "Lápiz",
+    "widget.addTextbox": "agregar cuadro de texto en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] color de texto [TEXTCOLOR] color de fondo [BGCOLOR] color del borde [BORDERCOLOR] radio del borde [BORDERRADIUS] línea [MULTIPLELINE] modo de desplazamiento [SCROLL] [MODE] llamado [NAME]",
+    "widget.textFromName": "texto del cuadro de texto [NAME]",
+    "widget.setText": "establecer el texto en [TEXT] para el cuadro de texto [NAME]",
+    "widget.appendText": "agregar texto [TEXT] al cuadro de texto [NAME]",
+    "widget.addLabel": "añadir etiqueta [TEXT] a X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] color de texto [TEXTCOLOR] color de fondo [BGCOLOR] color del borde [BORDERCOLOR] radio del borde [BORDERRADIUS] llamado [NAME]",
+    "widget.addButton": "agregar botón [TEXT] a X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] color del texto [TEXTCOLOR] color de fondo [BGCOLOR] color del borde [BORDERCOLOR] radio del borde [BORDERRADIUS] llamado [NAME]",
+    "widget.whenButtonClicked": "cuando se hace clic en el botón llamado [NAME]",
+    "widget.whenTextBoxChanges": "cuando cambia el cuadro de texto llamado [NAME]",
+    "widget.setTextStyle": "establecer estilo de texto [FONT] tamaño de fuente [FONTSIZE] color de texto [TEXTCOLOR] color de fondo [BGCOLOR] color del borde [BORDERCOLOR] radio del borde [BORDERRADIUS] negrita [BOLDNESS] para [NAME]",
+    "widget.removeWidget": "eliminar el widget llamado [NAME]",
+    "widget.removeAllWidgets": "eliminar todos los widgets",
+    "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]"
 }

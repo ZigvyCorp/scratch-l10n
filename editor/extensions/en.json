@@ -211,5 +211,18 @@
     "wedo2.tiltDirection.right": "right",
     "wedo2.tiltDirection.up": "up",
     "wedo2.whenDistance": "when distance [OP] [REFERENCE]",
-    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
+    "widget.categoryName": "Pen",
+    "widget.addTextbox": "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] named [NAME]",
+    "widget.textFromName": "text from textbox [NAME]",
+    "widget.setText": "set text to [TEXT] for textbox [NAME]",
+    "widget.appendText": "append text [TEXT] to textbox [NAME]",
+    "widget.addLabel": "add label [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] named [NAME]",
+    "widget.addButton": "add button [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] named [NAME]",
+    "widget.whenButtonClicked": "when button named [NAME] clicked",
+    "widget.whenTextBoxChanges": "when textbox named [NAME] changes",
+    "widget.setTextStyle": "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] boldness [BOLDNESS] for [NAME]",
+    "widget.removeWidget": "remove widget named [NAME]",
+    "widget.removeAllWidgets": "remove all widgets",
+    "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]"
 }
