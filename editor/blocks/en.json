@@ -124,6 +124,7 @@
     "MOTION_SETROTATIONSTYLE_ALLAROUND": "all around",
     "MOTION_XPOSITION": "x position",
     "MOTION_YPOSITION": "y position",
+    "MOTION_ZPOSITION": "z position",
     "MOTION_DIRECTION": "direction",
     "MOTION_SCROLLRIGHT": "scroll right %1",
     "MOTION_SCROLLUP": "scroll up %1",

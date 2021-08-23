@@ -124,6 +124,7 @@
     "MOTION_SETROTATIONSTYLE_ALLAROUND": "任意旋转",
     "MOTION_XPOSITION": "x 坐标",
     "MOTION_YPOSITION": "y 坐标",
+    "MOTION_ZPOSITION": "z 坐标",
     "MOTION_DIRECTION": "方向",
     "MOTION_SCROLLRIGHT": "向右滚动 %1",
     "MOTION_SCROLLUP": "向上滚动 %1",

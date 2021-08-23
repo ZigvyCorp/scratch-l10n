@@ -124,6 +124,7 @@
     "MOTION_SETROTATIONSTYLE_ALLAROUND": "à 360°",
     "MOTION_XPOSITION": "abscisse x",
     "MOTION_YPOSITION": "ordonnée y",
+    "MOTION_ZPOSITION": "ordonnée z",
     "MOTION_DIRECTION": "direction",
     "MOTION_SCROLLRIGHT": "défiler à droite de %1",
     "MOTION_SCROLLUP": "défiler en haut de %1",
