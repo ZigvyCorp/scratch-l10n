@@ -236,5 +236,7 @@
     "widget.setTextStyle": "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] boldness [BOLDNESS] for [NAME]",
     "widget.removeWidget": "remove widget named [NAME]",
     "widget.removeAllWidgets": "remove all widgets",
-    "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]"
+    "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]",
+    "widget.whenMouseOver": "when pointer is over widget named [NAME]",
+    "widget.addImage": "add image [COSTUME] repeat [REPEAT] for [NAME]"
 }

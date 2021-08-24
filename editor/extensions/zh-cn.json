@@ -236,5 +236,7 @@
     "widget.setTextStyle": "设置文字样式 [FONT] 字体大小 [FONTSIZE] 文字颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 粗度 [BOLDNESS] [NAME]",
     "widget.removeWidget": "删除名为 [NAME] 的小控件",
     "widget.removeAllWidgets": "删除所有小控件",
-    "widget.setVisibility": "设置名为 [NAME] 的小控件可见性 [VISIBILITY]"
+    "widget.setVisibility": "设置名为 [NAME] 的小控件可见性 [VISIBILITY]",
+    "widget.whenMouseOver": "当指针位于名为 [NAME] 的小部件上时",
+    "widget.addImage": "添加图像 [COSTUME] 为 [NAME] 重复 [REPEAT]"
 }

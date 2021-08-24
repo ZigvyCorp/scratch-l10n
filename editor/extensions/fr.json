@@ -236,5 +236,7 @@
     "widget.setTextStyle": "définir le style du texte [FONT] taille de la police [FONTSIZE] couleur du texte [TEXTCOLOR] couleur d'arrière-plan [BGCOLOR] couleur de la bordure [BORDERCOLOR] rayon de la bordure [BORDERRADIUS] gras [BOLDNESS] pour [NAME]",
     "widget.removeWidget": "supprimer le widget nommé [NAME]",
     "widget.removeAllWidgets": "supprimer tous les widgets",
-    "widget.setVisibility": "définir la visibilité [VISIBILITY] pour le widget nommé [NAME]"
+    "widget.setVisibility": "définir la visibilité [VISIBILITY] pour le widget nommé [NAME]",
+    "widget.whenMouseOver": "lorsque le pointeur est sur le widget nommé [NAME]",
+    "widget.addImage": "ajouter une image [COSTUME] répéter [REPEAT] pour [NAME]"
 }

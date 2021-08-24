@@ -238,7 +238,9 @@ export default {
     "widget.setTextStyle": "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] background color [BGCOLOR] border color [BORDERCOLOR] border radius [BORDERRADIUS] boldness [BOLDNESS] for [NAME]",
     "widget.removeWidget": "remove widget named [NAME]",
     "widget.removeAllWidgets": "remove all widgets",
-    "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]"
+    "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]",
+    "widget.whenMouseOver": "when pointer is over widget named [NAME]",
+    "widget.addImage": "add image [COSTUME] repeat [REPEAT] for [NAME]"
   },
   "es": {
     "boost.color.any": "de cualquier color",
@@ -478,7 +480,9 @@ export default {
     "widget.setTextStyle": "establecer estilo de texto [FONT] tamaño de fuente [FONTSIZE] color de texto [TEXTCOLOR] color de fondo [BGCOLOR] color del borde [BORDERCOLOR] radio del borde [BORDERRADIUS] negrita [BOLDNESS] para [NAME]",
     "widget.removeWidget": "eliminar el widget llamado [NAME]",
     "widget.removeAllWidgets": "eliminar todos los widgets",
-    "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]"
+    "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
+    "widget.whenMouseOver": "cuando el puntero está sobre el widget llamado [NAME]",
+    "widget.addImage": "agregar imagen [COSTUME] repetir [REPEAT] para [NAME]"
   },
   "fr": {
     "boost.color.any": "any color",
@@ -718,7 +722,9 @@ export default {
     "widget.setTextStyle": "définir le style du texte [FONT] taille de la police [FONTSIZE] couleur du texte [TEXTCOLOR] couleur d'arrière-plan [BGCOLOR] couleur de la bordure [BORDERCOLOR] rayon de la bordure [BORDERRADIUS] gras [BOLDNESS] pour [NAME]",
     "widget.removeWidget": "supprimer le widget nommé [NAME]",
     "widget.removeAllWidgets": "supprimer tous les widgets",
-    "widget.setVisibility": "définir la visibilité [VISIBILITY] pour le widget nommé [NAME]"
+    "widget.setVisibility": "définir la visibilité [VISIBILITY] pour le widget nommé [NAME]",
+    "widget.whenMouseOver": "lorsque le pointeur est sur le widget nommé [NAME]",
+    "widget.addImage": "ajouter une image [COSTUME] répéter [REPEAT] pour [NAME]"
   },
   "zh-cn": {
     "boost.color.any": "任何颜色",
@@ -958,6 +964,8 @@ export default {
     "widget.setTextStyle": "设置文字样式 [FONT] 字体大小 [FONTSIZE] 文字颜色 [TEXTCOLOR] 背景颜色 [BGCOLOR] 边框颜色 [BORDERCOLOR] 边框半径 [BORDERRADIUS] 粗度 [BOLDNESS] [NAME]",
     "widget.removeWidget": "删除名为 [NAME] 的小控件",
     "widget.removeAllWidgets": "删除所有小控件",
-    "widget.setVisibility": "设置名为 [NAME] 的小控件可见性 [VISIBILITY]"
+    "widget.setVisibility": "设置名为 [NAME] 的小控件可见性 [VISIBILITY]",
+    "widget.whenMouseOver": "当指针位于名为 [NAME] 的小部件上时",
+    "widget.addImage": "添加图像 [COSTUME] 为 [NAME] 重复 [REPEAT]"
   }
 };
