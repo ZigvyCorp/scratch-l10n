@@ -224,7 +224,7 @@
     "p2p.message": "un message",
     "p2p.roomUsers": "utilisateurs du monde",
     "p2p.teamUsers": "utilisateurs de l'équipe [TEAM]",
-    "widget.categoryName": "Stylo",
+    "widget.categoryName": "Widget",
     "widget.addTextbox": "ajouter une zone de texte à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] ligne [MULTIPLELINE] scroll [SCROLL] mode [MODE] nommé [NAME]",
     "widget.valueFromWidget": "valeur du widget nommé [NAME]",
     "widget.setText": "définir le texte sur [TEXT] pour la zone de texte [NAME]",
