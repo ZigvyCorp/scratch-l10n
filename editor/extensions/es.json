@@ -244,5 +244,6 @@
     "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
     "widget.setVisibilityForAll": "establecer visibilidad [VISIBILITY] para todos los widgets",
     "widget.whenMouseOver": "cuando el puntero está sobre el widget llamado [NAME]",
-    "widget.addImage": "agregar imagen [COSTUME] para [NAME]"
+    "widget.addImage": "agregar imagen [COSTUME] para [NAME]",
+    "game.categoryName": ""
 }

@@ -244,5 +244,6 @@
     "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]",
     "widget.setVisibilityForAll": "set visibility [VISIBILITY] for all widgets",
     "widget.whenMouseOver": "when pointer is over widget named [NAME]",
-    "widget.addImage": "add image [COSTUME] to widget named [NAME]"
+    "widget.addImage": "add image [COSTUME] to widget named [NAME]",
+    "game.categoryName": "Game"
 }

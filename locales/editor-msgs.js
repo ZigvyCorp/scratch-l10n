@@ -3159,6 +3159,7 @@ export default {
     "widget.setVisibilityForAll": "为所有控件设置可见性 [VISIBILITY]",
     "widget.whenMouseOver": "当指针位于名为 [NAME] 的控件上时",
     "widget.addImage": "为控件 [NAME] 添加图像 [COSTUME]",
+    "game.categoryName": "",
     "paint.paintEditor.hue": "颜色",
     "paint.paintEditor.saturation": "饱和度",
     "paint.paintEditor.brightness": "亮度",

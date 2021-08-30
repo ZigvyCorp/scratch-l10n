@@ -244,5 +244,6 @@
     "widget.setVisibility": "设置名为 [NAME] 的控件可见性 [VISIBILITY]",
     "widget.setVisibilityForAll": "为所有控件设置可见性 [VISIBILITY]",
     "widget.whenMouseOver": "当指针位于名为 [NAME] 的控件上时",
-    "widget.addImage": "为控件 [NAME] 添加图像 [COSTUME]"
+    "widget.addImage": "为控件 [NAME] 添加图像 [COSTUME]",
+    "game.categoryName": ""
 }
