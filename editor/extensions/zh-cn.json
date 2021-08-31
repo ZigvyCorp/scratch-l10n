@@ -244,7 +244,7 @@
     "widget.setVisibility": "设置名为 [NAME] 的控件可见性 [VISIBILITY]",
     "widget.setVisibilityForAll": "为所有控件设置可见性 [VISIBILITY]",
     "widget.whenMouseOver": "当指针位于名为 [NAME] 的控件上时",
-    "widget.addImage": "为控件 [NAME] 添加图像 [COSTUME]",
+    "widget.addImage": "将图像 [COSTUME] 添加到名为 [NAME] 的小部件，位置为 X [X] Y [Y]",
     "widget.menuItem.single": "单身的",
     "widget.menuItem.multiple": "多",
     "widget.menuItem.scroll": "滚动",

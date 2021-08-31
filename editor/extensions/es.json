@@ -244,7 +244,7 @@
     "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
     "widget.setVisibilityForAll": "establecer visibilidad [VISIBILITY] para todos los widgets",
     "widget.whenMouseOver": "cuando el puntero está sobre el widget llamado [NAME]",
-    "widget.addImage": "agregar imagen [COSTUME] para [NAME]",
+    "widget.addImage": "agregue la imagen [COSTUME] al widget llamado [NAME] con la posición X [X] Y [Y]",
     "widget.menuItem.single": "soltera",
     "widget.menuItem.multiple": "múltiple",
     "widget.menuItem.scroll": "desplazarse",
