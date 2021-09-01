@@ -244,5 +244,15 @@
     "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]",
     "widget.setVisibilityForAll": "set visibility [VISIBILITY] for all widgets",
     "widget.whenMouseOver": "when pointer is over widget named [NAME]",
-    "widget.addImage": "add image [COSTUME] to widget named [NAME]"
+    "widget.addImage": "add image [COSTUME] to widget named [NAME]",
+    "widget.menuItem.single": "single",
+    "widget.menuItem.multiple": "multiple",
+    "widget.menuItem.scroll": "scroll",
+    "widget.menuItem.noScroll": "no scroll",
+    "widget.menuItem.input": "input",
+    "widget.menuItem.readOnly": "read only",
+    "widget.menuItem.normal": "normal",
+    "widget.menuItem.bold": "bold",
+    "widget.menuItem.show": "show",
+    "widget.menuItem.hide": "hide" 
 }
