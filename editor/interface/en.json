@@ -122,6 +122,8 @@
     "gui.menuBar.edit": "Edit",
     "gui.menuBar.turboModeOff": "Turn off Turbo Mode",
     "gui.menuBar.turboModeOn": "Turn on Turbo Mode",
+    "gui.menuBar.leftClickForMenuModeOff": "Turn off Click for menu",
+    "gui.menuBar.leftClickForMenuModeOn": "Turn on Click for menu",
     "gui.menuBar.joinScratch": "Join Scratch",
     "gui.menuBar.signIn": "Sign in",
     "gui.gui.projectTitlePlaceholder": "Project title here",
