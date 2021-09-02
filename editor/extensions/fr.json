@@ -212,7 +212,7 @@
     "wedo2.tiltDirection.up": "vers le haut",
     "wedo2.whenDistance": "quand la distance [OP] [REFERENCE]",
     "wedo2.whenTilted": "quand incliné [TILT_DIRECTION_ANY]",
-    "p2p.categoryName": "Nuage",
+    "p2p.categoryName": "Monde",
     "p2p.createRoom": "créer le monde [ROOMID] avec le mot de passe [PASSWORD] jusqu'à [SIZE] utilisateurs et rejoindre l'équipe [TEAM]",
     "p2p.joinroom": "rejoignez le monde [ROOMID] avec le mot de passe [PASSWORD] en équipe [TEAM]",
     "p2p.leaveroom": "quitter le monde",
