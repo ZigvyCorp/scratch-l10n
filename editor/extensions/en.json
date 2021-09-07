@@ -212,7 +212,7 @@
     "wedo2.tiltDirection.up": "up",
     "wedo2.whenDistance": "when distance [OP] [REFERENCE]",
     "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
-    "p2p.categoryName": "Cloud",
+    "p2p.categoryName": "World",
     "p2p.createRoom": "create world [ROOMID] with password [PASSWORD] up to [SIZE] users and join as team [TEAM]",
     "p2p.joinroom": "join world [ROOMID] with password [PASSWORD] as team [TEAM]",
     "p2p.leaveroom": "leave world",
