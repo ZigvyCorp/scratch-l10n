@@ -131,6 +131,7 @@
     "gui.menuBar.isShared": "Shared",
     "gui.menuBar.share": "Share",
     "gui.menuBar.publishButton": "Publish",
+    "gui.menuBar.sharedWithFriendButton": "Share with friend",
     "gui.menuBar.logoTile": "https://cdn.jsdelivr.net/gh/ZigvyCorp/tcode-static-files@master/images/CreatiCode_EN.png",
     "gui.blockSearch.placeholder": "Search block",
     "gui.blockSearchWorkspace.placeholder": "Search workspace block",
