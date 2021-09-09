@@ -254,5 +254,8 @@
     "widget.menuItem.normal": "normal",
     "widget.menuItem.bold": "negrita",
     "widget.menuItem.show": "show",
-    "widget.menuItem.hide": "esconder"
+    "widget.menuItem.hide": "esconder",
+    "game.recordPlayerScore": "puntuación récord del jugador [VALUE]",
+    "game.showGameLeaderboard": "mostrar la clasificación del juego [SORT]",
+    "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego"
 }

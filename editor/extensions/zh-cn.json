@@ -254,5 +254,8 @@
     "widget.menuItem.normal": "普通的",
     "widget.menuItem.bold": "胆大",
     "widget.menuItem.show": "展示",
-    "widget.menuItem.hide": "隐藏"
+    "widget.menuItem.hide": "隐藏",
+    "game.recordPlayerScore": "記錄玩家得分 [VALUE]",
+    "game.showGameLeaderboard": "顯示遊戲排行榜 [SORT]",
+    "game.hideGameLeaderboard": "隱藏遊戲排行榜"
 }
