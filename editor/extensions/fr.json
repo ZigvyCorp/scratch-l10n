@@ -254,5 +254,9 @@
     "widget.menuItem.normal": "ordinaire",
     "widget.menuItem.bold": "gras",
     "widget.menuItem.show": "spectacle",
-    "widget.menuItem.hide": "cacher"
+    "widget.menuItem.hide": "cacher",
+    "game.categoryName": "Jeu",
+    "game.recordPlayerScore": "record joueur score [VALUE]",
+    "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
+    "game.hideGameLeaderboard": "masquer le classement du jeu"
 }

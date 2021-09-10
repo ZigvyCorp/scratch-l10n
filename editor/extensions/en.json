@@ -254,5 +254,9 @@
     "widget.menuItem.normal": "normal",
     "widget.menuItem.bold": "bold",
     "widget.menuItem.show": "show",
-    "widget.menuItem.hide": "hide" 
+    "widget.menuItem.hide": "hide",
+    "game.categoryName": "Game",
+    "game.recordPlayerScore": "record player score [VALUE]",
+    "game.showGameLeaderboard": "show game leaderboard [SORT]",
+    "game.hideGameLeaderboard": "hide game leaderboard"
 }
