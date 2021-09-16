@@ -464,7 +464,7 @@
     "gui.extension.widget.name": "Widget",
     "gui.extension.widget.description": "Create useful apps.",
     "gui.extension.game.name": "Game",
-    "gui.extension.game.description": "Build a game leader board",
+    "gui.extension.game.description": "Tools to build games",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",

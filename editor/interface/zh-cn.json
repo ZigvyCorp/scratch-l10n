@@ -464,7 +464,7 @@
     "gui.extension.widget.name": "小工具",
     "gui.extension.widget.description": "创建有用的应用程序。",
     "gui.extension.game.name": "游戏",
-    "gui.extension.game.description": "Build a game leader board",
+    "gui.extension.game.description": "构建游戏的工具。",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",
     "gui.libraryTags.dance": "舞蹈",
