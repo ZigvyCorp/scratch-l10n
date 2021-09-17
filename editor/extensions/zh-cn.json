@@ -212,7 +212,7 @@
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
     "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
-    "p2p.categoryName": "世界",
+    "p2p.categoryName": "云",
     "p2p.createRoom": "使用密码 [PASSWORD] 创建世界 [ROOMID] 最多 [SIZE] 个用户并加入团队 [TEAM]",
     "p2p.joinroom": "使用密码 [PASSWORD] 作为团队 [TEAM] 进入世界 [ROOMID]",
     "p2p.leaveroom": "离开世界",
