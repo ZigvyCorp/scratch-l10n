@@ -258,5 +258,6 @@
     "game.categoryName": "遊戲",
     "game.recordPlayerScore": "记录玩家得分 [VALUE]",
     "game.showGameLeaderboard": "显示游戏排行榜 [SORT]",
-    "game.hideGameLeaderboard": "隐藏游戏排行榜"
+    "game.hideGameLeaderboard": "隐藏游戏排行榜",
+    "gui.stageHeader.captureBtn": "捕獲項目頭像"
 }
