@@ -258,5 +258,6 @@
     "game.categoryName": "Jeu",
     "game.recordPlayerScore": "record joueur score [VALUE]",
     "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
-    "game.hideGameLeaderboard": "masquer le classement du jeu"
+    "game.hideGameLeaderboard": "masquer le classement du jeu",
+    "gui.stageHeader.captureBtn": "Capturer l'avatar du projet"
 }

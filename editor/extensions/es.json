@@ -258,5 +258,6 @@
     "game.categoryName": "Juego",
     "game.recordPlayerScore": "puntuación récord del jugador [VALUE]",
     "game.showGameLeaderboard": "mostrar la clasificación del juego [SORT]",
-    "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego"
+    "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego",
+    "gui.stageHeader.captureBtn": "Capturar avatar del proyecto"
 }

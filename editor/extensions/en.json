@@ -258,5 +258,6 @@
     "game.categoryName": "Game",
     "game.recordPlayerScore": "record player score [VALUE]",
     "game.showGameLeaderboard": "show game leaderboard [SORT]",
-    "game.hideGameLeaderboard": "hide game leaderboard"
+    "game.hideGameLeaderboard": "hide game leaderboard",
+    "gui.stageHeader.captureBtn": "Capture project avatar"
 }
