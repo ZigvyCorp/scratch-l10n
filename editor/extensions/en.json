@@ -224,6 +224,10 @@
     "p2p.message": "message",
     "p2p.roomUsers": "world users",
     "p2p.teamUsers": "users of [TEAM] team",
+    "p2p.teams1": "Red, Blue, Green, White, Black, Yellow, Purple, Cyan",
+    "p2p.teams1Default": "Red",
+    "p2p.teams2": "All, Red, Blue, Green, White, Black, Yellow, Purple, Cyan",
+    "p2p.teams2Default": "All",
     "widget.categoryName": "Widget",
     "widget.addTextbox": "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] named [NAME]",
     "widget.valueFromWidget": "value from widget named [NAME]",
@@ -255,9 +259,12 @@
     "widget.menuItem.bold": "bold",
     "widget.menuItem.show": "show",
     "widget.menuItem.hide": "hide",
+    "widget.menuItem.varDefault": "None",
     "game.categoryName": "Game",
     "game.recordPlayerScore": "record player score [VALUE]",
     "game.showGameLeaderboard": "show game leaderboard [SORT]",
     "game.hideGameLeaderboard": "hide game leaderboard",
-    "gui.stageHeader.captureBtn": "Capture project avatar"
+    "gui.stageHeader.captureBtn": "Capture project avatar",
+    "gui.sortMenu.highest": "Highest",
+    "gui.sortMenu.lowest": "Lowest"
 }

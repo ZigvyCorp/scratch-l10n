@@ -224,6 +224,10 @@
     "p2p.message": "un message",
     "p2p.roomUsers": "utilisateurs du monde",
     "p2p.teamUsers": "utilisateurs de l'équipe [TEAM]",
+    "p2p.teams1": "Rouge, Bleu, Vert, Blanc, Noir, Jaune, Violet, Cyan",
+    "p2p.teams1Default": "Rouge",
+    "p2p.teams2": "Tous, Rouge, Bleu, Vert, Blanc, Noir, Jaune, Violet, Cyan",
+    "p2p.teams2Default": "Tous",
     "widget.categoryName": "Widget",
     "widget.addTextbox": "ajouter une zone de texte à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] ligne [MULTIPLELINE] scroll [SCROLL] mode [MODE] nommé [NAME]",
     "widget.valueFromWidget": "valeur du widget nommé [NAME]",
@@ -255,9 +259,12 @@
     "widget.menuItem.bold": "gras",
     "widget.menuItem.show": "spectacle",
     "widget.menuItem.hide": "cacher",
+    "widget.menuItem.varDefault": "Rien",
     "game.categoryName": "Jeu",
     "game.recordPlayerScore": "record joueur score [VALUE]",
     "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
     "game.hideGameLeaderboard": "masquer le classement du jeu",
-    "gui.stageHeader.captureBtn": "Capturer l'avatar du projet"
+    "gui.stageHeader.captureBtn": "Capturer l'avatar du projet",
+    "gui.sortMenu.highest": "Le plus haut",
+    "gui.sortMenu.lowest": "Le plus bas"
 }

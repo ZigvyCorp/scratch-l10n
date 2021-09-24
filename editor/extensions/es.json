@@ -224,6 +224,10 @@
     "p2p.message": "mensaje",
     "p2p.roomUsers": "usuarias del mundo",
     "p2p.teamUsers": "usuarias del equipo [TEAM]",
+    "p2p.teams1": "Rojo, Azul, Verde, Blanco, Negro, Amarillo, Púrpura, Cian",
+    "p2p.teams1Default": "Rojo",
+    "p2p.teams2": "Todo, Rojo, Azul, Verde, Blanco, Negro, Amarillo, Morado, cian",
+    "p2p.teams2Default": "Todo",
     "widget.categoryName": "Lápiz",
     "widget.addTextbox": "añadir cuadro de texto en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] línea [MULTIPLELINE] modo de desplazamiento [SCROLL] [MODE] llamado [NAME]",
     "widget.valueFromWidget": "valor del widget llamado [NAME]",
@@ -255,9 +259,12 @@
     "widget.menuItem.bold": "negrita",
     "widget.menuItem.show": "show",
     "widget.menuItem.hide": "esconder",
+    "widget.menuItem.varDefault": "Ninguna",
     "game.categoryName": "Juego",
     "game.recordPlayerScore": "puntuación récord del jugador [VALUE]",
     "game.showGameLeaderboard": "mostrar la clasificación del juego [SORT]",
     "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego",
-    "gui.stageHeader.captureBtn": "Capturar avatar del proyecto"
+    "gui.stageHeader.captureBtn": "Capturar avatar del proyecto",
+    "gui.sortMenu.highest": "Más alta",
+    "gui.sortMenu.lowest": "Más baja"
 }

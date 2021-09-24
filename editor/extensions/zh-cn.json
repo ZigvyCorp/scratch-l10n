@@ -224,6 +224,10 @@
     "p2p.message": "信息",
     "p2p.roomUsers": "信息",
     "p2p.teamUsers": "[TEAM] 团队的用户",
+    "p2p.teams1": "红, 蓝, 绿, 白, 黑, 黄, 紫, 青",
+    "p2p.teams1Default": "红",
+    "p2p.teams2": "全部, 红, 蓝, 绿, 白, 黑, 黄, 紫, 青",
+    "p2p.teams2Default": "全部",
     "widget.categoryName": "控件",
     "widget.addTextbox": "添加文本框 位置 X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 行数 [MULTIPLELINE] 滚动 [SCROLL] 模式 [MODE] 名为 [NAME]",
     "widget.valueFromWidget": "名为 [NAME] 的控件的读值",
@@ -256,8 +260,11 @@
     "widget.menuItem.show": "展示",
     "widget.menuItem.hide": "隐藏",
     "game.categoryName": "游戏",
+    "widget.menuItem.varDefault": "没有任何",
     "game.recordPlayerScore": "記錄玩家得分 [VALUE]",
     "game.showGameLeaderboard": "顯示遊戲排行榜 [SORT]",
     "game.hideGameLeaderboard": "隱藏遊戲排行榜",
-    "gui.stageHeader.captureBtn": "捕获项目头像"
+    "gui.stageHeader.captureBtn": "捕获项目头像",
+    "gui.sortMenu.highest": "最高",
+    "gui.sortMenu.lowest": "最低"
 }
