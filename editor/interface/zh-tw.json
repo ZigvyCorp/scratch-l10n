@@ -126,6 +126,7 @@
     "gui.menuBar.share": "分享",
     "gui.menuBar.publishButton": "發布",
     "gui.menuBar.sharedWithFriendButton": "僅与朋友分享",
+    "gui.menuBar.publishedWithFriendButton": "與朋友一起發布",
     "gui.blockSearch.placeholder": "搜索積木塊",
     "gui.blockSearchWorkspace.placeholder": "搜索工作區",
     "gui.stageHeader.stageSize3d": "切換到三維",

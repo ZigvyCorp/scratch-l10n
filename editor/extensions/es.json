@@ -266,5 +266,6 @@
     "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego",
     "gui.stageHeader.captureBtn": "Capturar avatar del proyecto",
     "gui.sortMenu.highest": "Más alta",
-    "gui.sortMenu.lowest": "Más baja"
+    "gui.sortMenu.lowest": "Más baja",
+    "gui.menuBar.publishedWithFriendButton": "Publicar con amiga"
 }
