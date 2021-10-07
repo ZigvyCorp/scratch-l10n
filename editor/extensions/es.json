@@ -267,5 +267,6 @@
     "gui.stageHeader.captureBtn": "Capturar avatar del proyecto",
     "gui.sortMenu.highest": "Más alta",
     "gui.sortMenu.lowest": "Más baja",
-    "gui.menuBar.publishedWithFriendButton": "Publicar con amiga"
+    "gui.menuBar.sharedWithFriendButton": "Compartir con amigos",
+    "gui.menuBar.publishedWithFriendButton": "Publicar para amigos"
 }
