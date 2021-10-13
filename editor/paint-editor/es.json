@@ -41,5 +41,8 @@
     "paint.roundedRectMode.roundedRect": "Rectángulo con bordes redoneados",
     "paint.selectMode.select": "Seleccionar",
     "paint.textMode.text": "Texto",
-    "paint.colorPicker.swap": "Invertir"
+    "paint.colorPicker.swap": "Invertir",
+    "paint.rectMode.triangle": "Triángulo",
+    "paint.rectMode.arrow": "Flecha",
+    "paint.rectMode.curve": "Curva"
 }
