@@ -19,6 +19,7 @@
     "paint.modeTools.eraserSize": "Tamaño de la goma",
     "paint.modeTools.copy": "Copiar",
     "paint.modeTools.paste": "Pegar",
+    "paint.modeTools.cut": "Corte",
     "paint.modeTools.delete": "Eliminar",
     "paint.modeTools.curved": "Curvado",
     "paint.modeTools.pointed": "Recto",

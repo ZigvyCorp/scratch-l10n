@@ -19,6 +19,7 @@
     "paint.modeTools.eraserSize": "Eraser size",
     "paint.modeTools.copy": "Copy",
     "paint.modeTools.paste": "Paste",
+    "paint.modeTools.cut": "Cut",
     "paint.modeTools.delete": "Delete",
     "paint.modeTools.curved": "Curved",
     "paint.modeTools.pointed": "Pointed",
