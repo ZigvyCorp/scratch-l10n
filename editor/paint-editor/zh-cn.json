@@ -19,6 +19,7 @@
     "paint.modeTools.eraserSize": "橡皮擦大小",
     "paint.modeTools.copy": "复制",
     "paint.modeTools.paste": "粘贴",
+    "paint.modeTools.cut": "切",
     "paint.modeTools.delete": "删除",
     "paint.modeTools.curved": "曲线",
     "paint.modeTools.pointed": "折线",
