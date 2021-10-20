@@ -516,5 +516,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
-    "gui.gui.defaultProjectTitle": "Projet Scratch"
+    "gui.gui.defaultProjectTitle": "Projet Scratch",
+    "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail"
 }
