@@ -517,5 +517,11 @@
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
     "gui.gui.defaultProjectTitle": "Proyecto de Scratch",
-    "gui.workspaceColorTooltip.title": "Cambiar el fondo del espacio de trabajo"
+    "gui.workspaceColorTooltip.title": "Cambiar el fondo del espacio de trabajo",
+    "gui.extension.p2p.name": "Nube",
+    "gui.extension.p2p.description": "Cree proyectos en línea multiusuario.",
+    "gui.extension.widget.name": "Widget",
+    "gui.extension.widget.description": "Cree aplicaciones útiles",
+    "gui.extension.game.name": "Juego",
+    "gui.extension.game.description": "Herramientas para crear juegos"
 }
