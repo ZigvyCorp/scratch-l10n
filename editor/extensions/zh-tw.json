@@ -469,9 +469,9 @@
     "forwardonly": "僅轉發",
     "speedup": "加速",
     "zspeed": "Z速度",
-    "screen": "Y+",
+    "screen": "屏幕",
     "target": "目標",
-    "anydirection": "Any Direction",
+    "anydirection": "任何方向",
     "leftrightonly": "僅左右",
     "speeddrop": "速度下降",
     "speedlimit": "速度極限",
@@ -481,6 +481,11 @@
     "jump": "跳",
     "fly": "飛",
     "drive": "駕駛",
+    "points": "點數",
+    "hi": "你好",
+    "addFpsCarCameraError": "抱歉，在添加 fps 車載攝像頭時，我找不到目標對象",
+    "addFpsCameraError": "抱歉，添加 fps 相機時，我找不到目標",
+    "updateFpsCamera": "抱歉，添加fps相機時，找不到目標",
     "d3_initscene": "將 3D 場景 [SCENETYPE] 初始化為隱藏 [HIDDEN]",
     "d3_configbrickworld": "配置磚塊世界平面大小 [SIZE] 高亮顏色 [COLOR]",
     "d3_getbrickworldstring": "顯示磚塊世界代碼",
@@ -515,5 +520,6 @@
     "d3_pickedzrot": "選取的對象 z rot",
     "d3_showaxis": "顯示 3D 軸 [SHOW] 長度 [LEN]",
     "solar system": "太陽系",
-    "empty": "空的"
+    "empty": "空的",
+    "d3_exportglb": "將對象 [NAME] 導出為 glb"
 }

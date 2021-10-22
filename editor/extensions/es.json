@@ -382,7 +382,7 @@
     "forwardonly": "Solo reenviar",
     "speedup": "Aceleración",
     "zspeed": "Velocidad Z",
-    "screen": "Y+",
+    "screen": "Pantalla",
     "target": "Objetivo",
     "anydirection": "Cualquier dirección",
     "leftrightonly": "Solo izquierda-derecha", 
@@ -396,7 +396,12 @@
     "drive": "Conducir", 
     "solar system": "Sistema solar",
     "empty": "Vacío",
-    "d3_initscene": "initialiser la scène 3D [SCENETYPE] comme masquée [HIDDEN]",
+    "points": "Puntos",
+    "hi": "Hola",
+    "addFpsCarCameraError": "Lo siento, al agregar la cámara del automóvil fps, no puedo encontrar el objeto de destino",
+    "addFpsCameraError": "Lo siento, al agregar la cámara fps, no encuentro el objetivo",
+    "updateFpsCamera": "Lo siento, al agregar la cámara fps, no encuentro el objetivo",
+    "d3_initscene": "inicializar la escena 3D [SCENETYPE] como oculta [HIDDEN]",
     "d3_configbrickworld": "configurer la taille du plan du monde des briques [SIZE] la couleur de surbrillance [COLOR]",
     "d3_getbrickworldstring": "afficher le code du monde des briques",
     "d3_loadbrickworldstring":   "construire un monde de briques à partir du code [CODE]",
@@ -517,5 +522,6 @@
     "d3_distanceright": "distance à l'obstacle à droite",
     "d3_extrude2": "extruder le costume [COSTUME] épaisseur [HEIGHT] côté couleur [COLOR] granularité [GRAN] type de capuchon [CAPTYPE] mise à l'échelle avant [TOPSCALE] arrière [BOTTOMSCALE] nommé [NAME]",
     "d3_addcommunityobject": "ajouter le modèle de communauté [OBJECTNAME] nommé [NAME]",
-    "d3_showinspector": "afficher l'inspecteur [SHOW]"
+    "d3_showinspector": "afficher l'inspecteur [SHOW]",
+    "d3_exportglb": "exportar objeto [NAME] como glb"
 }

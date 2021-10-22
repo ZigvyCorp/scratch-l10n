@@ -469,7 +469,7 @@
     "forwardonly":  "面向前方",
     "speedup":  "加速度",
     "zspeed":  "Z方向速度",
-    "screen": "Y轴+",
+    "screen": "屏幕",
     "target":  "目标",
     "anydirection":  "任意角度", 
     "leftrightonly":  "只能左转或右转",
@@ -481,6 +481,11 @@
     "jump": "跳跃",
     "fly": "飞翔",
     "drive":  "开车",
+    "points": "点数",
+    "hi": "你好",
+    "addFpsCarCameraError": "抱歉，在添加 fps 车载摄像头时，我找不到目标对象",
+    "addFpsCameraError": "抱歉，添加 fps 相机时，我找不到目标",
+    "updateFpsCamera": "抱歉，添加fps相机时，找不到目标",
     "d3_initscene":  "创建三维场景 [SCENETYPE] 并隐藏 [HIDDEN]",
     "d3_configbrickworld":  "设置砖块世界大小 [SIZE] 高亮颜色 [COLOR]",
     "d3_getbrickworldstring":  "显示砖块世界代码",
@@ -516,5 +521,6 @@
     "d3_showaxis":  "显示三维坐标系 [SHOW] 长度 [LEN]",
     "solar system":  "太阳系",
     "empty": "空无",
-    "Brick world code copied to clipboard": "砖块世界的代码已经复制到剪贴板里"
+    "Brick world code copied to clipboard": "砖块世界的代码已经复制到剪贴板里",
+    "d3_exportglb": "将对象 [NAME] 导出为 glb"
 }
