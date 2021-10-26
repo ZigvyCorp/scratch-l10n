@@ -517,5 +517,11 @@
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
     "gui.gui.defaultProjectTitle": "Projet Scratch",
-    "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail"
+    "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail",
+    "gui.extension.p2p.name": "Monde",
+    "gui.extension.p2p.description": "Créer des projets en ligne multi-utilisateurs.",
+    "gui.extension.widget.name": "Widget",
+    "gui.extension.widget.description": "Créer des applications utiles.",
+    "gui.extension.game.name": "Jeu",
+    "gui.extension.game.description": "Outils pour créer des jeux"
 }
