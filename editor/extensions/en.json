@@ -368,6 +368,7 @@
     "off": "off",
     "3D Scene": "3D Scene",
     "Blue Sky": "Blue Sky", 
+    "Earth Rising": "Earth Rising",
     "Starfield 1": "Starfield 1",
     "Starfield 2": "Starfield 2", 
     "Starfield 3": "Starfield 3",
@@ -406,7 +407,6 @@
     "d3_setscenecolor": "set scene background color [COLOR]",
     "d3_setskybox": "set sky [SKYTYPE]",
     "d3_showscene": "show 3D scene [SHOW]", 
-    "d3_adddronecamera": "add drone camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED] fixed z level [FIXEDZ]",
     "d3_addeditorcamera": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]", 
     "d3_addobservercamera": "add observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] speed [SPEED]", 
     "d3_addorbitcamera": "add orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning speed ratio [PANSPEEDRATIO]", 
@@ -468,7 +468,7 @@
     "d3_removeobject": "remove object named [NAME]",
     "d3_showbounds": "show bounding box [SHOW]",
     "d3_updatecolor": "update color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] remove texture [REMOVETEXTURE] area [COMPONENT]",
-    "d3_updatetexture": "update texture [TEXTURE] texture size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
+    "d3_updatetexture": "update texture [TEXTURE] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_updatecostumetexture": "update texture using costume [COSTUME] texture size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_updatefiletexture": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_materialsetting": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]", 
@@ -519,7 +519,7 @@
     "d3_distanceup": "distance to obstacle above", 
     "d3_distanceleft": "distance to obstacle to the left", 
     "d3_distanceright": "distance to obstacle to the right",
-    "d3_extrude2": "extrude costume [COSTUME] thickness [HEIGHT] side color [COLOR] granularity [GRAN] cap type [CAPTYPE] scaling front [TOPSCALE] back [BOTTOMSCALE] named [NAME]",
+    "d3_extrude2": "extrude costume [COSTUME] thickness [HEIGHT] side color [COLOR] granularity [GRAN] named [NAME]",
     "d3_addcommunityobject": "add community model [OBJECTNAME] named [NAME]",
     "d3_showinspector": "show inspector [SHOW]"
 }
