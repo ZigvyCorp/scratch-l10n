@@ -28,6 +28,7 @@
         "sync:help": "npm run push:help && npm run pull:help",
         "test": "npm run lint:js && npm run validate:editor && npm run validate:www && npm run build && npm run lint:json",
         "update": "scripts/update-translations.sh",
+        "prepublishOnly": "npm run build",
         "validate:blocks": "babel-node scripts/validate-translations ./editor/blocks/",
         "validate:extensions": "babel-node scripts/validate-translations ./editor/extensions/ && babel-node scripts/validate-extension-inputs",
         "validate:interface": "babel-node scripts/validate-translations ./editor/interface/",
