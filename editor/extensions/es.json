@@ -465,7 +465,7 @@
     "d3_addcylinder": "ajouter cylindre [COLOR] diamètre haut [DIAMETERTOP] bas [DIAMETERBOTTOM] hauteur [HEIGHT] arc [ARC] section fermée [CLOSED] capuchon type [CAPTYPE] côtés [SIDES] nommé [NAME]",
     "d3_addtransformnode": "ajouter un transformateur parent nommé [NAME]",
     "d3_setasparent": "définir l'objet [PARENTNAME] comme parent",
-    "d3_removeparent": "supprimer les transformations parent et [KEEPORNOT]",
+    "d3_removeparent": "quitar padre",
     "d3_selectobject": "sélectionner l'objet sprite par son nom [NAME]",
     "d3_removeobject": "supprimer l'objet nommé [NAME]",
     "d3_showbounds": "afficher le cadre de délimitation [SHOW]",
