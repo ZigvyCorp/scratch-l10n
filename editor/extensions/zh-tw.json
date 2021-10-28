@@ -340,7 +340,7 @@
     "d3_addbox": "以 x [SIZEX] y [SIZEY] z [SIZEZ] 邊緣半徑 [RADIUS] 命名的 [NAME] 添加框 [COLOR] 大小",
     "d3_addtext": "添加 3D 文本 [TEXT] 字體 [FONT] 顏色 [COLOR] 寬度 [WIDTH] 高度 [HEIGHT] 直徑 [CURVED] 相機面向 [FORWARD] 命名為 [NAME]",
     "d3_add6box": "添加 6 色框 [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] 尺寸 x [SIZEX] y [SIZEY] z [SIZEZ] 命名為 [NAME]",
-    "d3_addsphere": "在 x [SIZEX] y [SIZEY] z [SIZEZ] 弧 [ARC] 切片 [SLICE] 命名為 [NAME]' 中添加球體 [COLOR] 大小",
+    "d3_addsphere": "添加球體 [COLOR] 大小 x [SIZEX] y [SIZEY] z [SIZEZ] 弧 [ARC] 切片 [SLICE] 側面數 [SIDES] 命名為 [NAME]",
     "d3_add cylinder": "添加圓柱體 [COLOR] 直徑頂部 [DIAMETERTOP] 底部 [DIAMETERBOTTOM] 高度 [HEIGHT] 弧線 [ARC] 閉合截面 [CLOSED] 帽型 [CAPTYPE] 側邊 [SIDES] 命名為 [NAME]",
     "d3_addtransformnode": "添加名為 [NAME] 的轉換器父級",
     "d3_setasparent": "將對象 [PARENTNAME] 設置為父級",
