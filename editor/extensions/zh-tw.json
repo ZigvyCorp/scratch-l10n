@@ -521,5 +521,6 @@
     "d3_showaxis": "顯示 3D 軸 [SHOW] 長度 [LEN]",
     "solar system": "太陽系",
     "empty": "空的",
-    "d3_exportglb": "將對象 [NAME] 導出為 glb"
+    "d3_exportglb": "輸出物體 [NAME] 為GLB文件",
+    "d3_exportstl": "輸出物體 [NAME] 為STL文件"
 }

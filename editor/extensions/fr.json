@@ -524,5 +524,6 @@
     "d3_extrude2": "extruder costume [COSTUME] épaisseur [HEIGHT] côté couleur [COLOR] granularité [GRAN] nommé [NAME]",
     "d3_addcommunityobject": "ajouter le modèle de communauté [OBJECTNAME] nommé [NAME]",
     "d3_showinspector": "show inspector [SHOW]",
-    "d3_exportglb": "exporter l'objet [NAME] en tant que glb"
+    "d3_exportglb": "exporter l'objet [NAME] en tant que fichier GLB",
+    "d3_exportstl": "exporter l'objet [NAME] en tant que fichier STL"
 }

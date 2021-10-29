@@ -522,5 +522,6 @@
     "solar system":  "太阳系",
     "empty": "空无",
     "Brick world code copied to clipboard": "砖块世界的代码已经复制到剪贴板里",
-    "d3_exportglb": "将对象 [NAME] 导出为 glb"
+    "d3_exportglb": "输出物体 [NAME] 为GLB文件",
+    "d3_exportstl": "输出物体 [NAME] 为STL文件"
 }
