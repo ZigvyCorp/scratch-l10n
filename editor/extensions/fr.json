@@ -488,7 +488,7 @@
     "d3_setspeed": "régler la vitesse [SPEEDTYPE] sur [SPEED]", 
     "d3_carveobject": "sculpter [NAME1] avec [NAME2]",
     "d3_mergeobject": "fusionner [NAME2] dans [NAME1]", 
-    "d3_cloneobject": "copier l'objet et partager le matériel [SHARE] matériel en tant que [NAME]", 
+    "d3_cloneobject": "copier l'objet et partager le matériel [SHARE] nommé [NAME]", 
     "d3_rotationcopy": "copie vers la position tournée compte [COUNT] degré [STEP] autour de l'axe [AXIS]",
     "d3_mirrorcopy": "copier en position miroir [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "copie par matrice nombre en xyz [X2] [Y2] [Z2] espacement en xyz [SPACINGX] [SPACINGY] [SPACINGZ] rapport aléatoire en espacement [SPACINGRANDOM] échelle [SCALERANDOM] z-rotation [ROTRANDOM]", 
