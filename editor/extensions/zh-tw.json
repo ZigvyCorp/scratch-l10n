@@ -522,5 +522,6 @@
     "solar system": "太陽系",
     "empty": "空的",
     "d3_exportglb": "輸出物體 [NAME] 為GLB文件",
-    "d3_exportstl": "輸出物體 [NAME] 為STL文件"
+    "d3_exportstl": "輸出物體 [NAME] 為STL文件",
+    "d3_exportobj": "输出物體 [NAME] 為 OBJ 和 MTL 文件"
 }
