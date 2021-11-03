@@ -198,6 +198,7 @@
     "gui.soundEditor.mute": "Muet",
     "gui.SpriteInfo.spritePlaceholder": "Nom",
     "gui.SpriteInfo.sprite": "Sprite",
+    "gui.SpriteInfo.model": "Modèle",
     "gui.SpriteInfo.show": "Afficher",
     "gui.SpriteInfo.size": "Taille",
     "gui.spriteSelectorItem.contextMenuDuplicate": "dupliquer",

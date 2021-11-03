@@ -200,6 +200,7 @@
     "gui.soundEditor.mute": "静音",
     "gui.SpriteInfo.spritePlaceholder": "名字",
     "gui.SpriteInfo.sprite": "角色",
+    "gui.SpriteInfo.model": "模型",
     "gui.SpriteInfo.show": "显示",
     "gui.SpriteInfo.size": "大小",
     "gui.spriteSelectorItem.contextMenuDuplicate": "复制",
