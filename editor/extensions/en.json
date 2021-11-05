@@ -525,5 +525,6 @@
     "d3_distanceright": "distance to obstacle to the right",
     "d3_extrude2": "extrude costume [COSTUME] thickness [HEIGHT] side color [COLOR] granularity [GRAN] named [NAME]",
     "d3_addcommunityobject": "add community model [OBJECTNAME] named [NAME]",
-    "d3_showinspector": "show inspector [SHOW]"
+    "d3_showinspector": "show inspector [SHOW]",
+    "communityObjectNotFound": "Model {modelName} is currently private or not existed"
 }
