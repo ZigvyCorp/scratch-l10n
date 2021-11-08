@@ -464,7 +464,7 @@
     "d3_addsphere": "ajouter la taille de la sphère [COLOR] en x [SIZEX] y [SIZEY] z [SIZEZ] arc [ARC] tranche [SLICE] côtés [SIDES] nommé [NAME]",
     "d3_addcylinder": "ajouter cylindre [COLOR] diamètre haut [DIAMETERTOP] bas [DIAMETERBOTTOM] hauteur [HEIGHT] arc [ARC] section fermée [CLOSED] capuchon type [CAPTYPE] côtés [SIDES] nommé [NAME]", 
     "d3_addtransformnode": "ajouter un transformateur parent nommé [NAME]",
-    "d3_setasparent": "définir l'objet [PARENTNAME] comme parent",
+    "d3_setasparent": "définir l'objet [PARENTNAME] du sprite [SPRITE] comme parent",
     "d3_removeparent": "supprimer le parent", 
     "d3_selectobject": "sélectionner l'objet sprite par nom [NAME]", 
     "d3_removeobject": "supprimer l'objet nommé [NAME]",

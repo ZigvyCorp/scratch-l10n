@@ -466,7 +466,7 @@
     "d3_addsphere": "add sphere [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] arc [ARC] slice [SLICE] sides [SIDES] named [NAME]",
     "d3_addcylinder": "add cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] named [NAME]", 
     "d3_addtransformnode": "add transformer parent named [NAME]",
-    "d3_setasparent": "set object [PARENTNAME] as parent",
+    "d3_setasparent": "set object [PARENTNAME] from sprite [SPRITE] as parent",
     "d3_removeparent": "remove parent", 
     "d3_removeobject": "remove object named [NAME]",
     "d3_showbounds": "show bounding box [SHOW]",
