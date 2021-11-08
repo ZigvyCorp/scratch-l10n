@@ -45,5 +45,9 @@
     "paint.colorPicker.swap": "交換",
     "paint.rectMode.triangle": "三角形",
     "paint.rectMode.arrow": "箭頭",
-    "paint.rectMode.curve": "曲線"
+    "paint.rectMode.curve": "曲線",
+    "paint.rectMode.roundedTriangle": "圓角三角形",
+    "paint.rectMode.roundedPentagon": "圓形五邊形",
+    "paint.rectMode.roundedHexagon": "圓形六邊形",
+    "paint.rectMode.roundedOctagon": "圓角八邊形"
 }

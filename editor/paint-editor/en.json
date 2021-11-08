@@ -45,5 +45,9 @@
     "paint.colorPicker.swap": "Swap",
     "paint.rectMode.triangle": "Triangle",
     "paint.rectMode.arrow": "Arrow",
-    "paint.rectMode.curve": "Curve"
+    "paint.rectMode.curve": "Curve",
+    "paint.rectMode.roundedTriangle": "Rounded Triangle",
+    "paint.rectMode.roundedPentagon": "Rounded Pentagon",
+    "paint.rectMode.roundedHexagon": "Rounded Hexagon",
+    "paint.rectMode.roundedOctagon": "Rounded Octagon"
 }
