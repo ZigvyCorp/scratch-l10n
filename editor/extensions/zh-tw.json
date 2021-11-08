@@ -402,6 +402,8 @@
     "d3_distanceleft": "到左側障礙物的距離",
     "d3_distanceright": "到右側障礙物的距離",
     "d3_extrude2": "擠出服裝 [COSTUME] 厚度 [HEIGHT] 側面顏色 [COLOR] 粒度 [GRAN] 名為 [NAME]",
+    "d3_set_property": "將 [OBJECT_NAME] 的屬性 [PROPERTY_NAME] 設置為 [PROPERTY_VALUE]",
+    "d3_property": "[OBJECT_NAME] 的財產 [PROPERTY_NAME]",
     "d3_addcommunityobject": "添加名為 [NAME] 的社區模型 [OBJECTNAME]",
     "d3_showinspector": "顯示檢查員 [SHOW]",
     "castle": "城堡",

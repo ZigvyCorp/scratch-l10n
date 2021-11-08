@@ -529,5 +529,7 @@
     "d3_exportglb": "exportar objeto [NAME] como un archivo GLB",
     "d3_exportstl": "exportar objeto [NAME] como un archivo STL",
     "communityObjectNotFound": "El modelo {modelName} es actualmente privado o no existe",
-    "d3_switchFullScreen": "cambiar a pantalla completa"
+    "d3_switchFullScreen": "cambiar a pantalla completa",
+    "d3_set_property": "establecer la propiedad [PROPERTY_NAME] en [PROPERTY_VALUE] para [OBJECT_NAME]",
+    "d3_property": "propiedad [PROPERTY_NAME] de [OBJECT_NAME]"
 }
