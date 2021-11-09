@@ -527,5 +527,6 @@
     "d3_showinspector": "show inspector [SHOW]",
     "d3_exportglb": "exporter l'objet [NAME] en tant que fichier GLB",
     "d3_exportstl": "exporter l'objet [NAME] en tant que fichier STL",
-    "communityObjectNotFound": "Le modèle {modelName} est actuellement privé ou n'existe pas"
+    "communityObjectNotFound": "Le modèle {modelName} est actuellement privé ou n'existe pas",
+    "d3_switchFullScreen": "passer en plein écran"
 }
