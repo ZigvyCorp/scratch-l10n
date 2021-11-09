@@ -527,6 +527,7 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
+    "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
     "gui.workspaceColorTooltip.title": "更改工作區背景"
 }

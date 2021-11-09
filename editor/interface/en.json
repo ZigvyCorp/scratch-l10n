@@ -532,6 +532,7 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
+    "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.workspaceColorTooltip.title": "Change workspace background"
 }
