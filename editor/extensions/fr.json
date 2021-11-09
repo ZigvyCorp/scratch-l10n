@@ -260,6 +260,7 @@
     "widget.menuItem.show": "spectacle",
     "widget.menuItem.hide": "cacher",
     "widget.menuItem.varDefault": "Rien",
+    "widget.menuItem.pleaseSelect": "Veuillez sélectionner",
     "game.categoryName": "Jeu",
     "game.recordPlayerScore": "record joueur score [VALUE]",
     "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
