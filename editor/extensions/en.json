@@ -260,6 +260,7 @@
     "widget.menuItem.show": "show",
     "widget.menuItem.hide": "hide",
     "widget.menuItem.varDefault": "None",
+    "widget.menuItem.pleaseSelect": "Please select",
     "game.categoryName": "Game",
     "game.recordPlayerScore": "record player score [VALUE]",
     "game.showGameLeaderboard": "show game leaderboard [SORT]",

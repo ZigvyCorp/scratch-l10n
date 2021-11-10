@@ -260,6 +260,7 @@
     "widget.menuItem.show": "展示",
     "widget.menuItem.hide": "隐藏",
     "widget.menuItem.varDefault": "没有任何",
+    "widget.menuItem.pleaseSelect": "請選擇",
     "game.categoryName": "遊戲",
     "game.recordPlayerScore": "记录玩家得分 [VALUE]",
     "game.showGameLeaderboard": "显示游戏排行榜 [SORT]",
