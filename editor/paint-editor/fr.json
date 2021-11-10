@@ -45,5 +45,9 @@
     "paint.colorPicker.swap": "Inverser",
     "paint.rectMode.triangle": "Triangle",
     "paint.rectMode.arrow": "Flèche",
-    "paint.rectMode.curve": "Courbe"
+    "paint.rectMode.curve": "Courbe",
+    "paint.rectMode.roundedTriangle": "Triangle arrondi",
+    "paint.rectMode.roundedPentagon": "Pentagone arrondi",
+    "paint.rectMode.roundedHexagon": "Hexagone arrondi",
+    "paint.rectMode.roundedOctagon": "Octogone arrondi"
 }

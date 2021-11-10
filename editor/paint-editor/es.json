@@ -45,5 +45,9 @@
     "paint.colorPicker.swap": "Invertir",
     "paint.rectMode.triangle": "Triángulo",
     "paint.rectMode.arrow": "Flecha",
-    "paint.rectMode.curve": "Curva"
+    "paint.rectMode.curve": "Curva",
+    "paint.rectMode.roundedTriangle": "Triángulo redondeado",
+    "paint.rectMode.roundedPentagon": "Pentágono redondeado",
+    "paint.rectMode.roundedHexagon": "Hexágono redondeado",
+    "paint.rectMode.roundedOctagon": "Octágono redondeado"
 }
