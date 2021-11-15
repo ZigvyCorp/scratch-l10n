@@ -115,6 +115,7 @@
     "gui.menuBar.restore": "Restore",
     "gui.menuBar.saveNow": "Save now",
     "gui.menuBar.saveAsCopy": "Save as a copy",
+    "gui.menuBar.getQuickID": "Get quick ID",
     "gui.menuBar.remix": "Remix",
     "gui.menuBar.new": "New",
     "gui.menuBar.file": "File",
@@ -533,6 +534,8 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
+    "gui.sharedMessages.quickIdTitle": "This project's quick ID is set to {quickID} for {seconds} seconds",
+    "gui.sharedMessages.quickIdMessage": "This modal will be destroyed after {seconds} second.",
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.workspaceColorTooltip.title": "Change workspace background"
 }
