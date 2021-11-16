@@ -526,8 +526,6 @@
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
     "gui.sharedMessages.collapseAllStacks": "Contraer todas las pilas",
-    "gui.sharedMessages.quickIdTitle": "El ID rápido de este proyecto está configurado en {quickID} durante {seconds} segundos",
-    "gui.sharedMessages.quickIdMessage": "Este modal se destruirá después de {seconds} segundo.",
     "gui.gui.defaultProjectTitle": "Proyecto de Scratch",
     "gui.workspaceColorTooltip.title": "Cambiar el fondo del espacio de trabajo",
     "gui.extension.p2p.name": "Nube",

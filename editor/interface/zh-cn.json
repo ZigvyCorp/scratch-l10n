@@ -534,8 +534,6 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.sharedMessages.collapseAllStacks": "折叠所有堆栈",
-    "gui.sharedMessages.quickIdTitle": "这个项目的快捷编号在下面{seconds}分钟内是{quickID}",
-    "gui.sharedMessages.quickIdMessage": "此模式将在{seconds}秒后销毁",
     "gui.gui.defaultProjectTitle": "Scratch作品",
     "gui.workspaceColorTooltip.title": "更改工作区背景"
 }

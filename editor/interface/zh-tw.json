@@ -529,8 +529,6 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
-    "gui.sharedMessages.quickIdTitle": "这个项目的快捷编号在下面{seconds}分钟内是{quickID}",
-    "gui.sharedMessages.quickIdMessage": "此模式將在{seconds}秒後銷毀。",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
     "gui.workspaceColorTooltip.title": "更改工作區背景"
 }

@@ -526,8 +526,6 @@
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
     "gui.sharedMessages.collapseAllStacks": "Réduire toutes les piles",
-    "gui.sharedMessages.quickIdTitle": "L'ID rapide de ce projet est défini sur {quickID} pendant {seconds} secondes",
-    "gui.sharedMessages.quickIdMessage": "Ce modal sera détruit après {seconds} seconde.",
     "gui.gui.defaultProjectTitle": "Projet Scratch",
     "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail",
     "gui.extension.p2p.name": "Monde",
