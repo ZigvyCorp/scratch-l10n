@@ -115,6 +115,7 @@
     "gui.menuBar.restore": "Restaurar",
     "gui.menuBar.saveNow": "Guardar ahora",
     "gui.menuBar.saveAsCopy": "Guardar una copia",
+    "gui.menuBar.getQuickID": "Obtenga una identificación rápida",
     "gui.menuBar.remix": "Reinventar",
     "gui.menuBar.new": "Nuevo",
     "gui.menuBar.file": "Archivo",
