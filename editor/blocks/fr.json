@@ -163,6 +163,7 @@
     "LOOKS_EFFECTGRADUALLY_REVEAL": "révéler",
     "LOOKS_CLEARGRAPHICEFFECTS": "annuler les effets graphiques",
     "LOOKS_CHANGESIZEBY": "ajouter %1 à la taille",
+    "LOOKS_REDUCESIZEBY": "réduire la taille de %1",
     "LOOKS_SETSIZETO": "mettre la taille à %1 % de la taille initiale",
     "LOOKS_SIZE": "taille",
     "LOOKS_CHANGESTRETCHBY": "ajouter %1 à l'étirement",
