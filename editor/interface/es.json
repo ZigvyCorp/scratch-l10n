@@ -69,6 +69,8 @@
     "gui.customProcedures.runWithoutScreenRefresh": "Ejecutar al instante",
     "gui.customProcedures.cancel": "Cancelar",
     "gui.customProcedures.ok": "Aceptar",
+    "gui.customProcedures.statementShape": "Forma de declaración",
+    "gui.customProcedures.roundShape": "Forma redonda",
     "gui.SpriteInfo.direction": "Dirección",
     "gui.directionPicker.rotationStyles.allAround": "En todas direcciones",
     "gui.directionPicker.rotationStyles.leftRight": "Izquierda/Derecha",

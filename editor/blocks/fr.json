@@ -98,6 +98,7 @@
     "LOOKS_NEXTBACKDROP": "arrière-plan suivant",
     "LOOKS_PREVIOUSBACKDROP": "arrière-plan précédent",
     "LOOKS_RANDOMBACKDROP": "arrière-plan aléatoire",
+    "LOOKS_CLEARALLMYPRINTS": "effacer toutes mes empreintes",
     "MOTION_MOVESTEPS": "avancer de %1 pas",
     "MOTION_TURNLEFT": "tourner %1 de %2 degrés",
     "MOTION_TURNRIGHT": "tourner %1 de %2 degrés",
