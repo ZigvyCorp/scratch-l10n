@@ -72,6 +72,15 @@ let blockData =
 
 fs.writeFileSync(MSGS_DIR + 'blocks-msgs.js', blockData);
 
+// generate the blocks messages: files are plain key-value JSON
+let blockData2 =
+    '// GENERATED FILE:\n' +
+    'module.exports = ' +
+    JSON.stringify(blocksMessages, null, 2) +
+    ';\n';
+
+fs.writeFileSync(MSGS_DIR + 'blocks-msgs-2.js', blockData2);
+
 // generate messages for gui components - all files are plain key-value JSON
 let components = ['interface', 'extensions', 'paint-editor'];
 let editorMsgs = {};
