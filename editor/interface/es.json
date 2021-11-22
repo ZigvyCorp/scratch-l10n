@@ -88,6 +88,8 @@
     "gui.extensionLibrary.collaboration": "En colaboración con",
     "gui.library.filterPlaceholder": "Busca",
     "gui.library.allTag": "Todos",
+    "gui.library.rigged": "Equipado",
+    "gui.library.notRigged": "No amañado",
     "gui.loader.message1": "Creando bloques ...",
     "gui.loader.message2": "Cargando objetos...",
     "gui.loader.message3": "Cargando sonidos...",
