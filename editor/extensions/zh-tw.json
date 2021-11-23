@@ -215,6 +215,7 @@
     "p2p.categoryName": "云",
     "p2p.createRoom": "使用密码 [PASSWORD] 创建世界 [ROOMID] 最多 [SIZE] 个用户并加入团队 [TEAM]",
     "p2p.joinroom": "使用密码 [PASSWORD] 作为团队 [TEAM] 进入世界 [ROOMID]",
+    "p2p.deleteroom": "刪除世界 [ROOMID]",
     "p2p.leaveroom": "离开世界",
     "p2p.broadcast": "向 [TEAM] 团队广播消息 [MESSAGE]",
     "p2p.receivemessage": "当我收到世界的消息时",

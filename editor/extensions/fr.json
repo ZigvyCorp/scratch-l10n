@@ -215,6 +215,7 @@
     "p2p.categoryName": "Monde",
     "p2p.createRoom": "créer le monde [ROOMID] avec le mot de passe [PASSWORD] jusqu'à [SIZE] utilisateurs et rejoindre l'équipe [TEAM]",
     "p2p.joinroom": "rejoignez le monde [ROOMID] avec le mot de passe [PASSWORD] en équipe [TEAM]",
+    "p2p.deleteroom": "supprimer le monde [ROOMID]",
     "p2p.leaveroom": "quitter le monde",
     "p2p.broadcast": "diffuser un message [MESSAGE] à l'équipe [TEAM]",
     "p2p.receivemessage": "Quand je reçois un message du monde",
