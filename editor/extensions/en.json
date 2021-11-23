@@ -265,7 +265,7 @@
     "game.recordPlayerScore": "record player score [VALUE]",
     "game.showGameLeaderboard": "show game leaderboard [SORT]",
     "game.hideGameLeaderboard": "hide game leaderboard",
-    "gui.stageHeader.captureBtn": "Capture project avatar",
+    "gui.stageHeader.captureBtn": "Update project preview",
     "gui.sortMenu.highest": "Highest",
     "gui.sortMenu.lowest": "Lowest",  
     "fourdirection": "Four Directions", 

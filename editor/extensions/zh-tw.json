@@ -265,7 +265,7 @@
     "game.recordPlayerScore": "记录玩家得分 [VALUE]",
     "game.showGameLeaderboard": "显示游戏排行榜 [SORT]",
     "game.hideGameLeaderboard": "隐藏游戏排行榜",
-    "gui.stageHeader.captureBtn": "捕獲項目頭像",
+    "gui.stageHeader.captureBtn": "更新項目預覽圖",
     "gui.sortMenu.highest": "最高",
     "gui.sortMenu.lowest": "最低",
     "fourdirection": "四個方向",

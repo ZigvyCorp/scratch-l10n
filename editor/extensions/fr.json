@@ -265,7 +265,7 @@
     "game.recordPlayerScore": "record joueur score [VALUE]",
     "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
     "game.hideGameLeaderboard": "masquer le classement du jeu",
-    "gui.stageHeader.captureBtn": "Capturer l'avatar du projet",
+    "gui.stageHeader.captureBtn": "Mettre à jour l'aperçu du projet",
     "gui.sortMenu.highest": "Le plus haut",
     "gui.sortMenu.lowest": "Le plus bas",
     "gui.menuBar.sharedWithFriendButton": "Partager avec des amis",
