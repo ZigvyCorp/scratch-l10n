@@ -215,6 +215,7 @@
     "p2p.categoryName": "Cloud",
     "p2p.createRoom": "create world [ROOMID] with password [PASSWORD] up to [SIZE] users and join as team [TEAM]",
     "p2p.joinroom": "join world [ROOMID] with password [PASSWORD] as team [TEAM]",
+    "p2p.deleteroom": "delete world [ROOMID]",
     "p2p.leaveroom": "leave world",
     "p2p.broadcast": "broadcast a message [MESSAGE] to [TEAM] team",
     "p2p.receivemessage": "When I receive message from world",
