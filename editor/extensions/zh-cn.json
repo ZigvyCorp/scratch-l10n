@@ -539,7 +539,7 @@
     "d3_pickedyrot":  "选中物体y转角",
     "d3_pickedzrot":  "选中物体z转角",
     "d3_showaxis":  "显示三维坐标系 [SHOW] 长度 [LEN]",
-    "d3_webcambackground": "开启 [ONOFF] 网络摄像头背景 [CAMERA] 摄像头",
+    "d3_webcambackground": "在 [CAMERA_MODE] 模式下打开 [ONOFF] 网络摄像头背景 [CAMERA] 摄像头",
     "solar system":  "太阳系",
     "empty": "空无",
     "Brick world code copied to clipboard": "砖块世界的代码已经复制到剪贴板里",

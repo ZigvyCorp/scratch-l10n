@@ -539,7 +539,7 @@
     "d3_pickedyrot": "選擇的對象 y 腐爛",
     "d3_pickedzrot": "選取的對象 z rot",
     "d3_showaxis": "顯示 3D 軸 [SHOW] 長度 [LEN]",
-    "d3_webcambackground": "開啟 [ONOFF] 網絡攝像頭背景 [CAMERA] 攝像頭",
+    "d3_webcambackground": "在 [CAMERA_MODE] 模式下打開 [ONOFF] 網絡攝像頭背景 [CAMERA] 攝像頭",
     "solar system": "太陽系",
     "empty": "空的",
     "d3_exportglb": "輸出物體 [NAME] 為GLB文件",
