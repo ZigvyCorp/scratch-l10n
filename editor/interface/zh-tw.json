@@ -112,6 +112,7 @@
     "gui.menuBar.restoreSprite": "復原角色",
     "gui.menuBar.restoreSound": "復原音效",
     "gui.menuBar.restoreCostume": "復原造型",
+    "gui.menuBar.restoreBlock": "恢復塊",
     "gui.menuBar.restore": "復原",
     "gui.menuBar.saveNow": "儲存",
     "gui.menuBar.saveAsCopy": "另存成複本",
