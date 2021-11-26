@@ -116,6 +116,7 @@
     "gui.menuBar.restoreSprite": "Restaurar objeto",
     "gui.menuBar.restoreSound": "Restaurar sonido",
     "gui.menuBar.restoreCostume": "Restaurar disfraz",
+    "gui.menuBar.restoreBlock": "Restaurar bloque",
     "gui.menuBar.restore": "Restaurar",
     "gui.menuBar.saveNow": "Guardar ahora",
     "gui.menuBar.saveAsCopy": "Guardar una copia",

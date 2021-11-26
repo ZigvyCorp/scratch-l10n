@@ -116,6 +116,7 @@
     "gui.menuBar.restoreSprite": "复原删除的角色",
     "gui.menuBar.restoreSound": "复原删除的声音",
     "gui.menuBar.restoreCostume": "复原删除的造型",
+    "gui.menuBar.restoreBlock": "恢复块",
     "gui.menuBar.restore": "恢复",
     "gui.menuBar.saveNow": "立即保存",
     "gui.menuBar.saveAsCopy": "保存副本",
