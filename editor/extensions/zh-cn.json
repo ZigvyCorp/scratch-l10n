@@ -519,7 +519,7 @@
     "d3_addorbitcamera":"添加轨道摄像头 距离 [DISTANCE] 垂直角度 [VANGLE] 左右角度 [HANGLE] 平移速度比例 [PANSPEEDRATIO]",
     "d3_setcameratarget": "设置摄像头目标位置 xyz [X] [Y] [Z]",
     "d3_configureorbitcamera": "设置轨道摄像头 半径 最小 [MINDIST] 最大 [MAXDIST] 可见距离 最小 [MINRANGE] 最大 [MAXRANGE]  上下角度 最小 [MINVANGLE] 最大 [MAXVANGLE] 速度比例 平移 [PANSPEEDRATIO] 转动 [ANGULARSPEEDRATIO]",
-    "d3_carfollowcamera":  "添加追踪摄像头 距离 [DISTANCE] 垂直间距 [ZOFFSET] 俯视角度 [VANGLE] 方向锁定 [DIRECTIONTYPE]",
+    "d3_carfollowcamera":  "添加追踪摄像头 距离 [DISTANCE] 垂直间距 [ZOFFSET] 俯视角度 [VANGLE] 侧视角度 [HANGLE] 主方向 [DIRECTIONTYPE]",
     "d3_addhatcamera":  "添加帽子摄像头 相对位置 xyz [X] [Y] [Z]",
     "d3_addpointlight":  "添加单点光源 [COLOR] 位置 xyz [X] [Y] [Z] 亮度 [INTENSITY] 显示位置 [SHOW] 名为 [NAME]",
     "d3_adddirectionallight": "添加阳光 [COLOR] 方向 xyz [X] [Y] [Z] 亮度 [INTENSITY] 名为 [NAME]",

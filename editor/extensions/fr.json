@@ -432,7 +432,7 @@
     "d3_addorbitcamera": "ajouter la distance de la caméra en orbite [DISTANCE] angle v [VANGLE] angle h [HANGLE] rapport de vitesse de panoramique [PANSPEEDRATIO]", 
     "d3_setcameratarget": "définir la cible de la caméra xyz [X] [Y] [Z]",
     "d3_configureorbitcamera": "configurer l'orbite rayon de la caméra min [MINDIST] max [MAXDIST] portée visible min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] rapport de vitesse panoramique [PANSPEEDRATIO] angulaire [ANGULARSPEEDRATIO]",
-    "d3_carfollowcamera": "ajouter la distance de suivi de la caméra [DISTANCE] décalage z [ZOFFSET] angle v [VANGLE] verrouillage de direction [DIRECTIONTYPE]",
+    "d3_carfollowcamera": "ajouter la distance de suivi de la caméra [DISTANCE] décalage z [ZOFFSET] angle v [VANGLE] h [HANGLE] verrouillage de direction [DIRECTIONTYPE]",
     "d3_addhatcamera": "ajouter une caméra chapeau avec décalage xyz [X] [Y] [Z]", 
     "d3_addpointlight": "ajouter un point lumineux [COLOR] à xyz [X] [Y] [Z] intensité [INTENSITY] afficher la position [SHOW] nommé [NAME]",
     "d3_adddirectionallight": "ajouter la lumière du soleil [COLOR] dans la direction xyz [X] [Y] [Z] intensité [INTENSITY] nommé [NAME]", 
