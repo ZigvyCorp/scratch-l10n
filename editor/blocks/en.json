@@ -198,6 +198,7 @@
     "LOOKS_STAGE_WIDTH": "stage width",
     "LOOKS_STAGE_HEIGHT": "stage height",
     "LOOKS_COLOUR": "color %1 saturation %2 brightness %3 transparency %4",
+    "LOOKS_ANIMATEINSECONDFRAME": "animate to %1 in %2 %3",
     "MOTION_MOVESTEPS": "move %1 steps",
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
