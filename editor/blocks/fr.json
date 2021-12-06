@@ -198,6 +198,8 @@
     "LOOKS_PREVIOUSBACKDROP": "arrière-plan précédent",
     "LOOKS_RANDOMBACKDROP": "arrière-plan aléatoire",
     "LOOKS_COLOUR": "couleur %1 saturation %2 luminosité %3 transparence %4",
+    "LOOKS_SECONDS": "secondes",
+    "LOOKS_FRAMES": "cadres",
     "LOOKS_ANIMATEINSECONDFRAME": "animer pour %1 en %2 %3",
     "MOTION_MOVESTEPS": "avancer de %1 pas",
     "MOTION_TURNLEFT": "tourner %1 de %2 degrés",

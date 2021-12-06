@@ -171,6 +171,8 @@
     "LOOKS_STAGE_WIDTH": "舞台寬度",
     "LOOKS_STAGE_HEIGHT": "舞台高度",
     "LOOKS_COLOUR": "顏色 %1 飽和度 %2 亮度 %3 透明度 %4",
+    "LOOKS_SECONDS": "秒",
+    "LOOKS_FRAMES": "框架",
     "LOOKS_ANIMATEINSECONDFRAME": "動畫到 %1 在 %2 %3",
     "MOTION_MOVESTEPS": "移動 %1 點",
     "MOTION_TURNLEFT": "左轉 %1 %2 度",

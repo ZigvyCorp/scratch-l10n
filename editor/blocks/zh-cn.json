@@ -198,6 +198,8 @@
     "LOOKS_STAGE_WIDTH": "舞台宽度",
     "LOOKS_STAGE_HEIGHT": "舞台高度",
     "LOOKS_COLOUR": "颜色 %1 饱和度 %2 亮度 %3 透明度 %4",
+    "LOOKS_SECONDS": "秒",
+    "LOOKS_FRAMES": "框架",
     "LOOKS_ANIMATEINSECONDFRAME": "动画到 %1 在 %2 %3",
     "MOTION_MOVESTEPS": "移动 %1 步",
     "MOTION_TURNLEFT": "左转 %1 %2 度",
