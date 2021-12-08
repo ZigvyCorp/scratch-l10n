@@ -331,6 +331,7 @@
     "CATEGORY_OPERATORS": "運算",
     "CATEGORY_VARIABLES": "變數",
     "CATEGORY_MYBLOCKS": "函式積木",
+    "CATEGORY_AIBLOCKS": "AI",
     "DUPLICATE": "複製",
     "COPY_ALL": "粘貼",
     "COPY_BLOCK": "複製塊",
@@ -402,5 +403,8 @@
     "MOTION_JRGOTOCOLUMN": "前往列 %1 %2",
     "MOTION_JRFORWARD": "前進 %1",
     "MOTION_JRTURNLEFT": "左拐 %1",
-    "MOTION_JRTURNRIGHT": "右拐 %1"
+    "MOTION_JRTURNRIGHT": "右拐 %1",
+    "START_SPEECH": "以 %1 作为 %2 开始演讲",
+    "END_SPEECH": "结束演讲",
+    "TEXT_FROM_SPEECH": "来自语音的文本"
 }

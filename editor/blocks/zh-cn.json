@@ -358,6 +358,7 @@
     "CATEGORY_OPERATORS": "运算",
     "CATEGORY_VARIABLES": "变量",
     "CATEGORY_MYBLOCKS": "自制积木",
+    "CATEGORY_AIBLOCKS": "AI",
     "DUPLICATE": "复制",
     "COPY_ALL": "全部复制",
     "COPY_BLOCK": "复制块",
@@ -439,5 +440,8 @@
     "MOTION_JRFORWARD": "前进 %1",
     "MOTION_JRTURNLEFT": "左拐 %1",
     "MOTION_JRTURNRIGHT": "右拐 %1",
-    "CONTROL_BREAKPOINTJR": "断点"
+    "CONTROL_BREAKPOINTJR": "断点",
+    "START_SPEECH": "以 %1 作為 %2 開始演講",
+    "END_SPEECH": "結束演講",
+    "TEXT_FROM_SPEECH": "來自語音的文本"
 }

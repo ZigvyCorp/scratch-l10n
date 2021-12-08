@@ -357,6 +357,7 @@
     "CATEGORY_OPERATORS": "Opérateurs",
     "CATEGORY_VARIABLES": "Variables",
     "CATEGORY_MYBLOCKS": "Mes Blocs",
+    "CATEGORY_AIBLOCKS": "AI",
     "DUPLICATE": "Dupliquer",
     "COPY_ALL": "Tout copier",
     "COPY_BLOCK": "Copier le bloc",
@@ -438,5 +439,8 @@
     "MOTION_JRREDUCECOLUMNBY": "réduire la colonne de %1 %2",
     "MOTION_JRFORWARD": "vers l'avant %1",
     "MOTION_JRTURNLEFT": "tourner à gauche %1",
-    "MOTION_JRTURNRIGHT": "tourner à droite %1"
+    "MOTION_JRTURNRIGHT": "tourner à droite %1",
+    "START_SPEECH": "commencer le discours en %1 en %2",
+    "END_SPEECH": "fin du discours",
+    "TEXT_FROM_SPEECH": "texte de la parole"
 }

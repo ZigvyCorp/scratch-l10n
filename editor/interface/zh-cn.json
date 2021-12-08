@@ -468,6 +468,7 @@
     "gui.extension.videosensing.name": "视频侦测",
     "gui.extension.videosensing.description": "使用摄像头侦测运动。",
     "gui.extension.text2speech.name": "文字朗读",
+    "gui.extension.ai.name": "AI",
     "gui.extension.text2speech.description": "让你的作品开口说话",
     "gui.extension.translate.name": "翻译",
     "gui.extension.translate.description": "把文字翻译成多种语言。",
