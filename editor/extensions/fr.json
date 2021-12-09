@@ -466,6 +466,7 @@
     "d3_addobject": "ajouter le modèle [OBJECTNAME] nommé [NAME]",
     "d3_addlinkobject": "ajouter un objet public par URL [OBJECTNAME] nommé [NAME]", 
     "d3_addcharacter": "ajouter le caractère [CHARACTERNAME] nommé [NAME]",
+    "d3_addavatar": "ajouter un avatar [AVATARNAME] nommé [NAME]",
     "d3_addanimation": "ajouter des animations [ANIMATIONS]",
     "d3_startanimation": "démarrer l'animation [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO]", 
     "d3_stopanimation": "arrêter l'animation",
