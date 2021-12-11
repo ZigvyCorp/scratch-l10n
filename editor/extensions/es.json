@@ -496,7 +496,7 @@
     "d3_add6box": "agregar cuadro de 6 colores [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] tamaño en x [SIZEX] y [SIZEY] z [SIZEZ] llamado [NAME]",
     "d3_addsphere": "agregar tamaño de esfera [COLOR] en x [SIZEX] y [SIZEY] z [SIZEZ] arco [ARC] rebanada [SLICE] lados [SIDES] llamado [NAME]",
     "d3_addcylinder": "agregar cilindro [COLOR] diámetro superior [DIAMETERTOP] inferior [DIAMETERBOTTOM] altura [HEIGHT] arco [ARC] sección cerrada [CLOSED] tipo de tapa [CAPTYPE] lados [SIDES] llamado [NAME]",
-    "d3_addtransformnode": "agregar padre transformador llamado [NOMBRE]",
+    "d3_addtransformnode": "agregar transformador llamado [NOMBRE]",
     "d3_setasparent": "establece el objeto [PARENTNAME] del sprite [SPRITE] como padre",
     "d3_removeparent": "eliminar padre",
     "d3_removeobject": "eliminar objeto llamado [NOMBRE]",
