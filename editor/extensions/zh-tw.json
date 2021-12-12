@@ -358,7 +358,7 @@
     "d3_updatefiletexture": "添加紋理與共享文件 [TEXTURE] 框單元大小 [SIZE] 非框重複 h [REPEATU] v [REPEATV] 旋轉 [ANGLEW] 區域 [COMPONENT]",
     "d3_materialsetting": "材質設置：線框模式 [ISWIREFRAME] 繪製背面 [ISBACKFACE] z-offset [ZOFFSET] 日誌深度 [ISLOGDEPTH] 透明 [TRANS]",
     "d3_lockface": "設置相機朝向模式 [FACEMODE]",
-    "d3_updatescale": "更新比例 x [X] y [Y] z [Z]",
+    "d3_updatescale": "更新比例 x [X]% y [Y]% z [Z]%",
     "d3_updatescale2": "更新大小 x [X] y [Y] z [Z]",
     "d3_subdivideface": "按 [MULTIPLE] 細分人臉",
     "d3_shiftvertices": "更新頂點縮放 xyz [XS] [YS] [ZS] 移動 xyz [XM] [YM] [ZM] 位置 min xyz [MINX] [MINY] [MINZ] 最大 xyz [MAXX] [MAXY] [ MAXZ]",
