@@ -555,5 +555,11 @@
     "gui.extension.widget.name": "Widget",
     "gui.extension.widget.description": "Créer des applications utiles.",
     "gui.extension.game.name": "Jeu",
-    "gui.extension.game.description": "Outils pour créer des jeux"
+    "gui.extension.game.description": "Outils pour créer des jeux",
+    "gui.spine.skeleton": "Squelette",
+    "gui.spine.skins": "Peaux",
+    "gui.spine.frame": "Cadre {index}",
+    "gui.spine.actions": "Actions",
+    "gui.spine.drawDebug": "Dessiner le débogage",
+    "gui.spine.boneTree": "Arbre d'os"
 }

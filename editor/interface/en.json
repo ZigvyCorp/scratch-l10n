@@ -555,5 +555,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.workspaceColorTooltip.title": "Change workspace background"
+    "gui.workspaceColorTooltip.title": "Change workspace background",
+    "gui.spine.skeleton": "Skeleton",
+    "gui.spine.skins": "Skins",
+    "gui.spine.frame": "Frame {index}",
+    "gui.spine.actions": "Actions",
+    "gui.spine.drawDebug": "Draw debug",
+    "gui.spine.boneTree": "Bones Tree"
 }
