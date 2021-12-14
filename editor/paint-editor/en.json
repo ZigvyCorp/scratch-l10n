@@ -16,6 +16,7 @@
     "paint.paintEditor.front": "Front",
     "paint.paintEditor.back": "Back",
     "paint.paintEditor.more": "More",
+    "paint.paintEditor.fullscreenControl": "Full Screen Control",
     "paint.modeTools.brushSize": "Size",
     "paint.modeTools.eraserSize": "Eraser size",
     "paint.modeTools.copy": "Copy",
