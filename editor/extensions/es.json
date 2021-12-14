@@ -513,6 +513,7 @@
     "d3_shiftvertices": "actualizar la escala de vértices xyz [XS] [YS] [ZS] mover xyz [XM] [YM] [ZM] posición min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [ MAXZ] ",
     "d3_movetoxyz": "mover ax [X] y [Y] z [Z] en [PERIODO] segundos [BLOQUEO]",
     "d3_rotateto": "gira al ángulo [DIRECTIONVALUE] alrededor del eje [AXIS] en [PERIOD] segundos",
+    "d3_rotateto2": "girar en la dirección x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",
     "d3_3dturnto": "girar [DEGREES] grados alrededor del eje [AXIS] en [PERIOD] segundos",
     "d3_setrotationpivot": "establecer el punto de pivote x [X] y [Y] z [Z]",
     "d3_clearpivot": "borrar punto de pivote",
