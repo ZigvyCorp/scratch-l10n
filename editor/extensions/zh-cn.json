@@ -364,6 +364,7 @@
     "d3_shiftvertices":  "更新顶点 拉伸 xyz [XS] [YS] [ZS] 移动 xyz [XM] [YM] [ZM] 位置最小 xyz [MINX] [MINY] [MINZ] 位置最大 xyz [MAXX] [MAXY] [MAXZ]",
     "d3_movetoxyz":  "移动到 x [X] y [Y] z [Z] 用时 [PERIOD] 秒 [BLOCKING]",
     "d3_rotateto": "绕 [AXIS] 轴转到角度 [DIRECTIONVALUE] 用时 [PERIOD] 秒",
+    "d3_rotateto2": "在 [PERIOD] 秒内旋转到 x [X] y [Y] z [Z] 方向 [BLOCKING]",
     "d3_3dturnto":  "绕 [AXIS] 轴旋转 [DEGREES] 度 用时 [PERIOD] 秒",
     "d3_setrotationpivot": "设置枢纽点 x [X] y [Y] z [Z]",
     "d3_clearpivot":  "清除枢纽点",
