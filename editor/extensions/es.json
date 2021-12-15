@@ -510,6 +510,7 @@
     "d3_updatefiletexture": "agregar textura con archivo compartido [TEXTURA] tamaño de la unidad de caja [TAMAÑO] repetición sin caja h [REPEATU] v [REPEATV] área de rotación [ANGLEW] [COMPONENTE]",
     "d3_materialsetting": "configuración de material: modo de estructura alámbrica [ISWIREFRAME] retroceso de cara [ISBACKFACE] z-offset [ZOFFSET] profundidad de registro [ISLOGDEPTH] transparente [TRANS]",
     "d3_lockfacing": "establecer el modo de orientación de la cámara [FACEMODE]",
+    "d3_updatephysics": "habilitar restitución de masa física [MASA] [RESTITUCIÓN]% fricción [FRICCIÓN]% depuración [ISDEBUG]",
     "d3_updatescale": "actualizar escala x [X]% y [Y]% z [Z]%",
     "d3_updatescale2": "tamaño de actualización x [X] y [Y] z [Z]",
     "d3_subdivideface": "subdivide caras por [MÚLTIPLES]",

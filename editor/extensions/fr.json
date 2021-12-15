@@ -507,6 +507,7 @@
     "d3_updatefiletexture": "ajouter une texture avec le fichier partagé [TEXTURE] taille de l'unité de la boîte [SIZE] répétition non-boîte h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 
     "d3_materialsetting": "réglage du matériau : mode filaire [ISWIREFRAME] face arrière [ISBACKFACE] décalage z [ZOFFSET] profondeur du journal [ISLOGDEPTH] transparent [TRANS]", 
     "d3_lockfacing": "régler le mode face à la caméra [FACEMODE]", 
+    "d3_updatephysics": "activer la restitution de la masse physique [MASSE] [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",
     "d3_updatescale": "mise à jour échelle x [X]% y [Y]% z [Z]%", 
     "d3_updatescale2": "taille de mise à jour x [X] y [Y] z [Z]", 
     "d3_subdivideface": "subdiviser les visages par [MULTIPLE]",

@@ -509,6 +509,7 @@
     "d3_updatefiletexture": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_materialsetting": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]", 
     "d3_lockfacing": "set camera facing mode [FACEMODE]", 
+    "d3_updatephysics": "enable physics mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",
     "d3_updatescale": "update scale x [X]% y [Y]% z [Z]%", 
     "d3_updatescale2": "update size x [X] y [Y] z [Z]", 
     "d3_subdivideface": "subdivide faces by [MULTIPLE]",
