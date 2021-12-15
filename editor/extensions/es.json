@@ -435,6 +435,7 @@
     "d3_getbrickworldstring": "mostrar código mundial de ladrillos",
     "d3_loadbrickworldstring": "construir un mundo de ladrillos a partir del código [CÓDIGO]",
     "d3_setscenecolor": "establecer el color de fondo de la escena [COLOR]",
+    "d3_setscenephysics": "habilitar la física con la gravedad [GRAVITY]",
     "d3_setskybox": "establecer cielo [SKYTYPE]",
     "d3_showscene": "mostrar escena 3D [MOSTRAR]",
     "d3_addeditorcamera": "agregar la cámara del editor en xyz [X] [Y] [Z] dirección [DIRECCIÓN] velocidad [VELOCIDAD] velocidad angular [VELOCIDAD ANGULAR]",

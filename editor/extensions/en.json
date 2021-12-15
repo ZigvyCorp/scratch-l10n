@@ -434,6 +434,7 @@
     "d3_getbrickworldstring": "show brick world code", 
     "d3_loadbrickworldstring": "build brick world from code [CODE]",
     "d3_setscenecolor": "set scene background color [COLOR]",
+    "d3_setscenephysics": "enable physics with gravity [GRAVITY]",
     "d3_setskybox": "set sky [SKYTYPE]",
     "d3_showscene": "show 3D scene [SHOW]", 
     "d3_addeditorcamera": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]", 

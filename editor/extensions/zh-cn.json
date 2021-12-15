@@ -527,6 +527,7 @@
     "d3_getbrickworldstring":  "显示砖块世界代码",
     "d3_loadbrickworldstring":  "装载砖块世界代码 [CODE]",
     "d3_setscenecolor":  "指定场景背景颜色 [COLOR]",
+    "d3_setscenephysics": "打开物理效果 重力 [GRAVITY]",
     "d3_setskybox":  "指定天空 [SKYTYPE]",
     "d3_showscene":  "显示三维场景 [SHOW]",
     "d3_addeditorcamera":  "添加编辑摄像头 位置 xyz [X] [Y] [Z] 方向 [DIRECTION] 速度 [SPEED] 转速 [ANGULARSPEED]",
