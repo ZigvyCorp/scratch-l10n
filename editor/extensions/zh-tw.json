@@ -528,7 +528,7 @@
     "d3_getbrickworldstring": "顯示磚塊世界代碼",
     "d3_loadbrickworldstring": "從代碼 [CODE] 構建磚塊世界",
     "d3_setscenecolor": "設置場景背景色 [COLOR]",
-    "d3_setscenephysics": "打開物理效果 重力 [GRAVITY]",
+    "d3_setscenephysics": "使用場景物理歐引擎 重力 [GRAVITY]",
     "d3_setskybox": "設置天空 [SKYTYPE]",
     "d3_showscene": "顯示 3D 場景 [SHOW]",
     "d3_additorcamera": "在 xyz [X] [Y] [Z] 方向 [DIRECTION] 速度 [SPEED] 角速度 [ANGULARSPEED] 添加編輯器相機",
