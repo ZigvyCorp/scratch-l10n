@@ -142,7 +142,7 @@
     "gui.menuBar.sharedWithFriendButton": "Shared with friends",
     "gui.menuBar.publishWithFriendButton": "Publish to friends",
     "gui.menuBar.publishedWithFriendButton": "Published to friends",
-    "gui.menuBar.logoTile": "https://cdn.creaticode.com/lessondata/CCLogo.png",
+    "gui.menuBar.logoTile": "CCLogo.png",
     "gui.menuBar.shareButtonMessage": "Share your project for everyone to run or remix",
     "gui.menuBar.shareWithFriendsButtonMessage": "Share your project only among your friends",
     "gui.menuBar.publishButtonMessage": "Publish your project without sharing your code blocks",

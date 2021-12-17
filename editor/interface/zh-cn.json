@@ -142,7 +142,7 @@
     "gui.menuBar.publishWithFriendButton": "发布给朋友",
     "gui.menuBar.publishedWithFriendButton": "发布给朋友",
     "gui.menuBar.sharedWithFriendButton": "与朋友分享",
-    "gui.menuBar.logoTile": "https://cdn.creaticode.com/lessondata/CCLogoCH.png",
+    "gui.menuBar.logoTile": "CCLogoCH3.png",
     "gui.menuBar.shareButtonMessage": "分享您的项目供所有人运行或改编",
     "gui.menuBar.shareWithFriendsButtonMessage": "仅在您的朋友之间共享您的项目",
     "gui.menuBar.publishButtonMessage": "在不共享代码块的情况下发布您的项目",
