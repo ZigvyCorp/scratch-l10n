@@ -448,7 +448,7 @@
     "d3_addorbitcamera": "add orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning speed ratio [PANSPEEDRATIO]", 
     "d3_setcameratarget": "set camera target xyz [X] [Y] [Z]",
     "d3_configureorbitcamera": "configure orbit camera radius min [MINDIST] max [MAXDIST] visible range min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] speed ratio panning [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",
-    "d3_carfollowcamera": "add follow camera distance [DISTANCE] z offset [ZOFFSET] v-angle [VANGLE] h-angle [HANGLE] direction lock [DIRECTIONTYPE]",
+    "d3_carfollowcamera": "add follow camera distance [DISTANCE] z offset [ZOFFSET] v-angle [VANGLE] h-angle [HANGLE] direction lock [DIRECTIONTYPE] see-through [TRANS]%",
     "d3_addhatcamera": "add hat camera with offset xyz [X] [Y] [Z]", 
     "d3_addpointlight": "add point light [COLOR] at xyz [X] [Y] [Z] intensity [INTENSITY] show position [SHOW] as [NAME]",
     "d3_adddirectionallight": "add sunlight [COLOR] in direction xyz [X] [Y] [Z] intensity [INTENSITY] as [NAME]", 
@@ -558,6 +558,12 @@
     "d3_spritexrot": "sprite object x rot", 
     "d3_spriteyrot": "sprite object y rot",
     "d3_spritezrot": "sprite object z rot",
+    "d3_spriteblockedfront": "sprite object blocked front",
+    "d3_spriteblockedback": "sprite object blocked back",
+    "d3_spriteblockedbelow": "sprite object blocked below",
+    "d3_spriteblockedabove": "sprite object blocked above",
+    "d3_spriteblockedleft": "sprite object blocked left",
+    "d3_spriteblockedright": "sprite object blocked right",
     "d3_distancetonearest": "distance to nearest obstacle in the [TARGET]",
     "d3_distancefront": "distance to obstacle in the front", 
     "d3_distanceback": "distance to obstacle in the back", 
@@ -571,5 +577,6 @@
     "communityObjectNotFound": "Model {modelName} is currently private or not existed",
     "d3_switchFullScreen": "switch to full screen",
     "d3_set_property": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME]",
-    "d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]"
+    "d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]",
+    
 }
