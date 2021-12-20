@@ -577,6 +577,6 @@
     "communityObjectNotFound": "Model {modelName} is currently private or not existed",
     "d3_switchFullScreen": "switch to full screen",
     "d3_set_property": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME]",
-    "d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]",
+    "d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]"
     
 }
