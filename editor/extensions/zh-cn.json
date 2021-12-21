@@ -217,7 +217,7 @@
     "p2p.joinroom": "使用密码 [PASSWORD] 作为团队 [TEAM] 进入世界 [ROOMID]",
     "p2p.deleteroom": "删除世界 [ROOMID]",
     "p2p.leaveworld": "离开世界 [WORLD_NAME]",
-    "p2p.broadcast": "向 [TEAM] 团队广播消息 [MESSAGE]",
+    "p2p.broadcast": "向世界 [WORLD_NAME] 团队 [TEAM] 广播消息 [MESSAGE]",
     "p2p.receivemessage": "当我收到世界的消息时",
     "p2p.host": "主持人",
     "p2p.worlds": "世界",

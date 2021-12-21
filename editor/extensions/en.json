@@ -217,7 +217,7 @@
     "p2p.joinroom": "join world [ROOMID] with password [PASSWORD] as team [TEAM]",
     "p2p.deleteroom": "delete world [ROOMID]",
     "p2p.leaveworld": "leave world [WORLD_NAME]",
-    "p2p.broadcast": "broadcast a message [MESSAGE] to [TEAM] team",
+    "p2p.broadcast": "broadcast a message [MESSAGE] to world [WORLD_NAME] team [TEAM]",
     "p2p.receivemessage": "When I receive message from world",
     "p2p.host": "host",
     "p2p.worlds": "worlds",

@@ -217,7 +217,7 @@
     "p2p.joinroom": "unirse al mundo [ROOMID] con la contraseña [PASSWORD] como equipo [TEAM]",
     "p2p.deleteroom": "borrar mundo [ROOMID]",
     "p2p.leaveworld": "dejar el mundo [WORLD_NAME]",
-    "p2p.broadcast": "transmitir un mensaje [MESSAGE] al equipo [TEAM]",
+    "p2p.broadcast": "transmitir un mensaje [MESSAGE] al equipo mundial [WORLD_NAME] [TEAM]",
     "p2p.receivemessage": "Cuando recibo un mensaje del mundo",
     "p2p.host": "anfitriona",
     "p2p.worlds": "mundos",
