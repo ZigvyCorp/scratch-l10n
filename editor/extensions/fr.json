@@ -556,6 +556,7 @@
     "d3_spritexrot": "objet sprite x pourriture", 
     "d3_spriteyrot": "objet sprite y pourriture",
     "d3_spritezrot": "objet sprite z rot",
+    "d3_spritespeed": "vitesse de l'objet sprite [SPEEDTYPE]",
     "d3_spriteblockedfront": "objet sprite bloqué devant",
     "d3_spriteblockedback": "objet sprite bloqué en arrière",
     "d3_spriteblockedbelow": "objet sprite bloqué en dessous",

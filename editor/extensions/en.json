@@ -558,6 +558,7 @@
     "d3_spritexrot": "sprite object x rot", 
     "d3_spriteyrot": "sprite object y rot",
     "d3_spritezrot": "sprite object z rot",
+    "d3_spritespeed": "sprite object speed [SPEEDTYPE]",
     "d3_spriteblockedfront": "sprite object blocked front",
     "d3_spriteblockedback": "sprite object blocked back",
     "d3_spriteblockedbelow": "sprite object blocked below",

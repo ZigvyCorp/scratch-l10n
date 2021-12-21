@@ -406,6 +406,7 @@
     "d3_spritexrot": "角色物體 x 轉角",
     "d3_spriteyrot": "角色物體 y 轉角",
     "d3_spritezrot": "角色物體 z 轉角",
+    "d3_spritespeed": "角色物體速度 [SPEEDTYPE]",
     "d3_spriteblockedfront": "角色物體前面被擋住",
     "d3_spriteblockedback":  "角色物體後面被擋住",
     "d3_spriteblockedbelow": "角色物體下面被擋住",
