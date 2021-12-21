@@ -142,7 +142,7 @@
     "gui.menuBar.sharedWithFriendButton": "Shared with friends",
     "gui.menuBar.publishWithFriendButton": "Publish to friends",
     "gui.menuBar.publishedWithFriendButton": "Published to friends",
-    "gui.menuBar.logoTile": "https://cdn.jsdelivr.net/gh/ZigvyCorp/tcode-static-files@master/images/CreatiCode_EN.png",
+    "gui.menuBar.logoTile": "CCLogoWhite.png",
     "gui.menuBar.shareButtonMessage": "Share your project for everyone to run or remix",
     "gui.menuBar.shareWithFriendsButtonMessage": "Share your project only among your friends",
     "gui.menuBar.publishButtonMessage": "Publish your project without sharing your code blocks",
