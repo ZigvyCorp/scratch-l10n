@@ -218,7 +218,7 @@
     "p2p.deleteroom": "borrar mundo [ROOMID]",
     "p2p.leaveworld": "dejar el mundo [WORLD_NAME]",
     "p2p.broadcast": "transmitir un mensaje [MESSAGE] al equipo mundial [WORLD_NAME] [TEAM]",
-    "p2p.receivemessage": "Cuando recibo un mensaje del mundo",
+    "p2p.receivemessage": "Cuando recibo [MESSAGE] del remitente [SENDER] de [WORLD_NAME] del mundo",
     "p2p.host": "anfitriona",
     "p2p.worlds": "mundos",
     "p2p.joinedWorlds": "mundos unidos",
