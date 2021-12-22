@@ -468,6 +468,7 @@
     "gui.extension.videosensing.name": "Sensor de vídeo",
     "gui.extension.videosensing.description": "Detecta movimientos con la cámara.",
     "gui.extension.text2speech.name": "Texto a voz",
+    "gui.extension.ai.name": "AI",
     "gui.extension.text2speech.description": "Haz que tus proyectos hablen.",
     "gui.extension.translate.name": "Traducir",
     "gui.extension.translate.description": "Traduce texto a muchos idiomas.",

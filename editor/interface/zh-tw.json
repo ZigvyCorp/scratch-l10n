@@ -464,6 +464,7 @@
     "gui.extension.videosensing.name": "視訊偵測",
     "gui.extension.videosensing.description": "使用攝影機偵測動作。",
     "gui.extension.text2speech.name": "文字轉語音",
+    "gui.extension.ai.name": "AI",
     "gui.extension.text2speech.description": "讓你的專案能夠說話",
     "gui.extension.translate.name": "翻譯",
     "gui.extension.translate.description": "將文字訊息翻譯為各國語言。",
