@@ -224,7 +224,7 @@
     "p2p.myWorlds": "my worlds",
     "p2p.sender": "sender",
     "p2p.message": "message",
-    "p2p.roomUsers": "world users",
+    "p2p.worldMembers": "member of world [WORLD_NAME]",
     "p2p.teamUsers": "users of [TEAM] team",
     "p2p.teams1": "Red, Blue, Green, White, Black, Yellow, Purple, Cyan",
     "p2p.teams1Default": "Red",

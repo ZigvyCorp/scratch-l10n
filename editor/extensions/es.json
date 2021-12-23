@@ -224,7 +224,7 @@
     "p2p.myWorlds": "Mis mundos",
     "p2p.sender": "remitente",
     "p2p.message": "mensaje",
-    "p2p.roomUsers": "usuarias del mundo",
+    "p2p.worldMembers": "miembro del mundo [WORLD_NAME]",
     "p2p.teamUsers": "usuarias del equipo [TEAM]",
     "p2p.teams1": "Rojo, Azul, Verde, Blanco, Negro, Amarillo, Púrpura, Cian",
     "p2p.teams1Default": "Rojo",

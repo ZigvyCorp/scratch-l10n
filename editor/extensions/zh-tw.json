@@ -224,7 +224,7 @@
     "p2p.myWorlds": "我的世界",
     "p2p.sender": "发件人",
     "p2p.message": "信息",
-    "p2p.roomUsers": "信息",
+    "p2p.worldMembers": "世界成員 [WORLD_NAME]",
     "p2p.teamUsers": "[TEAM] 团队的用户",
     "p2p.teams1": "红, 蓝, 绿, 白, 黑, 黄, 紫, 青",
     "p2p.teams1Default": "红",
