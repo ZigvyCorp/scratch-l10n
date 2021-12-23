@@ -143,6 +143,8 @@
     "gui.menuBar.publishWithFriendButton": "Publish to friends",
     "gui.menuBar.publishedWithFriendButton": "Published to friends",
     "gui.menuBar.logoTile": "CCLogoWhite.png",
+    "gui.menuBar.logo": "CCLogo.png",
+    "gui.menuBar.logoLarge": "CCLogoL.png",
     "gui.menuBar.shareButtonMessage": "Share your project for everyone to run or remix",
     "gui.menuBar.shareWithFriendsButtonMessage": "Share your project only among your friends",
     "gui.menuBar.publishButtonMessage": "Publish your project without sharing your code blocks",
