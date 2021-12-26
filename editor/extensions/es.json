@@ -220,6 +220,7 @@
     "p2p.broadcast": "transmitir un mensaje [MESSAGE] al equipo mundial [WORLD_NAME] [TEAM]",
     "p2p.receivemessage": "cuando recibo [MESSAGE] del remitente [SENDER] de [WORLD_NAME] del mundo",
     "p2p.whenworldchange": "Cuando un mundo [CHANGE_TYPE]",
+    "p2p.whenmemberschange": "Cuando un usuario [CHANGE_TYPE] mundo [WORLD_NAME] como [USER_INFO]",
     "p2p.worldHost": "anfitriona del mundo [WORLD_NAME]",
     "p2p.worlds": "mundos",
     "p2p.myWorlds": "Mis mundos",

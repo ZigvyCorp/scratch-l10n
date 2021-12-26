@@ -220,6 +220,7 @@
     "p2p.broadcast": "向世界 [WORLD_NAME] 团队 [TEAM] 广播消息 [MESSAGE]",
     "p2p.receivemessage": "当我收到来自世界 [WORLD_NAME] 发件人 [SENDER] 的 [MESSAGE] 时",
     "p2p.whenworldchange": "当一个世界 [CHANGE_TYPE]",
+    "p2p.whenmemberschange": "当用户 [CHANGE_TYPE] 将 [WORLD_NAME] 设为 [USER_INFO]",
     "p2p.worldHost": "世界主机 [WORLD_NAME]",
     "p2p.worlds": "世界",
     "p2p.myWorlds": "我的世界",
