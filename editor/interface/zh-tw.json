@@ -268,6 +268,7 @@
     "gui.fileTab.browse": "或瀏覽文件",
     "gui.fileTab.projectFiles": "項目文件",
     "gui.fileTab.loadMore": "加載更多",
+    "gui.fileTab.noFiles": "沒有文件",
     "gui.spriteLibrary.chooseASprite": "範例角色",
     "gui.tipsLibrary.tutorials": "選擇教程",
     "gui.alerts.createsuccess": "專案創建成功。",

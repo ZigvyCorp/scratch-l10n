@@ -274,6 +274,7 @@
     "gui.fileTab.browse": "or browse files",
     "gui.fileTab.projectFiles": "Project Files",
     "gui.fileTab.loadMore": "Load more",
+    "gui.fileTab.noFiles": "No Files",
     "gui.spriteLibrary.chooseASprite": "Choose a Sprite",
     "gui.tipsLibrary.tutorials": "Choose a Tutorial",
     "gui.alerts.createsuccess": "New project created.",

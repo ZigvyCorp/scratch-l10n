@@ -274,6 +274,7 @@
     "gui.fileTab.browse": "或浏览文件",
     "gui.fileTab.projectFiles": "项目文件",
     "gui.fileTab.loadMore": "加载更多",
+    "gui.fileTab.noFiles": "没有文件",
     "gui.spriteLibrary.chooseASprite": "选择一个角色",
     "gui.tipsLibrary.tutorials": "选择一个教程",
     "gui.alerts.createsuccess": "作品已创建。",
