@@ -57,7 +57,7 @@
     "gui.controls.step": "Mode pas à pas",
     "gui.controls.skip": "Sauter",
     "gui.crashMessage.label": "Oups ! Quelque chose s'est mal passé.",
-    "gui.crashMessage.description": "Nous sommes désolés, mais on dirait que Scratch a planté. Ce bug a été rapporté automatiquement à l'Equipe Scratch. Merci de rafraîchir la page pour essayer à nouveau.",
+    "gui.crashMessage.description": "Nous sommes désolés, mais il semble que l'application ait planté. Ce bug a été automatiquement signalé à l'équipe CreatiCode. Veuillez actualiser votre page pour réessayer.",
     "gui.crashMessage.errorNumber": "Votre erreur a été enregistrée avec l'identificateur  {errorId}.",
     "gui.crashMessage.reload": "Recharger",
     "gui.customProcedures.myblockModalTitle": "Créer un bloc",

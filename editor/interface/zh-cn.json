@@ -57,7 +57,7 @@
     "gui.controls.step": "分步模式",
     "gui.controls.skip": "跳过",
     "gui.crashMessage.label": "呀，出错了。",
-    "gui.crashMessage.description": "很抱歉，Scratch出故障了。这个问题已经自动报告给Scratch开发团队。请刷新页面再试试。",
+    "gui.crashMessage.description": "我们很抱歉，但应用程序似乎已崩溃。 此错误已自动报告给 CreatiCode 团队。 请刷新您的页面以重试。",
     "gui.crashMessage.errorNumber": "该错误已记录，编号{errorId}",
     "gui.crashMessage.reload": "重新载入",
     "gui.customProcedures.myblockModalTitle": "制作新的积木",
