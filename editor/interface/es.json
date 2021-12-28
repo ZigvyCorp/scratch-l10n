@@ -57,7 +57,7 @@
     "gui.controls.step": "Modo paso a paso",
     "gui.controls.skip": "Saltar",
     "gui.crashMessage.label": "¡Ups! Algo ha fallado.",
-    "gui.crashMessage.description": "Lo sentimos mucho, pero parece que Scratch ha dejado de funcionar. Ya hemos informado de este fallo al Scratch Team. Por favor, vuelve a cargar la página e inténtalo de nuevo.",
+    "gui.crashMessage.description": "Lo sentimos mucho, pero parece que la aplicación se ha bloqueado. Este error se ha informado automáticamente al equipo de CreatiCode. Actualice su página para volver a intentarlo.",
     "gui.crashMessage.errorNumber": "Su error ha sido registrado con id {errorId}",
     "gui.crashMessage.reload": "Volver a cargar",
     "gui.customProcedures.myblockModalTitle": "Crear un bloque",

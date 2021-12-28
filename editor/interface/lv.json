@@ -54,7 +54,7 @@
     "gui.controls.go": "Palaist",
     "gui.controls.stop": "Apturēt",
     "gui.crashMessage.label": "Kaut kas nogāja greizi...",
-    "gui.crashMessage.description": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
+    "gui.crashMessage.description": "We are so sorry, but it looks like the application has crashed. This bug has been automatically reported to the CreatiCode Team. Please refresh your page to try again.",
     "gui.crashMessage.errorNumber": "Jūsu kļūda tika reģistrēta ar id {errorId}",
     "gui.crashMessage.reload": "Pārlādēt",
     "gui.customProcedures.myblockModalTitle": "Izveidot bloku",

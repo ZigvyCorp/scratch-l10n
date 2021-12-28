@@ -54,7 +54,7 @@
     "gui.controls.go": "開始",
     "gui.controls.stop": "停止",
     "gui.crashMessage.label": "哎呀！發生了一些錯誤。",
-    "gui.crashMessage.description": "很抱歉，看起來 Scratch 崩潰了，錯誤已自動回報給 Scratch 團隊，請重新整理你的頁面，再試一次吧！",
+    "gui.crashMessage.description": "我们很抱歉，但应用程序似乎已崩溃。 此错误已自动报告给 CreatiCode 团队。 请刷新您的页面以重试。",
     "gui.crashMessage.errorNumber": "錯誤已被紀錄，id 為 {errorId}",
     "gui.crashMessage.reload": "重新載入",
     "gui.customProcedures.myblockModalTitle": "建立一個積木",

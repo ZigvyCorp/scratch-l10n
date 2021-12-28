@@ -54,7 +54,7 @@
     "gui.controls.go": "Đi",
     "gui.controls.stop": "Dừng lại",
     "gui.crashMessage.label": "Oops! Có vấn đề xảy ra.",
-    "gui.crashMessage.description": "Chúng tôi rất xin lỗi, nhưng có vẻ như Scratch đã gặp vấn đề. Lỗi này đã được thông báo đến đội ngũ của Scratch. Hãy thử tải lại trang của bạn",
+    "gui.crashMessage.description": "Chúng tôi rất xin lỗi, nhưng có vẻ như ứng dụng đã gặp vấn đề. Lỗi này đã được thông báo đến đội ngũ của CreatiCode. Hãy thử tải lại trang của bạn",
     "gui.crashMessage.errorNumber": "Lỗi đã được lưu lại với ID {errorId}",
     "gui.crashMessage.reload": "Tải lại",
     "gui.customProcedures.myblockModalTitle": "Tạo một khối",
