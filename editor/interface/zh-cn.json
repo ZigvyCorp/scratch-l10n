@@ -88,6 +88,8 @@
     "gui.extensionLibrary.collaboration": "合作者",
     "gui.library.filterPlaceholder": "搜索",
     "gui.library.allTag": "所有",
+    "gui.library.rigged": "索具",
+    "gui.library.notRigged": "未操纵",
     "gui.loader.message1": "正在创建积木……",
     "gui.loader.message2": "载入角色……",
     "gui.loader.message3": "载入声音……",
@@ -553,5 +555,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.sharedMessages.collapseAllStacks": "折叠所有堆栈",
     "gui.gui.defaultProjectTitle": "Scratch作品",
-    "gui.workspaceColorTooltip.title": "更改工作区背景"
+    "gui.workspaceColorTooltip.title": "更改工作区背景",
+    "gui.spine.skeleton": "骨骼",
+    "gui.spine.skins": "皮肤",
+    "gui.spine.frame": "框架 {index}",
+    "gui.spine.actions": "行动",
+    "gui.spine.drawDebug": "绘制调试",
+    "gui.spine.boneTree": "骨头树"
 }

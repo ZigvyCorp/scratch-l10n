@@ -546,5 +546,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
-    "gui.workspaceColorTooltip.title": "更改工作區背景"
+    "gui.workspaceColorTooltip.title": "更改工作區背景",
+    "gui.spine.skeleton": "骨骼",
+    "gui.spine.skins": "皮膚",
+    "gui.spine.frame": "框架 {index}",
+    "gui.spine.actions": "行動",
+    "gui.spine.drawDebug": "繪製調試",
+    "gui.spine.boneTree": "骨頭樹"
 }

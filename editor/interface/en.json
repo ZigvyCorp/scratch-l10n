@@ -88,6 +88,8 @@
     "gui.extensionLibrary.collaboration": "Collaboration with",
     "gui.library.filterPlaceholder": "Search",
     "gui.library.allTag": "All",
+    "gui.library.rigged": "Rigged",
+    "gui.library.notRigged": "Not rigged",
     "gui.loader.message1": "Creating blocks …",
     "gui.loader.message2": "Loading sprites …",
     "gui.loader.message3": "Loading sounds …",
@@ -553,5 +555,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.workspaceColorTooltip.title": "Change workspace background"
+    "gui.workspaceColorTooltip.title": "Change workspace background",
+    "gui.spine.skeleton": "Skeleton",
+    "gui.spine.skins": "Skins",
+    "gui.spine.frame": "Frame {index}",
+    "gui.spine.actions": "Actions",
+    "gui.spine.drawDebug": "Draw debug",
+    "gui.spine.boneTree": "Bones Tree"
 }
