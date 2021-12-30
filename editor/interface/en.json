@@ -83,6 +83,7 @@
     "gui.gui.costumesTab": "Costumes",
     "gui.gui.soundsTab": "Sounds",
     "gui.gui.filesTab": "Files",
+    "gui.gui.skeletonTab": "Skeletons",
     "gui.extensionLibrary.comingSoon": "Coming Soon",
     "gui.extensionLibrary.requires": "Requires",
     "gui.extensionLibrary.collaboration": "Collaboration with",
