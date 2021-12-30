@@ -561,5 +561,11 @@
     "gui.spine.frame": "Cadre {index}",
     "gui.spine.actions": "Actions",
     "gui.spine.drawDebug": "Dessiner le débogage",
-    "gui.spine.boneTree": "Arbre d'os"
+    "gui.spine.boneTree": "Arbre d'os",
+    "gui.verticalMode.toggle.tooltip": "Basculer pour le mode vertical",
+    "gui.verticalMode.button.tooltip": "Panneau du mode vertical",
+    "gui.verticalMode.nextBlock.button.title": "Passer au bloc suivant",
+    "gui.verticalMode.prevBlock.button.title": "Passer au bloc précédent",
+    "gui.verticalMode.bookmarkBlock.button.title": "Passer au bloc marqué d'un signet",
+    "gui.verticalMode.removeHighlight.button.title": "Supprimer le surlignage"
 }
