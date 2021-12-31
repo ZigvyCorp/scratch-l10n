@@ -477,5 +477,7 @@
     "MALE": "Hombre",
     "FEMALE": "Mujer",
     "BOY": "Niño",
-    "GIRL": "Niña"
+    "GIRL": "Niña",
+    "BOOKMARK": "Marcador",
+    "REMOVE_BOOKMARK": "Eliminar marcador"
 }

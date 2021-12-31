@@ -477,5 +477,7 @@
     "MALE": "Homme",
     "FEMALE": "Femme",
     "BOY": "Garçon",
-    "GIRL": "Fille"
+    "GIRL": "Fille",
+    "BOOKMARK": "Signet",
+    "REMOVE_BOOKMARK": "Supprimer le signet"
 }
