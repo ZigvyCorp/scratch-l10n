@@ -478,6 +478,8 @@
     "MALE": "男",
     "FEMALE": "女性",
     "BOY": "男孩",
-    "GIRL": "女孩"
+    "GIRL": "女孩",
+    "BOOKMARK": "书签",
+    "REMOVE_BOOKMARK": "删除书签"
 
 }

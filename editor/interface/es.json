@@ -561,5 +561,11 @@
     "gui.spine.frame": "Marco {index}",
     "gui.spine.actions": "Comportamiento",
     "gui.spine.drawDebug": "Dibujar depuración",
-    "gui.spine.boneTree": "Árbol de huesos"
+    "gui.spine.boneTree": "Árbol de huesos",
+    "gui.verticalMode.toggle.tooltip": "Alternar para modo vertical",
+    "gui.verticalMode.button.tooltip": "Panel de modo vertical",
+    "gui.verticalMode.nextBlock.button.title": "Mover al bloque siguiente",
+    "gui.verticalMode.prevBlock.button.title": "Mover al bloque anterior",
+    "gui.verticalMode.bookmarkBlock.button.title": "Mover al bloque marcado como favorito",
+    "gui.verticalMode.removeHighlight.button.title": "Quitar destacado"
 }

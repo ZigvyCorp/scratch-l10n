@@ -477,5 +477,7 @@
     "MALE": "Male",
     "FEMALE": "Female",
     "BOY": "Boy",
-    "GIRL": "Girl"
+    "GIRL": "Girl",
+    "BOOKMARK": "Bookmark",
+    "REMOVE_BOOKMARK": "Remove bookmark"
 }

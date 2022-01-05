@@ -561,5 +561,11 @@
     "gui.spine.frame": "Frame {index}",
     "gui.spine.actions": "Actions",
     "gui.spine.drawDebug": "Draw debug",
-    "gui.spine.boneTree": "Bones Tree"
+    "gui.spine.boneTree": "Bones Tree",
+    "gui.verticalMode.toggle.tooltip": "Toggle for vertical mode",
+    "gui.verticalMode.button.tooltip": "Vertical mode panel",
+    "gui.verticalMode.nextBlock.button.title": "Move to next block",
+    "gui.verticalMode.prevBlock.button.title": "Move to previous block",
+    "gui.verticalMode.bookmarkBlock.button.title": "Move to bookmarked block",
+    "gui.verticalMode.removeHighlight.button.title": "Remove highlight"
 }

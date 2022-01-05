@@ -552,5 +552,11 @@
     "gui.spine.frame": "框架 {index}",
     "gui.spine.actions": "行動",
     "gui.spine.drawDebug": "繪製調試",
-    "gui.spine.boneTree": "骨頭樹"
+    "gui.spine.boneTree": "骨頭樹",
+    "gui.verticalMode.toggle.tooltip": "垂直模式切换",
+    "gui.verticalMode.button.tooltip": "垂直模式面板",
+    "gui.verticalMode.nextBlock.button.title": "移动到下一个块",
+    "gui.verticalMode.prevBlock.button.title": "移动到上一个块",
+    "gui.verticalMode.bookmarkBlock.button.title": "移动到书签块",
+    "gui.verticalMode.removeHighlight.button.title": "删除高亮"
 }
