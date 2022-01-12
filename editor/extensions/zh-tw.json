@@ -544,6 +544,7 @@
     "zspeed": "Z速度",
     "screen": "屏幕",
     "target": "目標",
+    "targetmove":  "目標移動",
     "free": "自由",
     "anydirection": "任何方向",
     "leftrightonly": "僅左右",

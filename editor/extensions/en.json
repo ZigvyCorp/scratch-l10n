@@ -433,6 +433,7 @@
     "zspeed": "Z Speed",
     "screen": "Screen", 
     "target": "Target", 
+    "targetmove": "Target Movement", 
     "free": "Free",
     "anydirection": "Any Direction",
     "leftrightonly": "Left-Right Only", 

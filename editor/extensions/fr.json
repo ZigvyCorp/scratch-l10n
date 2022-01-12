@@ -434,6 +434,7 @@
     "zspeed": "Vitesse Z",
     "screen": "Filtrer", 
     "target": "Cible", 
+    "targetmove": "Mouvement Cible",
     "free": "libérer",
     "anydirection": "N'importe quelle direction",
     "leftrightonly": "Gauche-Droite uniquement", 

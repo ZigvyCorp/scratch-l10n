@@ -434,6 +434,7 @@
     "zspeed": "Velocidad Z",
     "screen": "Pantalla",
     "target": "Objetivo",
+    "targetmove": "Movimiento Objetivo",
     "free": "Libre",
     "anydirection": "Cualquier dirección",
     "leftrightonly": "Solo izquierda-derecha", 
