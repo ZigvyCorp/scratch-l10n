@@ -503,7 +503,7 @@
     "d3_addlinkobject": "agregar objeto público por URL [OBJECTNAME] llamado [NAME]",
     "d3_addcharacter": "agregar carácter [CHARACTERNAME] llamado [NAME]",
     "d3_addavatar": "agregar avatar [CHARACTERNAME] altura [HEIGHT] llamado [NAME]",
-    "d3_addavatarforuser": "Agregar avatar para la usuario [USERNAME]",
+    "d3_addavatarforuser": "agregar avatar [AVATAR_NAME] para el usuario [USERNAME] mundo [WORLD_NAME] altura [HEIGHT] como [NAME]",
     "d3_addanimation": "agregar animaciones [ANIMACIONES]",
     "d3_startanimation": "iniciar la animación [ANIMATIONNAME] repitiendo el progreso de [LOOPING] desde [STARTFRAME] a [ENDFRAME] relación de velocidad [SPEEDRATIO] [BLOCKING]",
     "d3_stopanimation": "detener animación",

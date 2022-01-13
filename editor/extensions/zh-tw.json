@@ -348,7 +348,7 @@
     "d3_addlinkobject": "通過名為 [NAME] 的 URL [OBJECTNAME] 添加公共對象",
     "d3_addcharacter": "添加名為 [NAME] 的角色 [CHARACTERNAME]",
     "d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名为 [NAME]",
-    "d3_addavatarforuser": "為用戶 [USERNAME] 添加頭像",
+    "d3_addavatarforuser": "為用戶 [USERNAME] 世界 [WORLD_NAME] 高度 [HEIGHT] 添加頭像 [AVATAR_NAME] 作為 [NAME]",
     "d3_addanimation": "添加動畫 [動畫]",
     "d3_startanimation": "開始動畫 [ANIMATIONNAME] 循環 [LOOPING] 進程從 [STARTFRAME] 到 [ENDFRAME] 速度比 [SPEEDRATIO] [BLOCKING]",
     "d3_stopanimation": "停止動畫",
