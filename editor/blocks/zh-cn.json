@@ -208,6 +208,7 @@
     "MOTION_LEFT": "左",
     "MOTION_BLOCKING": "阻挡",
     "MOTION_NONBLOCKING": "非阻塞",
+    "MOTION_SPRITE_SELECT": "选择",
     "MOTION_POINTINDIRECTION": "面向 %1 方向",
     "MOTION_POINTTOWARDS": "面向 %1",
     "MOTION_POINTTOWARDS_POINTER": "鼠标指针",

@@ -209,6 +209,7 @@
     "MOTION_LEFT": "gauche",
     "MOTION_BLOCKING": "bloquant",
     "MOTION_NONBLOCKING": "non bloquant",
+    "MOTION_SPRITE_SELECT": "sélectionner",
     "MOTION_POINTINDIRECTION": "s'orienter à %1",
     "MOTION_POINTTOWARDS": "s'orienter vers %1",
     "MOTION_POINTTOWARDS_POINTER": "pointeur de souris",

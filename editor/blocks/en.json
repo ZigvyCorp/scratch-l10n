@@ -209,6 +209,7 @@
     "MOTION_LEFT": "left",
     "MOTION_BLOCKING": "blocking",
     "MOTION_NONBLOCKING": "non-blocking",
+    "MOTION_SPRITE_SELECT": "select",
     "MOTION_POINTINDIRECTION": "point in direction %1",
     "MOTION_POINTTOWARDS": "point towards %1",
     "MOTION_POINTTOWARDS_POINTER": "mouse-pointer",

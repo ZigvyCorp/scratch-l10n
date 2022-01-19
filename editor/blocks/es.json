@@ -209,6 +209,7 @@
     "MOTION_LEFT": "izquierda",
     "MOTION_BLOCKING": "bloqueando",
     "MOTION_NONBLOCKING": "sin bloqueo",
+    "MOTION_SPRITE_SELECT": "Seleccione",
     "MOTION_POINTINDIRECTION": "apuntar en dirección %1",
     "MOTION_POINTTOWARDS": "apuntar hacia %1",
     "MOTION_POINTTOWARDS_POINTER": "puntero del ratón",
