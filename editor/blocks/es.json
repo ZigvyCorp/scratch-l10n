@@ -318,6 +318,7 @@
     "SENSING_ASK_TEXT": "¿Cómo te llamas?",
     "SENSING_ANSWER": "respuesta",
     "SENSING_KEYPRESSED": "¿tecla %1 presionada?",
+    "SENSING_KEYPRESSED2": "se presiona la tecla %1",
     "SENSING_MOUSEDOWN": "¿ratón presionado?",
     "SENSING_MOUSEX": "posición x del ratón",
     "SENSING_MOUSEY": "posición y del ratón",

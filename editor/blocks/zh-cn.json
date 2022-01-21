@@ -317,6 +317,7 @@
     "SENSING_ASK_TEXT": "你叫什么名字？",
     "SENSING_ANSWER": "回答",
     "SENSING_KEYPRESSED": "按下 %1 键?",
+    "SENSING_KEYPRESSED2": "键 %1 被按下",
     "SENSING_MOUSEDOWN": "按下鼠标?",
     "SENSING_MOUSEX": "鼠标的x坐标",
     "SENSING_MOUSEY": "鼠标的y坐标",
