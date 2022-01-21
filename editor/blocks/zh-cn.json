@@ -454,6 +454,7 @@
     "MOTION_JRCHANGECOLUMNBY": "将列增加 %1 %2",
     "MOTION_JRREDUCECOLUMNBY": "将列减少 %1 %2",
     "MOTION_JRFORWARD": "前进 %1",
+    "MOTION_JRBACKWARD": "落后 %1",
     "MOTION_JRTURNLEFT": "左拐 %1",
     "MOTION_JRTURNRIGHT": "右拐 %1",
     "CONTROL_BREAKPOINTJR": "断点",

@@ -455,6 +455,7 @@
     "MOTION_JRCHANGECOLUMNBY": "change column by %1 %2",
     "MOTION_JRREDUCECOLUMNBY": "reduce column by %1 %2",
     "MOTION_JRFORWARD": "forward %1",
+    "MOTION_JRBACKWARD": "backward %1",
     "MOTION_JRTURNLEFT": "turn left %1",
     "MOTION_JRTURNRIGHT": "turn right %1",
     "START_SPEECH": "start speech in %1",
