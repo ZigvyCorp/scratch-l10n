@@ -225,6 +225,7 @@
     "MOTION_GOTO_RANDOM": "position aléatoire",
     "MOTION_GOTOXY": "aller à x: %1 y: %2",
     "MOTION_GLIDESECSTOXY": "glisser en %1 secondes à x: %2 y: %3",
+    "MOTION_GLIDESECSTOXYZ": "glisser en %1 secondes à x: %2 y: %3 z%4",
     "MOTION_GLIDETO": "glisser en %1 secondes à %2",
     "MOTION_GLIDETO_POINTER": "pointeur de souris",
     "MOTION_GLIDETO_RANDOM": "position aléatoire",

@@ -224,6 +224,7 @@
     "MOTION_GOTO_RANDOM": "随机位置",
     "MOTION_GOTOXY": "移到 x: %1 y: %2",
     "MOTION_GLIDESECSTOXY": "在 %1 秒内滑行到 x: %2 y: %3",
+    "MOTION_GLIDESECSTOXYZ": "在 %1 秒内滑行到 x: %2 y: %3 z: %4",
     "MOTION_GLIDETO": "在 %1 秒内滑行到 %2",
     "MOTION_GLIDETO_POINTER": "鼠标指针",
     "MOTION_GLIDETO_RANDOM": "随机位置",

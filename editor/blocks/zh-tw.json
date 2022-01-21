@@ -198,6 +198,7 @@
     "MOTION_GOTO_RANDOM": "隨機",
     "MOTION_GOTOXY": "定位到 x:%1 y:%2",
     "MOTION_GLIDESECSTOXY": "滑行 %1 秒到 x:%2 y:%3",
+    "MOTION_GLIDESECSTOXYZ": "滑行 %1 秒到 x:%2 y:%3 z:%4",
     "MOTION_GLIDETO": "滑行 %1 秒到 %2 位置",
     "MOTION_GLIDETO_POINTER": "鼠標",
     "MOTION_GLIDETO_RANDOM": "隨機",

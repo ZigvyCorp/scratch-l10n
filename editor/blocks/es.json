@@ -225,6 +225,7 @@
     "MOTION_GOTO_RANDOM": "posición aleatoria",
     "MOTION_GOTOXY": "ir a x: %1 y: %2",
     "MOTION_GLIDESECSTOXY": "deslizar en %1 segs a x: %2 y: %3",
+    "MOTION_GLIDESECSTOXYZ": "deslizar en %1 segs a x: %2 y: %3 z%4",
     "MOTION_GLIDETO": "deslizar en %1 segs a %2",
     "MOTION_GLIDETO_POINTER": "puntero del ratón",
     "MOTION_GLIDETO_RANDOM": "posición aleatoria",

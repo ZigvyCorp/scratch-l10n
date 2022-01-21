@@ -225,6 +225,7 @@
     "MOTION_GOTO_RANDOM": "random position",
     "MOTION_GOTOXY": "go to x: %1 y: %2",
     "MOTION_GLIDESECSTOXY": "glide %1 secs to x: %2 y: %3",
+    "MOTION_GLIDESECSTOXYZ": "glide %1 secs to x: %2 y: %3 z: %4",
     "MOTION_GLIDETO": "glide %1 secs to %2",
     "MOTION_GLIDETO_POINTER": "mouse-pointer",
     "MOTION_GLIDETO_RANDOM": "random position",
