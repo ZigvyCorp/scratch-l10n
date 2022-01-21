@@ -547,6 +547,7 @@
     "target":  "目标",
     "targetmove":  "目标移动",
     "free": "自由",
+    "freeright": "自由（鼠标右键）",
     "anydirection":  "任意角度", 
     "leftrightonly":  "只能左转或右转",
     "speeddrop":  "减速度",

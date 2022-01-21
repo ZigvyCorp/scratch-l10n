@@ -437,6 +437,7 @@
     "target": "Objetivo",
     "targetmove": "Movimiento Objetivo",
     "free": "Libre",
+    "freeright": "Gratis (botón derecho del ratón)",
     "anydirection": "Cualquier dirección",
     "leftrightonly": "Solo izquierda-derecha", 
     "speeddrop": "Caída de velocidad",

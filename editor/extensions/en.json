@@ -436,6 +436,7 @@
     "target": "Target", 
     "targetmove": "Target Movement", 
     "free": "Free",
+    "freeright": "Free (Right Button)",
     "anydirection": "Any Direction",
     "leftrightonly": "Left-Right Only", 
     "speeddrop": "Speed Drop", 

@@ -437,6 +437,7 @@
     "target": "Cible", 
     "targetmove": "Mouvement Cible",
     "free": "libérer",
+    "freeright": "Gratuit (bouton droit de la souris)",
     "anydirection": "N'importe quelle direction",
     "leftrightonly": "Gauche-Droite uniquement", 
     "speeddrop": "Chute de vitesse", 
