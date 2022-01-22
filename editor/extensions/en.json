@@ -439,6 +439,8 @@
     "freeright": "Free (Right Button)",
     "alpha": "Alpha",
     "beta": "Beta", 
+    "v-angle" :"V-Angle",
+    "h-angle" :"H-Angle",
     "x direction": "X Direction",
     "y direction": "Y Direction",
     "z direction": "Z Direction",

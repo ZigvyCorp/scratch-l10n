@@ -440,6 +440,8 @@
     "freeright": "Gratuit (bouton droit de la souris)",
     "alpha": "Alpha",
     "beta": "Bêta",
+    "v-angle" :"V-Angle",
+    "h-angle" :"H-Angle",
     "x direction": "Direction X",
     "y direction": "Direction Y",
     "z direction": "Direction Z",
