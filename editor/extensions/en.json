@@ -432,7 +432,7 @@
     "forwardonly": "Forward Only",
     "speedup": "Acceleration", 
     "zspeed": "Z Speed",
-    "screen": "Screen", 
+    "screen": "Fixed", 
     "target": "Target", 
     "targetmove": "Target Movement", 
     "free": "Free",

@@ -543,7 +543,7 @@
     "forwardonly":  "面向前方",
     "speedup":  "加速度",
     "zspeed":  "Z方向速度",
-    "screen": "屏幕",
+    "screen": "固定",
     "target":  "目标",
     "targetmove":  "目标移动",
     "free": "自由",
