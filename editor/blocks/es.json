@@ -97,7 +97,7 @@
     "DATA_LOADDATA": "cargar datos denominados %1",
     "DATA_LOAD_DATA_NAMES": "nombres de datos",
     "DATA_LOOKUPTABLE": "%1 de %2 para %3 de %4",
-    "DATA_ROWATINDEXOFTABLE": "fila %1 de la tabla %2",
+    "DATA_ROWATINDEXOFTABLE": "fila %1 de la tabla %2 separador %3",
     "DATA_ROWINDEXWITHCONDITION": "fila # de %1 en la columna %2 en la tabla %3",
     "DATA_ADDROWTOTABLE": "agregar a la tabla %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",
     "DATA_ADDCOLATPOSITION": "agregue la columna %1 en la posición %2 a la tabla %3",
