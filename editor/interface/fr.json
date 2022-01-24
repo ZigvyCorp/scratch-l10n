@@ -568,5 +568,6 @@
     "gui.verticalMode.nextBlock.button.title": "Passer au bloc suivant",
     "gui.verticalMode.prevBlock.button.title": "Passer au bloc précédent",
     "gui.verticalMode.bookmarkBlock.button.title": "Passer au bloc marqué d'un signet",
-    "gui.verticalMode.removeHighlight.button.title": "Supprimer le surlignage"
+    "gui.verticalMode.removeHighlight.button.title": "Supprimer le surlignage",
+    "gui.verticalMode.toggle.title": "Mode vertical"
 }

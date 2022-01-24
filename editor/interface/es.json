@@ -568,5 +568,6 @@
     "gui.verticalMode.nextBlock.button.title": "Mover al bloque siguiente",
     "gui.verticalMode.prevBlock.button.title": "Mover al bloque anterior",
     "gui.verticalMode.bookmarkBlock.button.title": "Mover al bloque marcado como favorito",
-    "gui.verticalMode.removeHighlight.button.title": "Quitar destacado"
+    "gui.verticalMode.removeHighlight.button.title": "Quitar destacado",
+    "gui.verticalMode.toggle.title": "Modo vertical"
 }
