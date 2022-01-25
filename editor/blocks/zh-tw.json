@@ -143,6 +143,8 @@
     "EVENT_WHENKEYPRESSED_SHIFT": "shift",
     "EVENT_WHENKEYPRESSED_ALT": "alt",
     "EVENT_WHENKEYPRESSED_ANY": "任何",
+    "EVENT_WHENSPRITETOUCHINGOBJECT": "觸摸 %1 時？",
+    "EVENT_WHENSPRITETOUCHINGCOLOR": "觸摸顏色 %1 時？",
     "LOOKS_SAYFORSECS": "說出 %1 持續 %2 秒",
     "LOOKS_SAY": "說出 %1",
     "LOOKS_HELLO": "Hello!",
