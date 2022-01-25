@@ -548,7 +548,7 @@
     "d3_materialsetting": "réglage du matériau : mode filaire [ISWIREFRAME] face arrière [ISBACKFACE] décalage z [ZOFFSET] profondeur du journal [ISLOGDEPTH] transparent [TRANS]", 
     "d3_lockfacing": "régler le mode face à la caméra [FACEMODE]", 
     "d3_updatephysics": "activer la physique en tant que [SHAPE] avec restitution de masse [MASS] [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",
-    "d3_updatescale": "mise à jour échelle x [X]% y [Y]% z [Z]%", 
+    "d3_updatescale": "mise à jour échelle x [X]% y [Y]% z [Z]% en [PERIOD] secondes [BLOCKING]", 
     "d3_updatescale2": "taille de mise à jour x [X] y [Y] z [Z]", 
     "d3_subdivideface": "subdiviser les visages par [MULTIPLE]",
     "d3_shiftvertices": "mise à jour des sommets échelle xyz [XS] [YS] [ZS] déplacer xyz [XM] [YM] [ZM] position min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [MAXZ]",

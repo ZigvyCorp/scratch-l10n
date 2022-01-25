@@ -381,7 +381,7 @@
     "d3_materialsetting": "材料设置: 线框模式 [ISWIREFRAME] 显示背面 [ISBACKFACE] z位移 [ZOFFSET] 对数深度 [ISLOGDEPTH] 透明 [TRANS]",
     "d3_lockfacing":  "设置朝向摄像头模式 [FACEMODE]",
     "d3_updatephysics": "设置物理化身 [SHAPE] 质量 [MASS] 恢复系数 [RESTITUTION]% 摩擦系数 [FRICTION]% 调试 [ISDEBUG]",
-    "d3_updatescale":  "更新比例 x [X]% y [Y]% z [Z]%",
+    "d3_updatescale":  "更新比例 x [X]% y [Y]% z [Z]% 在 [PERIOD] 秒内 [BLOCKING]",
     "d3_updatescale2":  "更新大小 x [X] y [Y] z [Z]",
     "d3_subdivideface": "网格细分 倍数 [MULTIPLE]",
     "d3_shiftvertices":  "更新顶点 拉伸 xyz [XS] [YS] [ZS] 移动 xyz [XM] [YM] [ZM] 位置最小 xyz [MINX] [MINY] [MINZ] 位置最大 xyz [MAXX] [MAXY] [MAXZ]",

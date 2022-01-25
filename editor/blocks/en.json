@@ -129,6 +129,8 @@
     "EVENT_WHENGREATERTHAN": "when %1 > %2",
     "EVENT_WHENGREATERTHAN_TIMER": "timer",
     "EVENT_WHENGREATERTHAN_LOUDNESS": "loudness",
+    "EVENT_WHENSPRITETOUCHINGOBJECT": "when touching %1?",
+    "EVENT_WHENSPRITETOUCHINGCOLOR": "when touching color %1?",
     "EVENT_BROADCAST": "broadcast %1",
     "EVENT_BROADCASTWITHPARAM": "broadcast %1 with parameter %2",
     "EVENT_BROADCASTANDWAIT": "broadcast %1 and wait",

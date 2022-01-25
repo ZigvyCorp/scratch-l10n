@@ -551,7 +551,7 @@
     "d3_materialsetting": "configuración de material: modo de estructura alámbrica [ISWIREFRAME] retroceso de cara [ISBACKFACE] z-offset [ZOFFSET] profundidad de registro [ISLOGDEPTH] transparente [TRANS]",
     "d3_lockfacing": "establecer el modo de orientación de la cámara [FACEMODE]",
     "d3_updatephysics": "habilitar la física como una [SHAPE] con masa [MASS] restitución [RESTITUTION]% fricción [FRICTION]% depuración [ISDEBUG]",
-    "d3_updatescale": "actualizar escala x [X]% y [Y]% z [Z]%",
+    "d3_updatescale": "actualizar escala x [X]% y [Y]% z [Z]% en [PERIOD] segundos [BLOCKING]",
     "d3_updatescale2": "tamaño de actualización x [X] y [Y] z [Z]",
     "d3_subdivideface": "subdivide caras por [MÚLTIPLES]",
     "d3_shiftvertices": "actualizar la escala de vértices xyz [XS] [YS] [ZS] mover xyz [XM] [YM] [ZM] posición min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [ MAXZ] ",
