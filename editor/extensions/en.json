@@ -450,6 +450,8 @@
     "target x": "Target X",
     "target y": "Target Y",
     "target z": "Target Z",
+    "leftbuttonpointer": "Pointer (Left Button)",
+    "rightbutton": "Right Button",
     "anydirection": "Any Direction",
     "leftrightonly": "Left-Right Only", 
     "speeddrop": "Speed Drop", 

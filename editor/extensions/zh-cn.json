@@ -561,6 +561,8 @@
     "target x": "目标点 X",
     "target y": "目标点 Y",
     "target z": "目标点 Z",
+    "leftbuttonpointer": "指针（鼠标左键）",
+    "rightbutton": "鼠标右键",
     "anydirection":  "任意角度", 
     "leftrightonly":  "只能左转或右转",
     "speeddrop":  "减速度",

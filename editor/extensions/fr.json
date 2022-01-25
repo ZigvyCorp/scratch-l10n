@@ -451,6 +451,8 @@
     "target x": "Cible X",
     "target y": "Cible Y",
     "target z": "Cible Z",
+    "leftbuttonpointer": "Pointeur (bouton gauche)",
+    "rightbutton": "Bouton droit",
     "anydirection": "N'importe quelle direction",
     "leftrightonly": "Gauche-Droite uniquement", 
     "speeddrop": "Chute de vitesse", 
