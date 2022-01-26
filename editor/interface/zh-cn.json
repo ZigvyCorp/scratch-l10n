@@ -568,5 +568,6 @@
     "gui.verticalMode.nextBlock.button.title": "移动到下一个块",
     "gui.verticalMode.prevBlock.button.title": "移动到上一个块",
     "gui.verticalMode.bookmarkBlock.button.title": "移动到书签块",
-    "gui.verticalMode.removeHighlight.button.title": "删除高亮"
+    "gui.verticalMode.removeHighlight.button.title": "删除高亮",
+    "gui.verticalMode.toggle.title": "垂直模式"
 }
