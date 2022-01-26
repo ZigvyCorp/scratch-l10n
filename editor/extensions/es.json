@@ -589,6 +589,7 @@
     "d3_setcollision": "activar [ISBLOCKING] colisión con [SPRITE] desplazamiento z del colisionador [ZCENTER] precisión [PRECISION] depurar [ISDEBUG]",
     "d3_setcollisiondimension": "actualizar la dimensión del colisionador x [ANCHO] y [PROFUNDIDAD] z [ALTO] desplazamiento z del colisionador [ZCENTER] rango de detección x [RX] y [RY] z [RZ] color [COLOR]",
     "d3_whenincollision": "al chocar con [SPRITE]",
+    "d3_whenobjectpicked": "cuando se selecciona un objeto",
     "d3_bakecurrenttransformation": "corriente de horneado",
     "d3_spritename": "nombre del objeto sprite",
     "d3_spritescalex": "objeto de sprite escala x",
