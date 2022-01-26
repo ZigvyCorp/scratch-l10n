@@ -451,7 +451,7 @@
     "START_SPEECH": "在 %1 中開始演講",
     "END_SPEECH": "结束演讲",
     "TEXT_FROM_SPEECH": "来自语音的文本",
-    "SPEAK_IN_LANGUAGE": "在 %2 中以 %3 的身份說出 %1",
+    "SPEAK_IN_LANGUAGE": "以 %3 速度 %4 音高 %5 以 %2 說話 %1",
     "TRANSLATE_TEXT": "将 %1 从 %2 翻译成 %3",
     "ARABIC_ID":"阿拉伯语",
     "CHINESE_ID":"中文（普通话）",
