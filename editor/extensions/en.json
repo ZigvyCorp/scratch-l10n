@@ -585,7 +585,7 @@
     "d3_setcollision": "turn on [ISBLOCKING] collision with [SPRITE] collider z offset [ZCENTER] precision [PRECISION] debug [ISDEBUG]", 
     "d3_setcollisiondimension": "update collider dimension x [WIDTH] y [DEPTH] z [HEIGHT] collider z offset [ZCENTER] sensing range x [RX] y [RY] z [RZ] color [COLOR]",
     "d3_whenincollision": "when colliding with [SPRITE]",
-    "d3_whenobjectpicked": "when an object is picked",
+    "d3_whenobjectpicked": "when an object from this sprite is picked",
     "d3_bakecurrenttransformation": "bake current transformations", 
     "d3_spritename": "sprite object name", 
     "d3_spritescalex": "sprite object scale x", 

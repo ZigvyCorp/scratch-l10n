@@ -403,7 +403,7 @@
     "d3_setcollision": "開啟與 [SPRITE] 的 [ISBLOCKING] 碰撞 碰撞器 z 位移  [ZCENTER] 精度 [PRECISION] 调试 [ISDEBUG]",
     "d3_setcollisiondimension": "更新碰撞範圍 x [WIDTH] y [DEPTH] z [HEIGHT] 碰撞器 z 位移  [ZCENTER] 檢測距離 x [RX] y [RY] z [RZ] 颜色 [COLOR]",
     "d3_whenincollision": "當與 [SPRITE] 碰撞時",
-    "d3_whenobjectpicked": "當一個物體被选中時",
+    "d3_whenobjectpicked": "當這個角色中的一個物體被选中時",
     "d3_bakecurrenttransformation": "烘焙當前轉換",
     "d3_spritename": "角色物體名稱",
     "d3_spritescalex": "精靈物體比例 x",
