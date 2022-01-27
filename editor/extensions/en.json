@@ -554,6 +554,8 @@
     "d3_setasparent": "set object [PARENTNAME] from sprite [SPRITE] as parent",
     "d3_removeparent": "unlink parent", 
     "d3_removechildren": "unlink all children",
+    "d3_createemitter": "add emitter texture [TEXTURE] facing camera [FACINGCAMERA] capacity [CAP] as [NAME]",
+    "d3_emittercommand": "[COMMAND] emitter named [NAME]",
     "d3_removeobject": "remove object named [NAME]",
     "d3_showbounds": "show bounding box [SHOW]",
     "d3_updatecolor": "update color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] remove texture [REMOVETEXTURE] area [COMPONENT]",
