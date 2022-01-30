@@ -286,6 +286,7 @@
     "OPERATORS_MOD": "%1 modulo %2",
     "OPERATORS_POW": "%1 ^ %2",
     "OPERATORS_VECTOR_DISTANCE": "distance entre x %1 y %2 et x %3 y %4 %5",
+    "OPERATORS_VECTOR_DISTANCE3D": "distance entre x %1 y %2 z %3 et x %4 y %5 z %6 %7",
     "OPERATORS_VECTOR_DISTANCE_DIRECT": "direct",
     "OPERATORS_VECTOR_DISTANCE_MANHATTAN": "Manhattan",
     "OPERATORS_VECTOR_DIRECTION": "direction de x %1 y %2 à x %3 y %4",

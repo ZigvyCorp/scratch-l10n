@@ -285,6 +285,7 @@
     "OPERATORS_MOD": "%1 除以 %2 的余数",
     "OPERATORS_POW": "%1 ^ %2",
     "OPERATORS_VECTOR_DISTANCE": "计算距离 x %1 y %2 到 x %3 y %4 方法 %5",
+    "OPERATORS_VECTOR_DISTANCE3D": "计算距离 x %1 y %2 z %3 到 x %4 y %5 z %6 方法 %7",
     "OPERATORS_VECTOR_DISTANCE_DIRECT": "直线距离",
     "OPERATORS_VECTOR_DISTANCE_MANHATTAN": "曼哈顿距离",
     "OPERATORS_VECTOR_DIRECTION": "从 x %1 y %2 到 x %3 y %4 的方向",
