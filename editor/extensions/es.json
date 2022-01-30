@@ -500,6 +500,7 @@
     "d3_addobservercamera": "agregar cámara de observador en xyz [X] [Y] [Z] hacia xyz [X2] [Y2] [Z2] velocidad [VELOCIDAD]",
     "d3_addorbitcamera": "agregar distancia de cámara en órbita [DISTANCE] ángulo v [VANGLE] ángulo h [HANGLE] relación de velocidad de panorámica [PANSPEEDRATIO]",
     "d3_setcameratarget": "establecer el objetivo de la cámara xyz [X] [Y] [Z]",
+    "d3_setcameradirection": "establecer el ángulo v de la cámara [VANGLE] ángulo h [HANGLE]",
     "d3_configureorbitcamera": "configurar el radio de la cámara en órbita min [MINDIST] max [MAXDIST] rango visible min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] ratio de velocidad panorámica [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",
     "d3_carfollowcamera": "agregar distancia de seguimiento de cámara [DISTANCE] compensación z [ZOFFSET] ángulo v [VANGLE] ángulo h [HANGLE] bloqueo de dirección [DIRECTIONTYPE] transparente [TRANS]%",
     "d3_addhatcamera": "agregar cámara de sombrero con desplazamiento xyz [X] [Y] [Z]",
