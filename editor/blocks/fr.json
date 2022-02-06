@@ -290,6 +290,7 @@
     "OPERATORS_VECTOR_DISTANCE_DIRECT": "direct",
     "OPERATORS_VECTOR_DISTANCE_MANHATTAN": "Manhattan",
     "OPERATORS_VECTOR_DIRECTION": "direction de x %1 y %2 à x %3 y %4",
+    "OPERATORS_NOISE2D": "bruit à x %1 y %2 graine %3",
     "OPERATORS_ROUND": "arrondi de %1",
     "OPERATORS_MATHOP": "%1 de %2",
     "OPERATORS_MATHOP_ABS": "abs",

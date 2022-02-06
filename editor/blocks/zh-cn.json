@@ -289,6 +289,7 @@
     "OPERATORS_VECTOR_DISTANCE_DIRECT": "直线距离",
     "OPERATORS_VECTOR_DISTANCE_MANHATTAN": "曼哈顿距离",
     "OPERATORS_VECTOR_DIRECTION": "从 x %1 y %2 到 x %3 y %4 的方向",
+    "OPERATORS_NOISE2D": "噪声 x %1 y %2 种子 %3",
     "OPERATORS_ROUND": "四舍五入 %1",
     "OPERATORS_MATHOP": "%1 %2",
     "OPERATORS_MATHOP_ABS": "绝对值",
