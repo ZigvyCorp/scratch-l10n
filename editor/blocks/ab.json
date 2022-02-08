@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "зегьы",
     "CONTROL_STOP_THIS": "ари апрограмма",
     "CONTROL_STOP_OTHER": "анагӡаҩ егьырҭ ипрограммақәа",
-    "CONTROL_WAIT": "иԥштәуп %1 секундк",
+    "CONTROL_WAIT": "иԥштәуп %1 %2",
     "CONTROL_WAITUNTIL": "иԥштәуп %1 -нӡа",
     "CONTROL_REPEATUNTIL": "инагӡалатәуп %1 акәымзар",
     "CONTROL_WHILE": "%1 иашанаҵ",

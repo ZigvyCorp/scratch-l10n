@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "tot",
     "CONTROL_STOP_THIS": "aquest programa",
     "CONTROL_STOP_OTHER": "altres programes del personatge",
-    "CONTROL_WAIT": "espera %1 segons",
+    "CONTROL_WAIT": "espera %1 %2",
     "CONTROL_WAITUNTIL": "espera fins %1",
     "CONTROL_REPEATUNTIL": "repeteix fins %1",
     "CONTROL_WHILE": "mentre %1",

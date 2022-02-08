@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "সব",
     "CONTROL_STOP_THIS": "এই স্ক্রিপ্ট",
     "CONTROL_STOP_OTHER": "স্প্রাইটে অন্যান্য স্ক্রিপ্টসমূহ",
-    "CONTROL_WAIT": "%1 সেকেন্ড অপেক্ষা কর",
+    "CONTROL_WAIT": "%1 %2 অপেক্ষা করুন",
     "CONTROL_WAITUNTIL": "%1 পর্যন্ত অপেক্ষা কর",
     "CONTROL_REPEATUNTIL": "%1 পর্যন্ত পুনরাবৃত্তি কর",
     "CONTROL_WHILE": "যখন %1",

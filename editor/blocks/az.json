@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "hamısı",
     "CONTROL_STOP_THIS": "bu skript",
     "CONTROL_STOP_OTHER": "spraytın digər skriptləri",
-    "CONTROL_WAIT": "%1 saniyə gözlə",
+    "CONTROL_WAIT": "%1 %2 gözlə",
     "CONTROL_WAITUNTIL": "%1 qədər gözlə",
     "CONTROL_REPEATUNTIL": "təkrarla nə qədər ki, %1 deyil",
     "CONTROL_WHILE": "təkrarla nə qədər ki, %1 ",

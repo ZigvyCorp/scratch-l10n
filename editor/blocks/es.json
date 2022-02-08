@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "todos",
     "CONTROL_STOP_THIS": "este programa",
     "CONTROL_STOP_OTHER": "otros programas en el objeto",
-    "CONTROL_WAIT": "esperar %1 segundos",
+    "CONTROL_WAIT": "esperar %1 %2",
     "CONTROL_WAITUNTIL": "esperar hasta que %1",
     "CONTROL_REPEATUNTIL": "repetir hasta que %1",
     "CONTROL_WHILE": "mientras %1",
