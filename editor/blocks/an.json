@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "totz",
     "CONTROL_STOP_THIS": "este programa",
     "CONTROL_STOP_OTHER": "atros programas en l'obchecto",
-    "CONTROL_WAIT": "aguardar %1 segundos",
+    "CONTROL_WAIT": "aguardar %1 %2",
     "CONTROL_WAITUNTIL": "aguardar dica que %1",
     "CONTROL_REPEATUNTIL": "repetir dica que %1",
     "CONTROL_WHILE": "mientres %1",

@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "tất cả",
     "CONTROL_STOP_THIS": "kịch bản này",
     "CONTROL_STOP_OTHER": "các kịch bản khác cho nhân vật",
-    "CONTROL_WAIT": "đợi %1 giây",
+    "CONTROL_WAIT": "đợi %1 %2",
     "CONTROL_WAITUNTIL": "đợi đến khi %1",
     "CONTROL_REPEATUNTIL": "lặp lại cho đến khi %1",
     "CONTROL_WHILE": "trong khi %1",

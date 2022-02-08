@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "الكل",
     "CONTROL_STOP_THIS": "المقطع البرمجي الحالي",
     "CONTROL_STOP_OTHER": "المقاطع الأخرى في الكائن",
-    "CONTROL_WAIT": "انتظر %1 ثانية",
+    "CONTROL_WAIT": "انتظر %1 %2",
     "CONTROL_WAITUNTIL": "انتظر حتى %1",
     "CONTROL_REPEATUNTIL": "كرِّر حتى %1",
     "CONTROL_WHILE": "طالما %1",

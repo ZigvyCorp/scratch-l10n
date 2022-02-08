@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "全部脚本",
     "CONTROL_STOP_THIS": "这个脚本",
     "CONTROL_STOP_OTHER": "该角色的其他脚本",
-    "CONTROL_WAIT": "等待 %1 秒",
+    "CONTROL_WAIT": "等待 %1 %2",
     "CONTROL_WAITUNTIL": "等待 %1",
     "CONTROL_REPEATUNTIL": "重复执行直到 %1",
     "CONTROL_WHILE": "当 %1 重复执行",

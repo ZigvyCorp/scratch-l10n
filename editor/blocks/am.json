@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "ሁሉም",
     "CONTROL_STOP_THIS": "ይሄ ስክሪፕት",
     "CONTROL_STOP_OTHER": "ሌሎች በስፕራይት ላይ ያሉ ስክሪፕቶች",
-    "CONTROL_WAIT": "ጠብቅ ለ%1 ሰከንድ",
+    "CONTROL_WAIT": "ጠብቅ ለ%1 %2",
     "CONTROL_WAITUNTIL": "ጠብቅ እስከ %1",
     "CONTROL_REPEATUNTIL": "ድገም እስከ %1",
     "CONTROL_WHILE": "%1 ያለ",

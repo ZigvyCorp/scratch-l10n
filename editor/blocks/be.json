@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "усе",
     "CONTROL_STOP_THIS": "гэты скрыпт",
     "CONTROL_STOP_OTHER": "іншыя скрыпты спрайта",
-    "CONTROL_WAIT": "чакаць %1 секунд",
+    "CONTROL_WAIT": "чакаць %1 %2",
     "CONTROL_WAITUNTIL": "чакаць да %1",
     "CONTROL_REPEATUNTIL": "паўтараць, пакуль не %1",
     "CONTROL_WHILE": "пакуль %1",

@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "al",
     "CONTROL_STOP_THIS": "hierdie skrip",
     "CONTROL_STOP_OTHER": "ander skripte in sprite",
-    "CONTROL_WAIT": "wag %1 sekondes",
+    "CONTROL_WAIT": "wag %1 %2",
     "CONTROL_WAITUNTIL": "wag totdat %1",
     "CONTROL_REPEATUNTIL": "herhaal totdat %1",
     "CONTROL_WHILE": "terwyl %1",

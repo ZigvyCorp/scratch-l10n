@@ -7,7 +7,7 @@
     "CONTROL_STOP_ALL": "всички",
     "CONTROL_STOP_THIS": "този скрипт",
     "CONTROL_STOP_OTHER": "другите скриптове на спрайта",
-    "CONTROL_WAIT": "изчакай %1 сек",
+    "CONTROL_WAIT": "изчакай %1 %2",
     "CONTROL_WAITUNTIL": "чакай докато %1",
     "CONTROL_REPEATUNTIL": "повтаряй докато %1",
     "CONTROL_WHILE": "докато %1",
