@@ -19,6 +19,7 @@
     "CONTROL_CREATECLONEOF": "建立 %1 的分身",
     "CONTROL_CREATECLONEOF_MYSELF": "自己",
     "CONTROL_DELETETHISCLONE": "分身刪除",
+    "CONTROL_BREAK": "休息",
     "CONTROL_COUNTER": "計數器",
     "CONTROL_INCRCOUNTER": "計數器累計",
     "CONTROL_CLEARCOUNTER": "計數器重置",
