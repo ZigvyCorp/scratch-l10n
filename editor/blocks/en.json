@@ -19,6 +19,7 @@
     "CONTROL_CREATECLONEOF": "create clone of %1",
     "CONTROL_CREATECLONEOF_MYSELF": "myself",
     "CONTROL_DELETETHISCLONE": "delete this clone",
+    "CONTROL_BREAK": "break",
     "CONTROL_COUNTER": "counter",
     "CONTROL_INCRCOUNTER": "increment counter",
     "CONTROL_CLEARCOUNTER": "clear counter",

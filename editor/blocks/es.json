@@ -19,6 +19,7 @@
     "CONTROL_CREATECLONEOF": "crear clon de %1",
     "CONTROL_CREATECLONEOF_MYSELF": "mí mismo",
     "CONTROL_DELETETHISCLONE": "eliminar este clon",
+    "CONTROL_BREAK": "descanso",
     "CONTROL_COUNTER": "contador",
     "CONTROL_INCRCOUNTER": "incrementar contador",
     "CONTROL_CLEARCOUNTER": "borrar contador",
