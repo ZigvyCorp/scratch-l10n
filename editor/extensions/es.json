@@ -689,6 +689,7 @@
     "d3_showinspector": "muestre al inspector [MOSTRAR]",
     "communityObjectNotFound": "El modelo {modelName} es actualmente privado o no existe",
     "d3_switchFullScreen": "cambiar a pantalla completa",
-    "d3_set_property": "establece la propiedad [PROPERTY_NAME] en [PROPERTY_VALUE] para [OBJECT_NAME]",
-    "d3_property": "propiedad [PROPERTY_NAME] de [OBJECT_NAME]"
+    "d3_set_property": "establecer la propiedad [PROPERTY_NAME] en [PROPERTY_VALUE] para [OBJECT_NAME] en el modelo con nombre [MODEL_NAME]",
+    "d3_property": "propiedad [PROPERTY_NAME] de [OBJECT_NAME] en el modelo nombrado [MODEL_NAME]",
+    "d3_foreachproperty": "para cada propiedad denominada [PROPERTY_NAME] con valor [PROPERTY_VALUE] para [OBJECT_NAME] en el modelo denominado [MODEL_NAME]"
 }
