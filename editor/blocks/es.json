@@ -139,6 +139,7 @@
     "EVENT_SENDMESSAGEWITHPARAMANDWAIT": "envía %1 con el parámetro %2 al sprite %3 y espera",
     "EVENT_WHENKEYPRESSED": "al presionar tecla %1",
     "EVENT_WHENKEYRELEASED": "cuando se suelta la tecla %1",
+    "EVENT_WHENBOOLEAN": "cuándo %1",
     "EVENT_WHENKEYPRESSED_SPACE": "espacio",
     "EVENT_WHENKEYPRESSED_LEFT": "flecha izquierda",
     "EVENT_WHENKEYPRESSED_RIGHT": "flecha derecha",

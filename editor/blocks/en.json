@@ -141,6 +141,7 @@
     "EVENT_SENDMESSAGEWITHPARAMANDWAIT": "send %1 with parameter %2 to sprite %3 and wait",
     "EVENT_WHENKEYPRESSED": "when %1 key pressed",
     "EVENT_WHENKEYRELEASED": "when %1 key released",
+    "EVENT_WHENBOOLEAN": "when %1",
     "EVENT_WHENKEYPRESSED_SPACE": "space",
     "EVENT_WHENKEYPRESSED_LEFT": "left arrow",
     "EVENT_WHENKEYPRESSED_RIGHT": "right arrow",
