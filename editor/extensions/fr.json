@@ -681,6 +681,7 @@
     "d3_distanceleft": "distance à l'obstacle à gauche", 
     "d3_distanceright": "distance à l'obstacle à droite",
     "d3_extrude2": "extruder costume [COSTUME] épaisseur [HEIGHT] côté couleur [COLOR] granularité [GRAN] nommé [NAME]",
+    "d3_addcube": "ajoute la taille du voxel en xyz [SIZEX] [SIZEY] [SIZEZ] avec les costumes en haut [TOP] en ​​bas [BOTTOM] devant [FRONT] derrière [BACK] gauche [LEFT] droite [RIGHT] taille de la texture [TEXTURELEN] échantillonner [SAMPLINGMETHOD] comme [NAME]",
     "d3_addcommunityobject": "ajouter le modèle de communauté [OBJECTNAME] nommé [NAME]",
     "d3_showinspector": "show inspector [SHOW]",
     "d3_exportglb": "exporter l'objet [NAME] en tant que fichier GLB",
