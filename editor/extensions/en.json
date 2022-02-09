@@ -252,7 +252,7 @@
     "widget.addDatePicker" : "add date picker at X [X] Y [Y] as [NAME]",
     "widget.addColorPicker": "add color picker at X [X] Y [Y] as [NAME]",
     "widget.addSlider": "add slider at X [X] Y [Y] between [MIN] and [MAX] as [NAME]",
-    "widget.addMenu": "add menu at X [X] Y [Y] using list [LIST] as [NAME]",
+    "widget.addMenu": "add dropdown menu at X [X] Y [Y] width [WIDTH] height [HEIGHT] using list [LIST] as [NAME]",
     "widget.whenButtonClicked": "when button [NAME] clicked",
     "widget.whenWidgetChanges": "when widget [NAME] changes",
     "widget.setTextStyle": "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] for widget [NAME]",
