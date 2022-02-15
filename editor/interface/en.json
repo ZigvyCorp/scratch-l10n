@@ -124,6 +124,7 @@
     "gui.menuBar.restore": "Restore",
     "gui.menuBar.saveNow": "Save now",
     "gui.menuBar.saveAsCopy": "Save as a copy",
+    "gui.menuBar.delete": "Delete",
     "gui.menuBar.getQuickID": "Get quick ID",
     "gui.menuBar.remix": "Remix",
     "gui.menuBar.new": "New",

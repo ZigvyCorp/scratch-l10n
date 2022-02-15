@@ -123,6 +123,7 @@
     "gui.menuBar.restoreBlock": "Restaurer le bloc",
     "gui.menuBar.restore": "Restaurer",
     "gui.menuBar.saveNow": "Enregistrer maintenant",
+    "gui.menuBar.delete": "Supprimer",
     "gui.menuBar.saveAsCopy": "Enregistrer comme copie",
     "gui.menuBar.getQuickID": "Obtenez une identification rapide",
     "gui.menuBar.remix": "Remix",

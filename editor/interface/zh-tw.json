@@ -118,6 +118,7 @@
     "gui.menuBar.restore": "復原",
     "gui.menuBar.saveNow": "儲存",
     "gui.menuBar.saveAsCopy": "另存成複本",
+    "gui.menuBar.delete": "刪除",
     "gui.menuBar.getQuickID": "快速獲取身份證",
     "gui.menuBar.remix": "改編",
     "gui.menuBar.new": "新建專案",
