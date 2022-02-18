@@ -129,6 +129,8 @@
     "EVENT_WHENSPRITEDRAGGINGSTARTS": "when dragging starts",
     "EVENT_WHENSPRITEBEINGDRAGGED": "when being dragged",
     "EVENT_WHENSPRITEDRAGGINGSTOPS": "when dragging stops",
+    "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "when %1 mouse button is clicked at x %2 y %3",
+    "EVENT_WHENMOUSEWHEEL": "when mouse wheel scroll by %1",
     "EVENT_WHENSTAGECLICKED": "when stage clicked",
     "EVENT_WHENTOUCHINGOBJECT": "when this sprite touches %1",
     "EVENT_WHENBROADCASTRECEIVED": "when I receive %1",
@@ -513,5 +515,7 @@
     "OPERATORS_REGEX_SEARCH": "regex %1 flag %2 search %3",
     "OPERATORS_REGEX_REPLACE_WITH": "regex %1 flag %2 replace %3 with %4",
     "OPERATORS_REGEX_REPLACE_ALL_WITH": "regex %1 flag %2 replace all %3 with %4",
-    "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 split %2 into list %3"
+    "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 split %2 into list %3",
+    "LEFT_MOUSE_BUTTON": "left",
+    "RIGHT_MOUSE_BUTTON": "right"
 }
