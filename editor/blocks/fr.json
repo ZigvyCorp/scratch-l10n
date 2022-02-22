@@ -20,6 +20,7 @@
     "CONTROL_CREATECLONEOF_MYSELF": "moi-même",
     "CONTROL_DELETETHISCLONE": "supprimer ce clone",
     "CONTROL_BREAK": "pause",
+    "CONTROL_CONTINUE": "continuez",
     "CONTROL_COUNTER": "compteur",
     "CONTROL_INCRCOUNTER": "incrémenter le compteur",
     "CONTROL_CLEARCOUNTER": "effacer le compteur",

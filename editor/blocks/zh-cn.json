@@ -20,6 +20,7 @@
     "CONTROL_CREATECLONEOF_MYSELF": "自己",
     "CONTROL_DELETETHISCLONE": "删除此克隆体",
     "CONTROL_BREAK": "休息",
+    "CONTROL_CONTINUE": "继续",
     "CONTROL_COUNTER": "计数器",
     "CONTROL_INCRCOUNTER": "计数器加一",
     "CONTROL_CLEARCOUNTER": "计数器归零",
