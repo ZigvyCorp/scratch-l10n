@@ -507,5 +507,11 @@
     "BOY": "Garçon",
     "GIRL": "Fille",
     "BOOKMARK": "Signet",
-    "REMOVE_BOOKMARK": "Supprimer le signet"
+    "REMOVE_BOOKMARK": "Supprimer le signet",
+    "OPERATORS_REGEX_TEST": "regex %1 indicateur %2 test %3",
+    "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 indicateur %2 correspond à %3 dans la liste %4",
+    "OPERATORS_REGEX_SEARCH": "regex %1 indicateur %2 recherche %3",
+    "OPERATORS_REGEX_REPLACE_WITH": "regex %1 indicateur %2 remplace %3 par %4 ",
+    "OPERATORS_REGEX_REPLACE_ALL_WITH": "regex %1 flag %2 remplace tous les %3 par %4",
+    "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 divise %2 en liste %3"
 }

@@ -507,5 +507,11 @@
     "BOY": "Niño",
     "GIRL": "Niña",
     "BOOKMARK": "Marcador",
-    "REMOVE_BOOKMARK": "Eliminar marcador"
+    "REMOVE_BOOKMARK": "Eliminar marcador",
+    "OPERATORS_REGEX_TEST": "regex %1 marca %2 prueba %3",
+    "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 marca %2 coincide con %3 en la lista %4",
+    "OPERATORS_REGEX_SEARCH": "regex %1 marca %2 busca %3",
+    "OPERATORS_REGEX_REPLACE_WITH": "regex %1 marca %2 reemplaza %3 con %4 ",
+    "OPERATORS_REGEX_REPLACE_ALL_WITH": "regex %1 marca %2 reemplaza todo %3 con %4",
+    "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 divide %2 en la lista %3"
 }
