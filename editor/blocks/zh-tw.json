@@ -124,6 +124,8 @@
     "EVENT_WHENSPRITEDRAGGINGSTARTS": "拖動開始時",
     "EVENT_WHENSPRITEBEINGDRAGGED": "被拖的時候",
     "EVENT_WHENSPRITEDRAGGINGSTOPS": "拖動停止時",
+    "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "當在 x %2 y %3 處單擊 %1 鼠標按鈕時",
+    "EVENT_WHENMOUSEWHEEL": "當鼠標滾輪滾動 %1",
     "EVENT_WHENSTAGECLICKED": "當舞台被點擊",
     "EVENT_WHENTOUCHINGOBJECT": "當角色碰到 %1",
     "EVENT_WHENBROADCASTRECEIVED": "當收到訊息 %1",
@@ -499,5 +501,7 @@
     "OPERATORS_REGEX_SEARCH": "正则表达式 %1 标志 %2 搜索 %3",
     "OPERATORS_REGEX_REPLACE_WITH": "正则表达式 %1 标志 %2 用 %4 替换 %3",
     "OPERATORS_REGEX_REPLACE_ALL_WITH": "正则表达式 %1 标志 %2 用 %4 替换所有 %3",
-    "OPERATORS_REGEX_SPLIT_INTO_LIST": "正则表达式 %1 将 %2 拆分为列表 %3"
+    "OPERATORS_REGEX_SPLIT_INTO_LIST": "正则表达式 %1 将 %2 拆分为列表 %3",
+    "LEFT_MOUSE_BUTTON": "左",
+    "RIGHT_MOUSE_BUTTON": "對"
 }
