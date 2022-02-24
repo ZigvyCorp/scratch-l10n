@@ -40,6 +40,7 @@
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "從精靈 %2 獲取自定義塊 %1 的腳本",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "從精靈 %1 獲取綠旗點擊腳本",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "從精靈 %1 獲取所有塊的腳本到列表 %2",
+    "CONTROL_CLONE_ID": "克隆 ID",
     "DATA_SETVARIABLETO": "變數 %1 設為 %2",
     "DATA_CHANGEVARIABLEBY": "變數 %1 改變 %2",
     "DATA_REDUCEVARIABLEBY": "減少 %1 經過 %2",

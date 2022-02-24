@@ -40,6 +40,7 @@
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "从精灵 %2 获取自定义块 %1 的脚本",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "从精灵 %1 获取绿旗点击脚本",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "从精灵 %1 获取所有块的脚本到列表 %2",
+    "CONTROL_CLONE_ID": "克隆 ID",
     "DATA_SETVARIABLETO": "将 %1 设为 %2",
     "DATA_CHANGEVARIABLEBY": "将 %1 增加 %2",
     "DATA_REDUCEVARIABLEBY": "将 %1 减少 %2",
