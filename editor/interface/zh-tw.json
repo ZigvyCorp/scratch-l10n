@@ -149,6 +149,7 @@
     "gui.menuBar.shareWithFriendsButtonMessage": "僅在您的朋友之間共享您的項目",
     "gui.menuBar.publishButtonMessage": "在不共享代碼塊的情況下發布您的項目",
     "gui.menuBar.publishToFriendsButtonMessage": "僅將您的項目發布給您的朋友",
+    "gui.menuBar.shareWithPasswordPlaceholder": "輸入密碼",
     "gui.menuBar.logoTile": "CCLogoWhiteCH3.png",
     "gui.menuBar.logo": "CCLogoCH3.png",
     "gui.menuBar.logoLarge": "CCLogoCH3L.png",
