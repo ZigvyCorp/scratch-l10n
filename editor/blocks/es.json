@@ -541,5 +541,6 @@
     "OPERATORS_REGEX_REPLACE_ALL_WITH": "regex %1 marca %2 reemplaza todo %3 con %4",
     "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 divide %2 en la lista %3",
     "LEFT_MOUSE_BUTTON": "izquierda",
-    "RIGHT_MOUSE_BUTTON": "derecha"
+    "RIGHT_MOUSE_BUTTON": "derecha",
+    "CONTROL_REPORT_OLYMPIC_RESULT": "informe número de resultado olímpico %1"
 }
