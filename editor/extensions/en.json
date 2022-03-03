@@ -289,6 +289,8 @@
     "widget.menuItem.unmute": "unmute",
     "ai.menuItem.male": "Male",
     "ai.menuItem.female": "Female",
+    "ai.menuItem.male2": "Male2",
+    "ai.menuItem.female2": "Female2",
     "ai.menuItem.boy": "Boy",
     "ai.menuItem.girl": "Girl",
     "game.categoryName": "Game",
