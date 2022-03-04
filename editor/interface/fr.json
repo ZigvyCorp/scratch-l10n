@@ -231,7 +231,7 @@
     "gui.SpriteInfo.sprite": "Sprite",
     "gui.SpriteInfo.model": "Objet",
     "gui.SpriteInfo.show": "Afficher",
-    "gui.SpriteInfo.size": "Taille",
+    "gui.SpriteInfo.size": "Escalader",
     "gui.spriteSelectorItem.contextMenuDuplicate": "dupliquer",
     "gui.spriteSelectorItem.contextMenuExport": "exporter",
     "gui.spriteSelectorItem.contextMenuDelete": "supprimer",
