@@ -4,6 +4,12 @@
  */
 
  const locales = {
+    'en': {name: 'English'},
+    'es': {name: 'Español (España)'},
+    'zh-cn': {name: '简体中文'},
+    'fr': {name: 'Français'},
+    'de': {name: 'Deutsch'},
+    'zh-tw': {name: '繁體中文'},
     'ab': {name: 'Аҧсшәа'},
     'af': {name: 'Afrikaans'},
     'ar': {name: 'العربية'},
@@ -18,15 +24,11 @@
     'cs': {name: 'Česky'},
     'cy': {name: 'Cymraeg'},
     'da': {name: 'Dansk'},
-    'de': {name: 'Deutsch'},
     'et': {name: 'Eesti'},
     'el': {name: 'Ελληνικά'},
-    'en': {name: 'English'},
-    'es': {name: 'Español (España)'},
     'es-419': {name: 'Español Latinoamericano'},
     'eu': {name: 'Euskara'},
     'fa': {name: 'فارسی'},
-    'fr': {name: 'Français'},
     'fy': {name: 'Frysk'},
     'ga': {name: 'Gaeilge'},
     'gd': {name: 'Gàidhlig'},
@@ -76,8 +78,6 @@
     'vi': {name: 'Tiếng Việt'},
     'tr': {name: 'Türkçe'},
     'uk': {name: 'Українська'},
-    'zh-cn': {name: '简体中文'},
-    'zh-tw': {name: '繁體中文'}
 };
 
 const customLocales = {
