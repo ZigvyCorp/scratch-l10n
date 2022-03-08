@@ -491,7 +491,7 @@
     "d3_set_property": "将命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的属性 [PROPERTY_NAME] 设置为 [PROPERTY_VALUE]",
     "d3_property": "命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的属性 [PROPERTY_NAME]",
     "d3_foreachproperty": "对于名为 [MODEL_NAME] 的模型中 [OBJECT_NAME] 的每个名为 [PROPERTY_NAME] 且值为 [PROPERTY_VALUE] 的属性",
-    "d3_addcommunityobject":  "添加社区模型 [OBJECTNAME] 名为 [NAME]",
+    "d3_addcommunityobject":  "添加社区模型 [OBJECTNAME] z轴位移 [ZOFFSET]% 名为 [NAME]",
     "d3_showinspector": "显示查看工具 [SHOW]",
     "castle":  "城堡",
     "city":  "城市",

@@ -698,7 +698,7 @@
     "d3_distanceright": "distance to obstacle to the right",
     "d3_extrude2": "extrude costume [COSTUME] thickness [HEIGHT] side color [COLOR] granularity [GRAN] as [NAME]",
     "d3_addcube": "add voxel size in xyz [SIZEX] [SIZEY] [SIZEZ] with costumes top [TOP] bottom [BOTTOM] front [FRONT] back [BACK] left [LEFT] right [RIGHT] texture size [TEXTURELEN] sampling [SAMPLINGMETHOD] as [NAME]",
-    "d3_addcommunityobject": "add community model [OBJECTNAME] as [NAME]",
+    "d3_addcommunityobject": "add community model [OBJECTNAME] z offset [ZOFFSET]% as [NAME]",
     "d3_showinspector": "show inspector [SHOW]",
     "communityObjectNotFound": "Model {modelName} is currently private or not existed",
     "d3_switchFullScreen": "switch to full screen",
