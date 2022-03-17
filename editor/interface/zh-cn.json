@@ -554,6 +554,7 @@
     "gui.opcodeLabels.hour": "时",
     "gui.opcodeLabels.minute": "分",
     "gui.opcodeLabels.second": "秒",
+    "gui.opcodeLabels.millisecond": "毫秒",
     "gui.opcodeLabels.timer": "计时器",
     "gui.projectLoader.loadError": "加载作品文件失败。",
     "gui.sharedMessages.backdrop": "背景{index}",

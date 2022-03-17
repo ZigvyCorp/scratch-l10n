@@ -548,6 +548,7 @@
     "gui.opcodeLabels.hour": "時",
     "gui.opcodeLabels.minute": "分",
     "gui.opcodeLabels.second": "秒",
+    "gui.opcodeLabels.millisecond": "毫秒",
     "gui.opcodeLabels.timer": "計時器",
     "gui.projectLoader.loadError": "所選的專案檔案載入失敗。",
     "gui.sharedMessages.backdrop": "backdrop{index}",
