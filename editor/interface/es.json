@@ -548,6 +548,7 @@
     "gui.opcodeLabels.hour": "hora",
     "gui.opcodeLabels.minute": "minuto",
     "gui.opcodeLabels.second": "segundo",
+    "gui.opcodeLabels.millisecond": "milisegundo",
     "gui.opcodeLabels.timer": "cronómetro",
     "gui.projectLoader.loadError": "No se ha podido cargar el proyecto seleccionado.",
     "gui.sharedMessages.backdrop": "fondo{index}",
