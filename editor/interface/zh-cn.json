@@ -537,6 +537,7 @@
     "gui.opcodeLabels.xposition": "x 坐标",
     "gui.opcodeLabels.yposition": "y 坐标",
     "gui.opcodeLabels.zposition": "z 坐标",
+    "gui.opcodeLabels.cloneid": "克隆 id",
     "gui.opcodeLabels.size": "大小",
     "gui.opcodeLabels.costumename": "造型名称",
     "gui.opcodeLabels.costumenumber": "造型编号",

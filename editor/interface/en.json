@@ -537,6 +537,7 @@
     "gui.opcodeLabels.xposition": "x position",
     "gui.opcodeLabels.yposition": "y position",
     "gui.opcodeLabels.zposition": "z position",
+    "gui.opcodeLabels.cloneid": "clone id",
     "gui.opcodeLabels.size": "size",
     "gui.opcodeLabels.costumename": "costume name",
     "gui.opcodeLabels.costumenumber": "costume number",
