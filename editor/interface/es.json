@@ -571,7 +571,7 @@
     "gui.extension.game.name": "Juego",
     "gui.extension.game.description": "Herramientas para crear juegos",
     "gui.extension.automation.name": "Automatización",
-    "gui.extension.automation.description": "Haz tus propias herramientas",
+    "gui.extension.automation.description": "Reemplazar operaciones manuales",
     "gui.spine.skeleton": "Esqueleto",
     "gui.spine.skins": "Pieles",
     "gui.spine.frame": "Marco {index}",
