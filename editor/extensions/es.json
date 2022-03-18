@@ -577,7 +577,7 @@
     "d3_addavatarforuser": "agregar avatar [AVATAR_NAME] para el usuario [USERNAME] altura [HEIGHT] como [NAME]",
     "d3_addanimation": "agregar animaciones [ANIMACIONES]",
     "d3_startanimation": "iniciar la animación [ANIMATIONNAME] repitiendo el progreso de [LOOPING] desde [STARTFRAME] a [ENDFRAME] relación de velocidad [SPEEDRATIO] [BLOCKING]",
-    "d3_startanimation2": "iniciar animación personalizada [ANIMATIONNAME] repitiendo el progreso de [LOOPING] desde [STARTFRAME] a [ENDFRAME] relación de velocidad [SPEEDRATIO] [BLOCKING]",
+    "d3_startanimation2": "iniciar la animación del modelo [ANIMATIONNAME] repitiendo el progreso de [LOOPING] desde [STARTFRAME] a [ENDFRAME] relación de velocidad [SPEEDRATIO] [BLOCKING]",
     "d3_stopanimation": "detener animación",
     "d3_addplane": "agregar plano [COLOR] tamaño x [SIZEX] y [SIZEY] llamado [NAME]",
     "d3_addabcdplane": "agregar plano [COLOR] ancho [SIZEX] altura [TAMAÑO] coeficientes abcd [A] [B] [C] [D] llamado [NOMBRE]",

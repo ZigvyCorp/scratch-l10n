@@ -367,7 +367,7 @@
     "d3_addavatarforuser": "為用戶 [USERNAME] 高度 [HEIGHT] 添加頭像 [AVATAR_NAME] 作為 [NAME]",
     "d3_addanimation": "添加動畫 [動畫]",
     "d3_startanimation": "開始動畫 [ANIMATIONNAME] 循環 [LOOPING] 進程從 [STARTFRAME] 到 [ENDFRAME] 速度比 [SPEEDRATIO] [BLOCKING]",
-    "d3_startanimation2": "開始定制動畫 [ANIMATIONNAME] 循環 [LOOPING] 進程從 [STARTFRAME] 到 [ENDFRAME] 速度比 [SPEEDRATIO] [BLOCKING]",
+    "d3_startanimation2": "開始模型動畫 [ANIMATIONNAME] 循環 [LOOPING] 進程從 [STARTFRAME] 到 [ENDFRAME] 速度比 [SPEEDRATIO] [BLOCKING]",
     "d3_stopanimation": "停止動畫",
     "d3_addplane": "添加名為 [NAME] 的平面 [COLOR] 大小 x [SIZEX] y [SIZEY]",
     "d3_addabcdplane": "添加平面 [COLOR] 寬度 [SIZEX] 高度 [SIZEY] 係數 abcd [A] [B] [C] [D] 命名為 [NAME]",
