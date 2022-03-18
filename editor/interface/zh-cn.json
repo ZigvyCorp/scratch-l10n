@@ -508,6 +508,8 @@
     "gui.extension.widget.description": "创建有用的应用程序。",
     "gui.extension.game.name": "游戏",
     "gui.extension.game.description": "构建游戏的工具。",
+    "gui.extension.automation.name": "自动化",
+    "gui.extension.automation.description": "制作自己的工具",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",
     "gui.libraryTags.dance": "舞蹈",

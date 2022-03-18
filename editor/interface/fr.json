@@ -567,6 +567,8 @@
     "gui.extension.widget.description": "Créer des applications utiles.",
     "gui.extension.game.name": "Jeu",
     "gui.extension.game.description": "Outils pour créer des jeux",
+    "gui.extension.automation.name": "Automatisation",
+    "gui.extension.automation.description": "Fabriquez vos propres outils",
     "gui.spine.skeleton": "Squelette",
     "gui.spine.skins": "Peaux",
     "gui.spine.frame": "Cadre {index}",
