@@ -439,7 +439,7 @@
     "d3_setspeed": "將速度 [SPEEDTYPE] 設置為 [SPEED]",
     "d3_carveobject": "用 [NAME2] 雕刻 [NAME1]",
     "d3_mergeobject": "將 [NAME2] 合併到 [NAME1]",
-    "d3_cloneobject": "複製物體並共享材料 [SHARE] 材料為 [NAME]",
+    "d3_cloneobject": "複製物體 關聯模式 [SHARE] 材料為 [NAME]",
     "d3_rotationcopy": "複製到繞 [AXIS] 軸旋轉的位置計數 [COUNT] 度步 [STEP]",
     "d3_mirrorcopy": "複製到鏡像位置 [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "按 xyz 中的矩陣計數複製 [X2] [Y2] [Z2] xyz 中的間距 [SPACINGX] [SPACINGY] [SPACINGZ] 間距中的隨機比例 [SPACINGRANDOM]% 比例 [SCALERANDOM]% z 旋轉 [ROTRANDOM]% [AVOIDMODE] 物體 [AVOIDNAME]",

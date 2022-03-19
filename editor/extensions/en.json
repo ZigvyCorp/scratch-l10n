@@ -645,7 +645,7 @@
     "d3_setspeed": "set speed [SPEEDTYPE] to [SPEED]", 
     "d3_carveobject": "carve [NAME1] with [NAME2]",
     "d3_mergeobject": "merge [NAME2] into [NAME1]", 
-    "d3_cloneobject": "copy object and share materials [SHARE] as [NAME]", 
+    "d3_cloneobject": "copy object as linked [SHARE] as [NAME]", 
     "d3_rotationcopy": "copy to rotated position count [COUNT] degree step [STEP] around the [AXIS] axis",
     "d3_mirrorcopy": "copy to mirror position [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "copy by matrix count in xyz [X2] [Y2] [Z2] spacing in xyz [SPACINGX] [SPACINGY] [SPACINGZ] random ratio in spacing [SPACINGRANDOM]% scale [SCALERANDOM]% z-rotation [ROTRANDOM]%  [AVOIDMODE] object [AVOIDNAME]", 
