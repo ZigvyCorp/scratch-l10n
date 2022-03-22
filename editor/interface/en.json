@@ -162,7 +162,7 @@
     "gui.menuBar.publishButtonMessage": "Publish your project without sharing your code blocks",
     "gui.menuBar.publishToFriendsButtonMessage": "Publish your project to your friends only",
     "gui.menuBar.helpButton": "Help",
-    "gui.menuBar.helpInputPlaceholder": "Type a question",
+    "gui.menuBar.helpInputPlaceholder": "Type here",
     "gui.menuBar.helpButtonSend": "Send",
     "gui.blockSearch.placeholder": "Search block",
     "gui.blockSearchWorkspace.placeholder": "Search workspace block",

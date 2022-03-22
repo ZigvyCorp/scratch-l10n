@@ -162,7 +162,7 @@
     "gui.menuBar.publishButtonMessage": "在不共享代码块的情况下发布您的项目",
     "gui.menuBar.publishToFriendsButtonMessage": "仅将您的项目发布给您的朋友",
     "gui.menuBar.helpButton": "帮助",
-    "gui.menuBar.helpInputPlaceholder": "输入问题",
+    "gui.menuBar.helpInputPlaceholder": "在此输入",
     "gui.menuBar.helpButtonSend": "发送",
     "gui.blockSearch.placeholder": "搜索积木块",
     "gui.blockSearchWorkspace.placeholder": "搜索工作区",
