@@ -584,5 +584,8 @@
     "gui.verticalMode.prevBlock.button.title": "Passer au bloc précédent",
     "gui.verticalMode.bookmarkBlock.button.title": "Passer au bloc marqué d'un signet",
     "gui.verticalMode.removeHighlight.button.title": "Supprimer le surlignage",
-    "gui.verticalMode.toggle.title": "Mode vertical"
+    "gui.verticalMode.toggle.title": "Mode vertical",
+    "gui.menuBar.olympicToggle.checked": "Activé",
+    "gui.menuBar.olympicToggle.unchecked": "Désactivé",
+    "gui.menuBar.olympicToggle.title": "Projet olympique"
 }

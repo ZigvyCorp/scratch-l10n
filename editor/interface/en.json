@@ -584,5 +584,8 @@
     "gui.verticalMode.prevBlock.button.title": "Move to previous block",
     "gui.verticalMode.bookmarkBlock.button.title": "Move to bookmarked block",
     "gui.verticalMode.removeHighlight.button.title": "Remove highlight",
-    "gui.verticalMode.toggle.title": "Vertical Mode"
+    "gui.verticalMode.toggle.title": "Vertical Mode",
+    "gui.menuBar.olympicToggle.checked": "Enabled",
+    "gui.menuBar.olympicToggle.unchecked": "Disabled",
+    "gui.menuBar.olympicToggle.title": "Olympic project"
 }
