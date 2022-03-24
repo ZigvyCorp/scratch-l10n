@@ -598,5 +598,7 @@
     "gui.verticalMode.toggle.title": "垂直模式",
     "gui.menuBar.olympicToggle.checked": "启用",
     "gui.menuBar.olympicToggle.unchecked": "禁用",
-    "gui.menuBar.olympicToggle.title": "奥运项目"
+    "gui.menuBar.olympicToggle.title": "奥运项目",
+    "gui.extension.database.name": "數據庫",
+    "gui.extension.database.description": "存儲和分析數據"
 }

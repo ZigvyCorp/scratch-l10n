@@ -604,5 +604,7 @@
     "gui.verticalMode.toggle.title": "Vertical Mode",
     "gui.menuBar.olympicToggle.checked": "Enabled",
     "gui.menuBar.olympicToggle.unchecked": "Disabled",
-    "gui.menuBar.olympicToggle.title": "Olympic project"
+    "gui.menuBar.olympicToggle.title": "Olympic project",
+    "gui.extension.database.name": "Database",
+    "gui.extension.database.description": "Store and analyze data"
 }
