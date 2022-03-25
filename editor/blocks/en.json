@@ -541,5 +541,6 @@
     "OPERATORS_REGEX_REPLACE_ALL_WITH": "regex %1 flag %2 replace all %3 with %4",
     "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 split %2 into list %3",
     "LEFT_MOUSE_BUTTON": "left",
-    "RIGHT_MOUSE_BUTTON": "right"
+    "RIGHT_MOUSE_BUTTON": "right",
+    "CONTROL_REPORT_OLYMPIC_RESULT": "report olympic result number %1"
 }
