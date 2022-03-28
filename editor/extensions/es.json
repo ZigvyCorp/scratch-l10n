@@ -595,7 +595,7 @@
     "d3_addcylinder": "agregar cilindro [COLOR] diámetro superior [DIAMETERTOP] inferior [DIAMETERBOTTOM] altura [HEIGHT] arco [ARC] sección cerrada [CLOSED] tipo de tapa [CAPTYPE] lados [SIDES] llamado [NAME]",
     "d3_addtransformnode": "agregar transformador llamado [NOMBRE]",
     "d3_setasparent": "establece el objeto [PARENTNAME] del sprite [SPRITE] como padre",
-    "d3_attachtobone": "adjuntar al hueso [BODYPART] de [PARENTNAME] del sprite [SPRITE]",
+    "d3_attachtobone": "adjuntar al hueso [BODYPART] de [PARENTNAME] del sprite [SPRITE] altura del objetivo [HEIGHT]",
     "d3_removeparent": "desvincular padre",
     "d3_removechildren": "Desenlazar a las niñas",
     "d3_removeobject": "eliminar objeto llamado [NOMBRE]",

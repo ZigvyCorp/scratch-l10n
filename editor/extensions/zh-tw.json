@@ -385,7 +385,7 @@
     "d3_addcylinder": "添加圓柱體 [COLOR] 直徑頂部 [DIAMETERTOP] 底部 [DIAMETERBOTTOM] 高度 [HEIGHT] 弧線 [ARC] 閉合截面 [CLOSED] 帽型 [CAPTYPE] 側邊 [SIDES] 命名為 [NAME]",
     "d3_addtransformnode": "添加轉換器 名為 [NAME]",
     "d3_setasparent": "把角色 [SPRITE] 中的物體 [PARENTNAME] 作爲父節點",
-    "d3_attachtobone": "附著於角色 [SPRITE] 中的物體 [PARENTNAME] 的 [BODYPART]",
+    "d3_attachtobone": "附著於角色 [SPRITE] 中的物體 [PARENTNAME] 的 [BODYPART] 目標高度 [HEIGHT]",
     "d3_removeparent": "解除父節點關係",
     "d3_removechildren": "解除孩子關係",
     "d3_selectobject": "按名稱 [NAME] 選擇角色物體",
