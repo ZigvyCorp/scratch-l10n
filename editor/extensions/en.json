@@ -592,6 +592,7 @@
     "d3_addcylinder": "add cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] as [NAME]", 
     "d3_addtransformnode": "add transformer as [NAME]",
     "d3_setasparent": "set object [PARENTNAME] from sprite [SPRITE] as parent",
+    "d3_attachtobone": "attach to bone [BODYPART] of [PARENTNAME] from sprite [SPRITE]",
     "d3_removeparent": "unlink parent", 
     "d3_removechildren": "unlink all children",
     "d3_removeobject": "remove object named [NAME]",
