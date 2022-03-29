@@ -423,7 +423,8 @@
     "dispose": "清除",
 
     "d3_updatefiletexture": "添加紋理與共享文件 [TEXTURE] 框單元大小 [SIZE] 非框重複 h [REPEATU] v [REPEATV] 旋轉 [ANGLEW] 區域 [COMPONENT]",
-    "d3_materialsetting": "材質設置：線框模式 [ISWIREFRAME] 繪製背面 [ISBACKFACE] z-offset [ZOFFSET] 日誌深度 [ISLOGDEPTH] 透明 [TRANS]",
+    "d3_materialsetting": "材料設置：線框模式 [ISWIREFRAME] 繪製背面 [ISBACKFACE] z-offset [ZOFFSET] 日誌深度 [ISLOGDEPTH] 透明 [TRANS]",
+    "d3_applygridmaterial": "應用網格材料 [FACECOLOR] 不透明度 [OPACITY]% 線條 [LINECOLOR] 密度 [LINECOUNT] 次要線條可見性 [MINOR]%",
     "d3_lockface": "設置攝像頭朝向模式 [FACEMODE]",
     "d3_updatephysics": "設置物理化身 [SHAPE] 質量 [MASS] 恢復係數 [RESTITUTION]% 摩擦係數 [FRICTION]% 調試 [ISDEBUG]",
     "d3_updatescale": "更新比例 x [X]% y [Y]% z [Z]% 用时 [PERIOD] 秒 [BLOCKING]",
