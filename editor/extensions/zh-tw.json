@@ -424,7 +424,8 @@
 
     "d3_updatefiletexture": "添加紋理與共享文件 [TEXTURE] 框單元大小 [SIZE] 非框重複 h [REPEATU] v [REPEATV] 旋轉 [ANGLEW] 區域 [COMPONENT]",
     "d3_materialsetting": "材料設置：線框模式 [ISWIREFRAME] 繪製背面 [ISBACKFACE] z-offset [ZOFFSET] 日誌深度 [ISLOGDEPTH] 透明 [TRANS]",
-    "d3_applygridmaterial": "應用網格材料 [FACECOLOR] 不透明度 [OPACITY]% 線條 [LINECOLOR] 密度 [LINECOUNT] 次要線條可見性 [MINOR]%",
+    "d3_applygridmaterial": "應用網格材料 [FACECOLOR] 線條 [LINECOLOR] 密度 [LINECOUNT] 次要線條可見性 [MINOR]%",
+    "d3_setrenderinggroup": "設置渲染層 [LAYERID]",
     "d3_lockface": "設置攝像頭朝向模式 [FACEMODE]",
     "d3_updatephysics": "設置物理化身 [SHAPE] 質量 [MASS] 恢復係數 [RESTITUTION]% 摩擦係數 [FRICTION]% 調試 [ISDEBUG]",
     "d3_updatescale": "更新比例 x [X]% y [Y]% z [Z]% 用时 [PERIOD] 秒 [BLOCKING]",
@@ -451,6 +452,8 @@
     "d3_whenincollision": "當與 [SPRITE] 碰撞時",
     "d3_enablecamerapicking": "开启角色 [SPRITENAMES] 中创建的物体的 [POINTERTYPE] 選取事件",
     "d3_enablecamerahovering": "开启角色 [SPRITENAMES] 中创建的物体的懸停事件",
+    "d3_disablecamerapicking": "關閉角色 [SPRITENAMES] 中創建的物體的選取事件",
+    "d3_disablecamerahovering": "關閉角色 [SPRITENAMES] 中創建的物體的懸停事件",
     "d3_whenobjectpicked": "當這個角色中的一個物體被選取時",
     "d3_whenobjecthovered": "當這個角色中的一個物體开始被懸停時",
     "d3_whenobjecthoveredend": "當這個角色中的一個物體结束被懸停時",

@@ -629,7 +629,8 @@
 
     "d3_updatefiletexture": "ajouter une texture avec le fichier partagé [TEXTURE] taille de l'unité de la boîte [SIZE] répétition non-boîte h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 
     "d3_materialsetting": "réglage du matériau : mode filaire [ISWIREFRAME] face arrière [ISBACKFACE] décalage z [ZOFFSET] profondeur du journal [ISLOGDEPTH] transparent [TRANS]", 
-    "d3_applygridmaterial": "appliquer le matériau de la grille face [FACECOLOR] opacité [OPACITY]% ligne [LINECOLOR] densité [LINECOUNT] visibilité des lignes mineures [MINOR]%",
+    "d3_applygridmaterial": "appliquer le matériau de la grille face [FACECOLOR] ligne [LINECOLOR] densité [LINECOUNT] visibilité des lignes mineures [MINOR]%",
+    "d3_setrenderinggroup": "définir la couche de rendu [LAYERID]",
     "d3_lockfacing": "régler le mode face à la caméra [FACEMODE]", 
     "d3_updatephysics": "activer la physique en tant que [SHAPE] avec restitution de masse [MASS] [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",
     "d3_updatescale": "mise à jour échelle x [X]% y [Y]% z [Z]% en [PERIOD] secondes [BLOCKING]", 
@@ -656,6 +657,8 @@
     "d3_whenincollision": "en cas de collision avec [SPRITE]",
     "d3_enablecamerapicking": "activer la sélection avec [POINTERTYPE] pour les objets créés dans les sprites [SPRITENAMES]",
     "d3_enablecamerahovering": "activer le survol pour les objets créés dans les sprites [SPRITENAMES]",
+    "d3_disablecamerapicking": "désactiver la sélection pour les objets créés dans les sprites [SPRITENAMES]",
+    "d3_disablecamerahovering": "désactiver le survol pour les objets créés dans les sprites [SPRITENAMES]",
     "d3_whenobjectpicked": "lorsqu'un objet de ce sprite est sélectionné",
     "d3_whenobjecthovered": "quand un objet de ce sprite commence à être survolé",
     "d3_whenobjecthoveredend": "lorsqu'un objet de ce sprite cesse d'être survolé",
