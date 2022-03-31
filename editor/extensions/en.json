@@ -275,7 +275,7 @@
     "widget.menuItem.readOnly": "read only",
     "widget.menuItem.normal": "normal",
     "widget.addIframe": "Add iframe [URL] x [X] y [Y] width [WIDTH] height [HEIGHT] as name [NAME]",
-    "widget.htmlTextFromXpath": "[HTMLTEXT] from xpath [URL] in iframe named [NAME]",
+    "widget.htmlTextFromXpathInIframe": "html/text from xpath [URL] in iframe named [NAME]",
     "widget.parseElementsInIframe": "Parse elements in iframe named [NAME] into table [TABLE] starting xpath [XPATH] maximum depth [DEPTH] count limit [LIMIT]",
     "normal": "Normal", 
     "left-right flipped": "Left-Right Flipped",
