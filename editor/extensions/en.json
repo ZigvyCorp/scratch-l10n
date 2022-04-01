@@ -630,7 +630,7 @@
 
     "d3_updatefiletexture": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_materialsetting": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]", 
-    "d3_applygridmaterial": "apply grid material face [FACECOLOR] line [LINECOLOR] density [LINECOUNT] minor line visibility [MINOR]%",
+    "d3_applygridmaterial": "apply grid material face [FACECOLOR] line [LINECOLOR] density [LINECOUNT] minor line visibility [MINOR]% desplazamiento de línea xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
     "d3_setrenderinggroup": "set rendering layer [LAYERID]",
     "d3_lockfacing": "set camera facing mode [FACEMODE]", 
     "d3_updatephysics": "enable physics as a [SHAPE] with mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",

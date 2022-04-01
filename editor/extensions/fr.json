@@ -629,7 +629,7 @@
 
     "d3_updatefiletexture": "ajouter une texture avec le fichier partagé [TEXTURE] taille de l'unité de la boîte [SIZE] répétition non-boîte h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 
     "d3_materialsetting": "réglage du matériau : mode filaire [ISWIREFRAME] face arrière [ISBACKFACE] décalage z [ZOFFSET] profondeur du journal [ISLOGDEPTH] transparent [TRANS]", 
-    "d3_applygridmaterial": "appliquer le matériau de la grille face [FACECOLOR] ligne [LINECOLOR] densité [LINECOUNT] visibilité des lignes mineures [MINOR]%",
+    "d3_applygridmaterial": "appliquer le matériau de la grille face [FACECOLOR] ligne [LINECOLOR] densité [LINECOUNT] visibilité des lignes mineures [MINOR]% décalage de ligne xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
     "d3_setrenderinggroup": "définir la couche de rendu [LAYERID]",
     "d3_lockfacing": "régler le mode face à la caméra [FACEMODE]", 
     "d3_updatephysics": "activer la physique en tant que [SHAPE] avec restitution de masse [MASS] [RESTITUTION]% friction [FRICTION]% debug [ISDEBUG]",
