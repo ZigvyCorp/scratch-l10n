@@ -301,6 +301,7 @@
     "OPERATORS_SUBSTRINGINDEX": "位置索引 %1 在 %2",
     "OPERATORS_SUBSTRING": "的子串 %1 從位置 %2 定位 %3",
     "OPERATORS_SPLITSUBSTRING": "%2 的子串 %1 分隔符 %3",
+    "OPERATORS_LCS": "%1 和 %2 之間的最長公共子字符串",
     "OPERATORS_JOINWITH": "將 %1 %2 %3 %4 %5 %6 與 %7 連接",
     "OPERATORS_LETTEROF": "字串 %2 的第 %1 字",
     "OPERATORS_LETTEROF_APPLE": "a",

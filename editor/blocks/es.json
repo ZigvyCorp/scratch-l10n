@@ -306,6 +306,7 @@
     "OPERATORS_SUBSTRINGINDEX": "índice de posición de %1 en %2",
     "OPERATORS_SUBSTRING": "subcadena de %1 de la posición %2 a la posición %3",
     "OPERATORS_SPLITSUBSTRING": "parte %1 de %2 por %3",
+    "OPERATORS_LCS": "Subcadena común más larga entre %1 y %2",
     "OPERATORS_JOINWITH": "unirse a %1 %2 %3 %4 %5 %6 con %7",
     "OPERATORS_LETTEROF": "letra %1 de %2",
     "OPERATORS_LETTEROF_APPLE": "a",
