@@ -520,7 +520,7 @@
     "d3_showscene": "mostrar escena 3D [MOSTRAR]",
     "d3_addeditorcamera": "agregar la cámara del editor en xyz [X] [Y] [Z] dirección [DIRECCIÓN] velocidad [VELOCIDAD] velocidad angular [VELOCIDAD ANGULAR]",
     "d3_addobservercamera": "agregar cámara de observador en xyz [X] [Y] [Z] hacia xyz [X2] [Y2] [Z2] velocidad [VELOCIDAD]",
-    "d3_addorbitcamera": "agregar cámara orbital distancia [DISTANCIA] ángulo v [VANGLE] ángulo h [HANGLE] relación de velocidad de panorámica [PANSPEEDRATIO]",
+    "d3_addorbitcamera": "agregar cámara orbital distancia [DISTANCIA] ángulo v [VANGLE] ángulo h [HANGLE] relación de velocidad de panorámica [PANSPEEDRATIO] tecla de entrada [WITHKEY] puntero [WITHPOINTER]",
     "d3_setcameratarget": "establecer el objetivo de la cámara xyz [X] [Y] [Z]",
     "d3_setcameradirection": "configurar la cámara distancia [DISTANCIA] ángulo v [VANGLE] ángulo h [HANGLE] en [PERIOD] segundos",
     "d3_configureorbitcamera": "configurar el radio de la cámara en órbita min [MINDIST] max [MAXDIST] rango visible min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] ratio de velocidad panorámica [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",

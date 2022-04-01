@@ -669,7 +669,7 @@
     "d3_showscene": "顯示 3D 場景 [SHOW]",
     "d3_additorcamera": "在 xyz [X] [Y] [Z] 方向 [DIRECTION] 速度 [SPEED] 角速度 [ANGULARSPEED] 添加編輯器攝像頭",
     "d3_addobservercamera": "在 xyz [X] [Y] [Z] 向 xyz [X2] [Y2] [Z2] 速度 [SPEED] 添加觀察者攝像頭",
-    "d3_addorbitcamera": "添加軌道攝像頭 距離 [DISTANCE] 俯視角度 [VANGLE] 側視角度 [HANGLE] 平移速度比 [PANSPEEDRATIO]",
+    "d3_addorbitcamera": "添加軌道攝像頭 距離 [DISTANCE] 俯視角度 [VANGLE] 側視角度 [HANGLE] 平移速度比 [PANSPEEDRATIO] 輸入 鍵盤 [WITHKEY] 指針 [WITHPOINTER]",
     "d3_setcameratarget": "設置攝像頭目標 xyz [X] [Y] [Z]",
     "d3_setcameradirection": "設置攝像頭 距離 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] 用时 [PERIOD] 秒",
     "d3_configureorbitcamera": "配置軌道攝像頭半徑 min [MINDIST] max [MAXDIST] 可見範圍 min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] 速比平移 [PANSPEEDRATIO] 角度 [ANGULARSPEEDRATIO]",
