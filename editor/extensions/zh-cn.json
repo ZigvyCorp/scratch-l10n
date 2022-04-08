@@ -675,7 +675,7 @@
     "d3_cameradirection": "摄像头 [PROPERTY]",
     "d3_addhatcamera":  "添加帽子摄像头 相对位置 xyz [X] [Y] [Z]",
     "d3_addpointlight":  "添加单点光源 [COLOR] 位置 xyz [X] [Y] [Z] 亮度 [INTENSITY] 显示位置 [SHOW] 名为 [NAME]",
-    "d3_adddirectionallight": "添加阳光 [COLOR] 方向 xyz [X] [Y] [Z] 亮度 [INTENSITY] 名为 [NAME]",
+    "d3_adddirectionallight": "添加阳光 [COLOR] 方向 xyz [X] [Y] [Z] 位置 xyz [X2] [Y2] [Z2] 亮度 [INTENSITY] 名为 [NAME]",
     "d3_addhemisphericlight":  "添加半球反光 [COLOR] 天空方向 xyz [X] [Y] [Z] 亮度 [INTENSITY] 名为 [NAME]",
     "d3_addspotlight":  "添加聚焦光源 [COLOR] 位置 xyz [X] [Y] [Z] 打开角度 [ANGLE] 亮度 [INTENSITY] 光晕 [DECAY] 显示位置 [SHOW] 名为 [NAME]",
     "d3_castshadowfromlight": "对于名为 [NAME] 的光源投射阴影",

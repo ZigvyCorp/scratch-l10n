@@ -527,7 +527,7 @@
     "d3_cameradirection": "camera [PROPERTY]",
     "d3_addhatcamera": "add hat camera with offset xyz [X] [Y] [Z]", 
     "d3_addpointlight": "add point light [COLOR] at xyz [X] [Y] [Z] intensity [INTENSITY] show position [SHOW] as [NAME]",
-    "d3_adddirectionallight": "add sunlight [COLOR] in direction xyz [X] [Y] [Z] intensity [INTENSITY] as [NAME]", 
+    "d3_adddirectionallight": "add sunlight [COLOR] in direction xyz [X] [Y] [Z] at xyz [X2] [Y2] [Z2] intensity [INTENSITY] as [NAME]", 
     "d3_addhemisphericlight": "add hemispheric light [COLOR] sky direction xyz [X] [Y] [Z] intensity [INTENSITY] as [NAME]",
     "d3_addspotlight": "add spot light [COLOR] at xyz [X] [Y] [Z] open angle [ANGLE] intensity [INTENSITY] blur [DECAY] show position [SHOW] as [NAME]", 
     "d3_castshadowfromlight": "cast shadow from light named [NAME]", 

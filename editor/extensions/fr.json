@@ -528,7 +528,7 @@
     "d3_cameradirection": "caméra [PROPRIÉTÉ]",
     "d3_addhatcamera": "ajouter une caméra chapeau avec décalage xyz [X] [Y] [Z]", 
     "d3_addpointlight": "ajouter un point lumineux [COLOR] à xyz [X] [Y] [Z] intensité [INTENSITY] afficher la position [SHOW] nommé [NAME]",
-    "d3_adddirectionallight": "ajouter la lumière du soleil [COLOR] dans la direction xyz [X] [Y] [Z] intensité [INTENSITY] nommé [NAME]", 
+    "d3_adddirectionallight": "ajouter la lumière du soleil [COLOR] dans la direction xyz [X] [Y] [Z] à xyz [X2] [Y2] [Z2] intensité [INTENSITY] nommé [NAME]", 
     "d3_addhemisphericlight": "ajouter une lumière hémisphérique [COLOR] direction du ciel xyz [X] [Y] [Z] intensité [INTENSITY] nommé [NAME]",
     "d3_addspotlight": "ajouter un spot [COLOR] à xyz [X] [Y] [Z] angle ouvert [ANGLE] intensité [INTENSITY] flou [DECAY] afficher la position [SHOW] nommé [NAME]", 
     "d3_castshadowfromlight": "projeter l'ombre de la lumière nommée [NAME]", 
