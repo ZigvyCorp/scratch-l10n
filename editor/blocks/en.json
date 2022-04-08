@@ -250,6 +250,7 @@
     "MOTION_POINTTOWARDS_POINTER": "mouse-pointer",
     "MOTION_POINTTOWARDS_RANDOM": "random direction",
     "MOTION_POINTTOWARDS_XY" : "Point towards x %1 y %2 in %3 seconds",
+    "MOTION_SET2DSPEED": "set 2D speed %1 direction %2",
     "MOTION_GOTO": "go to %1",
     "MOTION_GOTO_POINTER": "mouse-pointer",
     "MOTION_GOTO_RANDOM": "random position",
