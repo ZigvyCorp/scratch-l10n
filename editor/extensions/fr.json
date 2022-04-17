@@ -601,6 +601,7 @@
     "d3_updatetexture": "mise à jour de la texture [TEXTURE] taille de la texture [SIZE] non-boîte répétition h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 
     "d3_updatecostumetexture": "mettre à jour la texture à l'aide du costume [COSTUME] taille de la texture [SIZE] non-box répétition h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 
     "d3_isgpusupported": "GPU disponible",
+    "d3_getCameraXY": "obtenir la position de vue de la caméra pour xyz [X] [Y] [Z]",
     "d3_createemitter": "ajouter une forme d'émetteur de particules [EMITTERTYPE] texture [TEXTURE] face à la caméra [FACINGCAMERA] durée de vie min [MINLIFE] max [MAXLIFE] capacité [CAP] GPU [USEGPU] rapport de temps [UPDATESPEED]% as [NAME]",
     "pointemitter": "Point",
     "boxemitter": "Boîte",

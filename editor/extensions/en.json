@@ -601,6 +601,7 @@
     "d3_updatetexture": "update texture [TEXTURE] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_updatecostumetexture": "update texture using costume [COSTUME] texture size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_isgpusupported": "GPU Available",
+    "d3_getCameraXY": "get camera view position for xyz [X] [Y] [Z]",
     "d3_converttosps": "convert to sps at xyz [LIST] updatable [UPDATABLE]",
     "d3_createemitter": "add particle emitter shape [EMITTERTYPE] texture [TEXTURE] facing camera [FACINGCAMERA] life min [MINLIFE] max [MAXLIFE] capacity [CAP] GPU [USEGPU] time ratio [UPDATESPEED]% as [NAME]",
     "pointemitter": "Point",
