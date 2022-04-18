@@ -100,7 +100,7 @@
     "DATA_SAVEDATA": "使用名稱 %3 保存 %1 數據 %2",
     "DATA_LOADDATA": "加載數據命名 %1",
     "DATA_LOOKUPTABLE": "在表格 %2 中找到列 %3 为 %4 的行 读出列 %1的值",
-    "DATA_EXPORTTABLE": "導出表 %1",
+    "DATA_EXPORTTABLE": "導出表 %1 名為 %2",
     "DATA_ROWATINDEXOFTABLE": "表格 %2 的第 %1 行 分隔符 %3",
     "DATA_ROWINDEXWITHCONDITION": "表格 %3 中第 %2 列中 %1 的行 #",
     "DATA_ADDROWTOTABLE": "添加到表格 %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",
