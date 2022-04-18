@@ -286,6 +286,7 @@
     "MOTION_YSCROLL": "y滚动位置",
     "MOTION_STAGE_SELECTED": "选中了舞台：不可使用运动类积木",
     "OPERATORS_ADD": "%1 + %2",
+    "OPERATORS_TRIM": "修剪 %1",
     "OPERATORS_SUBTRACT": "%1 - %2",
     "OPERATORS_MULTIPLY": "%1 * %2",
     "OPERATORS_DIVIDE": "%1 / %2",
