@@ -287,6 +287,7 @@
     "MOTION_YSCROLL": "défilement y",
     "MOTION_STAGE_SELECTED": "Scène sélectionnée: pas de blocs de mouvement",
     "OPERATORS_ADD": "%1 + %2",
+    "OPERATORS_TRIM": "réduire %1",
     "OPERATORS_SUBTRACT": "%1 - %2",
     "OPERATORS_MULTIPLY": "%1 * %2",
     "OPERATORS_DIVIDE": "%1 / %2",
