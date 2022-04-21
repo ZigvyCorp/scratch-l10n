@@ -505,7 +505,7 @@
     "MOTION_JRBACKWARD": "backward %1",
     "MOTION_JRTURNLEFT": "turn left %1",
     "MOTION_JRTURNRIGHT": "turn right %1",
-    "START_SPEECH": "start recognizing speech in %1",
+    "START_SPEECH": "start recognizing speech in %1 record as %2",
     "END_SPEECH": "end speech recognition",
     "TEXT_FROM_SPEECH": "text from speech",
     "SPEAK_IN_LANGUAGE": "say %1 in %2 as %3 speed %4 pitch %5 volume %6",
