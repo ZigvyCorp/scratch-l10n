@@ -253,7 +253,7 @@
     "widget.addColorPicker": "ajouter un sélecteur de couleurs à X [X] Y [Y] nommé [NAME]",
     "widget.addSlider": "ajouter un curseur à X [X] Y [Y] entre [MIN] et [MAX] nommé [NAME]",
     "widget.addMenu": "ajouter un menu déroulant à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] en utilisant la liste [LIST] comme [NAME]",
-    "widget.whenButtonClicked": "lorsque le bouton nommé [NAME] a cliqué",
+    "widget.whenWidgetClicked": "lorsque le widget [NAME] a cliqué",
     "widget.whenWidgetChanges": "lorsque le widget nommé [NAME] change",
     "widget.setTextStyle": "définir le style de texte [FONT] taille de police [FONTSIZE] couleur du texte [TEXTCOLOR] gras [BOLDNESS] pour [NAME]",
     "widget.setWidgetStyle": "définir la couleur d'arrière-plan du widget [BGCOLOR] la couleur de la bordure [BORDERCOLOR] la largeur de la bordure [BORDERWIDTH] le rayon de la bordure [BORDERRADIUS] pour [NAME]",

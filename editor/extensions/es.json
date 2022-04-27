@@ -253,7 +253,7 @@
     "widget.addColorPicker": "agregar selector de color en X [X] Y [Y] llamado [NAME]",
     "widget.addSlider": "agregue el control deslizante en X [X] Y [Y] entre [MIN] y [MAX] llamado [NAME]",
     "widget.addMenu": "agregue el menú desplegable en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] usando la lista [LIST] como [NAME]",
-    "widget.whenButtonClicked": "cuando se hace clic en el botón llamado [NAME]",
+    "widget.whenWidgetClicked": "cuando se hizo clic en el widget [NAME]",
     "widget.whenWidgetChanges": "cuando cambia el widget llamado [NAME]",
     "widget.setTextStyle": "establecer estilo de texto [FONT] tamaño de fuente [FONTSIZE] color de texto [TEXTCOLOR] negrita [BOLDNESS] para [NAME]",
     "widget.setWidgetStyle": "establecer el color de fondo del widget [BGCOLOR] color del borde [BORDERCOLOR] ancho del borde [BORDERWIDTH] radio del borde [BORDERRADIUS] para [NAME]",
