@@ -509,6 +509,7 @@
     "TEXT_FROM_SPEECH": "texto de voz",
     "SPEAK_IN_LANGUAGE": "decir %1 en %2 como %3 velocidad %4 tono %5 volumen %6",
     "TRANSLATE_TEXT": "traducir %1 de %2 a %3",
+    "LOCATEWEBCAMERA": "localizar cámara web desde vídeo",
     "ARABIC_ID": "árabe",
     "CHINESE_ID": "Chino (mandarín)",
     "DANISH_ID": "danés",

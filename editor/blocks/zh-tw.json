@@ -495,6 +495,7 @@
     "TEXT_FROM_SPEECH": "来自语音的文本",
     "SPEAK_IN_LANGUAGE": "用 %2 說 %1 語音 %3 速度 %4 音高 %5 音量 %6",
     "TRANSLATE_TEXT": "將 %1 從 %2 翻譯成 %3",
+    "LOCATEWEBCAMERA": "從視頻中定位攝像頭",
     "ARABIC_ID":"阿拉伯语",
     "CHINESE_ID":"中文（普通话）",
     "DANISH_ID":"丹麦语",
