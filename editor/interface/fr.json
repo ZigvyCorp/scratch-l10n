@@ -606,5 +606,11 @@
     "gui.menuBar.olympicToggle.unchecked": "Désactivé",
     "gui.menuBar.olympicToggle.title": "Projet olympique",
     "gui.extension.database.name": "Base de données",
-    "gui.extension.database.description": "Stocker et analyser les données"
+    "gui.extension.database.description": "Stocker et analyser les données",
+    "gui.gui.addFieldMessage": "Ajouter une collection",
+    "gui.gui.columnsLabelMessage": "Colonnes",
+    "gui.gui.typeLabelMessage": "Type",
+    "gui.gui.atLeastFieldMessage": "Au moins 1 colonnes",
+    "gui.gui.missingColumnsMessage": "Les colonnes sont obligatoires !!!",
+    "gui.gui.missingTypeMessage": "Le type est requis !!!"
 }
