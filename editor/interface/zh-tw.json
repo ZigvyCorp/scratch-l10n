@@ -12,6 +12,7 @@
     "gui.backpack.loadingBackpack": "正在載入…",
     "gui.backpack.more": "更多資訊",
     "gui.backpack.emptyBackpack": "背包空無一物",
+    "gui.consolePanel.header": "控制檯面板",
     "gui.unsupportedBrowser.label": "瀏覽器不支援",
     "gui.unsupportedBrowser.errorLabel": "發生錯誤",
     "gui.unsupportedBrowser.notRecommended": "很抱歉，這個版本的瀏覽器無法支援 Scratch。建議你改用其它的，像是 Google Chrome、Mozilla Firefox、Microsoft Edge、Apple Safari。",

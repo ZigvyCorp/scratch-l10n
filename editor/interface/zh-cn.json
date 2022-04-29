@@ -12,6 +12,7 @@
     "gui.backpack.loadingBackpack": "载入中……",
     "gui.backpack.more": "更多",
     "gui.backpack.emptyBackpack": "书包是空的",
+    "gui.consolePanel.header": "控制台面板",
     "gui.unsupportedBrowser.label": "不支持当前浏览器",
     "gui.unsupportedBrowser.errorLabel": "出错了",
     "gui.unsupportedBrowser.notRecommended": "我们十分抱歉，Scratch不支持您正在使用的浏览器，我们建议您升级到我们所支持的浏览器的最新版本，例如Chrome、火狐、Edge或者Safari。",

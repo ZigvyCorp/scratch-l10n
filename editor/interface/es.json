@@ -12,6 +12,7 @@
     "gui.backpack.loadingBackpack": "Cargando...",
     "gui.backpack.more": "Más",
     "gui.backpack.emptyBackpack": "La mochila está vacía",
+    "gui.consolePanel.header": "panel de la consola",
     "gui.unsupportedBrowser.label": "El navegador no es compatible",
     "gui.unsupportedBrowser.errorLabel": "Ha ocurrido un error",
     "gui.unsupportedBrowser.notRecommended": "Lo sentimos mucho, pero parece que Scratch no soporta la versión de tu navegador. Te recomendamos actualizar a la última versión de un navegador con soporte, como Google Chrome, Mozilla Firefox, Microsoft Edge o Apple Safari.",
