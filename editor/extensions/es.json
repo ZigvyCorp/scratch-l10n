@@ -512,6 +512,7 @@
     "d3_loadbrickworldstring": "construir un mundo de ladrillos a partir del código [CÓDIGO]",
     "d3_setscenecolor": "establecer el color de fondo de la escena [COLOR]",
     "d3_setscenefog": "establecer escena niebla [MODO NIEBLA] [COLOR] inicio [INICIO] fin [FIN] densidad [DENSIDAD]",
+    "d3_setclipplane": "establecer plano de recorte [Número] dirección xyz [X] [Y] [Z] desplazamiento [DESPLAZAMIENTO]",
     "Lineal": "Lineal",
     "Exponencial": "Exponencial",
     "Ninguno": "Ninguno",

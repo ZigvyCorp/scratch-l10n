@@ -662,6 +662,7 @@
     "d3_loadbrickworldstring": "從代碼 [CODE] 構建磚塊世界",
     "d3_setscenecolor": "設置場景背景色 [COLOR]",
     "d3_setscenefog": "指定場景霧氣 [FOGMODE] [COLOR] 起始距離 [START] 結束距離 [END] 濃度指數 [DENSITY]",
+    "d3_setclipplane": "設置裁剪平面 [Number] 方向xyz [X] [Y] [Z] 偏移 [OFFSET]",
     "Linear": "線性",
     "Exponential": "指數增長",
     "None": "無",

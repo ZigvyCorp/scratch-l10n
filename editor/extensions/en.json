@@ -511,6 +511,7 @@
     "d3_loadbrickworldstring": "build brick world from code [CODE]",
     "d3_setscenecolor": "set scene background color [COLOR]",
     "d3_setscenefog": "set scene fog [FOGMODE] [COLOR] start [START] end [END] density [DENSITY]",
+    "d3_setclipplane": "set clipping plane [Number] direction xyz [X] [Y] [Z] offset [OFFSET]",
     "Linear": "Linear",
     "Exponential": "Exponential",
     "None": "None",

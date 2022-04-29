@@ -512,6 +512,7 @@
     "d3_loadbrickworldstring": "construire un monde de briques à partir du code [CODE]",
     "d3_setscenecolor": "définir la couleur d'arrière-plan de la scène [COLOR]",
     "d3_setscenefog": "régler le brouillard de scène [FOGMODE] [COLOR] commencer [START] finir [END] densité [DENSITY]",
+    "d3_setclipplane": "définir le plan de découpage [Nombre] direction xyz [X] [Y] [Z] décalage [OFFSET]",
     "Linéaire": "Linéaire",
     "Exponentiel": "Exponentiel",
     "Aucun": "Aucun",
