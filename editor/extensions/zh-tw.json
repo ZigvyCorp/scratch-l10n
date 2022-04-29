@@ -253,7 +253,7 @@
     "widget.addColorPicker": "添加颜色选择器 X [X] Y [Y] 名為 [NAME]",
     "widget.addSlider": "添加滑动条 X [X] Y [Y] 最小值　[MIN] 最大值 [MAX] 名為 [NAME]",
     "widget.addMenu": "使用列表 [LIST] 名為 [NAME] 在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 添加下拉菜單",
-    "widget.whenButtonClicked": "当名為 [NAME] 的按钮被点击的时候",
+    "widget.whenWidgetClicked": "當小部件 [NAME] 點擊時",
     "widget.whenWidgetChanges": "当名為 [NAME] 的控件更改时",
     "widget.setTextStyle": "为控件 [NAME] 设置 字体 [FONT] 大小 [FONTSIZE] 颜色 [TEXTCOLOR] 粗度 [BOLDNESS]",
     "widget.setWidgetStyle": "為 [NAME] 設置小部件背景顏色 [BGCOLOR] 邊框顏色 [BORDERCOLOR] 邊框寬度 [BORDERWIDTH] 邊框半徑 [BORDERRADIUS]",
