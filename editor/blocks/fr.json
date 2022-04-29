@@ -504,7 +504,7 @@
     "MOTION_JRBACKWARD": "en arrière %1",
     "MOTION_JRTURNLEFT": "tourner à gauche %1",
     "MOTION_JRTURNRIGHT": "tourner à droite %1",
-    "START_SPEECH": "commencer à reconnaître la parole dans %1",
+    "START_SPEECH": "commencer à reconnaître la parole dans %1 enregistrer en tant que %2",
     "END_SPEECH": "terminer la reconnaissance vocale",
     "TEXT_FROM_SPEECH": "texte de la parole",
     "SPEAK_IN_LANGUAGE": "dire %1 dans %2 comme %3 vitesse %4 tonalité %5 volume %6",

@@ -490,7 +490,7 @@
     "MOTION_JRBACKWARD": "落後 %1",
     "MOTION_JRTURNLEFT": "左拐 %1",
     "MOTION_JRTURNRIGHT": "右拐 %1",
-    "START_SPEECH": "開始語音識別 %1",
+    "START_SPEECH": "開始將 %1 記錄中的語音識別為 %2",
     "END_SPEECH": "結束語音識別",
     "TEXT_FROM_SPEECH": "来自语音的文本",
     "SPEAK_IN_LANGUAGE": "用 %2 說 %1 語音 %3 速度 %4 音高 %5 音量 %6",
