@@ -509,7 +509,7 @@
     "TEXT_FROM_SPEECH": "來自語音的文本",
     "SPEAK_IN_LANGUAGE": "用 %2 说 %1 语音 %3 速度 %4 音高 %5 音量 %6",
     "TRANSLATE_TEXT": "將 %1 從 %2 翻譯成 %3",
-    "LOCATEWEBCAMERA": "从视频中定位摄像头",
+    "LOCATEWEBCAMERA": "从视频中的标记定位摄像头",
     "ARABIC_ID":"阿拉伯語",
     "CHINESE_ID":"中文（普通話）",
     "DANISH_ID":"丹麥語",
