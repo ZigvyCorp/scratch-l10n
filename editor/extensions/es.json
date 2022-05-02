@@ -604,7 +604,7 @@
     "d3_showbounds": "mostrar cuadro delimitador [MOSTRAR]",
     "d3_updatecolor": "actualizar difusión de color [COLOR] emisión [COLOR2] rugosidad [ROUGHESS] brillo [BRIGHTNESS] eliminar textura [REMOVETEXTURE] área [COMPONENT]",
     "d3_updatetexture": "actualizar textura [TEXTURA] tamaño de unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
-    "d3_updatecostumetexture": "actualiza la textura usando el disfraz [COSTUME] tamaño de textura [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
+    "d3_updatecostumetexture": "actualiza la textura usando el disfraz [COSTUME] tamaño de la unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
     
     "d3_isgpusupported": "GPU disponible",
     "d3_getCameraXY": "obtener la posición de vista de la cámara para xyz [X] [Y] [Z]",
