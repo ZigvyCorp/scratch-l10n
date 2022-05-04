@@ -248,6 +248,7 @@
     "gui.SpriteInfo.model": "目标物体",
     "gui.SpriteInfo.show": "显示",
     "gui.SpriteInfo.size": "比例",
+    "gui.SpriteInfo.scale": "規模",
     "gui.spriteSelectorItem.contextMenuDuplicate": "复制",
     "gui.spriteSelectorItem.contextMenuExport": "导出",
     "gui.spriteSelectorItem.contextMenuDelete": "删除",
