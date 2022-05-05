@@ -739,5 +739,6 @@
     "d3_foreachproperty": "para cada propiedad denominada [PROPERTY_NAME] con valor [PROPERTY_VALUE] para [OBJECT_NAME] en el modelo denominado [MODEL_NAME]",
     "d3_for_each_cloned_d3_object": "para cada objeto 3D nombrado [OBJECT_NAME]",
     "database.categoryName": "Base de datos",
-    "database.createCollectionBtn": "Crear una colección"
+    "database.createCollectionBtn": "Crear una colección",
+    "object.categoryName": "Objeto"
 }

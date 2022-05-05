@@ -733,5 +733,6 @@
     "d3_switchFullScreen": "切换到全屏",
     "d3_for_each_cloned_d3_object": "对于每个命名的 3D 对象 [OBJECT_NAME]",
     "database.categoryName": "数据库",
-    "database.createCollectionBtn": "创建一个集合"
+    "database.createCollectionBtn": "创建一个集合",
+    "object.categoryName": "目的"
 }
