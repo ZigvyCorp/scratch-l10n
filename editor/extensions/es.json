@@ -680,6 +680,8 @@
     "d3_enablecamerahovering": "activar el desplazamiento para objetos creados en sprites [SPRINAMES]",
     "d3_disablecamerapicking": "desactivar selección de objetos creados en sprites [SPRITENAMES]",
     "d3_disablecamerahovering": "desactivar el desplazamiento de los objetos creados en sprites [SPRITENAMES]",
+    "d3_disablehoveringignforobject": "deshabilitar el desplazamiento para objetos llamados [OBJECTNAMES]",
+    "d3_enablehoveringignforobject": "habilitar el desplazamiento para objetos llamados [OBJECTNAMES]",
     "d3_whenobjectpicked": "cuando se elige un objeto de este sprite",
     "d3_whenobjecthovered": "cuando un objeto de este sprite comienza a ser suspendido",
     "d3_whenobjecthoveredend": "cuando un objeto de este objeto deja de estar sobrevolado",

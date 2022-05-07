@@ -470,6 +470,8 @@
     "d3_enablecamerahovering": "开启角色 [SPRITENAMES] 中创建的物体的懸停事件",
     "d3_disablecamerapicking": "關閉角色 [SPRITENAMES] 中創建的物體的選取事件",
     "d3_disablecamerahovering": "關閉角色 [SPRITENAMES] 中創建的物體的懸停事件",
+    "d3_disablehoveringignforobject": "關閉名為 [OBJECTNAMES] 的物體的懸停事件",
+    "d3_enablehoveringignforobject": "開啟名為 [OBJECTNAMES] 的物體的懸停事件",
     "d3_whenobjectpicked": "當這個角色中的一個物體被選取時",
     "d3_whenobjecthovered": "當這個角色中的一個物體开始被懸停時",
     "d3_whenobjecthoveredend": "當這個角色中的一個物體结束被懸停時",

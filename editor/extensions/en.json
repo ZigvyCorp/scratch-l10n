@@ -678,6 +678,8 @@
     "d3_enablecamerahovering": "turn on hovering for objects created in sprites [SPRITENAMES]",
     "d3_disablecamerapicking": "turn off picking for objects created in sprites [SPRITENAMES]",
     "d3_disablecamerahovering": "turn off hovering for objects created in sprites [SPRITENAMES]",
+    "d3_disablehoveringignforobject": "disable hovering for objects named [OBJECTNAMES]",
+    "d3_enablehoveringignforobject": "enable hovering for objects named [OBJECTNAMES]",
     "d3_whenobjectpicked": "when an object from this sprite is picked",
     "d3_whenobjecthovered": "when an object from this sprite starts being hovered",
     "d3_whenobjecthoveredend": "when an object from this sprite stops being hovered",
