@@ -612,5 +612,9 @@
     "gui.gui.typeLabelMessage": "Type",
     "gui.gui.atLeastFieldMessage": "Au moins 1 colonnes",
     "gui.gui.missingColumnsMessage": "Les colonnes sont obligatoires !!!",
-    "gui.gui.missingTypeMessage": "Le type est requis !!!"
+    "gui.gui.missingTypeMessage": "Le type est requis !!!",
+    "gui.prompt.confirmMessage": "Êtes-vous sûr de vouloir changer cette collection ?",
+    "gui.prompt.descriptionConfirmMessage": "Lorsque vous modifiez cette collection, toutes les données existantes seront perdues !!!",
+    "gui.prompt.okText": "Ok",
+    "gui.prompt.cancelText": "Annuler"
 }

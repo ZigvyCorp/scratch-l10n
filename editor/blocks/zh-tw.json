@@ -550,5 +550,7 @@
     "DELETE_COLLECTION": "刪除\"%1\" 集合",
     "RENAME_COLLECTION": "重命名收藏",
     "NEW_DATABASE_TITLE": "新數據庫名稱：",
-    "DATABASE_MODAL_TITLE": "新數據庫"
+    "DATABASE_MODAL_TITLE": "新數據庫",
+    "DATABASE_QUERY": "%1 %2 %3"
+    
 }

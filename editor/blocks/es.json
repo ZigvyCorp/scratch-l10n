@@ -565,5 +565,6 @@
     "RENAME_COLLECTION_TITLE": "Cambiar el nombre de toda la colección \"%1\" a:",
     "RENAME_COLLECTION_MODAL_TITLE": "Renombrar colección",
     "DELETE_COLLECTION": "Eliminar la colección \"%1\"",
-    "RENAME_COLLECTION": "Renombrar colección"
+    "RENAME_COLLECTION": "Renombrar colección",
+    "DATABASE_QUERY": "%1 %2 %3"
 }

@@ -566,5 +566,6 @@
     "RENAME_COLLECTION_TITLE": "Rename all \"%1\" collection to:",
     "RENAME_COLLECTION_MODAL_TITLE": "Rename Collection",
     "DELETE_COLLECTION": "Delete the \"%1\" collection",
-    "RENAME_COLLECTION": "Rename collection"
+    "RENAME_COLLECTION": "Rename collection",
+    "DATABASE_QUERY": "%1 %2 %3"
 }

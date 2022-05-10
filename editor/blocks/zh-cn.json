@@ -565,5 +565,6 @@
     "RENAME_COLLECTION_TITLE": "将所有\"%1\" 集合重命名为：",
     "RENAME_COLLECTION_MODAL_TITLE": "重命名收藏",
     "DELETE_COLLECTION": "删除\"%1\" 集合",
-    "RENAME_COLLECTION": "重命名收藏"
+    "RENAME_COLLECTION": "重命名收藏",
+    "DATABASE_QUERY": "%1 %2 %3"
 }

@@ -612,5 +612,9 @@
     "gui.gui.typeLabelMessage": "类型",
     "gui.gui.atLeastFieldMessage": "至少 1 列",
     "gui.gui.missingColumnsMessage": "列是必需的！！！",
-    "gui.gui.missingTypeMessage": "类型是必需的！！！"
+    "gui.gui.missingTypeMessage": "类型是必需的！！！",
+    "gui.prompt.confirmMessage": "你确定要改变这个集合吗？",
+    "gui.prompt.descriptionConfirmMessage": "当您更改此集合时，所有现有数据都将丢失！！！",
+    "gui.prompt.okText": "好的",
+    "gui.prompt.cancelText": "取消"
 }
