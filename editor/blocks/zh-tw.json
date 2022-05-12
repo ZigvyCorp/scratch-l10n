@@ -535,5 +535,7 @@
     "OPERATORS_REGEX_SPLIT_INTO_LIST": "正则表达式 %1 将 %2 拆分为列表 %3",
     "LEFT_MOUSE_BUTTON": "左",
     "RIGHT_MOUSE_BUTTON": "對",
-    "CONTROL_REPORT_OLYMPIC_RESULT": "申报奥运成绩单号 %1"
+    "CONTROL_REPORT_OLYMPIC_RESULT": "申报奥运成绩单号 %1",
+    "START_RECOGNIZER": "開始在 %1 到列表 %2 中運行語音識別",
+    "STOP_RECOGNIZER": "停止運行語音識別"
 }
