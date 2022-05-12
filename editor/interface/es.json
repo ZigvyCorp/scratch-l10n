@@ -164,7 +164,7 @@
     "gui.menuBar.shareWithPasswordTitle": "¡Escriba la contraseña y haga clic en el botón Compartir para que todos los que tengan la contraseña puedan verla y mezclarla!",
     "gui.menuBar.publishWithPasswordTitle": "¡Escriba la contraseña y haga clic en el botón publicar para publicar su proyecto sin compartir sus bloques de código!",
     "gui.menuBar.shareWithPasswordPlaceholder": "Escriba la contraseña",
-    "gui.menuBar.logoTile": "CCLogoWhite.png",
+    "gui.menuBar.logoTile": "newlogo200.png",
     "gui.menuBar.logo": "CCLogo.png",
     "gui.menuBar.logoLarge": "CCLogoL.png",
     "gui.menuBar.shareButtonMessage": "Comparta su proyecto para que todos puedan ejecutarlo o mezclarlo",
