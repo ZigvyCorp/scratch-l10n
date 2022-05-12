@@ -376,6 +376,7 @@
     "d3_addframe": "添加框架 [COLOR] 边数 [EDGES] 边长 [EDGELENGTH] 厚度 [THICKNESS] 名为 [NAME]",
     "d3_addcone":  "添加椎体 [COLOR] 顶点列表 [LIST] 高度 [HEIGHT] 名为 [NAME]",
     "d3_addobject":  "添加模型 [OBJECTNAME] 目标高度 [HEIGHT] 原点偏移 xyz [X] [Y] [Z] 名为 [NAME]",
+    "d3_addcommunityobject": "添加社区模型 [OBJECTNAME] 目标高度 [HEIGHT] 原点偏移 [X] [Y] [Z] 作为 [NAME]",
     "d3_addlinkobject":  "通过URL添加公共物体 [OBJECTNAME] 名为 [NAME]",
     "d3_addcharacter":  "添加人物 [CHARACTERNAME] 名为 [NAME]",
     "d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名为 [NAME]",
@@ -519,7 +520,7 @@
     "d3_set_property": "将命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的属性 [PROPERTY_NAME] 设置为 [PROPERTY_VALUE]",
     "d3_property": "命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的属性 [PROPERTY_NAME]",
     "d3_foreachproperty": "对于名为 [MODEL_NAME] 的模型中 [OBJECT_NAME] 的每个名为 [PROPERTY_NAME] 且值为 [PROPERTY_VALUE] 的属性",
-    "d3_addcommunityobject":  "添加社区模型 [OBJECTNAME] z轴位移 [ZOFFSET]% 名为 [NAME]",
+    
     "d3_showinspector": "显示查看工具 [SHOW]",
     "castle":  "城堡",
     "city":  "城市",
