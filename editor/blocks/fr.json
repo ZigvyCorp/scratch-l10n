@@ -549,5 +549,7 @@
     "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 divise %2 en liste %3",
     "LEFT_MOUSE_BUTTON": "gauche",
     "RIGHT_MOUSE_BUTTON": "droit",
-    "CONTROL_REPORT_OLYMPIC_RESULT": "indiquer le numéro du résultat olympique %1"
+    "CONTROL_REPORT_OLYMPIC_RESULT": "indiquer le numéro du résultat olympique %1",
+    "START_RECOGNIZER": "démarre l'exécution de la reconnaissance vocale dans %1 dans la liste %2",
+    "STOP_RECOGNIZER": "arrêter l'exécution de la reconnaissance vocale"
 }

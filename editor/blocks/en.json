@@ -550,5 +550,7 @@
     "OPERATORS_REGEX_SPLIT_INTO_LIST": "regex %1 split %2 into list %3",
     "LEFT_MOUSE_BUTTON": "left",
     "RIGHT_MOUSE_BUTTON": "right",
-    "CONTROL_REPORT_OLYMPIC_RESULT": "report olympic result number %1"
+    "CONTROL_REPORT_OLYMPIC_RESULT": "report olympic result number %1",
+    "START_RECOGNIZER": "start running speech recognition in %1 into list %2",
+    "STOP_RECOGNIZER": "stop running speech recognition"
 }
