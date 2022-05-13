@@ -32,7 +32,7 @@
     "CONTROL_REPEAT_ON_EVERY_SECONDS": "seconds",
     "CONTROL_REPEAT_ON_EVERY_MILLISECONDS": "milliseconds",
     "CONTROL_REPEAT_ON_EVERY_FRAMES": "frames",
-    "CONTROL_DEBUG": "print %1 in %2",
+    "CONTROL_DEBUG": "print %1 in %2 with %3",
     "CONTROL_DEBUG_CONSOLE": "console",
     "CONTROL_DEBUG_ALERT": "alert",
     "CONTROL_DEFAULT_OPTION": "select",
