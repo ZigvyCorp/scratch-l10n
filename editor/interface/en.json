@@ -604,5 +604,18 @@
     "gui.verticalMode.toggle.title": "Vertical Mode",
     "gui.menuBar.olympicToggle.checked": "Enabled",
     "gui.menuBar.olympicToggle.unchecked": "Disabled",
-    "gui.menuBar.olympicToggle.title": "Olympic project"
+    "gui.menuBar.olympicToggle.title": "Olympic project",
+    "gui.extension.database.name": "Database",
+    "gui.extension.database.description": "Store and analyze data",
+    "gui.gui.addFieldMessage": "Add collection",
+    "gui.gui.columnsLabelMessage": "Columns",
+    "gui.gui.typeLabelMessage": "Type",
+    "gui.gui.atLeastFieldMessage": "At least 1 columns",
+    "gui.gui.missingColumnsMessage": "Columns is required !!!",
+    "gui.gui.missingTypeMessage": "Type is required !!!",
+    "gui.prompt.confirmMessage": "Are you sure to change this collection?",
+    "gui.prompt.descriptionConfirmMessage": "When you change this collection that all existing data will be lost !!!",
+    "gui.prompt.okText": "Ok",
+    "gui.prompt.cancelText": "Cancel"
+
 }

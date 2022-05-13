@@ -604,5 +604,17 @@
     "gui.verticalMode.toggle.title": "Modo vertical",
     "gui.menuBar.olympicToggle.checked": "Habilitado",
     "gui.menuBar.olympicToggle.unchecked": "Deshabilitado",
-    "gui.menuBar.olympicToggle.title": "proyecto olímpico"
+    "gui.menuBar.olympicToggle.title": "proyecto olímpico",
+    "gui.extension.database.name": "Base de datos",
+    "gui.extension.database.description": "Almacenar y analizar datos",
+    "gui.gui.addFieldMessage": "Agregar colección",
+    "gui.gui.columnsLabelMessage": "Columnas",
+    "gui.gui.typeLabelMessage": "Tipo",
+    "gui.gui.atLeastFieldMessage": "Al menos 1 columna",
+    "gui.gui.missingColumnsMessage": "Se requieren columnas!!!",
+    "gui.gui.missingTypeMessage": "¡El tipo es obligatorio!",
+    "gui.prompt.confirmMessage": "¿Estás seguro de cambiar esta colección?",
+    "gui.prompt.descriptionConfirmMessage": "Cuando cambies esta colección, ¡todos los datos existentes se perderán!",
+    "gui.prompt.okText": "Ok",
+    "gui.prompt.cancelText": "Cancelar"
 }

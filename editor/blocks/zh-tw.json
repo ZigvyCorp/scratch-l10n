@@ -416,7 +416,8 @@
     "CATEGORY_OPERATORS": "運算",
     "CATEGORY_VARIABLES": "變數",
     "CATEGORY_MYBLOCKS": "函式積木",
-    "CATEGORY_AIBLOCKS": "AI",
+    "CATEGORY_AIBLOCKS": "艾",
+    "CATEGORY_DATABASE": "數據庫",
     "DUPLICATE": "複製",
     "COPY_ALL": "粘貼",
     "COPY_BLOCK": "複製塊",
@@ -537,5 +538,19 @@
     "RIGHT_MOUSE_BUTTON": "對",
     "CONTROL_REPORT_OLYMPIC_RESULT": "申报奥运成绩单号 %1",
     "START_RECOGNIZER": "開始在 %1 到列表 %2 中運行語音識別",
-    "STOP_RECOGNIZER": "停止運行語音識別"
+    "STOP_RECOGNIZER": "停止運行語音識別",
+    "NEW_COLLECTION": "製作收藏",
+    "DATABASE_INSERT_FROM_TABLE": "從表 %1 行從 %2 到 %3 插入集合 %4",
+    "DATABASE_FIND_FROM_COLLECTION":"從集合 %1 到表 %2 中從第 %3 行開始查找",
+    "DATABASE_REMOVE_ALL_DOCUMENT":"從集合 %1 中刪除所有文檔，其中 %2",
+    "DATABASE_UPDATE_COLLECTION":"使用表 %3 中的行 %2 更新集合 %1，其中 %4",
+    "DATABASE_UPDATE_COLLECTION_IN_PLACE":"就地更新集合 %1，其中 %2 將 %3 設置為 %4",
+    "RENAME_COLLECTION_TITLE": "將所有\"%1\" 集合重命名為：",
+    "RENAME_COLLECTION_MODAL_TITLE": "重命名收藏",
+    "DELETE_COLLECTION": "刪除\"%1\" 集合",
+    "RENAME_COLLECTION": "重命名收藏",
+    "NEW_DATABASE_TITLE": "新數據庫名稱：",
+    "DATABASE_MODAL_TITLE": "新數據庫",
+    "DATABASE_QUERY": "%1 %2 %3"
+    
 }
