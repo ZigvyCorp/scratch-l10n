@@ -314,6 +314,7 @@
     "automation.simulateClick": "simulate pointer click at x [X] y [Y]",
     "automation.simulateKeyPress": "simulate key-press [KEY]",
     "automation.simulateKeyRelease": "simulate key-release [KEY]",
+    "automation.readPixelColor": "RGB color at x [X] y [Y]",
     "game.categoryName": "Game",
     "game.recordPlayerScore": "record player score [VALUE]",
     "game.showGameLeaderboard": "show game leaderboard [SORT]",

@@ -314,6 +314,7 @@
     "automation.simulateClick": "simular clic de puntero en x [X] y [Y]",
     "automation.simulateKeyPress": "simular pulsación de tecla [KEY]",
     "automation.simulateKeyRelease": "simular liberación de tecla [KEY]",
+    "automation.readPixelColor": "Color RGB en x [X] y [Y]",
     "game.categoryName": "Juego",
     "game.recordPlayerScore": "puntuación récord del jugador [VALUE]",
     "game.showGameLeaderboard": "mostrar la clasificación del juego [SORT]",

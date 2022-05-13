@@ -313,6 +313,7 @@
     "automation.simulateClick": "模拟指针单击 x [X] y [Y]",
     "automation.simulateKeyPress": "模拟按键 [KEY]",
     "automation.simulateKeyRelease": "模拟按键释放 [KEY]",
+    "automation.readPixelColor": "x [X] y [Y] 处的 RGB 颜色",
     "game.categoryName": "游戏",
     "widget.menuItem.varDefault": "没有任何",
     "game.recordPlayerScore": "記錄玩家得分 [VALUE]",
