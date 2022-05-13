@@ -589,6 +589,8 @@
     "gui.extension.game.description": "Outils pour créer des jeux",
     "gui.extension.automation.name": "Automatisation",
     "gui.extension.automation.description": "Remplacer les opérations manuelles",
+    "gui.extension.object.name": "Objet",
+    "gui.extension.object.description": "Créer un objet en programmation",
     "gui.spine.skeleton": "Squelette",
     "gui.spine.skins": "Peaux",
     "gui.spine.frame": "Cadre {index}",

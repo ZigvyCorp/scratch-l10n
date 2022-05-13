@@ -738,5 +738,13 @@
     "d3_for_each_cloned_d3_object": "for each 3D object named [OBJECT_NAME]",
     "database.categoryName": "Database",
     "database.createCollectionBtn": "Create a Collection",
-    "object.categoryName": "Object"
+    "object.categoryName": "Object",
+    "object.createObject": "create a [PERMISSION] object name [NAME]",
+    "object.updateObject": "set [PROPERTY] to [VALUE] for object [ID]",
+    "object.printProperty": "[ID].[PROPERTY]",
+    "object.eventObjectChanged": "when object [ID] changed",
+    "object.eventPropertyChanged": "when object [ID]'s property [PROPERTY] changed",
+    "object.printObject": "object [ID]",
+    "object.menuItem.public": "public",
+    "object.menuItem.private": "private"
 }

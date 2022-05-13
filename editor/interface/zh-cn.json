@@ -530,6 +530,8 @@
     "gui.extension.game.description": "构建游戏的工具。",
     "gui.extension.automation.name": "自动化",
     "gui.extension.automation.description": "替代手动操作",
+    "gui.extension.object.name": "目的",
+    "gui.extension.object.description": "在编程中创建对象",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",
     "gui.libraryTags.dance": "舞蹈",

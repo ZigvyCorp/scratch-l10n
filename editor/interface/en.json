@@ -530,6 +530,8 @@
     "gui.extension.game.description": "Tools to build games",
     "gui.extension.automation.name": "Automation",
     "gui.extension.automation.description": "Replace manual operations",
+    "gui.extension.object.name": "Object",
+    "gui.extension.object.description": "Create object in programming",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",

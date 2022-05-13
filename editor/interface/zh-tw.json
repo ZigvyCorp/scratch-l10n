@@ -525,6 +525,8 @@
     "gui.extension.game.description": "构建游戏的工具。",
     "gui.extension.automation.name": "自動化",
     "gui.extension.automation.description": "替代手動操作",
+    "gui.extension.object.name": "目的",
+    "gui.extension.object.description": "在編程中創建對象",
     "gui.libraryTags.all": "全部",
     "gui.libraryTags.animals": "動物",
     "gui.libraryTags.dance": "舞蹈",

@@ -734,5 +734,12 @@
     "d3_for_each_cloned_d3_object": "对于每个命名的 3D 对象 [OBJECT_NAME]",
     "database.categoryName": "数据库",
     "database.createCollectionBtn": "创建一个集合",
-    "object.categoryName": "目的"
+    "object.categoryName": "目的",
+    "object.createObject": "创建一个 [PERMISSION] 对象名称 [NAME]",
+    "object.updateObject": "将对象 [ID] 的 [PROPERTY] 设置为 [VALUE]",
+    "object.eventObjectChanged": "当对象 [ID] 更改时",
+    "object.eventPropertyChanged": "当对象 [ID] 的属性 [PROPERTY] 更改时",
+    "object.printObject": "目的 [ID]",
+    "object.menuItem.public": "上市",
+    "object.menuItem.private": "私人的"
 }
