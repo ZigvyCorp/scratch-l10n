@@ -616,6 +616,6 @@
     "gui.prompt.confirmMessage": "Are you sure to change this collection?",
     "gui.prompt.descriptionConfirmMessage": "When you change this collection that all existing data will be lost !!!",
     "gui.prompt.okText": "Ok",
-    "gui.prompt.cancelText": "Cancel"
-
+    "gui.prompt.cancelText": "Cancel",
+    "gui.menuBar.creaticode": "Creaticode"
 }

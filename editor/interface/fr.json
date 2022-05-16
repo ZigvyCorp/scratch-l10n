@@ -616,5 +616,6 @@
     "gui.prompt.confirmMessage": "Êtes-vous sûr de vouloir changer cette collection ?",
     "gui.prompt.descriptionConfirmMessage": "Lorsque vous modifiez cette collection, toutes les données existantes seront perdues !!!",
     "gui.prompt.okText": "Ok",
-    "gui.prompt.cancelText": "Annuler"
+    "gui.prompt.cancelText": "Annuler",
+    "gui.menuBar.creaticode": "Créaticode"
 }

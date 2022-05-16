@@ -610,5 +610,6 @@
     "gui.prompt.confirmMessage": "你確定要改變這個集合嗎？",
     "gui.prompt.descriptionConfirmMessage": "當您更改此集合時，所有現有數據都將丟失！！！",
     "gui.prompt.okText": "好的",
-    "gui.prompt.cancelText": "取消"
+    "gui.prompt.cancelText": "取消",
+    "gui.menuBar.creaticode": "创益编程"
 }
