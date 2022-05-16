@@ -164,7 +164,7 @@
     "gui.menuBar.shareWithPasswordTitle": "Type the password and click the share button to let everyone who has the password can see and remix it!",
     "gui.menuBar.publishWithPasswordTitle": "Type the password and click the publish button to publish your project without sharing your code blocks!",
     "gui.menuBar.shareWithPasswordPlaceholder": "Type the password",
-    "gui.menuBar.logoTile": "CCLogoWhite.png",
+    "gui.menuBar.logoTile": "newlogo200.png",
     "gui.menuBar.logo": "CCLogo.png",
     "gui.menuBar.logoLarge": "CCLogoL.png",
     "gui.menuBar.shareButtonMessage": "Share your project for everyone to run or remix",
@@ -616,6 +616,6 @@
     "gui.prompt.confirmMessage": "Are you sure to change this collection?",
     "gui.prompt.descriptionConfirmMessage": "When you change this collection that all existing data will be lost !!!",
     "gui.prompt.okText": "Ok",
-    "gui.prompt.cancelText": "Cancel"
-
+    "gui.prompt.cancelText": "Cancel",
+    "gui.menuBar.creaticode": "Creaticode"
 }

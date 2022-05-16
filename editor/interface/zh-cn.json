@@ -164,7 +164,7 @@
     "gui.menuBar.shareWithPasswordTitle": "输入密码并点击分享按钮，让所有知道密码的人都可以看到并重新组合！",
     "gui.menuBar.publishWithPasswordTitle": "输入密码并单击发布按钮以发布您的项目而不共享您的代码块！",
     "gui.menuBar.sharedWithFriendButton": "与朋友分享",
-    "gui.menuBar.logoTile": "CCLogoWhiteCH3.png",
+    "gui.menuBar.logoTile": "newlogo200.png",
     "gui.menuBar.logo": "CCLogoCH3.png",
     "gui.menuBar.logoLarge": "CCLogoCH3L.png",
     "gui.menuBar.shareButtonMessage": "分享您的项目供所有人运行或改编",
@@ -616,5 +616,6 @@
     "gui.prompt.confirmMessage": "你确定要改变这个集合吗？",
     "gui.prompt.descriptionConfirmMessage": "当您更改此集合时，所有现有数据都将丢失！！！",
     "gui.prompt.okText": "好的",
-    "gui.prompt.cancelText": "取消"
+    "gui.prompt.cancelText": "取消",
+    "gui.menuBar.creaticode": "创益编程"
 }

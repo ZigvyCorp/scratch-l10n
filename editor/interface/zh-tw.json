@@ -169,7 +169,7 @@
     "gui.menuBar.helpStartRecordingButton": "開始錄製",
     "gui.menuBar.helpStopRecordingButton": "停止錄製",
     "gui.menuBar.helpCancelRecordingButton": "取消錄製",
-    "gui.menuBar.logoTile": "CCLogoWhiteCH3.png",
+    "gui.menuBar.logoTile": "newlogo200.png",
     "gui.menuBar.logo": "CCLogoCH3.png",
     "gui.menuBar.logoLarge": "CCLogoCH3L.png",
     "gui.blockSearch.placeholder": "搜索積木塊",
@@ -610,5 +610,6 @@
     "gui.prompt.confirmMessage": "你確定要改變這個集合嗎？",
     "gui.prompt.descriptionConfirmMessage": "當您更改此集合時，所有現有數據都將丟失！！！",
     "gui.prompt.okText": "好的",
-    "gui.prompt.cancelText": "取消"
+    "gui.prompt.cancelText": "取消",
+    "gui.menuBar.creaticode": "创益编程"
 }
