@@ -743,6 +743,7 @@
     "object.eventObjectChanged": "當對象 [ID] 更改時",
     "object.eventPropertyChanged": "當對象 [ID] 的屬性 [PROPERTY] 更改時",
     "object.printObject": "目的 [ID]",
+    "object.printAllObjects": "所有對象 ID",
     "object.menuItem.public": "上市",
     "object.menuItem.private": "私人的"
 }

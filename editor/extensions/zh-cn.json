@@ -740,6 +740,7 @@
     "object.eventObjectChanged": "当对象 [ID] 更改时",
     "object.eventPropertyChanged": "当对象 [ID] 的属性 [PROPERTY] 更改时",
     "object.printObject": "目的 [ID]",
+    "object.printAllObjects": "所有对象 ID",
     "object.menuItem.public": "上市",
     "object.menuItem.private": "私人的"
 }

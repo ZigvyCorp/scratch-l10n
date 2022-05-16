@@ -745,6 +745,7 @@
     "object.eventObjectChanged": "lorsque l'objet [ID] a changé",
     "object.eventPropertyChanged": "lorsque la propriété [PROPERTY] de l'objet [ID] a été modifiée",
     "object.printObject": "objet [ID]",
+    "object.printAllObjects": "tous les ID d'objet",
     "object.menuItem.public": "publique",
     "object.menuItem.private": "privée"
 }
