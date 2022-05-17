@@ -32,7 +32,7 @@
     "CONTROL_REPEAT_ON_EVERY_SECONDS": "segundos",
     "CONTROL_REPEAT_ON_EVERY_MILLISECONDS": "milisegundos",
     "CONTROL_REPEAT_ON_EVERY_FRAMES": "marcos",
-    "CONTROL_DEBUG": "imprimir %1 en %2 con %3",
+    "CONTROL_DEBUG": "imprimir %1 en %2 color %3",
     "CONTROL_DEBUG_CONSOLE": "consola",
     "CONTROL_DEBUG_ALERT": "alerta",
     "CONTROL_DEFAULT_OPTION": "Seleccione",
