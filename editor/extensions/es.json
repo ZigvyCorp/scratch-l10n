@@ -622,6 +622,7 @@
     "d3_updatecostumetexture": "actualiza la textura usando el disfraz [COSTUME] tamaño de la unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
     
     "d3_isgpusupported": "GPU disponible",
+    "d3_objectexists": "el objeto [NOMBRE] existe",
     "d3_getCameraXY": "obtener la posición de vista de la cámara para xyz [X] [Y] [Z]",
     "d3_createemitter": "añadir forma de emisor de partículas [EMITTERTYPE] textura [TEXTURA] frente a la cámara [FACINGCAMERA] vida mínima [MINLIFE] max [MAXLIFE] capacidad [CAP] GPU [USEGPU] relación de tiempo [UPDATESPEED]% como [NAME]",
     "pointemitter": "Punto",
