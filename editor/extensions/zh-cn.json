@@ -402,6 +402,8 @@
     "d3_addtransformnode":  "添加转换器 名为 [NAME]",
     "d3_setasparent": "把角色 [SPRITE] 中的物体 [PARENTNAME] 名为父节点",
     "d3_setasphysicsparent": "将角色 [SPRITE] 中的物体 [PARENTNAME] 设置为物理父节点",
+    "d3_setphysicslinearvelocity": "设置物理物体 xyz 方向速度 [X] [Y] [Z] 名为 [NAME]",
+    "d3_setphysicsangularvelocity": "设置物理物体 绕 xyz 轴的旋转速度 [X] [Y] [Z] 名为 [NAME]",
     "d3_freezeallphysics": "冻结所有物理形状 [YESNO]",
     "d3_freezeonephysics": "冻结名为 [NAME] 的物理形状 [YESNO] ",
     "d3_attachtobone": "附着于角色 [SPRITE] 中的物体 [PARENTNAME] 的 [BODYPART] 目标高度 [HEIGHT]",

@@ -609,6 +609,8 @@
     "d3_addtransformnode": "ajouter un transformateur nommé [NAME]",
     "d3_setasparent": "définir l'objet [PARENTNAME] du sprite [SPRITE] comme parent",
     "d3_setasphysicsparent": "définit l'objet [PARENTNAME] du sprite [SPRITE] comme parent pour la physique",
+    "d3_setphysicslinearvelocity": "régler la vitesse de l'objet physique en xyz [X] [Y] [Z] pour [NAME]",
+    "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",
     "d3_freezeallphysics": "fige toutes les formes physiques [YESNO]",
     "d3_freezeonephysics": "fige la forme physique nommée [NAME] [YESNO]",
     "d3_attachtobone": "attacher à l'os [BODYPART] de [PARENTNAME] du sprite [SPRITE] hauteur cible [HEIGHT]",
