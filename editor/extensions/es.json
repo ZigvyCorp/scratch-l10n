@@ -217,6 +217,7 @@
     "p2p.joinWorld": "únete al mundo [WORLD] con contraseña [PASSWORD]",
     "p2p.deleteroom": "borrar mundo [ROOMID]",
     "p2p.leaveworld": "dejar el mundo [WORLD_NAME]",
+    "p2p.destroyworld": "destruir el mundo llamado [WORLD_NAME]",
     "p2p.broadcast": "transmite un mensaje [MESSAGE] al mundo [WORLD_NAME]",
     "p2p.whenworldresponse": "Cuando el mundo [WORLD_NAME] responde con el mensaje [MESSAGE]",
     "p2p.receivemessage": "cuando recibo [MESSAGE] del remitente [SENDER] de [WORLD_NAME] del mundo",
