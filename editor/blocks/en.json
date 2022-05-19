@@ -566,10 +566,13 @@
     "RENAME_COLLECTION_TITLE": "Change \"%1\" collection to:",
     "RENAME_COLLECTION_MODAL_TITLE": "Change Collection",
     "DELETE_COLLECTION": "Delete the \"%1\" collection",
-    "RENAME_COLLECTION": "Change collection",
+    "RENAME_COLLECTION": "Rename collection",
     "DATABASE_QUERY": "%1 %2 %3",
     "DATABASE_CONTAINS": "%1 contains %2?",
     "DATABASE_NOT": "not %1",
     "DATABASE_AND": "%1 and %2",
-    "DATABASE_OR": "%1 or %2"
+    "DATABASE_OR": "%1 or %2",
+    "YES": "yes",
+    "NO": "no",
+    "FACE_DETECTION": "turn on simple face detection debug %1 into table %2"
 }

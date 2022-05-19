@@ -570,5 +570,8 @@
     "DATABASE_CONTAINS": "%1 contient %2 ?",
     "DATABASE_NOT": "non %1",
     "DATABASE_AND": "%1 et %2",
-    "DATABASE_OR": "%1 ou %2"
+    "DATABASE_OR": "%1 ou %2",
+    "YES": "Oui",
+    "NO": "Non",
+    "FACE_DETECTION": "activer le débogage de détection de visage simple %1 dans la table %2"
 }
