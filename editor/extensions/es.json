@@ -219,7 +219,7 @@
     "p2p.leaveworld": "dejar el mundo [WORLD_NAME]",
     "p2p.destroyworld": "destruir el mundo llamado [WORLD_NAME]",
     "p2p.broadcast": "transmite un mensaje [MESSAGE] al mundo [WORLD_NAME]",
-    "p2p.whenworldresponse": "Cuando el mundo [WORLD_NAME] responde con el mensaje [MESSAGE]",
+    "p2p.whenworldresponse": "Al recibir el mensaje del sistema [MESSAGE] del mundo [WORLD_NAME]",
     "p2p.receivemessage": "cuando recibo [MESSAGE] del remitente [SENDER] de [WORLD_NAME] del mundo",
     "p2p.whenworldchange": "Cuando un mundo [CHANGE_TYPE]",
     "p2p.whenmemberschange": "Cuando un usuario [CHANGE_TYPE] mundo [WORLD_NAME] como [USER_INFO]",

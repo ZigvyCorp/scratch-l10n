@@ -219,7 +219,7 @@
     "p2p.leaveworld": "离开世界 [WORLD_NAME]",
     "p2p.destroyworld": "摧毁名为 [WORLD_NAME] 的世界",
     "p2p.broadcast": "向世界 [WORLD_NAME] 广播消息 [MESSAGE]",
-    "p2p.whenworldresponse": "当世界 [WORLD_NAME] 响应消息 [MESSAGE]",
+    "p2p.whenworldresponse": "当收到来自世界 [WORLD_NAME] 的系统消息 [MESSAGE] 时",
     "p2p.receivemessage": "当我收到来自世界 [WORLD_NAME] 发件人 [SENDER] 的 [MESSAGE] 时",
     "p2p.whenworldchange": "当一个世界 [CHANGE_TYPE]",
     "p2p.whenmemberschange": "当用户 [CHANGE_TYPE] 将 [WORLD_NAME] 设为 [USER_INFO]",
