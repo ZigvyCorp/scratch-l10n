@@ -184,6 +184,7 @@
     "gui.blockSearchWorkspace.placeholder": "Rechercher dans le bloc de l'espace de travail",
     "gui.stageHeader.stageSize3d": "Passer en 3D uniquement",
     "gui.stageHeader.gizmosTranslation": "Position",
+    "gui.stageHeader.widgetPosition": "Position du widget",
     "gui.stageHeader.gizmosRotation": "Rotation",
     "gui.stageHeader.gizmosScale": "Échelle",
     "gui.stageHeader.gizmosBoundingBox": "Boîte englobante",

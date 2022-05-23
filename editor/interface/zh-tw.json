@@ -176,6 +176,7 @@
     "gui.blockSearchWorkspace.placeholder": "搜索工作區",
     "gui.stageHeader.stageSize3d": "切換到三維",
     "gui.stageHeader.gizmosTranslation": "位置",
+    "gui.stageHeader.widgetPosition": "小部件位置",
     "gui.stageHeader.gizmosRotation": "旋轉",
     "gui.stageHeader.gizmosScale": "拉伸",
     "gui.stageHeader.gizmosBoundingBox": "邊框",
