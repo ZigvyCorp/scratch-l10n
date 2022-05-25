@@ -541,16 +541,20 @@
     "STOP_RECOGNIZER": "停止運行語音識別",
     "NEW_COLLECTION": "製作收藏",
     "DATABASE_INSERT_FROM_TABLE": "從表 %1 行從 %2 到 %3 插入集合 %4",
-    "DATABASE_FIND_FROM_COLLECTION":"從集合 %1 到表 %2 中從第 %3 行開始查找",
+    "DATABASE_FIND_FROM_COLLECTION":"從集合 %1 提取到表 %2 中，從行 %3 開始",
     "DATABASE_REMOVE_ALL_DOCUMENT":"從集合 %1 中刪除所有文檔，其中 %2",
     "DATABASE_UPDATE_COLLECTION":"使用表 %3 中的行 %2 更新集合 %1，其中 %4",
     "DATABASE_UPDATE_COLLECTION_IN_PLACE":"就地更新集合 %1，其中 %2 將 %3 設置為 %4",
-    "RENAME_COLLECTION_TITLE": "將所有\"%1\" 集合重命名為：",
-    "RENAME_COLLECTION_MODAL_TITLE": "重命名收藏",
+    "RENAME_COLLECTION_TITLE": "將 \"%1\" 集合更改為：",
+    "RENAME_COLLECTION_MODAL_TITLE": "更改集合",
     "DELETE_COLLECTION": "刪除\"%1\" 集合",
-    "RENAME_COLLECTION": "重命名收藏",
-    "NEW_DATABASE_TITLE": "新數據庫名稱：",
-    "DATABASE_MODAL_TITLE": "新數據庫",
-    "DATABASE_QUERY": "%1 %2 %3"
+    "RENAME_COLLECTION": "更改集合",
+    "NEW_DATABASE_TITLE": "新集合名稱：",
+    "DATABASE_MODAL_TITLE": "新系列",
+    "DATABASE_QUERY": "%1 %2 %3",
+    "DATABASE_CONTAINS": "字串 %1 包含 %2？",
+    "DATABASE_NOT": "%1 不成立",
+    "DATABASE_AND": "%1 且 %2",
+    "DATABASE_OR": "%1 或 %2"
     
 }
