@@ -570,5 +570,8 @@
     "DATABASE_CONTAINS": "¿%2 está en %1?",
     "DATABASE_NOT": "no %1",
     "DATABASE_AND": "%1 y %2",
-    "DATABASE_OR": "%1 o %2"
+    "DATABASE_OR": "%1 o %2",
+    "YES": "Sí",
+    "NO": "No",
+    "FACE_DETECTION": "activar la depuración simple de detección de rostros %1 en la tabla %2"
 }

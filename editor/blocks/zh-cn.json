@@ -570,5 +570,8 @@
     "DATABASE_CONTAINS": "%1 包含 %2 ?",
     "DATABASE_NOT": "%1 不成立",
     "DATABASE_AND": "%1 与 %2",
-    "DATABASE_OR": "%1 或 %2"
+    "DATABASE_OR": "%1 或 %2",
+    "YES":"是的",
+    "NO":"不",
+    "FACE_DETECTION": "打开简单的人脸检测调试 %1 到表 %2"
 }
