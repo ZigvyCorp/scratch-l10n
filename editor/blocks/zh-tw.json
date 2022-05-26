@@ -351,6 +351,7 @@
     "SENSING_ASKANDWAIT": "詢問 %1 並等待",
     "SENSING_ASK_TEXT": "你的名字是？",
     "SENSING_ANSWER": "詢問的答案",
+    "SENSING_STOPASK": "別問了",
     "SENSING_KEYPRESSED": "%1 鍵被按下？",
     "SENSING_KEYPRESSED2": "鍵 %1 被按下",
     "SENSING_MOUSEDOWN": "滑鼠鍵被按下？",

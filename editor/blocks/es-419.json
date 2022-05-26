@@ -182,6 +182,7 @@
     "SENSING_ASKANDWAIT": "preguntar %1 y esperar",
     "SENSING_ASK_TEXT": "¿Cómo te llamas?",
     "SENSING_ANSWER": "respuesta",
+    "SENSING_STOPASK": "deja de preguntar",
     "SENSING_KEYPRESSED": "¿tecla %1 presionada?",
     "SENSING_MOUSEDOWN": "¿ratón presionado?",
     "SENSING_MOUSEX": "posición x del ratón",
