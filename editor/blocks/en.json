@@ -357,6 +357,7 @@
     "SENSING_ASKANDWAIT": "ask %1 and wait",
     "SENSING_ASK_TEXT": "What's your name?",
     "SENSING_ANSWER": "answer",
+    "SENSING_STOPASK": "stop ask",
     "SENSING_KEYPRESSED": "key %1 pressed?",
     "SENSING_KEYPRESSED2": "key %1 is pressed",
     "SENSING_MOUSEDOWN": "mouse down?",

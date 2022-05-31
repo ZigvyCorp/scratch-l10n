@@ -356,6 +356,7 @@
     "SENSING_ASKANDWAIT": "demander %1 et attendre",
     "SENSING_ASK_TEXT": "Quel est ton nom ?",
     "SENSING_ANSWER": "réponse",
+    "SENSING_STOPASK": "arrêter de demander",
     "SENSING_KEYPRESSED": "touche %1 pressée ?",
     "SENSING_KEYPRESSED2": "la touche %1 est enfoncée",
     "SENSING_MOUSEDOWN": "souris pressée ?",
