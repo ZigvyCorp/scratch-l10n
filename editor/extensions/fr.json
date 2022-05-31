@@ -314,6 +314,7 @@
     "automation.simulateClick": "simuler le clic du pointeur à x [X] y [Y]",
     "automation.simulateKeyPress": "simuler la touche appuyez sur [KEY]",
     "automation.simulateKeyRelease": "simuler le relâchement de la touche [KEY]",
+    "automation.readPixelColor": "Couleur RVB à x [X] y [Y]",
     "game.categoryName": "Jeu",
     "game.recordPlayerScore": "record joueur score [VALUE]",
     "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",

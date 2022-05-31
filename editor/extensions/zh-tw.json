@@ -314,6 +314,7 @@
     "automation.simulateClick": "模擬指針單擊 x [X] y [Y]",
     "automation.simulateKeyPress": "模擬按鍵 [KEY]",
     "automation.simulateKeyRelease": "模擬按鍵釋放 [KEY]",
+    "automation.readPixelColor": "x [X] y [Y] 處的 RGB 顏色",
     "game.categoryName": "遊戲",
     "game.recordPlayerScore": "记录玩家得分 [VALUE]",
     "game.showGameLeaderboard": "显示游戏排行榜 [SORT]",
