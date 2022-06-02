@@ -135,7 +135,10 @@
     "music.midiPlayDrumForBeats": "jouer du tambour [DRUM] pendant [BEATS] temps",
     "music.midiSetInstrument": "choisir l'instrument n° [INSTRUMENT]",
     "music.playDrumForBeats": "jouer du tambour [DRUM] pendant [BEATS] temps",
-    "music.playNoteForBeats": "jouer la note [NOTE] pendant [BEATS] temps",
+    "music.playDrumForBeatsLoudness": "jouez de la batterie [DRUM] pour [BEATS] bat le volume [LOUDNESS]",
+    "music.playNoteForBeats": "jouer la note [NOTE] pendant [BEATS] bat en bloquant [BLOCKING] battements",
+    "music.playNoteForBeatsLoudness": "jouer la note [NOTE1] [NOTE2] [NOTE3] [NOTE4] pour [BEATS] battements volume [LOUDNESS] bloquant [BLOCKING] battements",
+
     "music.restForBeats": "faire une pause pendant [BEATS] temps",
     "music.setInstrument": "choisir l'instrument n° [INSTRUMENT]",
     "music.setTempo": "mettre le tempo à [TEMPO]",

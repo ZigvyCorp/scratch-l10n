@@ -135,7 +135,10 @@
     "music.midiPlayDrumForBeats": "击打 [DRUM] [BEATS] 拍",
     "music.midiSetInstrument": "将乐器设为 [INSTRUMENT]",
     "music.playDrumForBeats": "击打 [DRUM] [BEATS] 拍",
-    "music.playNoteForBeats": "演奏音符[NOTE][BEATS]拍",
+    "music.playDrumForBeatsLoudness": "为 [BEATS] 打鼓 [DRUM] 节拍响度 [LOUDNESS]",
+    "music.playNoteForBeats": "演奏音符 [NOTE] [BEATS] 占时 [BLOCKING] 节拍",
+    "music.playNoteForBeatsLoudness": "演奏音符 [NOTE1] [NOTE2] [NOTE3] [NOTE4] 节拍 [BEATS] 响度 [LOUDNESS] 占时 [BLOCKING] 节拍",
+
     "music.restForBeats": "休止[BEATS]拍",
     "music.setInstrument": "将乐器设为 [INSTRUMENT]",
     "music.setTempo": "将演奏速度设定为[TEMPO]",
