@@ -689,6 +689,7 @@
     "d3_setmovingmode": "set moving mode [MODE]", 
     "d3_setspeed": "set speed [SPEEDTYPE] to [SPEED]", 
     "d3_carveobject": "carve [NAME1] with [NAME2]",
+    "d3_objectintersecting": "objects [NAME1] and [NAME2] are overlapping",
     "d3_mergeobject": "merge [NAME2] into [NAME1]", 
     "d3_cloneobject": "copy object share data [SHARE] as [NAME]", 
     "d3_rotationcopy": "copy to rotated position count [COUNT] degree step [STEP] around the [AXIS] axis share data [SHAREDATA] share parent [SHAREPARENT]",

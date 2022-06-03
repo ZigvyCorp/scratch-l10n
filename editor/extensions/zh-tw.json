@@ -474,6 +474,7 @@
     "d3_setmovingmode": "設置移動模式 [MODE]",
     "d3_setspeed": "將速度 [SPEEDTYPE] 設置為 [SPEED]",
     "d3_carveobject": "用 [NAME2] 雕刻 [NAME1]",
+    "d3_objectintersecting": "物體 [NAME1] 和 [NAME2] 重疊",
     "d3_mergeobject": "將 [NAME2] 合併到 [NAME1]",
     "d3_cloneobject": "複製物體 共享數據 [SHARE] 名為 [NAME]",
     "d3_rotationcopy": "複製到旋轉位置 次數 [COUNT] 間隔角度 [STEP] 圍繞 [AXIS] 軸 共享數據 [SHAREDATA] 共享父節點 [SHAREPARENT]",

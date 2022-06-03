@@ -687,6 +687,7 @@
     "d3_setmovingmode": "establecer modo de movimiento [MODE]",
     "d3_setspeed": "establece la velocidad [SPEEDTYPE] en [SPEED]",
     "d3_carveobject": "talla [NAME1] con [NAME2]",
+    "d3_objectintersecting": "los objetos [NAME1] y [NAME2] ​​se superponen",
     "d3_mergeobject": "fusionar [NAME2] en [NAME1]",
     "d3_cloneobject": "copiar datos compartidos de objetos [COMPARTIR] como [NAME]",
     "d3_rotationcopy": "copia a la posición rotada cuenta [COUNT] paso de grado [STEP] alrededor del eje [AXIS] Compartir datos [SHAREDATA] compartir madre [SHAREPARENT]",

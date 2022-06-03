@@ -473,6 +473,7 @@
     "d3_setmovingmode":  "设置移动模式 [MODE]",
     "d3_setspeed":  "设置速度 [SPEEDTYPE] 为 [SPEED]",
     "d3_carveobject":  "用 [NAME2] 切割 [NAME1]",
+    "d3_objectintersecting": "物体 [NAME1] 和 [NAME2] 重叠",
     "d3_mergeobject":  "将 [NAME2] 合并到 [NAME1]",
     "d3_cloneobject":  "复制物体 共享数据 [SHARE] 名为 [NAME]",
     "d3_rotationcopy": "复制到旋转位置 次数 [COUNT] 间隔角度 [STEP] 围绕 [AXIS] 轴 共享数据 [SHAREDATA] 共享父节点 [SHAREPARENT]",
