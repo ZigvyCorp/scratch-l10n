@@ -759,5 +759,14 @@
     "d3_foreachproperty": "para cada propiedad denominada [PROPERTY_NAME] con valor [PROPERTY_VALUE] para [OBJECT_NAME] en el modelo denominado [MODEL_NAME]",
     "d3_for_each_cloned_d3_object": "para cada objeto 3D nombrado [OBJECT_NAME]",
     "database.categoryName": "Base de datos",
-    "database.createCollectionBtn": "Crear una colección"
+    "database.createCollectionBtn": "Crear una colección",
+    "object.categoryName": "Objeto",
+    "object.createObject": "crear un [PERMISO] nombre de objeto [NOMBRE]",
+    "object.updateObject": "establezca [PROPIEDAD] en [VALOR] para el objeto [ID]",
+    "object.eventObjectChanged": "cuando el objeto [ID] cambió",
+    "object.eventPropertyChanged": "cuando la propiedad [PROPIEDAD] del objeto [ID] cambió",
+    "object.printObject": "objeto [ID]",
+    "object.printAllObjects": "todos los ID de objeto",
+    "object.menuItem.public": "pública",
+    "object.menuItem.private": "privada"
 }
