@@ -399,6 +399,8 @@
     "d3_clearmirrorreflect": "移除鏡子 [NAME] 中的所有反射",
     "d3_addsolidline": "添加實線 [COLOR] 直徑 [DIAMETER] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 側邊 [SIDES] xyz 從 [X] [Y] [Z] 到 [X2] [Y2] [Z2] 名為 [姓名]",
     "d3_adddottedline": "添加虛線 [COLOR] 直徑 [DIAMETER] 段長 [SEGLEN] 間隙長度 [GAPLEN] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 側邊 [SIDES] 從 xyz [X] [Y] [Z] 到 xyz [X2] [Y2] [Z2] 名為 [NAME]",
+    "d3_generatearcpoints": "從 [X] [Y] [Z] 通過 [X2] [Y2] [Z2] 到 [X3] [Y3] [Z3] 生成弧點到列表 [LISTNAME] 點數 [COUNT]",
+    "d3_addcurveusinglist": "添加曲線 [COLOR] 直徑 [DIAMETER] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 邊 [SIDES] 使用列表 [LISTNAME] 從 [STARTIND] 到 [ENDIND] 名為 [NAME] ",
     "d3_addbox": "以 x [SIZEX] y [SIZEY] z [SIZEZ] 邊緣半徑 [RADIUS] 命名的 [NAME] 添加框 [COLOR] 大小",
     "d3_addtext": "添加 3D 文本 [TEXT] 字體 [FONT] 顏色 [COLOR] 寬度 [WIDTH] 高度 [HEIGHT] 直徑 [CURVED] 攝像頭面向 [FORWARD] 名為 [NAME]",
     "d3_add6box": "添加 6 色盒子 [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] 尺寸 x [SIZEX] y [SIZEY] z [SIZEZ] 名為 [NAME]",

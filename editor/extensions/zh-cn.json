@@ -400,6 +400,8 @@
     "d3_clearmirrorreflect":  "去掉名为 [NAME] 的镜面中的所有镜像",
     "d3_addsolidline": "添加实线 [COLOR] 直径 [DIAMETER] 盖子 [CAPTYPE] 箭头 [ARROWHEAD] 侧面数 [SIDES] xyz 从 [X] [Y] [Z] 到 [X2] [Y2] [Z2] 名为 [NAME]",
     "d3_adddottedline":  "添加虚线 [COLOR] 直径 [DIAMETER] 线段长度 [SEGLEN] 间隔长度 [GAPLEN] 盖子 [CAPTYPE] 箭头 [ARROWHEAD] 侧面数 [SIDES] 从 xyz [X] [Y] [Z] 到 xyz [X2] [Y2] [Z2] 名为 [NAME]",
+    "d3_generatearcpoints": "从 [X] [Y] [Z] 通过 [X2] [Y2] [Z2] 到 [X3] [Y3] [Z3] 生成弧点到列表 [LISTNAME] 点数 [COUNT]",
+    "d3_addcurveusinglist": "添加曲线 [COLOR] 直径 [DIAMETER] 帽 [CAPTYPE] 箭头 [ARROWHEAD] 边 [SIDES] 使用列表 [LISTNAME] 从 [STARTIND] 到 [ENDIND] 名为 [NAME] ",
     "d3_addbox":  "添加盒子 [COLOR] 大小 x [SIZEX] y [SIZEY] z [SIZEZ] 棱角半径 [RADIUS] 名为 [NAME]",
     "d3_addtext":  "添加三维文字 [TEXT] 字体 [FONT] 颜色 [COLOR] 宽度 [WIDTH] 高度 [HEIGHT] 弯曲直径 [CURVED] 朝向摄像头 [FORWARD] 名为 [NAME]",
     "d3_add6box":  "添加6色盒子 [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] 大小 x [SIZEX] y [SIZEY] z [SIZEZ] 名为 [NAME]",

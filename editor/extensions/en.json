@@ -610,6 +610,8 @@
     "d3_clearmirrorreflect": "remove all reflections in mirror [NAME]", 
     "d3_addsolidline": "add solid line [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] xyz from [X] [Y] [Z] to [X2] [Y2] [Z2] as [NAME]", 
     "d3_adddottedline": "add dotted line [COLOR] diameter [DIAMETER] segment length [SEGLEN] gap length [GAPLEN] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] from xyz [X] [Y] [Z] to xyz [X2] [Y2] [Z2] as [NAME]",
+    "d3_generatearcpoints": "generate arc points from [X] [Y] [Z] via [X2] [Y2] [Z2] to [X3] [Y3] [Z3] into list [LISTNAME] count [COUNT]",
+    "d3_addcurveusinglist": "add curve [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] using list [LISTNAME] from [STARTIND] to [ENDIND] as [NAME]",
     "d3_addbox": "add box [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] edge radius [RADIUS] as [NAME]", 
     "d3_addtext": "add 3D text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] diameter [CURVED] camera facing [FORWARD] as [NAME]", 
     "d3_add6box": "add 6-colored box [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] size in x [SIZEX] y [SIZEY] z [SIZEZ] as [NAME]", 
