@@ -226,6 +226,7 @@
     "p2p.whenworldcreated": "当世界创造",
     "p2p.whenmemberjoined": "当昵称 [NICKNAME] 的新成员 [USERNAME] 加入世界时",
     "p2p.whenmemberleft": "当成员 [USERNAME] 离开世界时",
+    "p2p.readworldmember": "将世界成员信息读入表 [WORLD_MEMBER]",
     "p2p.worldHost": "世界主机 [WORLD_NAME]",
     "p2p.worlds": "世界",
     "p2p.myWorlds": "我的世界",

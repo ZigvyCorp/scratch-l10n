@@ -226,6 +226,7 @@
     "p2p.whenworldcreated": "cuando el mundo creado",
     "p2p.whenmemberjoined": "cuando el nuevo miembro [USERNAME] con el apodo [NICKNAME] se une al mundo",
     "p2p.whenmemberleft": "cuando el miembro [USERNAME] deja el mundo",
+    "p2p.readworldmember": "leer la información de los miembros del mundo en la tabla [WORLD_MEMBER]",
     "p2p.worldHost": "anfitriona del mundo [WORLD_NAME]",
     "p2p.worlds": "mundos",
     "p2p.myWorlds": "Mis mundos",

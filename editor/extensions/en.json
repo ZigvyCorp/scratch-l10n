@@ -225,6 +225,7 @@
     "p2p.whenworldcreated": "when world created",
     "p2p.whenmemberjoined": "when new member [USERNAME] with nickname [NICKNAME] joins the world",
     "p2p.whenmemberleft": "when member [USERNAME] leaves the world",
+    "p2p.readworldmember": "read world member info into table [WORLD_MEMBER]",
     "p2p.worldHost": "host of world [WORLD_NAME]",
     "p2p.worlds": "worlds",
     "p2p.myWorlds": "my worlds",
