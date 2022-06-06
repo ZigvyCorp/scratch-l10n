@@ -397,7 +397,7 @@
     "d3_convertobjecttomirror": "使用名為 [NAME] 的物體構建鏡像亮度 [CLARITY]",
     "d3_setvisibleinmirror": "在鏡子中反射 [NAME]",
     "d3_clearmirrorreflect": "移除鏡子 [NAME] 中的所有反射",
-    "d3_addsolidline": "添加實線 [COLOR] 直徑 [DIAMETER] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 側邊 [SIDES] xyz 從 [X] [Y] [Z] 到 [X2] [Y2] [Z2] 名為 [姓名]",
+    "d3_addsolidline": "添加線 [COLOR] 直徑 [DIAMETER] 蓋子 [CAPTYPE] 箭頭 [ARROWHEAD] 側面數 [SIDES] xyz 從 [X] [Y] [Z] 到 [X2] [Y2] [Z2] 段數 [SEGCOUNT] 名為 [NAME]",
     "d3_adddottedline": "添加虛線 [COLOR] 直徑 [DIAMETER] 段長 [SEGLEN] 間隙長度 [GAPLEN] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 側邊 [SIDES] 從 xyz [X] [Y] [Z] 到 xyz [X2] [Y2] [Z2] 名為 [NAME]",
     "d3_generatearcpoints": "從 [X] [Y] [Z] 通過 [X2] [Y2] [Z2] 到 [X3] [Y3] [Z3] 生成弧點到列表 [LISTNAME] 點數 [COUNT]",
     "d3_addcurveusinglist": "添加曲線 [COLOR] 直徑 [DIAMETER] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 邊 [SIDES] 使用列表 [LISTNAME] 從 [STARTIND] 到 [ENDIND] 名為 [NAME] ",

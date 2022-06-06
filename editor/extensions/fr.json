@@ -608,7 +608,7 @@
     "d3_convertobjecttomirror": "construire la luminosité du miroir [CLARITY] en utilisant l'objet nommé [NAME]",
     "d3_setvisibleinmirror": "refléter dans le miroir [NAME]", 
     "d3_clearmirrorreflect": "supprimer tous les reflets dans le miroir [NAME]", 
-    "d3_addsolidline": "ajouter une ligne continue [COLOR] diamètre [DIAMETER] capuchon [CAPTYPE] flèche [ARROWHEAD] côtés [SIDES] xyz de [X] [Y] [Z] à [X2] [Y2] [Z2] nommé [NAME]", 
+    "d3_addsolidline": "ajouter une ligne [COLOR] diamètre [DIAMETER] bouchon [CAPTYPE] flèche [ARROWHEAD] côtés [SIDES] xyz de [X] [Y] [Z] à [X2] [Y2] [Z2] segments [SEGCOUNT] comme [NAME]", 
     "d3_adddottedline": "ajouter une ligne pointillée [COLOR] diamètre [DIAMETER] longueur du segment [SEGLEN] longueur de l'espace [GAPLEN] capuchon [CAPTYPE] flèche [ARROWHEAD] côtés [SIDES] de xyz [X] [Y] [Z] à xyz [X2] [Y2 ] [Z2] nommé [NAME]",
     "d3_generatearcpoints": "génère des points d'arc de [X] [Y] [Z] via [X2] [Y2] [Z2] à [X3] [Y3] [Z3] dans la liste [LISTNAME] compte [COUNT]",
     "d3_addcurveusinglist": "ajouter une courbe [COLOR] diamètre [DIAMETER] capuchon [CAPTYPE] flèche [ARROWHEAD] côtés [SIDES] en utilisant la liste [LISTNAME] de [STARTIND] à [ENDIND] comme [NAME]",
