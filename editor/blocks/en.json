@@ -578,5 +578,7 @@
     "DATABASE_OR": "%1 or %2",
     "YES": "yes",
     "NO": "no",
-    "FACE_DETECTION": "turn on simple face detection debug %1 into table %2"
+    "FACE_DETECTION": "run face detection debug %1 into table %2",
+    "BODY_DETECTION": "run body detection debug %1 into table %2",
+    "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2"
 }

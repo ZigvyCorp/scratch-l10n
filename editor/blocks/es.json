@@ -577,5 +577,7 @@
     "DATABASE_OR": "%1 o %2",
     "YES": "Sí",
     "NO": "No",
-    "FACE_DETECTION": "activar la depuración simple de detección de rostros %1 en la tabla %2"
+    "FACE_DETECTION": "ejecutar la depuración de detección de rostros %1 en la tabla %2",
+    "BODY_DETECTION": "ejecutar la depuración de detección de cuerpos %1 en la tabla %2",
+    "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2"
 }

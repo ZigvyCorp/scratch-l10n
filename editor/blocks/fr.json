@@ -577,5 +577,7 @@
     "DATABASE_OR": "%1 ou %2",
     "YES": "Oui",
     "NO": "Non",
-    "FACE_DETECTION": "activer le débogage de détection de visage simple %1 dans la table %2"
+    "FACE_DETECTION": "exécuter le débogage de détection de visage %1 dans la table %2",
+    "BODY_DETECTION": "exécuter le débogage de détection de corps %1 dans la table %2",
+    "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2"
 }

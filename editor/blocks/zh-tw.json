@@ -562,6 +562,8 @@
     "DATABASE_OR": "%1 或 %2",
     "YES":"是的",
     "NO": "不",
-    "FACE_DETECTION": "打開簡單的人臉檢測調試 %1 到表 %2"
+    "FACE_DETECTION": "運行人臉識別 調試 %1 保存到表 %2",
+    "BODY_DETECTION": "運行人體識別 調試 %1 保存到表 %2",
+    "BODY_SEGMENTATION": "運行人體識別 調試 %1 保存到表 %2"
     
 }

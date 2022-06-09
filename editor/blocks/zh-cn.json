@@ -577,5 +577,7 @@
     "DATABASE_OR": "%1 或 %2",
     "YES":"是的",
     "NO":"不",
-    "FACE_DETECTION": "打开简单的人脸检测调试 %1 到表 %2"
+    "FACE_DETECTION": "运行人脸识别 调试 %1 保存到表 %2",
+    "BODY_DETECTION": "运行人体识别 调试 %1 保存到表 %2",
+    "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表 %2"
 }
