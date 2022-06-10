@@ -579,5 +579,6 @@
     "NO": "Non",
     "FACE_DETECTION": "exécuter le débogage de détection de visage %1 dans la table %2",
     "BODY_DETECTION": "exécuter le débogage de détection de corps %1 dans la table %2",
+    "UPDATE_DEBUG": "définir le mode de débogage %1",
     "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2"
 }

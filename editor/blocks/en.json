@@ -580,5 +580,6 @@
     "NO": "no",
     "FACE_DETECTION": "run face detection debug %1 into table %2",
     "BODY_DETECTION": "run body detection debug %1 into table %2",
+    "UPDATE_DEBUG": "set debug mode %1",
     "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2"
 }

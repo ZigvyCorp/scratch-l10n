@@ -579,5 +579,6 @@
     "NO": "No",
     "FACE_DETECTION": "ejecutar la depuración de detección de rostros %1 en la tabla %2",
     "BODY_DETECTION": "ejecutar la depuración de detección de cuerpos %1 en la tabla %2",
+    "UPDATE_DEBUG": "establecer el modo de depuración %1",
     "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2"
 }
