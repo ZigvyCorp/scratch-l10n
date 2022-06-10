@@ -563,7 +563,7 @@
     "STOP_RECOGNIZER": "stop running speech recognition",
     "NEW_COLLECTION": "Make a Collection",
     "DATABASE_INSERT_FROM_TABLE": "Insert from table %1 row from %2 to %3 into collection %4",
-    "DATABASE_FIND_FROM_COLLECTION":"fetch from collection %1 into table %2 where %3",
+    "DATABASE_FIND_FROM_COLLECTION":"fetch from collection %1 into table %2 where %3 limit %4 sort by %5 %6 %7 %8",
     "DATABASE_REMOVE_ALL_DOCUMENT":"remove all documents from collection %1 where %2",
     "DATABASE_UPDATE_COLLECTION":"update collection %1 from table %2",
     "DATABASE_UPDATE_COLLECTION_IN_PLACE":"update collection %1 in-place where %2 set %3 to %4 set %5 to %6 set %7 to %8 set %9 to %10",
@@ -581,5 +581,6 @@
     "FACE_DETECTION": "run face detection debug %1 into table %2",
     "BODY_DETECTION": "run body detection debug %1 into table %2",
     "UPDATE_DEBUG": "set debug mode %1",
-    "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2"
+    "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2",
+    "DATABASE_OPERATOR": "%1 %2 %3"
 }

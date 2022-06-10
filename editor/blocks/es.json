@@ -562,7 +562,7 @@
     "STOP_RECOGNIZER": "dejar de ejecutar el reconocimiento de voz",
     "NEW_COLLECTION": "Hacer una colección",
     "DATABASE_INSERT_FROM_TABLE": "Insertar de la tabla %1 fila de %2 a %3 en la colección %4",
-    "DATABASE_FIND_FROM_COLLECTION":"obtener de la colección %1 en la tabla %2 donde %3",
+    "DATABASE_FIND_FROM_COLLECTION":"recuperar de la colección %1 a la tabla %2 donde %3 limita %4 ordenar por %5 %6 %7 %8",
     "DATABASE_REMOVE_ALL_DOCUMENT":"eliminar todos los documentos de la colección %1 donde %2",
     "DATABASE_UPDATE_COLLECTION":"actualizar la colección %1 de la tabla %2",
     "DATABASE_UPDATE_COLLECTION_IN_PLACE":"actualice la colección %1 en el lugar donde %2 configuró %3 en %4 configuró %5 en %6 configuró %7 en %8 configuró %9 en %10",
@@ -580,5 +580,6 @@
     "FACE_DETECTION": "ejecutar la depuración de detección de rostros %1 en la tabla %2",
     "BODY_DETECTION": "ejecutar la depuración de detección de cuerpos %1 en la tabla %2",
     "UPDATE_DEBUG": "establecer el modo de depuración %1",
-    "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2"
+    "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2",
+    "DATABASE_OPERATOR": "%1 %2 %3"
 }

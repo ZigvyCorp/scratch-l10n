@@ -630,5 +630,8 @@
     "gui.prompt.descriptionConfirmMessage": "When you change this collection that all existing data will be lost !!!",
     "gui.prompt.okText": "Ok",
     "gui.prompt.cancelText": "Cancel",
-    "gui.menuBar.creaticode": "Creaticode"
+    "gui.menuBar.creaticode": "Creaticode",
+    "gui.prompt.numberType": "Number",
+    "gui.prompt.dateType": "Date",
+    "gui.prompt.stringType": "Text"
 }

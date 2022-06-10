@@ -630,5 +630,8 @@
     "gui.prompt.descriptionConfirmMessage": "当您更改此集合时,所有现有数据都将丢失！！！",
     "gui.prompt.okText": "好的",
     "gui.prompt.cancelText": "取消",
-    "gui.menuBar.creaticode": "创益编程"
+    "gui.menuBar.creaticode": "创益编程",
+    "gui.prompt.numberType": "数字",
+    "gui.prompt.dateType": "日期",
+    "gui.prompt.stringType": "文本"
 }
