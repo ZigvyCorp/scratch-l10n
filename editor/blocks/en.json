@@ -240,7 +240,7 @@
     "MOTION_MOVESTEPS": "move %1 steps",
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
-    "MOTION_TURNAROUNDSPRITE": "turn %1 %2 degrees around %3 in %4 seconds %5",
+    "MOTION_TURNAROUNDSPRITE": "turn %1 %2 degrees around %3 in %4 seconds",
     "MOTION_RIGHT": "right",
     "MOTION_LEFT": "left",
     "MOTION_BLOCKING": "blocking",
