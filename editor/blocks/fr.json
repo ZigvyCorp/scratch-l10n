@@ -165,6 +165,7 @@
     "EVENT_WHENKEYRELEASED": "lorsque la touche %1 est relâchée",
     "EVENT_WHENBOOLEAN": "lorsque %1",
     "EVENT_WHENKEYPRESSED_SPACE": "espace",
+    "EVENT_WHENKEYPRESSED_ENTER": "Entrer",
     "EVENT_WHENKEYPRESSED_LEFT": "flèche gauche",
     "EVENT_WHENKEYPRESSED_RIGHT": "flèche droite",
     "EVENT_WHENKEYPRESSED_DOWN": "flèche bas",
