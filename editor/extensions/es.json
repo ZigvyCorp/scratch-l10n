@@ -653,6 +653,7 @@
     "d3_objectexists": "el objeto [NAME] existe",
     "d3_getCameraXY": "obtener la posición de vista de la cámara para xyz [X] [Y] [Z]",
     "d3_createemitter": "añadir forma de emisor de partículas [EMITTERTYPE] textura [TEXTURA] frente a la cámara [FACINGCAMERA] vida mínima [MINLIFE] max [MAXLIFE] capacidad [CAP] GPU [USEGPU] relación de tiempo [UPDATESPEED]% como [NAME]",
+    "d3_addtrail": "añadir difusión de rastro [COLOR] emisión [COLOR2] ancho [WIDTH] segmentos [LENGTH] como [NAME]",
     "pointemitter": "Punto",
     "boxemitter": "Caja",
     "sphereemitter": "Esfera",

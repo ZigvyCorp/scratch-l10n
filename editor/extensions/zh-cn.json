@@ -440,6 +440,7 @@
     "d3_objectexists": "物体 [NAME] 存在",
     "d3_getCameraXY": "获取 xyz [X] [Y] [Z] 的摄像机视图位置",
     "d3_createemitter": "添加粒子发射器 物体 [EMITTERTYPE] 纹理 [TEXTURE] 面向摄像头 [FACINGCAMERA] 寿命 最小 [MINLIFE] 最大 [MAXLIFE] 容量 [CAP] 使用GPU [USEGPU] 时间比例 [UPDATESPEED]% 名为 [NAME]",
+    "d3_addtrail": "添加尾迹 反射 [COLOR] 自发 [COLOR2] 宽度 [WIDTH] 段数 [LENGTH] 名为 [NAME]",
     "pointemitter": "单点",
     "boxemitter": "长方体",
     "sphereemitter": "球体",
