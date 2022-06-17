@@ -579,7 +579,8 @@
     "YES":"是的",
     "NO":"不",
     "FACE_DETECTION": "运行人脸识别 调试 %1 保存到表 %2",
-    "BODY_DETECTION": "运行人体识别 调试 %1 保存到表 %2",
+    "BODY_DETECTION": "运行2D姿势识别 调试 %1 保存到表 %2",
+    "BODY_DETECTION3": "运行3D姿势识别 保存到表 %1",
     "UPDATE_DEBUG": "设置调试模式 %1",
     "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表 %2",
     "DATABASE_OPERATOR": "%1 %2 %3"

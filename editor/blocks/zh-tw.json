@@ -564,7 +564,8 @@
     "YES":"是的",
     "NO": "不",
     "FACE_DETECTION": "運行人臉識別 調試 %1 保存到表 %2",
-    "BODY_DETECTION": "運行人體識別 調試 %1 保存到表 %2",
+    "BODY_DETECTION": "運行2D姿勢識別 調試 %1 保存到表 %2",
+    "BODY_DETECTION3": "運行3D姿勢識別 保存到表 %1",
     "UPDATE_DEBUG": "設置調試模式 %1",
     "BODY_SEGMENTATION": "運行人體識別 調試 %1 保存到表 %2",
     "DATABASE_OPERATOR": "%1 %2 %3"

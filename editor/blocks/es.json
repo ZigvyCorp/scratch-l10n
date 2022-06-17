@@ -579,7 +579,8 @@
     "YES": "Sí",
     "NO": "No",
     "FACE_DETECTION": "ejecutar la depuración de detección de rostros %1 en la tabla %2",
-    "BODY_DETECTION": "ejecutar la depuración de detección de cuerpos %1 en la tabla %2",
+    "BODY_DETECTION": "ejecutar la depuración de detección de pose 2D %1 en la tabla %2",
+    "BODY_DETECTION3": "ejecutar detección de pose 3D en la tabla %1",
     "UPDATE_DEBUG": "establecer el modo de depuración %1",
     "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2",
     "DATABASE_OPERATOR": "%1 %2 %3"
