@@ -650,7 +650,7 @@
     "d3_getCameraXY": "obtenir la position de vue de la caméra pour xyz [X] [Y] [Z]",
     "d3_createemitter": "ajouter une forme d'émetteur de particules [EMITTERTYPE] texture [TEXTURE] face à la caméra [FACINGCAMERA] durée de vie min [MINLIFE] max [MAXLIFE] capacité [CAP] GPU [USEGPU] rapport de temps [UPDATESPEED]% as [NAME]",
     "d3_addtrail": "ajoute la diffusion de traînée [COLOR] émission [COLOR2] largeur [WIDTH] segments [LENGTH] comme [NAME]",
-    "d3_turnonarcamera": "activer la taille au sol de la caméra AR [SIZE] couleur [COLOR]",
+    "d3_turnonarcamera": "activer la taille du sol AR [SIZE] couleur [COLOR]",
     "pointemitter": "Point",
     "boxemitter": "Boîte",
     "sphereemitter": "Sphère",

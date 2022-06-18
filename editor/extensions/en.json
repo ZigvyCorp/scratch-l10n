@@ -655,7 +655,7 @@
     "d3_converttosps": "convert to sps at xyz [LIST] updatable [UPDATABLE]",
     "d3_createemitter": "add particle emitter shape [EMITTERTYPE] texture [TEXTURE] facing camera [FACINGCAMERA] life min [MINLIFE] max [MAXLIFE] capacity [CAP] GPU [USEGPU] time ratio [UPDATESPEED]% as [NAME]",
     "d3_addtrail": "add trail diffusion [COLOR] emission [COLOR2] width [WIDTH] segments [LENGTH] as [NAME]",
-    "d3_turnonarcamera": "turn on AR camera ground size [SIZE] color [COLOR]",
+    "d3_turnonarcamera": "turn on AR ground size [SIZE] color [COLOR]",
     "pointemitter": "Point",
     "boxemitter": "Box",
     "sphereemitter": "Sphere",
