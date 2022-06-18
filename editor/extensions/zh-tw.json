@@ -382,7 +382,7 @@
     "d3_addcolumn": "添加列 [COLOR] 2D 頂點列表 [LIST] 高度 [HEIGHT] 帽類型 [CAPTYPE] 名為 [NAME]",
     "d3_addframe": "添加框架 [COLOR] 邊數 [EDGES] 長度 [EDGELENGTH] 厚度 [THICKNESS] 名為 [NAME]",
     "d3_addcone": "添加錐形 [COLOR] 頂點列表 [LIST] 高度 [HEIGHT] 名為 [NAME]",
-    "d3_addobject": "添加模型 [OBJECTNAME] 目標高度 [HEIGHT] 原點偏移 xyz [X] [Y] [Z] 名為 [NAME]",
+    "d3_addobject": "添加模型 [OBJECTNAME] 目標高度 [HEIGHT] 原點偏移 xyz [X] [Y] [Z] 隱藏 [HIDDEN] 名為 [NAME]",
     "d3_addlinkobject": "通過名為 [NAME] 的 URL [OBJECTNAME] 添加公共物體",
     "d3_addcharacter": "添加名為 [NAME] 的角色 [CHARACTERNAME]",
     "d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名為 [NAME]",
