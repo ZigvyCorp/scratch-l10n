@@ -655,6 +655,7 @@
     "d3_createemitter": "añadir forma de emisor de partículas [EMITTERTYPE] textura [TEXTURA] frente a la cámara [FACINGCAMERA] vida mínima [MINLIFE] max [MAXLIFE] capacidad [CAP] GPU [USEGPU] relación de tiempo [UPDATESPEED]% como [NAME]",
     "d3_addtrail": "añadir difusión de rastro [COLOR] emisión [COLOR2] ancho [WIDTH] segmentos [LENGTH] como [NAME]",
     "d3_turnonarcamera": "activar AR tamaño de suelo [SIZE] color [COLOR]",
+    "d3_usearcontrolcamera": "Cambiar a escala de cámara AR [SCALE] modo de simulación [SIMULATOR]",
     "pointemitter": "Punto",
     "boxemitter": "Caja",
     "sphereemitter": "Esfera",
