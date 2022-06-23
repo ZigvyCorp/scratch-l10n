@@ -432,6 +432,7 @@
     "d3_removechildren": "解除孩子关系",
     "d3_selectobject":  "选择 名为 [NAME] 的物体 名为角色物体",
     "d3_removeobject":  "删除物体 名为 [NAME]",
+    "d3_removeallobjects": "删除所有物体",
     "d3_showbounds":  "显示边界盒子 [SHOW]",
     "d3_updatecolor":  "更新颜色 反射 [COLOR] 自发 [COLOR2] 光泽度 [ROUGHNESS] 亮度 [BRIGHTNESS] 去掉纹理 [REMOVETEXTURE] 区域 [COMPONENT]",
     "d3_updatetexture":  "更新纹理 [TEXTURE] 纹理边长 [SIZE] 非盒子重复 横 [REPEATU] 竖 [REPEATV] 旋转 [ANGLEW] 区域 [COMPONENT]",

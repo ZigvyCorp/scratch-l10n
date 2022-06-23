@@ -430,6 +430,7 @@
     "d3_removechildren": "解除孩子關係",
     "d3_selectobject": "按名稱 [NAME] 選擇角色物體",
     "d3_removeobject": "刪除名為 [NAME] 的物體",
+    "d3_removeallobjects": "刪除所有物體",
     "d3_showbounds": "顯示邊界框 [SHOW]",
     "d3_updatecolor": "更新顏色擴散 [COLOR] 發射 [COLOR2] 粗糙度 [ROUGHNESS] 亮度 [BRIGHTNESS] 去除紋理 [REMOVETEXTURE] 區域 [COMPONENT]",
     "d3_updatetexture": "更新紋理 [TEXTURE] 紋理邊長 [SIZE] 非框重複 h [REPEATU] v [REPEATV] 旋轉 [ANGLEW] 區域 [COMPONENT]",

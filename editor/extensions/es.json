@@ -643,6 +643,7 @@
     "d3_updateBone": "actualizar hueso [BODYPART] desplazamiento [X] [Y] [Z] rotación [X2] [Y2] [Z2]",
     "d3_removechildren": "Desenlazar a las niñas",
     "d3_removeobject": "eliminar objeto llamado [NAME]",
+    "d3_removeallobjects": "eliminar todos los objetos",
     "d3_showbounds": "mostrar cuadro delimitador [MOSTRAR]",
     "d3_updatecolor": "actualizar difusión de color [COLOR] emisión [COLOR2] rugosidad [ROUGHESS] brillo [BRIGHTNESS] eliminar textura [REMOVETEXTURE] área [COMPONENT]",
     "d3_updatetexture": "actualizar textura [TEXTURA] tamaño de unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",

@@ -640,6 +640,7 @@
     "d3_removechildren": "dissocier les enfants",
     "d3_selectobject": "sélectionner l'objet sprite par nom [NAME]", 
     "d3_removeobject": "supprimer l'objet nommé [NAME]",
+    "d3_removeallobjects": "supprime tous les objets",
     "d3_showbounds": "afficher le cadre de délimitation [SHOW]",
     "d3_updatecolor": "mettre à jour la diffusion de la couleur [COLOR] émission [COLOR2] rugosité [ROUGHNESS] luminosité [BRIGHTNESS] supprimer la texture [REMOVETEXTURE] Région [COMPONENT]",
     "d3_updatetexture": "mise à jour de la texture [TEXTURE] taille de la texture [SIZE] non-boîte répétition h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]", 

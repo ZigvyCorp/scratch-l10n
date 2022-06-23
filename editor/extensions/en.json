@@ -642,6 +642,7 @@
     "d3_removeparent": "unlink parent", 
     "d3_removechildren": "unlink all children",
     "d3_removeobject": "remove object named [NAME]",
+    "d3_removeallobjects": "remove all objects",
     "d3_showbounds": "show bounding box [SHOW]",
     "d3_updatecolor": "update color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] remove texture [REMOVETEXTURE] area [COMPONENT]",
     "d3_getobjectcolor": "get [COLORTYPE] color of object named [NAME]",
