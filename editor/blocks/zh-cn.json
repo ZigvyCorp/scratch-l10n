@@ -240,6 +240,7 @@
     "LOOKS_DRAW_CURVE": "在 %1 中从 x %2 y %3 到 x %4 y %5 控件 1 x %6 y %7 控件 2 x %8 y %9 厚度 %10 绘制曲线",
     "MOTION_MOVESTEPS": "移动 %1 步",
     "MOTION_TURNLEFT": "左转 %1 %2 度",
+    "MOTION_TURNRIGHT": "右转 %1 %2 度",
     "MOTION_TURNAROUNDSPRITE": "在 %4 秒内绕 %3 旋转 %1 %2 度",
     "MOTION_RIGHT": "右",
     "MOTION_LEFT": "左",
