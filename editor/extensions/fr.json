@@ -658,7 +658,7 @@
     "d3_usearfacecamera": "passer au marqueur d'affichage de la caméra faciale AR [SHOW] échelle [SCALE] mode d'émulation [SIMULATOR]",
     "d3_usearimagecamera": "passer à la caméra AR [CAMTYPE] pour le logo comme [TYPE] afficher le marqueur [SHOW] échelle [SCALE] mode d'émulation [SIMULATOR]",
     "floor": "Sol",
-    "wall" : "Mur",
+    "wall" :"Mur",
     "pointemitter": "Point",
     "boxemitter": "Boîte",
     "sphereemitter": "Sphère",
