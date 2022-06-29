@@ -629,5 +629,8 @@
     "gui.menuBar.creaticode": "创益编程",
     "gui.prompt.numberType": "數字",
     "gui.prompt.dateType": "日期",
-    "gui.prompt.stringType": "文本"
+    "gui.prompt.stringType": "文本",
+    "gui.remote.start": "開始",
+    "gui.remote.status.preparing": "等待項目業主接受..",
+    "gui.remote.status.verifying": "驗證項目數據.."
 }

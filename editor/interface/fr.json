@@ -633,5 +633,8 @@
     "gui.menuBar.creaticode": "Créaticode",
     "gui.prompt.numberType": "Numéro",
     "gui.prompt.dateType": "Date",
-    "gui.prompt.stringType": "Texte"
+    "gui.prompt.stringType": "Texte",
+    "gui.remote.start": "Commencer",
+    "gui.remote.status.preparing": "En attendant que le porteur de projet accepte..",
+    "gui.remote.status.verifying": "Vérification des données du projet.."
 }
