@@ -638,5 +638,10 @@
     "gui.prompt.stringType": "Texto",
     "gui.remote.start": "comienzo",
     "gui.remote.status.preparing": "Esperando a que la dueña del proyecto acepte ..",
-    "gui.remote.status.verifying": "Verificando datos del proyecto.."
+    "gui.remote.status.verifying": "Verificando datos del proyecto..",
+    "gui.remote.tracking.unknown": "Desconocida",
+    "gui.remote.tracking.remoteSession": "Sesión remota",
+    "gui.remote.tracking.endSession": "Finalizar sesión",
+    "gui.remote.tracking.editWorkspace": "Editar espacio de trabajo",
+    "gui.remote.tracking.editTarget": "Editar objetivo"
 }

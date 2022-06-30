@@ -636,5 +636,10 @@
     "gui.prompt.stringType": "Text",
     "gui.remote.start": "Start",
     "gui.remote.status.preparing": "Waiting for the project owner accept..",
-    "gui.remote.status.verifying": "Verifying project data.."
+    "gui.remote.status.verifying": "Verifying project data..",
+    "gui.remote.tracking.unknown": "Unknown",
+    "gui.remote.tracking.remoteSession": "Remote Session",
+    "gui.remote.tracking.endSession": "End Session",
+    "gui.remote.tracking.editWorkspace": "Edit workspace",
+    "gui.remote.tracking.editTarget": "Edit target"
 }

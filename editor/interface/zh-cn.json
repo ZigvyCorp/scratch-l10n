@@ -636,5 +636,10 @@
     "gui.prompt.stringType": "文本",
     "gui.remote.start": "开始",
     "gui.remote.status.preparing": "等待项目业主接受..",
-    "gui.remote.status.verifying": "验证项目数据.."
+    "gui.remote.status.verifying": "验证项目数据..",
+    "gui.remote.tracking.unknown": "未知",
+    "gui.remote.tracking.remoteSession": "远程会话",
+    "gui.remote.tracking.endSession": "结束会话",
+    "gui.remote.tracking.editWorkspace": "编辑工作区",
+    "gui.remote.tracking.editTarget": "编辑目标"
 }
