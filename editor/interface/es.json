@@ -636,12 +636,16 @@
     "gui.prompt.numberType": "Número",
     "gui.prompt.dateType": "Fecha",
     "gui.prompt.stringType": "Texto",
-    "gui.remote.start": "comienzo",
+    "gui.remote.accept": "Aceptar",
     "gui.remote.status.preparing": "Esperando a que la dueña del proyecto acepte ..",
     "gui.remote.status.verifying": "Verificando datos del proyecto..",
     "gui.remote.tracking.unknown": "Desconocida",
     "gui.remote.tracking.remoteSession": "Sesión remota",
     "gui.remote.tracking.endSession": "Finalizar sesión",
     "gui.remote.tracking.editWorkspace": "Editar espacio de trabajo",
-    "gui.remote.tracking.editTarget": "Editar objetivo"
+    "gui.remote.tracking.editTarget": "Editar objetivo",
+    "gui.remote.cancel": "Cancelar",
+    "gui.remote.deny": "Negar",
+    "gui.remote.requestToEdit": "Solicitud de edición",
+    "gui.remote.isRequesting": "está solicitando editar"
 }
