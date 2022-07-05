@@ -630,12 +630,16 @@
     "gui.prompt.numberType": "數字",
     "gui.prompt.dateType": "日期",
     "gui.prompt.stringType": "文本",
-    "gui.remote.start": "開始",
+    "gui.remote.accept": "接受",
     "gui.remote.status.preparing": "等待項目業主接受..",
     "gui.remote.status.verifying": "驗證項目數據..",
     "gui.remote.tracking.unknown": "未知",
     "gui.remote.tracking.remoteSession": "远程会话",
     "gui.remote.tracking.endSession": "结束会话",
     "gui.remote.tracking.editWorkspace": "编辑工作区",
-    "gui.remote.tracking.editTarget": "编辑目标"
+    "gui.remote.tracking.editTarget": "编辑目标",
+    "gui.remote.cancel": "取消",
+    "gui.remote.deny": "否定",
+    "gui.remote.requestToEdit": "請求編輯",
+    "gui.remote.isRequesting": "正在請求編輯"
 }
