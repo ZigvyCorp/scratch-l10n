@@ -592,7 +592,7 @@
     "d3_addcolumn": "add column [COLOR] 2D vertex list [LIST] height [HEIGHT] cap type [CAPTYPE] as [NAME]", 
     "d3_addframe": "add frame [COLOR] edge count [EDGES] length [EDGELENGTH] thickness [THICKNESS] as [NAME]",
     "d3_addcone": "add cone [COLOR] vertex list [LIST] height [HEIGHT] as [NAME]", 
-    "d3_addobject": "add model [OBJECTNAME] target height [HEIGHT] origin offset xyz [X] [Y] [Z] hidden [HIDDEN] as [NAME]",
+    "d3_addobject": "add model [OBJECTNAME] target height [HEIGHT] origin offset xyz [X] [Y] [Z] rotation xyz [RX] [RY] [RZ] hidden [HIDDEN] as [NAME]",
     "d3_exportglb": "export object [NAME] as a GLB file",
     "d3_exportstl": "export object [NAME] as an STL file",
     "d3_exportboj": "export object [NAME] as an OBJ file and an MTL file",
@@ -627,6 +627,7 @@
     "d3_addcylinder": "add cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] as [NAME]", 
     "d3_addtransformnode": "add transformer as [NAME]",
     "d3_setasparent": "set object [PARENTNAME] from sprite [SPRITE] as parent",
+    "d3_setasocclusion": "use as occlusion"
     "d3_setscenephysics": "enable physics for scene with engine [ENGINE] gravity [GRAVITY]",
     "d3_updatephysics": "enable physics as [SHAPE] with mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% frozen [YESNO] debug [ISDEBUG]",
     "d3_setasphysicsparent": "set object [PARENTNAME] from sprite [SPRITE] as parent for physics",

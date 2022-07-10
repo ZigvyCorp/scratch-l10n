@@ -596,7 +596,7 @@
     "d3_addcolumn": "ajouter la colonne [COLOR] liste de sommets 2D [LIST] hauteur [HEIGHT] type de capuchon [CAPTYPE] nommé [NAME]", 
     "d3_addframe": "ajouter le cadre [COLOR] nombre de bords [EDGES] longueur [EDGELENGTH] épaisseur [THICKNESS] nommé [NAME]",
     "d3_addcone": "ajouter le cône [COLOR] liste de sommets [LIST] hauteur [HEIGHT] nommé [NAME]", 
-    "d3_addobject": "ajouter le modèle [OBJECTNAME] hauteur cible [HEIGHT] décalage d'origine xyz [X] [Y] [Z] caché [HIDDEN] nommé [NAME]",
+    "d3_addobject": "ajouter le modèle [OBJECTNAME] hauteur cible [HEIGHT] décalage d'origine xyz [X] [Y] [Z] rotation xyz [RX] [RY] [RZ] caché [HIDDEN] nommé [NAME]",
     "d3_addlinkobject": "ajouter un objet public par URL [OBJECTNAME] nommé [NAME]", 
     "d3_addcharacter": "ajouter le caractère [CHARACTERNAME] nommé [NAME]",
     "d3_addavatar": "ajouter un avatar [CHARACTERNAME] la taille [HEIGHT] nommé [NAME]",

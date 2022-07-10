@@ -596,7 +596,7 @@
     "d3_addcolumn": "agregar columna [COLOR] lista de vértices 2D [LIST] altura [HEIGHT] tipo de límite [CAPTYPE] llamado [NAME]",
     "d3_addframe": "agregar marco [COLOR] recuento de bordes [BORDES] longitud [EDGELENGTH] espesor [GROSOR] llamado [NAME]",
     "d3_addcone": "agregar cono [COLOR] lista de vértices [LISTA] altura [ALTURA] llamado [NAME]",
-    "d3_addobject": "agregar modelo [OBJECTNAME] altura del objetivo [HEIGHT] compensación de origen xyz [X] [Y] [Z] oculto [HIDDEN] llamado [NAME]",
+    "d3_addobject": "agregar modelo [OBJECTNAME] altura del objetivo [HEIGHT] compensación de origen xyz [X] [Y] [Z] rotación xyz [RX] [RY] [RZ] oculto [HIDDEN] llamado [NAME]",
     "d3_exportglb": "exportar objeto [NAME] como un archivo GLB",
     "d3_exportstl": "exportar objeto [NAME] como un archivo STL",
     "d3_exportboj": "exportar objeto [NAME] como un archivo OBJ y un archivo MTL",
