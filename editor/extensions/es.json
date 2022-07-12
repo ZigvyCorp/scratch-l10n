@@ -215,6 +215,7 @@
     "wedo2.tiltDirection.up": "arriba",
     "wedo2.whenDistance": "cuando distancia [OP] [REFERENCE]",
     "wedo2.whenTilted": "al inclinar hacia [TILT_DIRECTION_ANY]",
+    "d3effect.categoryName": "Efecto 3D",
     "p2p.categoryName": "Mundo",
     "p2p.createWorld": "crear mundo [WORLD] contraseña [PASSWORD] mi apodo [NICKNAME]",
     "p2p.joinWorld": "unirse al mundo [WORLD] contraseña [PASSWORD] mi apodo [NICKNAME]",

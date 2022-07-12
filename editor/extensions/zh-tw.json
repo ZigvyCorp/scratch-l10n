@@ -215,6 +215,7 @@
     "wedo2.tiltDirection.up": "向上",
     "wedo2.whenDistance": "當距離 [OP] [REFERENCE]",
     "wedo2.whenTilted": "當傾斜 [TILT_DIRECTION_ANY]",
+    "d3effect.categoryName": "3D效果",
     "p2p.categoryName": "云",
     "p2p.createWorld": "創建世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",
     "p2p.joinWorld": "加入世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",

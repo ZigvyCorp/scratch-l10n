@@ -32,6 +32,8 @@
     "paint.modeTools.flipVertical": "Flip Vertical",
     "paint.modeTools.filled": "Filled",
     "paint.modeTools.outlined": "Outlined",
+    "paint.modeTools.strokeWidth": "Stroke Width",
+    "paint.modeTools.dashedWidth": "Dashed Width",
     "paint.paintEditor.bitmap": "Convert to Bitmap",
     "paint.paintEditor.vector": "Convert to Vector",
     "paint.paintEditor.fill": "Fill",
