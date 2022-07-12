@@ -32,6 +32,8 @@
     "paint.modeTools.flipVertical": "Voltear verticalmente",
     "paint.modeTools.filled": "Relleno",
     "paint.modeTools.outlined": "Contorneado",
+    "paint.modeTools.strokeWidth": "Anchura del trazo",
+    "paint.modeTools.dashedWidth": "Ancho discontinuo",
     "paint.paintEditor.bitmap": "Convertir a mapa de bits",
     "paint.paintEditor.vector": "Convertir a vector",
     "paint.paintEditor.fill": "Rellenar",
