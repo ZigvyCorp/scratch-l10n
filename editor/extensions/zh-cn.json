@@ -444,6 +444,7 @@
     "d3_addtrail": "添加尾迹 反射 [COLOR] 自发 [COLOR2] 宽度 [WIDTH] 段数 [LENGTH] 名为 [NAME]",
     "d3_turnonarcamera": "开启 AR 地面 尺寸 [SIZE] 颜色 [COLOR]",
     "d3_usearcontrolcamera": "切换到AR世界摄像头 比例 [SCALE] 仿真模式 [SIMULATOR]",
+    "d3_usearimagecameralogoanchor": "切换到AR图标摄像头 作为[TYPE] 摄像头 [CAMTYPE] 显示标记 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR]",
     "d3_usearfacecamera": "切换到AR人脸摄像头 显示标记[SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR]",
     "d3_usearimagecamera": "切换到 AR 摄像头 [CAMTYPE] LOGO 位置 [TYPE] 显示标记 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR]",
     "floor": "地板",

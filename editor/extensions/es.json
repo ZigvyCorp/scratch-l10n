@@ -659,6 +659,7 @@
     "d3_addtrail": "añadir difusión de rastro [COLOR] emisión [COLOR2] ancho [WIDTH] segmentos [LENGTH] como [NAME]",
     "d3_turnonarcamera": "activar AR tamaño de suelo [SIZE] color [COLOR]",
     "d3_usearcontrolcamera": "cambiar a la cámara mundial AR escala [SCALE] modo de emulación [SIMULATOR]",
+    "d3_usearimagecameralogoanchor": "cambiar a AR LOGO como [TYPE] cámara [CAMTYPE] marcador [SHOW] escala [SCALE] emulación [SIMULATOR]",
     "d3_usearfacecamera": "Cambiar a marcador de visualización de cámara facial AR [SHOW] escala [SCALE] modo de emulación [SIMULATOR]",
     "d3_usearimagecamera": "cambiar a la cámara AR [CAMTYPE] para el logotipo como [TYPE] mostrar marcador [SHOW] escala [SCALE] modo de emulación [SIMULADOR]",
     "floor": "Piso",
