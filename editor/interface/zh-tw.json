@@ -582,6 +582,7 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
+    "gui.sharedMessages.requestToEdit": "請求編輯",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
     "gui.workspaceColorTooltip.title": "更改工作區背景",
     "gui.spine.skeleton": "骨骼",
