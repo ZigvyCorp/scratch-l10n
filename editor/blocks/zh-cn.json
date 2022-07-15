@@ -566,6 +566,7 @@
     "DATABASE_INSERT_FROM_TABLE": "从表 %1 行从 %2 到 %3 插入集合 %4",
     "DATABASE_FIND_FROM_COLLECTION":"从集合 %1 提取到表 %2 中，其中 %3 限制 %4 按 %5 %6 %7 %8 排序",
     "DATABASE_REMOVE_ALL_DOCUMENT":"从集合 %1 中删除所有文档，其中 %2",
+    "DATABASE_INITIALIZE_COLLECTION":"初始化集合",
     "DATABASE_UPDATE_COLLECTION":"从表 %2 更新集合 %1",
     "DATABASE_UPDATE_COLLECTION_IN_PLACE":"就地更新集合 %1，其中 %2 将 %3 设置为 %4 将 %5 设置为 %6 将 %7 设置为 %8 将 %9 设置为 %10",
     "RENAME_COLLECTION_TITLE": "将 \"%1\" 集合更改为：",
