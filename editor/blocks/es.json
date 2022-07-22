@@ -252,6 +252,7 @@
     "MOTION_POINTTOWARDS_POINTER": "puntero del ratón",
     "MOTION_POINTTOWARDS_RANDOM": "dirección aleatoria",
     "MOTION_POINTTOWARDS_XY" : "Apunta hacia x %1 y %2 en %3 segundos",
+    "MOTION_SET2DSPEED": "establecer velocidad 2D %1 dirección %2",
     "MOTION_GOTO": "ir a %1",
     "MOTION_GOTO_POINTER": "puntero del ratón",
     "MOTION_GOTO_RANDOM": "posición aleatoria",
