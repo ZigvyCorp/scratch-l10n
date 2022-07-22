@@ -397,10 +397,13 @@
     "d3_addabcdplane": "添加平面 [COLOR] 寬度 [SIZEX] 高度 [SIZEY] 係數 abcd [A] [B] [C] [D] 名為 [NAME]",
     "d3_add3pplane": "從點 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] 添加三角形 [COLOR] 名為 [NAME]",
     "d3_add4pplane": "從點xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [ Z4] 名為 [NAME]",
-    "d3_addtrianglefrompoints": "用 [ORIGOBJ] 上的點 [OBJ1] [OBJ2] [OBJ3] 添加三角形 [COLOR] 名為 [NAME]",
-    "d3_addframebox": "添加框架框 [COLOR] 大小為 x [SIZEX] y [SIZEY] z [SIZEZ] 厚度 [THICKNESS] 標籤 [LABELS] 名為 [NAME]",
-    "d3_addlinebetweenpoints": "在 [ORIGOBJ] 上的點 [OBJ1] [OBJ2] 之間添加線 [COLOR] 直徑 [DIAMETER] 帽 [CAPTYPE] 箭頭 [ARROWHEAD] 兩側 [SIDES] 段 [SEGCOUNT] 名為 [NAME]",
-    "d3_addnewpoint": "在 [ORIGOBJ] 上的 [OBJ1] [OBJ2] 之間添加點 百分比 [PCT]% 顏色 [COLOR] 名為 [NAME]",
+    
+    "d3_addtrianglefrompoints": "幾何: 在點 [OBJ1] [OBJ2] [OBJ3] 之間添加 顏色為 [COLOR] 的三角形 名為 [NAME]",
+    "d3_addframebox":"幾何: 添加盒子框架  顏色 [COLOR] 長度 x [SIZEX] y [SIZEY] z [SIZEZ] 邊厚度 [THICKNESS] 顯示標籤 [LABELS] 名為 [NAME]",
+    "d3_addlinebetweenpoints":"幾何: 在點 [OBJ1] [OBJ2] 之間添加線 顏色 [COLOR] 直徑 [DIAMETER] 箭頭 [ARROWHEAD] 邊數 [SIDES] 段數 [SEGCOUNT] 名為 [NAME]",
+    "d3_addnewpoint": "幾何: 在點 [OBJ1] [OBJ2] 之間 [PCT]% 處添加點 顏色 [COLOR] 大小 [SIZE] 名為 [NAME]",
+    "d3_addxyzpoint":"幾何: 在 位置xyz [X] [Y] [Z] 上添加點 顏色 [COLOR] 大小 [SIZE] 父節點 [ORIGOBJ] 名為 [NAME]",
+
     "d3_convertobjecttomirror": "使用名為 [NAME] 的物體構建鏡像亮度 [CLARITY]",
     "d3_setvisibleinmirror": "在鏡子中反射 [NAME]",
     "d3_clearmirrorreflect": "移除鏡子 [NAME] 中的所有反射",

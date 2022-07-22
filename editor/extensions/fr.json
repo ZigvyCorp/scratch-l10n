@@ -613,10 +613,13 @@
     "d3_addabcdplane": "ajouter plan [COLOR] largeur [SIZEX] hauteur [SIZEY] coefficients abcd [A] [B] [C] [D] nommé [NAME]", 
     "d3_add3pplane": "ajouter le triangle [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] nommé [NAME]",
     "d3_add4pplane": "ajouter le quadrilatère [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] nommé [NAME ]",
-    "d3_addtrianglefrompoints": "ajouter un triangle [COLOR] à partir des points [OBJ1] [OBJ2] [OBJ3] sur [ORIGOBJ] en tant que [NAME]",
-    "d3_addframebox": "ajouter la taille de la boîte de cadre [COLOR] en x [SIZEX] y [SIZEY] z [SIZEZ] épaisseur [THICKNESS] étiquettes [LABELS] comme [NAME]",
-    "d3_addlinebetweenpoints": "ajouter une ligne [COLOR] entre les points [OBJ1] [OBJ2] sur [ORIGOBJ] diamètre [DIAMETER] bouchon [CAPTYPE] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] as [NAME]",
-    "d3_addnewpoint": "ajouter un point [COLOR] entre les points [OBJ1] [OBJ2] à [PCT] % sur [ORIGOBJ] en tant que [NAME]",
+    
+    "d3_addtrianglefrompoints": "géométrie: ajouter un triangle à partir des points [OBJ1] [OBJ2] [OBJ3] colorer [COLOR] comme [NAME]",
+    "d3_addframebox": "géométrie: ajoutez la couleur de la boîte de cadre [COLOR] taille en x [SIZEX] y [SIZEY] z [SIZEZ] épaisseur [THICKNESS] étiquettes [LABELS] as [NAME]",
+    "d3_addlinebetweenpoints": "géométrie: ajouter une ligne entre les points [OBJ1] [OBJ2] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] as [NAME]",
+    "d3_addnewpoint": "géométrie: ajouter un point entre les points [OBJ1] [OBJ2] à [PCT] % de couleur [COLOR] taille [SIZE] comme [NAME]",
+    "d3_addxyzpoint": "géométrie: ajouter un point à xyz [X] [Y] [Z] couleur [COLOR] taille [SIZE] sur [ORIGOBJ] en tant que [NAME]",
+
     "d3_convertobjecttomirror": "construire la luminosité du miroir [CLARITY] en utilisant l'objet nommé [NAME]",
     "d3_setvisibleinmirror": "refléter dans le miroir [NAME]", 
     "d3_clearmirrorreflect": "supprimer tous les reflets dans le miroir [NAME]", 
