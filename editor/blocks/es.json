@@ -515,6 +515,7 @@
     "MOTION_JRTURNLEFT": "girar a la izquierda %1",
     "MOTION_JRTURNRIGHT": "girar a la derecha %1",
     "START_SPEECH": "empezar a reconocer el habla en %1 registro como %2",
+    "CLEAR_SPEECH": "texto de voz claro",
     "END_SPEECH": "finalizar el reconocimiento de voz",
     "TEXT_FROM_SPEECH": "texto de voz",
     "SPEAK_IN_LANGUAGE": "decir %1 en %2 como %3 velocidad %4 tono %5 volumen %6",
