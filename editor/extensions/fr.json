@@ -767,6 +767,7 @@
     "d3_spriteblockedleft": "objet sprite bloqué à gauche",
     "d3_spriteblockedright": "objet sprite bloqué à droite",
     "d3_distancetonearest": "distance à l'obstacle le plus proche dans la [TARGET]",
+    "d3_nearestobstaclename": "nom de l'obstacle le plus proche dans la direction [TARGET]",
     "d3_objectproperty": "[OBJECTPROPERTY] de l'objet [OBJECTNAME] du sprite [SPRITENAME]",
     "d3_distancefront": "distance à l'obstacle à l'avant", 
     "d3_distanceback": "distance à l'obstacle dans le dos", 

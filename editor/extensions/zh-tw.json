@@ -551,6 +551,7 @@
     "d3_spriteblockedleft":  "角色物體左面被擋住",
     "d3_spriteblockedright": "角色物體右面被擋住",
     "d3_distancetonearest": "到 [TARGET] 中最近障礙物的距離",
+    "d3_nearestobstaclename": "[TARGET] 方向最近障礙物的名稱",
     "d3_objectproperty": "角色 [SPRITENAME] 中的物體 [OBJECTNAME] 的 [OBJECTPROPERTY]",
     "d3_distancefront": "到前方障礙物的距離",
     "d3_distanceback": "到後面障礙物的距離",

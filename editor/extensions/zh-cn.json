@@ -405,7 +405,7 @@
     "d3_addlinebetweenpoints":"几何: 在点 [OBJ1] [OBJ2] 之间添加线 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 段数 [SEGCOUNT] 名为 [NAME]",
     "d3_addnewpoint": "几何: 在点 [OBJ1] [OBJ2] 之间 [PCT]% 处添加点 颜色 [COLOR] 大小 [SIZE] 名为 [NAME]",
     "d3_addxyzpoint":"几何: 在 位置xyz [X] [Y] [Z] 上添加点 颜色 [COLOR] 大小 [SIZE] 父节点 [ORIGOBJ] 名为 [NAME]",
-    
+
     "d3_convertobjecttomirror":  "将名为 [NAME] 的物体变成镜面 亮度 [CLARITY]",
     "d3_setvisibleinmirror":  "在名为 [NAME] 的镜面中添加镜像",
     "d3_clearmirrorreflect":  "去掉名为 [NAME] 的镜面中的所有镜像",
@@ -550,7 +550,8 @@
     "d3_spriteblockedabove": "角色物体上面被挡住",
     "d3_spriteblockedleft":  "角色物体左面被挡住",
     "d3_spriteblockedright": "角色物体右面被挡住",
-    "d3_distancetonearest": "到 [TARGET] 中最近障碍物的距离",
+    "d3_distancetonearest": "[TARGET] 方向最近障碍物的距离",
+    "d3_nearestobstaclename": "[TARGET] 方向最近障碍物的名称",
     "d3_objectproperty": "角色 [SPRITENAME] 中的物体 [OBJECTNAME] 的 [OBJECTPROPERTY]",
     "d3_distancefront":  "前方障碍距离",
     "d3_distanceback":  "后方障碍距离",
