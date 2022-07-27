@@ -271,7 +271,7 @@
     "widget.whenMouseEnter": "cuando el puntero ingresa al widget [NAME]",
     "widget.whenMouseLeave": "cuando el puntero deja el widget llamado [NAME]",
     "widget.addVideo": "agregue el video de youtube [URL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] llamado [NAME]",
-    "widget.actionVideo": "acción [ACTION] video llamado [NAME]",
+    "widget.actionVideo": "[ACTION] video llamado [NAME]",
     "widget.seekToSecondsVideo": "busca [SECONDS] segundos en el video llamado [NAME]",
     "widget.addImage": "agregue la imagen [COSTUME] al widget llamado [NAME] con la posición X [X] Y [Y]",
     "widget.menuItem.single": "soltera",
