@@ -584,7 +584,7 @@
     "NO": "Non",
     "FACE_DETECTION": "exécuter le débogage de détection de visage %1 dans la table %2",
     "BODY_DETECTION": "exécuter le débogage de détection de pose 2D %1 dans la table %2",
-    "BODY_DETECTION3": "exécute la détection de pose 3D dans la table %1",
+    "BODY_DETECTION3": "exécuter le débogage de détection de pose 3D %1 dans la table %2",
     "UPDATE_DEBUG": "définir le mode de débogage %1",
     "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2",
     "DATABASE_OPERATOR": "%1 %2 %3"
