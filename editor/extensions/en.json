@@ -801,7 +801,7 @@
     "d3_pauseanimation": "pause animation",
     "d3_showinspector": "show inspector [SHOW]",
     "communityObjectNotFound": "Model {modelName} is currently private or does not exist",
-    "d3_switchFullScreen": "switch to full screen [BORDER]",
+    "d3_switchFullScreen": "switch to full screen [BORDERTYPE] border",
     "d3_set_property": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME] in model named [MODEL_NAME]",
     "d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME] in model named [MODEL_NAME]",
     "d3_foreachproperty": "for each property named [PROPERTY_NAME] with value [PROPERTY_VALUE] for [OBJECT_NAME] in model named [MODEL_NAME]",
