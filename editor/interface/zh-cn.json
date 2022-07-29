@@ -193,6 +193,7 @@
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",
     "gui.monitor.listMonitor.listLength": "长度{length}",
+    "gui.monitor.tableMonitor.autoFit": "自动适应",
     "gui.monitor.contextMenu.default": "正常显示",
     "gui.monitor.contextMenu.large": "大字显示",
     "gui.monitor.contextMenu.slider": "滑杆",

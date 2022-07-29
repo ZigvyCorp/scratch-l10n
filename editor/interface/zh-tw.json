@@ -185,6 +185,7 @@
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(empty)",
     "gui.monitor.listMonitor.listLength": "長度 {length}",
+    "gui.monitor.tableMonitor.autoFit": "自動適應",
     "gui.monitor.contextMenu.default": "一般顯示",
     "gui.monitor.contextMenu.large": "大型顯示",
     "gui.monitor.contextMenu.slider": "滑桿",

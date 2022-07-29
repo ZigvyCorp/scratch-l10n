@@ -193,6 +193,7 @@
     "gui.modal.back": "Back",
     "gui.monitor.listMonitor.empty": "(empty)",
     "gui.monitor.listMonitor.listLength": "length {length}",
+    "gui.monitor.tableMonitor.autoFit": "auto fit",
     "gui.monitor.contextMenu.default": "normal readout",
     "gui.monitor.contextMenu.large": "large readout",
     "gui.monitor.contextMenu.slider": "slider",
