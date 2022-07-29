@@ -404,6 +404,9 @@
     "d3_addnewpoint": "幾何: 在點 [OBJ1] [OBJ2] 之間 [PCT]% 處添加點 顏色 [COLOR] 大小 [SIZE] 名為 [NAME]",
     "d3_addxyzpoint":"幾何: 在 位置xyz [X] [Y] [Z] 上添加點 顏色 [COLOR] 大小 [SIZE] 父節點 [ORIGOBJ] 名為 [NAME]",
 
+    "d3_addAtom": "化學: 添加原子 [ATOMTYPE] 名為 [NAME] 連接孔 [HOLE] 到原子 [ATOM2] 的孔 [HOLE2] 距離 [BONDLEN]",
+    "d3_addcustomeatom":"化學: 添加自定義原子 [COLOR] 大小 [SIZE] 孔 [HOLESPEC] 標籤 [LABEL] 角度 [LABELANGLE] 名為 [NAME] 將孔 [HOLE] 連接到原子 [ATOM2] 的孔 [HOLE2] 距離 [BONDLEN]",
+
     "d3_convertobjecttomirror": "使用名為 [NAME] 的物體構建鏡像亮度 [CLARITY]",
     "d3_setvisibleinmirror": "在鏡子中反射 [NAME]",
     "d3_clearmirrorreflect": "移除鏡子 [NAME] 中的所有反射",

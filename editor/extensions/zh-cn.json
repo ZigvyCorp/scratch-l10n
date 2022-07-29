@@ -410,6 +410,10 @@
     "d3_addnewpoint": "几何: 在点 [OBJ1] [OBJ2] 之间 [PCT]% 处添加点 颜色 [COLOR] 大小 [SIZE] 名为 [NAME]",
     "d3_addxyzpoint":"几何: 在 位置xyz [X] [Y] [Z] 上添加点 颜色 [COLOR] 大小 [SIZE] 父节点 [ORIGOBJ] 名为 [NAME]",
 
+
+    "d3_addAtom": "化学: 添加原子 [ATOMTYPE] 名为 [NAME] 连接孔 [HOLE] 到原子 [ATOM2] 的孔 [HOLE2] 距离 [BONDLEN]",
+    "d3_addcustomeatom":"化学: 添加自定义原子 [COLOR] 大小 [SIZE] 孔 [HOLESPEC] 标签 [LABEL] 角度 [LABELANGLE] 名为 [NAME] 将孔 [HOLE] 连接到原子 [ATOM2] 的孔 [HOLE2] 距离 [BONDLEN]",
+
     "d3_convertobjecttomirror":  "将名为 [NAME] 的物体变成镜面 亮度 [CLARITY]",
     "d3_setvisibleinmirror":  "在名为 [NAME] 的镜面中添加镜像",
     "d3_clearmirrorreflect":  "去掉名为 [NAME] 的镜面中的所有镜像",

@@ -620,6 +620,9 @@
     "d3_addnewpoint": "géométrie: ajouter un point entre les points [OBJ1] [OBJ2] à [PCT] % de couleur [COLOR] taille [SIZE] comme [NAME]",
     "d3_addxyzpoint": "géométrie: ajouter un point à xyz [X] [Y] [Z] couleur [COLOR] taille [SIZE] sur [ORIGOBJ] en tant que [NAME]",
 
+    "d3_addAtom": "chimie: ajouter l'atome [ATOMTYPE] en tant que [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN]",
+    "d3_addcustomeatom": "chimie: ajouter un atome personnalisé [COLOR] taille [SIZE] trous [HOLESPEC] étiquette [LABEL] angle [LABELANGLE] comme [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN ]",
+
     "d3_convertobjecttomirror": "construire la luminosité du miroir [CLARITY] en utilisant l'objet nommé [NAME]",
     "d3_setvisibleinmirror": "refléter dans le miroir [NAME]", 
     "d3_clearmirrorreflect": "supprimer tous les reflets dans le miroir [NAME]", 
