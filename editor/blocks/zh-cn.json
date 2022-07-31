@@ -584,9 +584,10 @@
     "DATABASE_OR": "%1 或 %2",
     "YES":"是的",
     "NO":"不",
-    "FACE_DETECTION": "运行人脸识别 调试 %1 保存到表 %2",
-    "BODY_DETECTION": "运行2D姿势识别 调试 %1 保存到表 %2",
-    "BODY_DETECTION3": "运行3D姿势识别 调试 %1 保存到表 %2",
+    "FACE_DETECTION": "识别人脸 调试 %1 保存到表 %2",
+    "BODY_DETECTION": "识别身体部位 (二维) 单人模式 %1 保存到表 %2 调试 %3",
+    "STOPBODY_DETECTION": "停止身体部位识别 (二维)",
+    "BODY_DETECTION3": "识别3D姿势 调试 %1 保存到表 %2",
     "UPDATE_DEBUG": "设置调试模式 %1",
     "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表 %2",
     "DATABASE_OPERATOR": "%1 %2 %3"
