@@ -721,7 +721,7 @@
     "d3_mergeobject": "fusionar [NAME2] en [NAME1]",
     "d3_cloneobject": "copiar datos compartidos de objetos [COMPARTIR] como [NAME]",
     "d3_rotationcopy": "copia a la posición rotada cuenta [COUNT] paso de grado [STEP] alrededor del eje [AXIS] Compartir datos [SHAREDATA] compartir madre [SHAREPARENT]",
-    "d3_mirrorcopy": "copiar a la posición de espejo [MIRRORTYPE] Compartir datos [SHAREDATA] compartir madre [SHAREPARENT]",
+    "d3_mirrorcopy": "copiar a la posición de espejo [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "copia por recuento de matrices en xyz [X2] [Y2] [Z2] espaciado en xyz [SPACINGX] [SPACINGY] [SPACINGZ] relación aleatoria en el espaciado [SPACINGRANDOM]% escala [SCALERANDOM]% rotación z [ROTRANDOM]% [ AVOIDMODE] objeto [AVOIDNAME] ",
     "d3_turnondistancesensor": "establece el sensor de distancia frontal [ISFRONT] atrás [ISBACK] izquierda [ISLEFT] derecha [ISRIGHT] abajo [ISDOWN] arriba [ISUP] distancia máxima [LEN] recuento [COUNT] visible [ISVISIBLE]",
     "d3_setcollision": "activar [ISBLOCKING] colisión con [SPRITE] desplazamiento z del colisionador [ZCENTER] precisión [PRECISION] depurar [ISDEBUG]",
