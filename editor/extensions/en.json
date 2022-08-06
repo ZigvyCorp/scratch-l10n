@@ -677,7 +677,7 @@
     "d3_addtrail": "add trail diffusion [COLOR] emission [COLOR2] width [WIDTH] segments [LENGTH] as [NAME]",
     "d3_turnonarcamera": "turn on AR ground size [SIZE] color [COLOR]",
     "d3_usearcontrolcamera": "switch to AR world camera scale [SCALE] emulation mode [SIMULATOR]",
-    "d3_usearfacecamera": "switch to AR face camera show marker [SHOW] scale [SCALE] emulation mode [SIMULATOR] data table [INFO_TABLE] face mesh [SHOW2]",
+    "d3_usearfacecamera": "switch to AR face camera show marker [SHOW] scale [SCALE] emulation mode [SIMULATOR] data table [INFO_TABLE] with mesh of face [SHOWFACE] eyes [SHOWEYE] mouth [SHOWMOUTH]",
     "d3_usearimagecameralogoanchor": "switch to AR LOGO as [TYPE] camera [CAMTYPE] marker [SHOW] scale [SCALE] emulation [SIMULATOR]",
     "d3_usearimagecamera": "switch to AR camera [CAMTYPE] for logo as [TYPE] show marker [SHOW] scale [SCALE] emulation mode [SIMULATOR]",
     "floor": "Floor",

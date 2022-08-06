@@ -666,7 +666,7 @@
     "d3_turnonarcamera": "activer la taille du sol AR [SIZE] couleur [COLOR]",
     "d3_usearcontrolcamera": "passer à la caméra du monde AR échelle [SCALE] mode d'émulation [SIMULATOR]",
     "d3_usearimagecameralogoanchor": "basculer vers AR LOGO en tant que [TYPE] caméra [CAMTYPE] marqueur [SHOW] échelle [SCALE] émulation [SIMULATOR]",
-    "d3_usearfacecamera": "passer au marqueur d'affichage de la caméra faciale AR [SHOW] échelle [SCALE] mode d'émulation [SIMULATOR] table de données [INFO_TABLE] maillage des faces [SHOW2]",
+    "d3_usearfacecamera": "passer au marqueur d'affichage de la caméra faciale AR [SHOW] échelle [SCALE] mode d'émulation [SIMULATOR] table de données [INFO_TABLE] avec maille de visage [SHOWFACE] yeux [SHOWEYE] bouche [SHOWMOUTH]",
     "d3_usearimagecamera": "passer à la caméra AR [CAMTYPE] pour le logo comme [TYPE] afficher le marqueur [SHOW] échelle [SCALE] mode d'émulation [SIMULATOR]",
     "floor": "Sol",
     "wall" :"Mur",
