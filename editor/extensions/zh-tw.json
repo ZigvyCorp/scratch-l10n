@@ -452,7 +452,7 @@
     "d3_turnonarcamera": "開啟 AR 地面 尺寸 [SIZE] 顏色 [COLOR]",
     "d3_usearcontrolcamera": "切換到AR世界攝像頭 比例 [SCALE] 仿真模式 [SIMULATOR]",
     "d3_usearimagecameralogoanchor": "切換到AR圖標攝像頭 作為[TYPE] 攝像頭 [CAMTYPE] 顯示標記 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR]",
-    "d3_usearfacecamera": "切換到AR人臉攝像頭 顯示標記 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR] 數據表格 [INFO_TABLE] 顯示面膜 臉 [SHOWFACE] 眼 [SHOWEYE] 嘴 [SHOWMOUTH]",  
+    "d3_usearfacecamera": "切換到AR人臉攝像頭 顯示標記 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR] 數據表格 [INFO_TABLE] 顯示面膜 臉 [SHOWFACE] 眼 [SHOWEYE] 口 [SHOWMOUTH] 嘴唇 [SHOWLIP]",  
     "d3_usearimagecamera": "切換到 AR 攝像頭 [CAMTYPE] LOGO 位置 [TYPE] 顯示標記 [SHOW] 比例 [SCALE] 仿真模式 [SIMULATOR]",
     "floor": "地板",
     "wall" : "牆",
