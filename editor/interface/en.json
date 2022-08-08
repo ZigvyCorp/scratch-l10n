@@ -69,6 +69,7 @@
     "gui.customProcedures.addAnInputColor": "Add an input",
     "gui.customProcedures.addInputColor": "color",
     "gui.customProcedures.booleanType": "boolean",
+    "gui.customProcedures.labelText": "text",
     "gui.customProcedures.addALabel": "Add a label",
     "gui.customProcedures.runWithoutScreenRefresh": "Run without screen refresh",
     "gui.customProcedures.cancel": "Cancel",

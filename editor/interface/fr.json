@@ -69,6 +69,7 @@
     "gui.customProcedures.addAnInputColor": "Ajouter une entrée",
     "gui.customProcedures.addInputColor": "Couleur",
     "gui.customProcedures.booleanType": "booléenne",
+    "gui.customProcedures.labelText": "texte",
     "gui.customProcedures.addALabel": "Ajouter une étiquette",
     "gui.customProcedures.runWithoutScreenRefresh": "Exécuter sans rafraîchissement d'écran",
     "gui.customProcedures.cancel": "Annuler",
