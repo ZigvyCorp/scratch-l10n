@@ -193,6 +193,7 @@
     "gui.modal.back": "Atrás",
     "gui.monitor.listMonitor.empty": "(vacía)",
     "gui.monitor.listMonitor.listLength": "longitud {length}",
+    "gui.monitor.tableMonitor.autoFit": "ajuste automático",
     "gui.monitor.contextMenu.default": "tamaño normal",
     "gui.monitor.contextMenu.large": "tamaño grande",
     "gui.monitor.contextMenu.slider": "deslizador",

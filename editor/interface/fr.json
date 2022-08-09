@@ -193,6 +193,7 @@
     "gui.modal.back": "Retour",
     "gui.monitor.listMonitor.empty": "(vide)",
     "gui.monitor.listMonitor.listLength": "longueur {length}",
+    "gui.monitor.tableMonitor.autoFit": "ajustement automatique",
     "gui.monitor.contextMenu.default": "lecture normale",
     "gui.monitor.contextMenu.large": "grande lecture",
     "gui.monitor.contextMenu.slider": "barre de défilement",
