@@ -276,6 +276,7 @@
     "widget.addVideo": "add youtube video [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] named [NAME]",
     "widget.actionVideo": "[ACTION] video for [NAME]",
     "widget.seekToSecondsVideo": "seek to [SECONDS] seconds in video named [NAME]",
+    "widget.currentVideoTime": "current video time for [NAME]",
     "widget.addImage": "add image [COSTUME] to widget named [NAME] with position X [X] Y [Y]",
     "widget.menuItem.single": "single",
     "widget.menuItem.multiple": "multiple",
