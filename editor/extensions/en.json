@@ -670,6 +670,7 @@
     "emission": "Emission",
     "d3_updatetexture": "update texture [TEXTURE] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3_updatecostumetexture": "update texture using costume [COSTUME] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
+    "d3_animatetextureframes": "animate texture spritesheet frames [FRAMECOUNT] row size [ROWSIZE] FPS [FRAMERATE] area [COMPONENT]",
     "d3_isgpusupported": "GPU Available",
     "d3_objectexists": "object [NAME] exists",
     "d3_getCameraXY": "get camera view position for xyz [X] [Y] [Z]",
