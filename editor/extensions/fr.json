@@ -273,6 +273,7 @@
     "widget.addVideo": "ajouter une vidéo youtube [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nommé [NAME]",
     "widget.actionVideo": "vidéo d'action [ACTION] nommée [NAME]",
     "widget.seekToSecondsVideo": "chercher à [SECONDS] secondes dans la vidéo nommée [NAME]",
+    "widget.currentVideoTime": "heure actuelle de la vidéo pour [NAME]",
     "widget.addImage": "ajouter une image [COSTUME] au widget nommé [NAME] avec la position X [X] Y [Y]",
     "widget.menuItem.single": "célibataire",
     "widget.menuItem.multiple": "plusieurs",
