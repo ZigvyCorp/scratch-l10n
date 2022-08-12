@@ -594,5 +594,10 @@
     "BODY_DETECTION3": "识别3D姿势 调试 %1 保存到表 %2",
     "UPDATE_DEBUG": "设置调试模式 %1",
     "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表 %2",
-    "DATABASE_OPERATOR": "%1 %2 %3"
+    "DATABASE_OPERATOR": "%1 %2 %3",
+    "CREATE_KNN_CLASSIFIER": "从名为 %3 的表 %1 K %2 创建 KNN 编号分类器",
+    "ERROR_DEBUG_LABEL_KNN": "在表 <{tableName}> 中找不到标签列",
+    "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是数字", 
+    "PREDICT_KNN_CLASSIFIER": "预测表 %1, 分类器为 %2, 邻居为 %3",
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 应具有与用于创建 knn 分类器的表相同的列"
 }
