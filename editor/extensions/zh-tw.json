@@ -272,7 +272,7 @@
     "widget.whenMouseLeave": "當指針離開名為 [NAME] 的小部件時",
     "widget.addVideo": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 處添加 Youtube 視頻 [URL] 名為 [NAME]",
     "widget.actionVideo": "將控件 [NAME] 中的視頻 [ACTION]",
-    "widget.seekToSecondsVideo": "在名為 [NAME] 的视频中搜索 [SECONDS] 秒",
+    "widget.seekToSecondsVideo": "將名為 [NAME] 的視頻 跳轉到第 [SECONDS] 秒",
     "widget.addImage": "为控件 [NAME] 添加图像 [COSTUME]",
     "widget.menuItem.single": "单行",
     "widget.menuItem.multiple": "多行",
