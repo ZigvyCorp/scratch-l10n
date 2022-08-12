@@ -162,7 +162,7 @@
     "gui.menuBar.publishWithPasswordButton": "Publier avec mot de passe",
     "gui.menuBar.shareWithPasswordButton": "Partager avec mot de passe",
     "gui.menuBar.shareWithPasswordMessage": "Partagez votre projet avec mot de passe",
-    "gui.menuBar.publishWithPasswordMessage": "Publiez votre projet avec un mot de passe",
+    "gui.menuBar.publishWithPasswordMessage": "Publier votre projet avec mot de passe",
     "gui.menuBar.shareWithPasswordTitle": "Tapez le mot de passe et cliquez sur le bouton de partage pour permettre à tous ceux qui ont le mot de passe de le voir et de le remixer !",
     "gui.menuBar.publishWithPasswordTitle": "Tapez le mot de passe et cliquez sur le bouton Publier pour publier votre projet sans partager vos blocs de code !",
     "gui.menuBar.shareWithPasswordPlaceholder": "Tapez le mot de passe",
