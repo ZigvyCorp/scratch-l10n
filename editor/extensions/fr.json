@@ -690,7 +690,7 @@
     "coneemitter": "Cône",
     "meshemitter": "Maillage",
     "d3_updateemittermovement": "configurer le mouvement de l'émetteur [NAME] : vitesse min [MINSPEED] max [MAXSPEED] direction 1 [X1] [Y1] [Z1] direction 2 [X2] [Y2] [Z2]",
-    "d3_fireemitter": "émetteur d'incendie [NAME] [RATEORCOUNT] sur [COUNT]",
+    "d3_fireemitter": "émetteur de démarrage [NAME] [RATEORCOUNT] sur [COUNT]",
     "byrate": "au taux",
     "bycount": "pour un comptage unique",
     "d3_updateemittercolor": "configurer la couleur de l'émetteur [NAME] : début ([STARTCOLOR1] à [STARTCOLOR2]) fin ([ENDCOLOR1] à [ENDCOLOR2]) à progression [MIDDLETIME] % ([MIDDLECOLOR1] à [MIDDLECOLOR2])",

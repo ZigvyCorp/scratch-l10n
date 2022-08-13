@@ -694,7 +694,7 @@
     "coneemitter": "Cono",
     "meshemitter": "Malla",
     "d3_updateemittermovement": "configurar emisor [NAME] movimiento: velocidad min [MINSPEED] max [MAXSPEED] dirección 1 [X1] [Y1] [Z1] dirección 2 [X2] [Y2] [Z2]",
-    "d3_fireemitter": "emisor de fuego [NAME] [RATEORCOUNT] de [COUNT]",
+    "d3_fireemitter": "empezar emisor [NAME] [RATEORCOUNT] de [COUNT]",
     "byrate": "a tasa",
     "bycount": "para conteo único",
     "d3_updateemittercolor": "configurar el color del emisor [NAME]: inicio ([STARTCOLOR1] a [STARTCOLOR2]) fin ([ENDCOLOR1] a [ENDCOLOR2]) en progreso [MIDDLETIME]% ([MIDDLECOLOR1] a [MIDDLECOLOR2])",

@@ -703,7 +703,7 @@
     "coneemitter": "Cone",
     "meshemitter": "Mesh",
     "d3_updateemittermovement": "configure emitter [NAME] movement: speed min [MINSPEED] max [MAXSPEED] direction 1 [X1] [Y1] [Z1] direction 2 [X2] [Y2] [Z2]",
-    "d3_fireemitter": "fire emitter [NAME] [RATEORCOUNT] of [COUNT]",
+    "d3_fireemitter": "start emitter [NAME] [RATEORCOUNT] of [COUNT]",
     "byrate": "at rate",
     "bycount": "for one-time count",
     "d3_updateemittercolor": "configure emitter [NAME] color: start ([STARTCOLOR1] to [STARTCOLOR2]) end ([ENDCOLOR1] to [ENDCOLOR2]) at progress [MIDDLETIME]% ([MIDDLECOLOR1] to [MIDDLECOLOR2])",
