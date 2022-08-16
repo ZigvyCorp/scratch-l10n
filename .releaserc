@@ -1,5 +1,5 @@
 {
-  "repositoryUrl": "https://github.com/ZigvyCorp/scratch-parser",
+  "repositoryUrl": "https://github.com/ZigvyCorp/scratch-l10n",
   "branches": ["master"],
   "plugins": ["@semantic-release/commit-analyzer", "@semantic-release/release-notes-generator", "@semantic-release/github"]
 }
