@@ -563,7 +563,7 @@
     "d3_addorbitcamera": "add orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning speed ratio [PANSPEEDRATIO] inputs key [WITHKEY] pointer [WITHPOINTER]", 
     "d3_setcameratarget": "set camera target xyz [X] [Y] [Z]",
     "d3_setcameratargetobj": "set camera target object [NAME] offset xyz [X] [Y] [Z]",
-    "d3_setcameradirection": "set camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] z offset [ZOFFSET] in [PERIOD] seconds", 
+    "d3_setcameradirection": "set camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] z offset [ZOFFSET] target xyz [X] [Y] [Z] in [PERIOD] seconds", 
     "d3_configureorbitcamera": "configure orbit camera radius min [MINDIST] max [MAXDIST] visible range min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] speed ratio panning [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",
     "d3_carfollowcamera": "add follow camera distance [DISTANCE] z offset [ZOFFSET] v-angle [VANGLE] h-angle [HANGLE] direction lock [DIRECTIONTYPE] see-through [TRANS]%",
     "d3_cameradirection": "camera [PROPERTY]",

@@ -561,7 +561,7 @@
     "d3_addorbitcamera": "ajouter une caméra en orbite distance [DISTANCE] angle v [VANGLE] angle h [HANGLE] rapport de vitesse de panoramique [PANSPEEDRATIO] touche d'entrée [WITHKEY] pointeur [WITHPOINTER]", 
     "d3_setcameratarget": "définir la cible de la caméra xyz [X] [Y] [Z]",
     "d3_setcameratargetobj": "définir l'objet cible de la caméra [NAME] décalage xyz [X] [Y] [Z]",
-    "d3_setcameradirection": "configurer la caméra distance [DISTANCE] angle v [VANGLE] angle h [HANGLE] décalage z [ZOFFSET] en [PERIOD] secondes",
+    "d3_setcameradirection": "configurer la caméra distance [DISTANCE] angle v [VANGLE] angle h [HANGLE] décalage z [ZOFFSET] cible xyz [X] [Y] [Z] en [PERIOD] secondes",
     "d3_configureorbitcamera": "configurer l'orbite rayon de la caméra min [MINDIST] max [MAXDIST] portée visible min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] rapport de vitesse panoramique [PANSPEEDRATIO] angulaire [ANGULARSPEEDRATIO]",
     "d3_carfollowcamera": "ajouter la distance de suivi de la caméra [DISTANCE] décalage z [ZOFFSET] angle v [VANGLE] h [HANGLE] verrouillage de direction [DIRECTIONTYPE] voir à travers [TRANS]%",
     "d3_cameradirection": "caméra [PROPRIÉTÉ]",

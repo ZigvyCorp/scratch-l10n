@@ -771,7 +771,7 @@
     "d3_addorbitcamera":"添加轨道摄像头 距离 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] 平移速度比例 [PANSPEEDRATIO] 输入 键盘 [WITHKEY] 指针 [WITHPOINTER]",
     "d3_setcameratarget": "设置摄像头目标位置 xyz [X] [Y] [Z]",
     "d3_setcameratargetobj": "设置摄像头目标物体 [NAME] 偏移 xyz [X] [Y] [Z]",
-    "d3_setcameradirection": "设置摄像头 距离 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] z 位移 [ZOFFSET] 用时 [PERIOD] 秒",
+    "d3_setcameradirection": "设置摄像头 距离 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] z 位移 [ZOFFSET] 目标 xyz [X] [Y] [Z] 用时 [PERIOD] 秒",
     "d3_configureorbitcamera": "设置轨道摄像头 半径 最小 [MINDIST] 最大 [最大 [DIST] 可见距离 最小 [MINRANGE] 最大 [最大 [RANGE]  上下角度 最小 [MINVANGLE] 最大 [最大 [VANGLE] 速度比例 平移 [PANSPEEDRATIO] 转动 [ANGULARSPEEDRATIO]",
     "d3_carfollowcamera":  "添加追踪摄像头 距离 [DISTANCE] z 位移 [ZOFFSET] 俯视角度 [VANGLE] 侧视角度 [HANGLE] 主方向 [DIRECTIONTYPE] 透视度 [TRANS]%",
     "d3_cameradirection": "摄像头 [PROPERTY]",
