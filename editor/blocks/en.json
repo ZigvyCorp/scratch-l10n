@@ -596,5 +596,10 @@
     "BODY_DETECTION3": "run 3D pose detection debug %1 into table %2",
     "UPDATE_DEBUG": "set debug mode %1",
     "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2",
-    "DATABASE_OPERATOR": "%1 %2 %3"
+    "DATABASE_OPERATOR": "%1 %2 %3",
+    "CREATE_KNN_CLASSIFIER": "create KNN number classifier from table %1  K %2 named %3",
+    "ERROR_DEBUG_LABEL_KNN": "Can not find the label column in table <{tableName}>",
+    "ERROR_DEBUG_NUMBER_KNN": "Row <{ROW}> column <{COLUMN}> of table <{tableName}> is not a number",
+    "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 with neighbors %3",
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier"
 }
