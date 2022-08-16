@@ -1,0 +1,27 @@
+name: Release App
+
+on:
+  push:
+    branches:
+    - master
+
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  job-manager:
+    runs-on: ubuntu-latest
+    outputs:
+      allowed-list: ""
+    steps:
+      - name: List jobs
+        run: echo "List jobs"
+  tag-release:
+    needs: job-manager
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Create new release
+        run: npx semantic-release
