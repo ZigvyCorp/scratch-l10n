@@ -597,5 +597,6 @@
     "ERROR_DEBUG_LABEL_KNN": "No se puede encontrar la columna de etiqueta en la tabla <{tableName}>",
     "ERROR_DEBUG_NUMBER_KNN": "La fila <{ROW}> columna <{COLUMN}> de la tabla <{tableName}> no es un número", 
     "PREDICT_KNN_CLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn"
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn",
+    "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3"
 }
