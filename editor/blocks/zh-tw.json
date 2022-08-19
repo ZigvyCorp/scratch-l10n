@@ -589,6 +589,6 @@
     "ERROR_DEBUG_LABEL_KNN": "在表 <{tableName}> 中找不到標籤列",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是數字", 
     "PREDICT_KNN_CLASSIFIER": "預測表 %1, 分類器為 %2, 鄰居為 %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列"
-    
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列",
+    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2"  
 }

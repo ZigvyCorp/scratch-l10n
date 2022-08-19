@@ -597,5 +597,6 @@
     "ERROR_DEBUG_LABEL_KNN": "Impossible de trouver la colonne d'étiquette dans la table <{tableName}>",
     "ERROR_DEBUG_NUMBER_KNN": "La ligne <{ROW}> la colonne <{COLUMN}> de la table <{tableName}> n'est pas un nombre", 
     "PREDICT_KNN_CLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn"
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",
+    "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3"
 }
