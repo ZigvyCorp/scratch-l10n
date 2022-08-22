@@ -579,6 +579,7 @@
     "d3_distanceleft": "到左側障礙物的距離",
     "d3_distanceright": "到右側障礙物的距離",
     "d3_extrude2": "擠出服裝 [COSTUME] 厚度 [HEIGHT] 側面顏色 [COLOR] 粒度 [GRAN] 名為 [NAME]",
+    "d3_extrude3":  "增厚造型 [COSTUME] 網格列數 [TW] 行度 [TH] 列 [TX] 行 [TY] 厚度 [HEIGHT] 側面顏色 [COLOR] 粒度 [GRAN] 名為 [NAME]",
     "d3_addcube": "添加體素 xyz大小 [SIZEX] [SIZEY] [SIZEZ] 造型 頂部 [TOP] 底部 [BOTTOM] 前面 [FRONT] 後面 [BACK] 左面 [LEFT] 右面 [RIGHT] 紋理大小 [TEXTURELEN] 取樣方法 [SAMPLINGMETHOD] 名為 [NAME]",
     "d3_set_property": "將命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的屬性 [PROPERTY_NAME] 設置為 [PROPERTY_VALUE]",
     "d3_property": "命名模型 [MODEL_NAME] 中 [OBJECT_NAME] 的屬性 [PROPERTY_NAME]",

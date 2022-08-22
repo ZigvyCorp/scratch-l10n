@@ -796,6 +796,7 @@
     "d3_distanceleft": "distance à l'obstacle à gauche", 
     "d3_distanceright": "distance à l'obstacle à droite",
     "d3_extrude2": "extruder costume [COSTUME] épaisseur [HEIGHT] côté couleur [COLOR] granularité [GRAN] nommé [NAME]",
+    "d3_extrude3": "extruder costume [COSTUME] tuiles largeur [TW] hauteur [TH] rangée [TX] col [TY] épaisseur [HEIGHT] côté couleur [COLOR] granularité [GRAN] nommé [NAME]",
     "d3_addcube": "ajoute la taille du voxel en xyz [SIZEX] [SIZEY] [SIZEZ] avec les costumes en haut [TOP] en ​​bas [BOTTOM] devant [FRONT] derrière [BACK] gauche [LEFT] droite [RIGHT] taille de la texture [TEXTURELEN] échantillonner [SAMPLINGMETHOD] comme [NAME]",
     "d3_addcommunityobject": "ajoute le modèle communautaire [OBJECTNAME] hauteur cible [HEIGHT] rotation [RX] [RY] [RZ] décalage d'origine [X] [Y] [Z] comme [NAME]",
     "d3_pauseanimation": "mettre en pause l'animation",
