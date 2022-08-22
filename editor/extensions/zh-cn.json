@@ -134,8 +134,8 @@
     "music.instrumentWoodenFlute": "(13) 木长笛",
     "music.midiPlayDrumForBeats": "击打 [DRUM] [BEATS] 拍",
     "music.midiSetInstrument": "将乐器设为 [INSTRUMENT]",
-    "music.playDrumForBeats": "击打 [DRUM] [BEATS] 拍",
-    "music.playDrumForBeatsLoudness": "为 [BEATS] 打鼓 [DRUM] 节拍响度 [LOUDNESS]",
+    "music.playDrumForBeats": "击打 [DRUM] [BEATS] 拍 [BLOCKING]",
+    "music.playDrumForBeatsLoudness": "为 [BEATS] 打鼓 [DRUM] 节拍响度 [LOUDNESS] [BLOCKING]",
     "music.playNoteForBeats": "演奏音符 [NOTE] [BEATS] 占时 [BLOCKING] 节拍",
     "music.playNoteForBeatsLoudness": "演奏音符 [NOTE1] [NOTE2] [NOTE3] [NOTE4] 节拍 [BEATS] 响度 [LOUDNESS] 占时 [BLOCKING] 节拍",
 
