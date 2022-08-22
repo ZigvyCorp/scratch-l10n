@@ -42,7 +42,7 @@
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "從角色 %1 獲取所有腳本到列表 %2",
     "CONTROL_CLONE_ID": "克隆 ID",
     "CONTROL_CREATE_CLONE_WITH_ID": "克隆 %1 ID %2",
-    "CONTROL_OF": "%1 的 %2",
+    "CONTROL_OF": "%2 的 %1",
     "DATA_SETVARIABLETO": "變數 %1 設為 %2",
     "DATA_CHANGEVARIABLEBY": "變數 %1 改變 %2",
     "DATA_REDUCEVARIABLEBY": "減少 %1 經過 %2",
