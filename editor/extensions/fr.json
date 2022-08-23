@@ -134,8 +134,8 @@
     "music.instrumentWoodenFlute": "(13) Flûte en bois",
     "music.midiPlayDrumForBeats": "jouer du tambour [DRUM] pendant [BEATS] temps",
     "music.midiSetInstrument": "choisir l'instrument n° [INSTRUMENT]",
-    "music.playDrumForBeats": "jouer du tambour [DRUM] pendant [BEATS] temps",
-    "music.playDrumForBeatsLoudness": "jouez de la batterie [DRUM] pour [BEATS] bat le volume [LOUDNESS]",
+    "music.playDrumForBeats": "jouer du tambour [DRUM] pendant [BEATS] temps [BLOCKING]",
+    "music.playDrumForBeatsLoudness": "jouez de la batterie [DRUM] pour [BEATS] bat le volume [LOUDNESS] [BLOCKING]",
     "music.playNoteForBeats": "jouer la note [NOTE] pendant [BEATS] bat en bloquant [BLOCKING] battements",
     "music.playNoteForBeatsLoudness": "jouer la note [NOTE1] [NOTE2] [NOTE3] [NOTE4] pour [BEATS] battements volume [LOUDNESS] bloquant [BLOCKING] battements",
 

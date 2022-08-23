@@ -134,8 +134,8 @@
     "music.instrumentWoodenFlute": "(13) Flauta de madera",
     "music.midiPlayDrumForBeats": "tocar tambor [DRUM] durante [BEATS] tiempos",
     "music.midiSetInstrument": "fijar instrumento a [INSTRUMENT]",
-    "music.playDrumForBeats": "tocar tambor [DRUM] durante [BEATS] tiempos",
-    "music.playDrumForBeatsLoudness": "toca el tambor [DRUM] para [BEATS] late volumen [LOUDNESS]",
+    "music.playDrumForBeats": "tocar tambor [DRUM] durante [BEATS] tiempos [BLOCKING]",
+    "music.playDrumForBeatsLoudness": "toca el tambor [DRUM] para [BEATS] late volumen [LOUDNESS] [BLOCKING]",
     "music.playNoteForBeats": "toca la nota [NOTE] para [BEATS] beats bloqueando [BLOCKING] beats",
     "music.playNoteForBeatsLoudness": "reproducir nota [NOTE1] [NOTE2] [NOTE3] [NOTE4] para [BEATS] latidos sonoridad [LOUDNESS] bloqueando [BLOCKING] latidos",
 
