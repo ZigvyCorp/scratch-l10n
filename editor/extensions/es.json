@@ -748,6 +748,7 @@
 
     "d3_draggedname": "nombre del objeto arrastrado",
     "d3_setdraggingmode": "establecer el modo de arrastre [DRAGGINGMODE] dirección x [X] y [Y] z [Z]",
+    "d3_setdragginglimit": "establecer límites de arrastre min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
     "d3_whenobjectstartdragged": "cuando un objeto de este sprite comienza a ser arrastrado",
     "d3_whenobjectbeingdragged": "cuando se arrastra un objeto de este sprite",
     "d3_whenobjectenddragged": "cuando un objeto de este sprite deja de ser arrastrado",

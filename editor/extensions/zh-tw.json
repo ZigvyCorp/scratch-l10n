@@ -529,6 +529,7 @@
     "d3_enablehoveringignforobject": "開啟名為 [OBJECTNAMES] 的物體的懸停事件",
     "d3_draggedname": "被拖拽物體名稱",
     "d3_setdraggingmode": "設置拖動模式[DRAGGINGMODE] 方向 x [X] y [Y] z [Z]",
+    "d3_setdragginglimit": "設置拖動區域 最小 xyz [X] [Y] [Z] 最大 xyz [X2] [Y2] [Z2]",
     "d3_whenobjectstartdragged": "當這個角色中的一個物體開始被拖動時",
     "d3_whenobjectbeingdragged": "當從這個角色中的一個物體正在被拖動時",
     "d3_whenobjectenddragged": "當這個角色中的一個物體停止被拖動時",

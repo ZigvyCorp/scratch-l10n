@@ -757,6 +757,7 @@
     "d3_enablehoveringignforobject": "enable hovering for objects named [OBJECTNAMES]",
     "d3_whenobjectpicked": "when an object from this sprite is picked",
     "d3_setdraggingmode": "set dragging mode [DRAGGINGMODE] direction x [X] y [Y] z [Z]",
+    "d3_setdragginglimit": "set dragging limits min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
     "d3_whenobjectstartdragged": "when an object from this sprite starts to be dragged",
     "d3_whenobjectbeingdragged": "when an object from this sprite is being dragged",
     "d3_whenobjectenddragged": "when an object from this sprite stops being dragged",

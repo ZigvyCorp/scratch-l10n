@@ -744,6 +744,7 @@
     "d3_enablehoveringignforobject": "activer le survol pour les objets nommés [OBJECTNAMES]",
     "d3_draggedname": "nom de l'objet glissé",
     "d3_setdraggingmode": "définit le mode de glissement [DRAGGINGMODE] direction x [X] y [Y] z [Z]",
+    "d3_setdragginglimit": "fixe les limites de glissement min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
     "d3_whenobjectstartdragged": "lorsqu'un objet de ce sprite commence à être déplacé",
     "d3_whenobjectbeingdragged": "lorsqu'un objet de ce sprite est déplacé",
     "d3_whenobjectenddragged": "lorsqu'un objet de ce sprite cesse d'être déplacé",
