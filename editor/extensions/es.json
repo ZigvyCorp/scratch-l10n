@@ -582,6 +582,7 @@
     "d3_removefromhighlightgroup": "eliminar de la capa resaltada llamada [NAME]",
     "d3_removelights": "eliminar todas las luces",
     "d3_removeonelight": "eliminar la luz llamada [NAME]",
+    "d3_switchlightonoff": "encender [ONOFF] luz llamada [NAME]",
     "d3_pickedname": "NAME del objeto seleccionado",
     "d3_pickedspritename": "NAME del sprite elegido",
     "d3_pickedx": "punto seleccionado x pos",

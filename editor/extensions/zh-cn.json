@@ -794,6 +794,7 @@
     "d3_removefromhighlightgroup": "退出 名为 [NAME] 的高亮层",
     "d3_removelights": "删除所有光源",
     "d3_removeonelight":  "删除名为 [NAME] 的光源",
+    "d3_switchlightonoff": "把光源 [NAME] [ONOFF]",
     "d3_pickedname":"被选取物体名字",
     "d3_pickedspritename":"被选取角色名字",
     "d3_pickedx":  "选取点的x位置",

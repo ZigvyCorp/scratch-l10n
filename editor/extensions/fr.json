@@ -582,6 +582,7 @@
     "d3_removefromhighlightgroup": "supprimer du calque de surbrillance nommé [NAME]",
     "d3_removelights": "supprimer toutes les lumières", 
     "d3_removeonelight": "supprimer la lumière nommée [NAME]",
+    "d3_switchlightonoff": "allume [ONOFF] la lumière nommée [NAME]",
     "d3_pickedname": "nom de l'objet choisi", 
     "d3_pickedspritename": "nom du sprite choisi",
     "d3_pickedx": "objet choisi x pos",

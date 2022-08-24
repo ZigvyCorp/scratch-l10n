@@ -585,6 +585,7 @@
     
     "d3_removelights": "remove all lights", 
     "d3_removeonelight": "remove light named [NAME]",
+    "d3_switchlightonoff": "switch [ONOFF] light named [NAME]",
     "d3_pickedname": "picked object name", 
     "d3_draggedname": "dragged object name",
     "d3_pickedspritename": "picked sprite name", 
