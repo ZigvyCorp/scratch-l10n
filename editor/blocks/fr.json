@@ -141,9 +141,9 @@
     "DATA_PIVOT_TABLE_INTO_TABLE": "faire pivoter %1 dans %2 groupes de lignes %3 colonnes %4 méthodes %5",
     "EVENT_WHENFLAGCLICKED": "quand %1 est cliqué",
     "EVENT_WHENTHISSPRITECLICKED": "quand ce sprite est cliqué",
-    "EVENT_WHENSPRITEDRAGGINGSTARTS": "quand le glissement commence",
-    "EVENT_WHENSPRITEBEINGDRAGGED": "lorsqu'il est traîné",
-    "EVENT_WHENSPRITEDRAGGINGSTOPS": "lorsque le glissement s'arrête",
+    "EVENT_WHENSPRITEDRAGGINGSTARTS": "quand le glissement commence en 2D",
+    "EVENT_WHENSPRITEBEINGDRAGGED": "lorsqu'il est traîné en 2D",
+    "EVENT_WHENSPRITEDRAGGINGSTOPS": "lorsque le glissement s'arrête en 2D",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "lorsque le bouton de la souris %1 est cliqué à x %2 y %3",
     "EVENT_WHENMOUSEWHEEL": "lorsque la molette de la souris défile de %1",
     "EVENT_WHENSTAGECLICKED": "quand la scène est cliquée",
@@ -597,5 +597,6 @@
     "ERROR_DEBUG_LABEL_KNN": "Impossible de trouver la colonne d'étiquette dans la table <{tableName}>",
     "ERROR_DEBUG_NUMBER_KNN": "La ligne <{ROW}> la colonne <{COLUMN}> de la table <{tableName}> n'est pas un nombre", 
     "PREDICT_KNN_CLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn"
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",
+    "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3"
 }

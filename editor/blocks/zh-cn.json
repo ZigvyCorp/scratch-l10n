@@ -42,7 +42,7 @@
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "从角色 %1 获取所有脚本到列表 %2",
     "CONTROL_CLONE_ID": "克隆 ID",
     "CONTROL_CREATE_CLONE_WITH_ID": "克隆 %1 ID %2",
-    "CONTROL_OF": "%1 的 %2",
+    "CONTROL_OF": "%2 的 %1",
     "DATA_SETVARIABLETO": "将 %1 设为 %2",
     "DATA_CHANGEVARIABLEBY": "将 %1 增加 %2",
     "DATA_REDUCEVARIABLEBY": "将 %1 减少 %2",
@@ -142,9 +142,9 @@
     "DATA_PIVOT_TABLE_INTO_TABLE": "将 %1 转入 %2 行组 %3 列 %4 方法 %5",
     "EVENT_WHENFLAGCLICKED": "当 %1 被点击",
     "EVENT_WHENTHISSPRITECLICKED": "当角色被点击",
-    "EVENT_WHENSPRITEDRAGGINGSTARTS": "拖动开始时",
-    "EVENT_WHENSPRITEBEINGDRAGGED": "被拖动的时候",
-    "EVENT_WHENSPRITEDRAGGINGSTOPS": "拖动停止时",
+    "EVENT_WHENSPRITEDRAGGINGSTARTS": "二维拖动开始时",
+    "EVENT_WHENSPRITEBEINGDRAGGED": "被二维拖动的时候",
+    "EVENT_WHENSPRITEDRAGGINGSTOPS": "二维拖动停止时",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "当在 x %2 y %3 处单击鼠标 %1 键时",
     "EVENT_WHENMOUSEWHEEL": "当鼠标滚轮滚动 %1",
     "EVENT_WHENSTAGECLICKED": "当舞台被点击",
@@ -599,5 +599,6 @@
     "ERROR_DEBUG_LABEL_KNN": "在表 <{tableName}> 中找不到标签列",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是数字", 
     "PREDICT_KNN_CLASSIFIER": "预测表 %1, 分类器为 %2, 邻居为 %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 应具有与用于创建 knn 分类器的表相同的列"
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 应具有与用于创建 knn 分类器的表相同的列",
+    "DATA_SETLISTTOCOLUMN": "将列表 %1 设置为表 %3 的列 %2"
 }
