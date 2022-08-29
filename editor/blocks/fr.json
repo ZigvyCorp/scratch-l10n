@@ -345,6 +345,7 @@
     "OPERATORS_MATHOP_EEXP": "e^",
     "OPERATORS_MATHOP_10EXP": "10^",
     "OPERATORS_SOLVEEQUATION": "résoudre l'équation %1",
+    "OPERATORS_CONVERTTONUMBER": "convertir %1 en nombre",
     "OPERATORS_TEXTTRANSFORM": "%1 de %2",
     "OPERATORS_TEXTTRANSFORM_UPPERCASE": "majuscule",
     "OPERATORS_TEXTTRANSFORM_LOWERCASE": "minuscule",
