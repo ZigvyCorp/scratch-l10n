@@ -275,6 +275,7 @@
     "widget.seekToSecondsVideo": "busca [SECONDS] segundos en el video llamado [NAME]",
     "widget.currentVideoTime": "hora actual del video de [NAME]",
     "widget.addImage": "agregue la imagen [COSTUME] al widget llamado [NAME] con la posición X [X] Y [Y]",
+    "widget.addImageURL": "añadir imagen en la URL [URL] al widget llamado [NAME] en la posición X [X] Y [Y]",
     "widget.menuItem.single": "soltera",
     "widget.menuItem.multiple": "múltiple",
     "widget.menuItem.scroll": "desplazarse",
