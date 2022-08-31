@@ -652,6 +652,8 @@
     "d3_addcylinder": "ajouter cylindre [COLOR] diamètre haut [DIAMETERTOP] bas [DIAMETERBOTTOM] hauteur [HEIGHT] arc [ARC] section fermée [CLOSED] capuchon type [CAPTYPE] côtés [SIDES] nommé [NAME]", 
     "d3_addtransformnode": "ajouter un transformateur nommé [NAME]",
     "d3_setasparent": "définir l'objet [PARENTNAME] du sprite [SPRITE] comme parent",
+    "d3_setasocclusion": "convertir en occlusion transparente",
+    "d3_turnonvr": "passer à la caméra VR",
     "d3_setasphysicsparent": "définit l'objet [PARENTNAME] du sprite [SPRITE] comme parent pour la physique",
     "d3_setphysicslinearvelocity": "régler la vitesse de l'objet physique en xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",

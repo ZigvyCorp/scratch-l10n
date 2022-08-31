@@ -431,6 +431,8 @@
     "d3_addcylinder": "添加圓柱體 [COLOR] 直徑頂部 [DIAMETERTOP] 底部 [DIAMETERBOTTOM] 高度 [HEIGHT] 弧線 [ARC] 閉合截面 [CLOSED] 帽型 [CAPTYPE] 側邊 [SIDES] 名為 [NAME]",
     "d3_addtransformnode": "添加轉換器 名為 [NAME]",
     "d3_setasparent": "把角色 [SPRITE] 中的物體 [PARENTNAME] 作爲父節點",
+    "d3_setasocclusion": "轉換為透明遮擋",
+    "d3_turnonvr": "切換到 VR 攝像頭",
     "d3_setasphysicsparent": "將角色 [SPRITE] 中的物體 [PARENTNAME] 設置為物理父節點",
     "d3_setphysicslinearvelocity": "設置物理物體 xyz 方向速度 [X] [Y] [Z] 名為 [NAME]",
     "d3_setphysicsangularvelocity": "設置物理物體 繞 xyz 軸的旋轉速度 [X] [Y] [Z] 名為 [NAME]",
