@@ -159,6 +159,8 @@
     "pen.setHue": "fijar color de lápiz a [HUE]",
     "pen.setShade": "fijar sombra de lápiz a [SHADE]",
     "pen.setSize": "fijar tamaño de lápiz a [SIZE]",
+    "pen.drawRectangle": "dibujar rectángulo ancho [WIDTH] alto [HEIGHT] color de relleno [FILL_COLOR] borde ancho [BORDER_WIDTH] color [BORDER_COLOR] radio de esquina [CORNOR_RADIUS] rotación [ROTATION]",
+    "pen.drawOval": "dibujar un óvalo en el ancho [WIDTH] alto [HEIGHT] color de relleno [FILL_COLOR] ancho del borde [BORDER_WIDTH] color [BORDER_COLOR] rotación [ROTATION]",
     "pen.stamp": "sellar",
     "speech.defaultWhenIHearValue": "vamos",
     "speech.extensionName": "Reconocimiento de voz",

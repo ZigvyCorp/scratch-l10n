@@ -159,6 +159,8 @@
     "pen.setHue": "mettre la couleur du stylo à [HUE]",
     "pen.setShade": "mettre l'intensité du stylo à [SHADE]",
     "pen.setSize": "mettre la taille du stylo à [SIZE]",
+    "pen.drawRectangle": "dessiner un rectangle largeur [WIDTH] hauteur [HEIGHT] couleur de remplissage [FILL_COLOR] largeur de bordure [BORDER_WIDTH] couleur [BORDER_COLOR] rayon d'angle [CORNOR_RADIUS] rotation [ROTATION]",
+    "pen.drawOval": "dessiner un ovale à la largeur [WIDTH] hauteur [HEIGHT] couleur de remplissage [FILL_COLOR] largeur de la bordure [BORDER_WIDTH] couleur [BORDER_COLOR] rotation [ROTATION]",
     "pen.stamp": "estampiller",
     "speech.defaultWhenIHearValue": "allons-y",
     "speech.extensionName": "Synthèse vocale",
