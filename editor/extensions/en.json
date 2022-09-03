@@ -608,6 +608,7 @@
     "d3_hoveredy": "hovered point y pos", 
     "d3_hoveredz": "hovered point z pos", 
     "d3_showaxis": "show 3D axis [SHOW] length [LEN]", 
+    "d3_showlocalaxis": "show local axis [SHOW] length [LEN]",
     "d3_webcambackground": "turn [ONOFF] webcam background [CAMERA] in [CAMERA_MODE] mode",
     "d3_addtube": "add tube [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] thickness [THICKNESS] as [NAME]", 
     "d3_addrecttube": "add rectangle tube [COLOR] size in X [X] Y [Y] height [HEIGHT] cap type [CAPTYPE] thickness [THICKNESS] sides [SIDES] as [NAME]",

@@ -608,6 +608,7 @@
     "d3_pickedyrot": "objet choisi y pourrir", 
     "d3_pickedzrot": "objet choisi z rot", 
     "d3_showaxis": "afficher la longueur de l'axe 3D [SHOW] [LEN]",
+    "d3_showlocalaxis": "afficher l'axe local [SHOW] longueur [LEN]",
     "d3_webcambackground": "activar [ONOFF] la cámara de fondo de la webcam [CAMERA] en el modo [CAMERA_MODE]",
     "d3_addtube": "ajouter tube [COLOR] diamètre en haut [DIAMETERTOP] en ​​bas [DIAMETERBOTTOM] hauteur [HEIGHT] arc [ARC] section fermée [CLOSED] type de capuchon [CAPTYPE] côtés [SIDES] épaisseur [THICKNESS] nommé [NAME]", 
     "d3_addrecttube": "ajouter un tube rectangle [COLOR] taille en x [X] y [Y] hauteur [HEIGHT] type de capuchon [CAPTYPE] épaisseur [THICKNESS] côtés [SIDES] nommé [NAME]",
