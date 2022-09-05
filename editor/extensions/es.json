@@ -276,6 +276,8 @@
     "widget.actionVideo": "[ACTION] video llamado [NAME]",
     "widget.seekToSecondsVideo": "busca [SECONDS] segundos en el video llamado [NAME]",
     "widget.currentVideoTime": "hora actual del video de [NAME]",
+    "widget.setYoutubeVolume": "establece el volumen en [VOLUME] para [NAME]",
+    "widget.setYoutubePlaybackSpeedRatio": "establecer la relación de velocidad de reproducción [SPEED] para [NAME]",
     "widget.addImage": "agregue la imagen [COSTUME] al widget llamado [NAME] con la posición X [X] Y [Y]",
     "widget.addImageURL": "añadir imagen en la URL [URL] al widget llamado [NAME] en la posición X [X] Y [Y]",
     "widget.menuItem.single": "soltera",
