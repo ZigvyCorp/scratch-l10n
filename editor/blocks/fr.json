@@ -597,7 +597,7 @@
     "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "créer un classificateur de numéros KNN à partir de la table %1 K %2 nommé %3",
-    "ERROR_DEBUG_LABEL_KNN": "Impossible de trouver la colonne d'étiquette dans la table <{tableName}>",
+    "ERROR_DEBUG_LABEL_KNN": "La première colonne de la table {tableName} doit être 'label'",
     "ERROR_DEBUG_NUMBER_KNN": "La ligne <{ROW}> la colonne <{COLUMN}> de la table <{tableName}> n'est pas un nombre", 
     "PREDICT_KNN_CLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",

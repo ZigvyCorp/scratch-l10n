@@ -589,7 +589,7 @@
     "BODY_SEGMENTATION": "運行人體識別 調試 %1 保存到表 %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "從名為 %3 的表 %1 K %2 創建 KNN 編號分類器",
-    "ERROR_DEBUG_LABEL_KNN": "在表 <{tableName}> 中找不到標籤列",
+    "ERROR_DEBUG_LABEL_KNN": "表 {tableName} 的第一列必須是 'label'",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是數字", 
     "PREDICT_KNN_CLASSIFIER": "預測表 %1, 分類器為 %2, 鄰居為 %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列",
