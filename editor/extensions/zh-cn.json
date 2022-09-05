@@ -280,6 +280,8 @@
     "widget.actionVideo": "将控件 [NAME] 中的视频 [ACTION]",
     "widget.seekToSecondsVideo": "将控件 [NAME] 中的视频 跳转到第 [SECONDS] 秒",
     "widget.currentVideoTime": "[NAME] 的当前视频时间",
+    "widget.setYoutubeVolume": "将 [NAME] 的音量设置为 [VOLUME]",
+    "widget.setYoutubePlaybackSpeedRatio": "为 [NAME] 设置播放速度比 [SPEED]",
     "widget.addImage": "将造型图片 [COSTUME] 添加到名为 [NAME] 的控件 位置为 X [X] Y [Y]",
     "widget.addImageURL": "将 URL [URL] 处的图片添加到名为 [NAME] 的控件 位置为 X [X] Y [Y]",
     "widget.menuItem.single": "单行",
