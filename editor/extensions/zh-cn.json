@@ -307,6 +307,7 @@
     "widget.scaleWidgetToWidthHeight": "将控件 [NAME] 缩放到比例 宽度 [WIDTH]% 高度 [HEIGHT]% 用时 [SECONDS] 秒 [BLOCKING]",
     "widget.resizeWidgetToWidthHeight": "将控件 [NAME] 调整为宽度 [WIDTH] 高度 [HEIGHT] 用时 [SECONDS] 秒 [BLOCKING]",
     "widget.rotateWidgetByDegrees": "将控件 [NAME] 旋转 [DEGREES] 度 用时 [SECONDS] 秒 [BLOCKING]",
+    "widget.transparencyToWidget": "在 [SECONDS] 秒内将小部件 [NAME] 的透明度设置为 [TRANSPARENT] % [BLOCKING]",
     "widget.addLink": "添加链接 URL [URL] X [X] Y [Y] 名为 [NAME]",
     "widget.addMenuBar": "添加菜单栏 X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 名为 [NAME]",
     "widget.addMenuGroup": "将菜单组 [MENUGROUP] 添加到名为 [NAME] 的菜单栏",
