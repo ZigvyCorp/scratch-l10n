@@ -323,6 +323,7 @@
     "widget.runProject": "在 [OPTION] 选项卡中运行项目 [PROJECT]",
     "widget.runProject-dropdown1": "这个",
     "widget.runProject-dropdown2": "新的",
+    "widget.openNewTabWithURL": "在新标签页中打开 URL [URL]",
     "ai.menuItem.male": "男性",
     "ai.menuItem.female": "女性",
     "ai.menuItem.male2": "男性2",
