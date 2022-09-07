@@ -594,5 +594,6 @@
     "PREDICT_KNN_CLASSIFIER": "預測表 %1, 分類器為 %2, 鄰居為 %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "測試表應以與訓練表相同的列開頭",
-    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2"  
+    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2",
+    "PREMIUM_AUTHORIZATION": "項目中的高級塊被禁用"
 }
