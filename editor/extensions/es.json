@@ -764,6 +764,7 @@
     "d3_mirrorcopy": "copiar a la posición de espejo [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "copia por recuento de matrices en xyz [X2] [Y2] [Z2] espaciado en xyz [SPACINGX] [SPACINGY] [SPACINGZ] relación aleatoria en el espaciado [SPACINGRANDOM]% escala [SCALERANDOM]% rotación z [ROTRANDOM]% [ AVOIDMODE] objeto [AVOIDNAME] ",
     "d3_turnondistancesensor": "establece el sensor de distancia frontal [ISFRONT] atrás [ISBACK] izquierda [ISLEFT] derecha [ISRIGHT] abajo [ISDOWN] arriba [ISUP] distancia máxima [LEN] recuento [COUNT] visible [ISVISIBLE]",
+    "d3_objectdistance": "distancia entre los objetos [NAME1] y [NAME2]",
     "d3_setcollision": "activar [ISBLOCKING] colisión con [SPRITE] desplazamiento z del colisionador [ZCENTER] precisión [PRECISION] depurar [ISDEBUG]",
     "d3_setcollisiondimension": "actualizar la dimensión del colisionador x [ANCHO] y [PROFUNDIDAD] z [ALTO] desplazamiento z del colisionador [ZCENTER] rango de detección x [RX] y [RY] z [RZ] color [COLOR]",
     "d3_whenincollision": "al chocar con [SPRITE]",

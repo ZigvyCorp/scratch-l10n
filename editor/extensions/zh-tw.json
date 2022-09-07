@@ -536,6 +536,7 @@
     "d3_mirrorcopy": "複製到鏡像位置 [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "按 xyz 中的矩陣計數複製 [X2] [Y2] [Z2] xyz 中的間距 [SPACINGX] [SPACINGY] [SPACINGZ] 間距中的隨機比例 [SPACINGRANDOM]% 比例 [SCALERANDOM]% z 旋轉 [ROTRANDOM]% [AVOIDMODE] 物體 [AVOIDNAME]",
     "d3_turnondistancesensor": "設置距離傳感器前 [ISFRONT] 後 [ISBACK] 左 [ISLEFT] 右 [ISRIGHT] 下 [ISDOWN] 上 [ISUP] 最大距離 [LEN] 計數 [COUNT] 可見 [ISVISIBLE]",
+    "d3_objectdistance": "物體 [NAME1] 和 [NAME2] 之間的距離",
     "d3_setcollision": "開啟與 [SPRITE] 的 [ISBLOCKING] 碰撞 碰撞器 z 位移  [ZCENTER] 精度 [PRECISION] 调试 [ISDEBUG]",
     "d3_setcollisiondimension": "更新碰撞範圍 x [WIDTH] y [DEPTH] z [HEIGHT] 碰撞器 z 位移  [ZCENTER] 檢測距離 x [RX] y [RY] z [RZ] 颜色 [COLOR]",
     "d3_whenincollision": "當與 [SPRITE] 碰撞時",
