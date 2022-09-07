@@ -574,6 +574,7 @@
     "d3_addeditorcamera": "ajouter la caméra de l'éditeur à xyz [X] [Y] [Z] direction [DIRECTION] vitesse [SPEED] vitesse angulaire [ANGULARSPEED]", 
     "d3_addobservercamera": "ajouter une caméra d'observation à xyz [X] [Y] [Z] vers xyz [X2] [Y2] [Z2] vitesse [SPEED]", 
     "d3_addorbitcamera": "ajouter une caméra en orbite distance [DISTANCE] angle v [VANGLE] angle h [HANGLE] rapport de vitesse de panoramique [PANSPEEDRATIO] touche d'entrée [WITHKEY] pointeur [WITHPOINTER]", 
+    "d3_capturepointer": "pointeur de capture [CAPTURE]",
     "d3_adduniversalcamera": "ajouter une caméra à la première personne à xyz [X] [Y] [Z] verrouillage du pointeur [POINTERLOCK]",
     "d3_configureuniversalcamera": "configurer la caméra à la première personne minimum XYZ [X] [Y] [Z] maximum XYZ [X2] [Y2] [Z2] plage visible min [MINRANGE] max [MAXRANGE] rapport de vitesse en mouvement [PANSPEEDRATIO] angulaire [ANGULARSPEEDRATIO] taux d'amortissement [DAMPRATIO]",
     "d3_setcameratarget": "définir la cible de la caméra xyz [X] [Y] [Z]",

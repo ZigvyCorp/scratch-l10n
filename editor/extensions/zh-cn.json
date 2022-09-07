@@ -791,6 +791,7 @@
     "d3_addeditorcamera":  "添加编辑摄像头 位置 xyz [X] [Y] [Z] 方向 [DIRECTION] 速度 [SPEED] 转速 [ANGULARSPEED]",
     "d3_addobservercamera":  "添加观察摄像头 位置 xyz [X] [Y] [Z] 朝向 xyz [X2] [Y2] [Z2] 速度 [SPEED]",
     "d3_addorbitcamera":"添加轨道摄像头 距离 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] 平移速度比例 [PANSPEEDRATIO] 输入 键盘 [WITHKEY] 指针 [WITHPOINTER]",
+    "d3_capturepointer": "锁定指针 [CAPTURE]",
     "d3_adduniversalcamera": "添加第一视角摄像头 位置 xyz [X] [Y] [Z] 指针锁定 [POINTERLOCK]",
     "d3_configureuniversalcamera": "配置第一视角摄像头 最小XYZ [X] [Y] [Z] 最大 XYZ [X2] [Y2] [Z2] 可见范围最小 [MINRANGE] 最大 [MAXRANGE] 速度比例 移动 [PANSPEEDRATIO] 旋转 [ANGULARSPEEDRATIO] 阻尼比 [DAMPRATIO]",
     "d3_setcameratarget": "设置摄像头目标位置 xyz [X] [Y] [Z]",
