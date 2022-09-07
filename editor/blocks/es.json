@@ -320,6 +320,7 @@
     "OPERATORS_LETTEROF_APPLE": "a",
     "OPERATORS_LENGTH": "longitud de %1",
     "OPERATORS_CONTAINS": "¿%2 está en %1?",
+    "OPERATORS_ISNUMBER": "%1 es un número?",
     "OPERATORS_MOD": "%1 módulo %2",
     "OPERATORS_POW": "%1 ^ %2",
     "OPERATORS_VECTOR_DISTANCE": "distancia entre x1 %1 y1 %2 - x2 %3 y2 %4 %5",
@@ -345,6 +346,7 @@
     "OPERATORS_MATHOP_EEXP": "e ^",
     "OPERATORS_MATHOP_10EXP": "10 ^",
     "OPERATORS_SOLVEEQUATION": "resolver la ecuación %1",
+    "OPERATORS_CONVERTTONUMBER": "convertir %1 en un número",
     "OPERATORS_TEXTTRANSFORM": "%1 de %2",
     "OPERATORS_TEXTTRANSFORM_UPPERCASE": "mayúsculas",
     "OPERATORS_TEXTTRANSFORM_LOWERCASE": "minúsculo",
@@ -557,6 +559,8 @@
     "GIRL": "Niña",
     "BOOKMARK": "Marcador",
     "REMOVE_BOOKMARK": "Eliminar marcador",
+    "BLOCK_GATHERING": "Hacer bucle",
+    "UNSTACK_REPEAT_BLOCKS": "Romper bucle",
     "OPERATORS_REGEX_TEST": "regex %1 marca %2 prueba %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 marca %2 coincide con %3 en la lista %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 marca %2 busca %3",
@@ -594,9 +598,11 @@
     "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "crear un clasificador de números KNN a partir de la tabla %1 K %2 con el nombre %3",
-    "ERROR_DEBUG_LABEL_KNN": "No se puede encontrar la columna de etiqueta en la tabla <{tableName}>",
+    "ERROR_DEBUG_LABEL_KNN": "La primera columna en la tabla {tableName} tiene que ser 'label'",
     "ERROR_DEBUG_NUMBER_KNN": "La fila <{ROW}> columna <{COLUMN}> de la tabla <{tableName}> no es un número", 
     "PREDICT_KNN_CLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn",
-    "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3"
+    "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La tabla de prueba debe comenzar con las mismas columnas que la tabla de entrenamiento",
+    "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3",
+    "PREMIUM_AUTHORIZATION": "Los bloques premium en los proyectos están deshabilitados."
 }

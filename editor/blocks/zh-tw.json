@@ -347,6 +347,7 @@
     "OPERATORS_MATHOP_EEXP": "e ^",
     "OPERATORS_MATHOP_10EXP": "10 ^",
     "OPERATORS_SOLVEEQUATION": "求解方程 %1",
+    "OPERATORS_CONVERTTONUMBER": "將 %1 轉換為數字",
     "OPERATORS_TEXTTRANSFORM": "%1 的 %2",
     "OPERATORS_TEXTTRANSFORM_UPPERCASE": "大寫",
     "OPERATORS_TEXTTRANSFORM_LOWERCASE": "小寫",
@@ -547,6 +548,8 @@
     "GIRL": "女孩",
     "BOOKMARK": "书签",
     "REMOVE_BOOKMARK": "删除书签",
+    "BLOCK_GATHERING": "轉換為循環",
+    "UNSTACK_REPEAT_BLOCKS": "展開循環",
     "OPERATORS_REGEX_TEST": "正则表达式 %1 标志 %2 测试 %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "正则表达式 %1 标志 %2 匹配 %3 存入列表 %4",
     "OPERATORS_REGEX_SEARCH": "正则表达式 %1 标志 %2 搜索 %3",
@@ -586,9 +589,11 @@
     "BODY_SEGMENTATION": "運行人體識別 調試 %1 保存到表 %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "從名為 %3 的表 %1 K %2 創建 KNN 編號分類器",
-    "ERROR_DEBUG_LABEL_KNN": "在表 <{tableName}> 中找不到標籤列",
+    "ERROR_DEBUG_LABEL_KNN": "表 {tableName} 的第一列必須是 'label'",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是數字", 
     "PREDICT_KNN_CLASSIFIER": "預測表 %1, 分類器為 %2, 鄰居為 %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列",
-    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2"  
+    "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "測試表應以與訓練表相同的列開頭",
+    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2",
+    "PREMIUM_AUTHORIZATION": "項目中的高級塊被禁用"
 }

@@ -560,6 +560,8 @@
     "GIRL": "Girl",
     "BOOKMARK": "Bookmark",
     "REMOVE_BOOKMARK": "Remove bookmark",
+    "BLOCK_GATHERING": "Make loop",
+    "UNSTACK_REPEAT_BLOCKS": "Break loop",
     "OPERATORS_REGEX_TEST": "regex %1 flag %2 test %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 flag %2 match %3 into list %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 flag %2 search %3",
@@ -598,9 +600,11 @@
     "BODY_SEGMENTATION": "run body segmentation debug %1 into table %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "create KNN number classifier from table %1  K %2 named %3",
-    "ERROR_DEBUG_LABEL_KNN": "Can not find the label column in table <{tableName}>",
+    "ERROR_DEBUG_LABEL_KNN": "First column in table {tableName} has to be 'label'",
     "ERROR_DEBUG_NUMBER_KNN": "Row <{ROW}> column <{COLUMN}> of table <{tableName}> is not a number",
-    "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 with neighbors %3",
+    "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 show neighbors %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
-    "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3"
+    "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "The testing table should start with the same columns as the training table",
+    "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3",
+    "PREMIUM_AUTHORIZATION": "The premium blocks in the projects are disabled"
 }
