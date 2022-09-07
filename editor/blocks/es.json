@@ -320,6 +320,7 @@
     "OPERATORS_LETTEROF_APPLE": "a",
     "OPERATORS_LENGTH": "longitud de %1",
     "OPERATORS_CONTAINS": "¿%2 está en %1?",
+    "OPERATORS_ISNUMBER": "%1 es un número?",
     "OPERATORS_MOD": "%1 módulo %2",
     "OPERATORS_POW": "%1 ^ %2",
     "OPERATORS_VECTOR_DISTANCE": "distancia entre x1 %1 y1 %2 - x2 %3 y2 %4 %5",
