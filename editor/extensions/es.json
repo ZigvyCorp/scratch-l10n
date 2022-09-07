@@ -301,6 +301,7 @@
     "widget.scaleWidgetToWidthHeight": "escala el widget [NAME] al ancho [WIDTH]% alto [HEIGHT]% en [SECONDS] segundos [BLOCKING]",
     "widget.resizeWidgetToWidthHeight": "cambiar el tamaño del widget [NAME] a ancho [WIDTH] alto [HEIGHT] en [SECONDS] segundos [BLOCKING]",
     "widget.rotateWidgetByDegrees": "girar el widget [NAME] por [DEGREES] grados en [SECONDS] segundos [BLOCKING]",
+    "widget.transparencyToWidget": "establece la transparencia para el widget [NAME] en [TRANSPARENT] % en [SECONDS] segundos [BLOCKING]",
     "widget.addLink": "agregar enlace en X [X] Y [Y] url [URL] como [NAME]",
     "widget.addMenuBar": "agregue la barra de menú en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] como [NAME]",
     "widget.addMenuGroup": "agregue el grupo de menú [MENUGROUP] a la barra de menú llamada [NAME]",

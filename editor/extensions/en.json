@@ -305,6 +305,7 @@
     "widget.scaleWidgetToWidthHeight": "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]",
     "widget.resizeWidgetToWidthHeight": "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]",
     "widget.rotateWidgetByDegrees": "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]",
+    "widget.transparencyToWidget": "set transparency for widget [NAME] to [TRANSPARENT] % in [SECONDS] seconds [BLOCKING]",
     "widget.addLink": "add link at X [X] Y [Y] url [URL] as [NAME]",
     "widget.addMenuBar": "add menu bar at X [X] Y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
     "widget.addMenuGroup": "add menu group [MENUGROUP] to menu bar named [NAME]",
