@@ -321,6 +321,7 @@
     "widget.runProject": "run project [PROJECT] in [OPTION] tab",
     "widget.runProject-dropdown1": "this",
     "widget.runProject-dropdown2": "new",
+    "widget.openNewTabWithURL": "open URL [URL] in new tab",
     "ai.menuItem.male": "Male",
     "ai.menuItem.female": "Female",
     "ai.menuItem.male2": "Male2",

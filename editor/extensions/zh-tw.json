@@ -317,6 +317,7 @@
     "widget.runProject": "在 [OPTION] 選項卡中運行項目 [PROJECT]",
     "widget.runProject-dropdown1": "這個",
     "widget.runProject-dropdown2": "新的",
+    "widget.openNewTabWithURL": "在新選項卡中打開 URL [URL]",
     "normal": "正常", 
     "left-right flipped": "左右翻轉",
     "up-down flipped": "上下翻轉",
