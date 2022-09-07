@@ -749,6 +749,7 @@
     "d3_rotateto2": "girar en la dirección x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",
     "d3_3dturnto": "girar [DEGREES] grados alrededor del eje [AXIS] en [PERIOD] segundos",
     "d3_3dpointto": "apunta a la posición x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",
+    "d3_movealongdir": "mueve [DIST] a lo largo de la dirección actual en [PERIOD] segundos [BLOCKING]",
     "d3_copycameradirection": "copiar la dirección de la cámara",
     "d3_copycameraposition": "copiar la posición de la cámara",
     "d3_setrotationpivot": "establecer el punto de pivote x [X] y [Y] z [Z]",

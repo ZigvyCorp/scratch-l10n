@@ -521,6 +521,7 @@
     "d3_rotateto2": "旋轉到 X [X] Y [Y] z [Z] 方向 用時 [PERIOD] 秒 [BLOCKING]",
     "d3_3dturnto": "在 [PERIOD] 秒內繞 [AXIS] 軸旋轉 [DEGREES] 度",
     "d3_3dpointto": "指向位置 x [X] y [Y] z [Z] 用時 [PERIOD] 秒 [BLOCKING]",
+    "d3_movealongdir": "沿當前方向移動 [DIST] 用時 [PERIOD] 秒 [BLOCKING]",
     "d3_copycameradirection": "複製攝像頭方向",
     "d3_copycameraposition": "複製攝像頭位置",
     "d3_setrotationpivot": "設置樞軸點 x [X] y [Y] z [Z]",
