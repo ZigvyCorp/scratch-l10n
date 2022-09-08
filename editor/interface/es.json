@@ -651,5 +651,6 @@
     "gui.remote.cancel": "Cancelar",
     "gui.remote.deny": "Negar",
     "gui.remote.requestToEdit": "Solicitud de edición",
-    "gui.remote.isRequesting": "está solicitando editar"
+    "gui.remote.isRequesting": "está solicitando editar",
+    "gui.consolePanel.premiumWarning": "Los bloques premium en los proyectos están deshabilitados."
 }

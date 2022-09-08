@@ -603,6 +603,5 @@
     "PREDICT_KNN_CLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La tabla de prueba debe comenzar con las mismas columnas que la tabla de entrenamiento",
-    "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3",
-    "PREMIUM_AUTHORIZATION": "Los bloques premium en los proyectos están deshabilitados."
+    "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3"
 }
