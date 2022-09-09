@@ -645,5 +645,6 @@
     "gui.remote.cancel": "取消",
     "gui.remote.deny": "否定",
     "gui.remote.requestToEdit": "請求編輯",
-    "gui.remote.isRequesting": "正在請求編輯"
+    "gui.remote.isRequesting": "正在請求編輯",
+    "gui.consolePanel.premiumWarning": "項目中的高級塊被禁用"
 }

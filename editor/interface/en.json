@@ -649,5 +649,6 @@
     "gui.remote.cancel": "Cancel",
     "gui.remote.deny": "Deny",
     "gui.remote.requestToEdit": "Request to Edit",
-    "gui.remote.isRequesting": "is requesting to edit"
+    "gui.remote.isRequesting": "is requesting to edit",
+    "gui.consolePanel.premiumWarning": "The premium blocks in the projects are disabled"
 }
