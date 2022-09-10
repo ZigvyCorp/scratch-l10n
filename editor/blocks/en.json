@@ -312,7 +312,7 @@
     "OPERATORS_JOIN_APPLE": "apple",
     "OPERATORS_JOIN_BANANA": "banana",
     "OPERATORS_REPLACE": "replace %1 with %2 in %3",
-    "OPERATORS_SUBSTRINGINDEX": "position index of %1 in %2",
+    "OPERATORS_SUBSTRINGINDEX": "position of %1 in %2",
     "OPERATORS_SUBSTRING": "substring of %1 from position %2 to position %3",
     "OPERATORS_SPLITSUBSTRING": "part %1 of %2 by %3",
     "OPERATORS_LCS": "longest common substring between %1 and %2",
