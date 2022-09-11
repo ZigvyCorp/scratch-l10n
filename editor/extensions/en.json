@@ -574,7 +574,7 @@
     "d3_addeditorcamera": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]", 
     "d3_addobservercamera": "add observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] speed [SPEED]", 
     "d3_addorbitcamera": "add orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning speed ratio [PANSPEEDRATIO] inputs key [WITHKEY] pointer [WITHPOINTER]", 
-    "d3_capturepointer": "capture pointer [CAPTURE]",
+    "d3_capturepointer": "lock pointer [CAPTURE]",
     "d3_adduniversalcamera": "add first person camera at xyz [X] [Y] [Z] pointer lock [POINTERLOCK]",
     "d3_configureuniversalcamera": "configure first person camera min XYZ [X] [Y] [Z] max XYZ [X2] [Y2] [Z2] visible range min [MINRANGE] max [MAXRANGE] speed ratio moving [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO] damp ratio [DAMPRATIO]",
     "d3_setcameratarget": "set camera target xyz [X] [Y] [Z]",
