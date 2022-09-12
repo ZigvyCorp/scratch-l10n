@@ -793,7 +793,7 @@
     "d3_setcameraparent": "將 [NAME] 設置為攝像頭的父節點",
     "d3_setcameradirection": "設置攝像頭 距離 [DISTANCE] 俯视角度 [VANGLE] 侧视角度 [HANGLE] z 位移 [ZOFFSET] 目標 xyz [X] [Y] [Z] 用时 [PERIOD] 秒",
     "d3_setcameraonglobe": "設置攝像頭 距離 [DISTANCE] [DIR1] [D1]° [M1]' [S1]\" [DIR2] [D2]° [M2]' [S2]\" 用时 [PERIOD] 秒",
-    "d3_configureorbitcamera": "設置軌道攝像頭 半徑 最小 [MINDIST] 最大 [MAXDIST] 可見距離 最小 [MINRANGE] 最大 [MAXRANGE]  上下角度 最小 [MINVANGLE] 最大 [MAXVANGLE] 速度比例 移動 [PANSPEEDRATIO] 旋轉 [ANGULARSPEEDRATIO]",
+    "d3_configureorbitcamera": "設置攝像頭 半徑 最小 [MINDIST] 最大 [MAXDIST] 可見距離 最小 [MINRANGE] 最大 [MAXRANGE]  上下角度 最小 [MINVANGLE] 最大 [MAXVANGLE] 速度比例 移動 [PANSPEEDRATIO] 旋轉 [ANGULARSPEEDRATIO]",
     "d3_carfollowcamera": "添加跟隨攝像頭 距離 [DISTANCE] z 位移 [ZOFFSET] 俯視角度 [VANGLE] 側視角度 [HANGLE] 主方向 [DIRECTIONTYPE] 透視度 [TRANS]%",
     "d3_cameradirection": "攝像頭 [PROPERTY]",
     "d3_addhatcamera": "添加偏移 xyz [X] [Y] [Z] 的帽子攝像頭",
