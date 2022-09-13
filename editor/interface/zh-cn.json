@@ -649,5 +649,6 @@
     "gui.remote.cancel": "取消",
     "gui.remote.deny": "否定",
     "gui.remote.requestToEdit": "请求编辑",
-    "gui.remote.isRequesting": "正在请求编辑"
+    "gui.remote.isRequesting": "正在请求编辑",
+    "gui.consolePanel.premiumWarning": "项目中的高级块被禁用"
 }
