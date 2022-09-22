@@ -192,6 +192,8 @@
     "gui.modal.help": "帮助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",
+    "gui.monitor.listMonitor.rename": "改名",
+    "gui.monitor.listMonitor.delete": "删除",
     "gui.monitor.listMonitor.listLength": "长度{length}",
     "gui.monitor.tableMonitor.autoFit": "自动适应",
     "gui.monitor.contextMenu.default": "正常显示",
