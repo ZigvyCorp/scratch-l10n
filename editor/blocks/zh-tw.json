@@ -155,6 +155,8 @@
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "當在 x %2 y %3 釋放 %1 鼠標按鈕時",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONPRESS": "當在 x %2 y %3 按下 %1 鼠標按鈕時",
     "EVENT_WHENMOUSEWHEEL": "當鼠標滾輪滾動 %1",
+    "EVENT_WHENKEYVARIABLEPRESSED": "按下鍵 %1 時",
+    "EVENT_WHENKEYVARIABLERELEASED": "當密鑰 %1 釋放時",
     "EVENT_WHENSTAGECLICKED": "當舞台被點擊",
     "EVENT_WHENTOUCHINGOBJECT": "當角色碰到 %1",
     "EVENT_WHENBROADCASTRECEIVED": "當收到 %1",
@@ -605,5 +607,6 @@
     "PREDICT_KNN_CLASSIFIER": "預測表 %1, 分類器為 %2, 鄰居為 %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 應具有與用於創建 knn 分類器的表相同的列",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "測試表應以與訓練表相同的列開頭",
-    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2"
+    "DATA_SETLISTTOCOLUMN": "將列表 %1 設置為表 %3 的列 %2",
+    "OPEN_AI_GPT3": "OpenAI GPT-3: 提示文本 %1 字符限制 %2"
 }

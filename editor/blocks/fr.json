@@ -154,6 +154,8 @@
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "quand %1 bouton de la souris est relâché à x %2 y %3",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONPRESS": "quand %1 bouton de la souris est pressé à x %2 y %3",
     "EVENT_WHENMOUSEWHEEL": "lorsque la molette de la souris défile de %1",
+    "EVENT_WHENKEYVARIABLEPRESSED": "lorsque la touche %1 est enfoncée",
+    "EVENT_WHENKEYVARIABLERELEASED": "lorsque la clé %1 est libérée",
     "EVENT_WHENSTAGECLICKED": "quand la scène est cliquée",
     "EVENT_WHENTOUCHINGOBJECT": "quand ce sprite touche %1",
     "EVENT_WHENBROADCASTRECEIVED": "quand je reçois %1",
@@ -614,5 +616,6 @@
     "PREDICT_KNN_CLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La table de test doit commencer par les mêmes colonnes que la table d'entraînement",
-    "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3"
+    "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3",
+    "OPEN_AI_GPT3": "OpenAI GPT-3: avec texte d'invite %1 limite de caractères %2"
 }
