@@ -618,5 +618,6 @@
     "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 show neighbors %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "The testing table should start with the same columns as the training table",
-    "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3"
+    "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3",
+    "OPEN_AI_GPT3": "OpenAI GPT-3: with prompt text %1 character limit %2"
 }
