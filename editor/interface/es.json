@@ -198,6 +198,8 @@
     "gui.modal.help": "Ayuda",
     "gui.modal.back": "Atrás",
     "gui.monitor.listMonitor.empty": "(vacía)",
+    "gui.monitor.listMonitor.rename": "Rebautizar",
+    "gui.monitor.listMonitor.delete": "Borrar",
     "gui.monitor.listMonitor.listLength": "longitud {length}",
     "gui.monitor.tableMonitor.autoFit": "ajuste automático",
     "gui.monitor.contextMenu.default": "tamaño normal",
