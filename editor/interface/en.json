@@ -192,6 +192,8 @@
     "gui.modal.help": "Help",
     "gui.modal.back": "Back",
     "gui.monitor.listMonitor.empty": "(empty)",
+    "gui.monitor.listMonitor.rename": "Rename",
+    "gui.monitor.listMonitor.delete": "Delete",
     "gui.monitor.listMonitor.listLength": "length {length}",
     "gui.monitor.tableMonitor.autoFit": "auto fit",
     "gui.monitor.contextMenu.default": "normal readout",
