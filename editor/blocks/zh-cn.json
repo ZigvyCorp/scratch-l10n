@@ -612,10 +612,11 @@
     "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表格 %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "从名为 %3 的表格 %1 K %2 创建 KNN 编号分类器",
-    "ERROR_DEBUG_LABEL_KNN": "表 {tableName} 的第一列必须是 'label'",
+    "ERROR_DEBUG_LABEL_KNN": "表格 {tableName} 的第一列必须是 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "请先为场景启用物理引擎",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是数字", 
     "PREDICT_KNN_CLASSIFIER": "预测表格 %1, 分类器为 %2, 邻居为 %3",
-    "ERROR_DEBUG_TESTING_TABLE_KNN": "表 {tableName} 应具有与用于创建 knn 分类器的表相同的列",
+    "ERROR_DEBUG_TESTING_TABLE_KNN": "表格 {tableName} 应具有与用于创建 knn 分类器的表相同的列",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "测试表应以与训练表相同的列开头",
     "DATA_SETLISTTOCOLUMN": "将列表格 %1 设置为表格 %3 的列 %2",
     "OPEN_AI_GPT3": "OpenAI GPT-3: 请求 %1 词数限制 %2"

@@ -614,6 +614,7 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "create KNN number classifier from table %1  K %2 named %3",
     "ERROR_DEBUG_LABEL_KNN": "First column in table {tableName} has to be 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Please enable physics for the scene first.",
     "ERROR_DEBUG_NUMBER_KNN": "Row <{ROW}> column <{COLUMN}> of table <{tableName}> is not a number",
     "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 show neighbors %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",

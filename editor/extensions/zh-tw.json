@@ -513,6 +513,7 @@
     "d3_setrenderinggroup": "設置渲染層 [LAYERID]",
     "d3_lockface": "設置攝像頭朝向模式 [FACEMODE]",
     "d3_updatephysics": "設置物理化身 [SHAPE] 質量 [MASS] 恢復係數 [RESTITUTION]% 摩擦係數 [FRICTION]% 暫停 [YESNO] 調試 [ISDEBUG] [COLOR]",
+    "d3_mergephys": "将 [CHILDREN] 的物理实体添加到复合 [NAME] 保留物体 [KEEPOBJ]",
     "d3_updatescale": "更新比例 x [X]% y [Y]% z [Z]% 用时 [PERIOD] 秒 [BLOCKING]",
     "d3_updatescale2": "更新大小 x [X] y [Y] z [Z]",
     "d3_subdivideface": "按 [MULTIPLE] 細分人臉",

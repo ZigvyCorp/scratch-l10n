@@ -746,6 +746,7 @@
     "d3_setrenderinggroup": "définir la couche de rendu [LAYERID]",
     "d3_lockfacing": "régler le mode face à la caméra [FACEMODE]", 
     "d3_updatephysics": "activer la physique en tant que [SHAPE] avec restitution de masse [MASS] [RESTITUTION]% friction [FRICTION]% gelé [YESNO] debug [ISDEBUG] [COLOR]",
+    "d3_mergephysics": "ajouter les corps physiques de [CHILDREN] dans le composé [NAME] garder l'objet [KEEPOBJ]",
     "d3_updatescale": "mise à jour échelle x [X]% y [Y]% z [Z]% en [PERIOD] secondes [BLOCKING]", 
     "d3_updatescale2": "taille de mise à jour x [X] y [Y] z [Z]", 
     "d3_subdivideface": "subdiviser les visages par [MULTIPLE]",

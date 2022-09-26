@@ -612,6 +612,7 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "crear un clasificador de números KNN a partir de la tabla %1 K %2 con el nombre %3",
     "ERROR_DEBUG_LABEL_KNN": "La primera columna en la tabla {tableName} tiene que ser 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Habilite primero la física para la escena.",
     "ERROR_DEBUG_NUMBER_KNN": "La fila <{ROW}> columna <{COLUMN}> de la tabla <{tableName}> no es un número", 
     "PREDICT_KNN_CLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn",
