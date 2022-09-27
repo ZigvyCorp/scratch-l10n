@@ -574,6 +574,8 @@
     "REMOVE_BOOKMARK": "Eliminar marcador",
     "BLOCK_GATHERING": "Hacer bucle",
     "UNSTACK_REPEAT_BLOCKS": "Romper bucle",
+    "MAKE_FOR_LOOP": "Hacer para bucle",
+    "UNSTACK_FOR_LOOP": "Pausa para bucle",
     "OPERATORS_REGEX_TEST": "regex %1 marca %2 prueba %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 marca %2 coincide con %3 en la lista %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 marca %2 busca %3",
