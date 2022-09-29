@@ -574,6 +574,8 @@
     "REMOVE_BOOKMARK": "Supprimer le signet",
     "BLOCK_GATHERING": "Faire une boucle",
     "UNSTACK_REPEAT_BLOCKS": "Bloquer la boucle",
+    "MAKE_FOR_LOOP": "Créer une boucle",
+    "UNSTACK_FOR_LOOP": "Créer une boucle",
     "OPERATORS_REGEX_TEST": "regex %1 indicateur %2 test %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 indicateur %2 correspond à %3 dans la liste %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 indicateur %2 recherche %3",
