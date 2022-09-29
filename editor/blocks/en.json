@@ -622,5 +622,6 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "The testing table should start with the same columns as the training table",
     "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3: request %1 word limit %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3: request %1 word limit %2",
+    "OPEN_AI_GPT3_WARNING": "The response has been filtered out based on our safety policy"
 }
