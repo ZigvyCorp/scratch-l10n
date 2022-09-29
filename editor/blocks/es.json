@@ -574,6 +574,8 @@
     "REMOVE_BOOKMARK": "Eliminar marcador",
     "BLOCK_GATHERING": "Hacer bucle",
     "UNSTACK_REPEAT_BLOCKS": "Romper bucle",
+    "MAKE_FOR_LOOP": "Hacer para bucle",
+    "UNSTACK_FOR_LOOP": "Pausa para bucle",
     "OPERATORS_REGEX_TEST": "regex %1 marca %2 prueba %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 marca %2 coincide con %3 en la lista %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 marca %2 busca %3",
@@ -612,10 +614,12 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "crear un clasificador de números KNN a partir de la tabla %1 K %2 con el nombre %3",
     "ERROR_DEBUG_LABEL_KNN": "La primera columna en la tabla {tableName} tiene que ser 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Habilite primero la física para la escena.",
     "ERROR_DEBUG_NUMBER_KNN": "La fila <{ROW}> columna <{COLUMN}> de la tabla <{tableName}> no es un número", 
     "PREDICT_KNN_CLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La tabla {tableName} debe tener las mismas columnas que la tabla que se usa para crear el clasificador knn",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La tabla de prueba debe comenzar con las mismas columnas que la tabla de entrenamiento",
     "DATA_SETLISTTOCOLUMN": "establecer la lista %1 en la columna %2 de la tabla %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3: con mensaje de texto %1 límite de caracteres %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3: solicitud %1 límite de palabras %2",
+    "OPEN_AI_GPT3_WARNING": "La respuesta ha sido filtrada según nuestra política de seguridad."
 }

@@ -114,7 +114,7 @@
     "DATA_INSERTROWTOTABLE": "insert at row %1 of table %2: %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14",
     "DATA_REPLACEROWOFTABLE": "replace row %1 of table %2 with : %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14",
     "DATA_REPLACEITEMATROWCOLUMN": "replace item at row %1 column %2 of table %3 with %4",
-    "DATA_READFROMGOOGLESHEET": "read from google sheet: URL %1 sheet name %2 range %3 into %4",
+    "DATA_READFROMGOOGLESHEET": "read from google sheet: URL %1 sheet name %2 range %3 into table %4",
     "DATA_WRITEINTOGOOGLESHEET": "write into google sheet: URL %1 sheet name %2 range %3 from table %4 starting at column %5 row %6",
     "DATA_REDUCEITEMATROWCOLUMN": "reduce item at row %1 column %2 of table %3 by %4",
     "DATA_CHANGEITEMATROWCOLUMN": "change item at row %1 column %2 of table %3 by %4",
@@ -575,6 +575,8 @@
     "REMOVE_BOOKMARK": "Remove bookmark",
     "BLOCK_GATHERING": "Make loop",
     "UNSTACK_REPEAT_BLOCKS": "Break loop",
+    "MAKE_FOR_LOOP": "Make for loop",
+    "UNSTACK_FOR_LOOP": "Break for loop",
     "OPERATORS_REGEX_TEST": "regex %1 flag %2 test %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 flag %2 match %3 into list %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 flag %2 search %3",
@@ -614,10 +616,12 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "create KNN number classifier from table %1  K %2 named %3",
     "ERROR_DEBUG_LABEL_KNN": "First column in table {tableName} has to be 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Please enable physics for the scene first.",
     "ERROR_DEBUG_NUMBER_KNN": "Row <{ROW}> column <{COLUMN}> of table <{tableName}> is not a number",
     "PREDICT_KNN_CLASSIFIER": "predict for table %1 with classifier %2 show neighbors %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "The testing table should start with the same columns as the training table",
     "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3: with prompt text %1 character limit %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3: request %1 word limit %2",
+    "OPEN_AI_GPT3_WARNING": "The response has been filtered out based on our safety policy"
 }

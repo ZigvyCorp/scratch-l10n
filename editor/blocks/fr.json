@@ -574,6 +574,8 @@
     "REMOVE_BOOKMARK": "Supprimer le signet",
     "BLOCK_GATHERING": "Faire une boucle",
     "UNSTACK_REPEAT_BLOCKS": "Bloquer la boucle",
+    "MAKE_FOR_LOOP": "Créer une boucle",
+    "UNSTACK_FOR_LOOP": "Créer une boucle",
     "OPERATORS_REGEX_TEST": "regex %1 indicateur %2 test %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 indicateur %2 correspond à %3 dans la liste %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 indicateur %2 recherche %3",
@@ -612,10 +614,12 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "CREATE_KNN_CLASSIFIER": "créer un classificateur de numéros KNN à partir de la table %1 K %2 nommé %3",
     "ERROR_DEBUG_LABEL_KNN": "La première colonne de la table {tableName} doit être 'label'",
+    "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Veuillez d'abord activer la physique pour la scène.",
     "ERROR_DEBUG_NUMBER_KNN": "La ligne <{ROW}> la colonne <{COLUMN}> de la table <{tableName}> n'est pas un nombre", 
     "PREDICT_KNN_CLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La table de test doit commencer par les mêmes colonnes que la table d'entraînement",
     "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3: avec texte d'invite %1 limite de caractères %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3 : demande %1 limite de mots %2",
+    "OPEN_AI_GPT3_WARNING": "La réponse a été filtrée en fonction de notre politique de sécurité"
 }
