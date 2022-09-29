@@ -618,5 +618,6 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN": "La table {tableName} doit avoir les mêmes colonnes que la table utilisée pour créer le classificateur knn",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La table de test doit commencer par les mêmes colonnes que la table d'entraînement",
     "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3 : demande %1 limite de mots %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3 : demande %1 limite de mots %2",
+    "OPEN_AI_GPT3_WARNING": "La réponse a été filtrée en fonction de notre politique de sécurité"
 }
