@@ -622,5 +622,5 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "测试表应以与训练表相同的列开头",
     "DATA_SETLISTTOCOLUMN": "将列表格 %1 设置为表格 %3 的列 %2",
     "OPEN_AI_GPT3": "OpenAI GPT-3: 请求 %1 词数限制 %2",
-    "OPEN_AI_GPT3_WARNING": "已根据我们的安全政策过滤掉响应"
+    "OPEN_AI_GPT3_WARNING": "根据我们的安全政策，内容已被屏蔽"
 }
