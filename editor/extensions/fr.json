@@ -686,6 +686,7 @@
     "d3_setasphysicsparent": "définit l'objet [PARENTNAME] du sprite [SPRITE] comme parent pour la physique",
     "d3_setphysicslinearvelocity": "régler la vitesse de l'objet physique en xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",
+    "d3_setphysicsdamping": "définit l'amortissement de l'objet physique pour le mouvement [MD]% de rotation [RD]% pour [NAME]",
     "d3_getphysicsdata": "obtenir l'objet physique [SPEEDTYPE] pour [NAME]",
     "d3_applyimpulse": "appliquer la force d'impulsion en xyz [X] [Y] [Z] à la position xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_broadcastcollisionmessage": "message diffusé [BROADCAST_INPUT] sur la collision entre l'objet physique [NAME] et [NAME2]",
