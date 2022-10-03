@@ -286,6 +286,7 @@
     "widget.currentVideoTime": "hora actual del video de [NAME]",
     "widget.setYoutubeVolume": "establece el volumen en [VOLUME] para [NAME]",
     "widget.setYoutubePlaybackSpeedRatio": "establecer la relación de velocidad de reproducción [SPEED] para [NAME]",
+    "widget.whenVideoTimeIs": "cuando el tiempo de video es de [SECONDS] segundos para [NAME]",
     "widget.addImage": "agregue la imagen [COSTUME] al widget llamado [NAME] con la posición X [X] Y [Y]",
     "widget.addImageURL": "añadir imagen en la URL [URL] al widget llamado [NAME] en la posición X [X] Y [Y]",
     "widget.menuItem.single": "soltera",
