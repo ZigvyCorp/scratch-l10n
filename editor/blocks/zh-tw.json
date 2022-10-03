@@ -612,5 +612,6 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "測試表應以與訓練表相同的列開頭",
     "DATA_SETLISTTOCOLUMN": "將列表格 %1 設置為表格 %3 的列 %2",
     "OPEN_AI_GPT3": "OpenAI GPT-3: 請求 %1 詞數限制 %2",
-    "OPEN_AI_GPT3_WARNING": "根據我們的安全政策，內容已被屏蔽"
+    "OPEN_AI_GPT3_WARNING": "根據我們的安全政策，內容已被屏蔽",
+    "RATE_LIMIT_WARNING": "您已超過 5 秒內 1 個請求的限制！"
 }
