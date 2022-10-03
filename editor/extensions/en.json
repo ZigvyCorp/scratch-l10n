@@ -695,6 +695,7 @@
     "d3_mergephysics": "add physics bodies of [CHILDREN] into compound [NAME] keep object [KEEPOBJ]",
     "d3_setasphysicsparent": "set object [PARENTNAME] from sprite [SPRITE] as parent for physics",
     "d3_setphysicslinearvelocity": "set physics object speed in xyz [X] [Y] [Z] for [NAME]",
+    "d3_setphysicsspeedtowards": "set physics object speed [SPEED] towards target xyz [X] [Y] [Z] for [NAME]",
     "d3_setphysicsangularvelocity": "set physics object rotation speed around xyz axes [X] [Y] [Z] for [NAME]",
     "d3_setphysicsdamping": "set physics object damping for movement [MD]% rotation [RD]% for [NAME]",
     "d3_getphysicsdata": "get physics object [SPEEDTYPE] for [NAME]",

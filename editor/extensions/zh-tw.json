@@ -450,6 +450,7 @@
     "d3_turnonvr": "切換到 VR 攝像頭",
     "d3_setasphysicsparent": "將角色 [SPRITE] 中的物理物體 [PARENTNAME] 設置為物理父節點",
     "d3_setphysicslinearvelocity": "設置名為 [NAME] 的物理物體 在xyz方向的移動速度 [X] [Y] [Z]",
+    "d3_setphysicsspeedtowards": "設置名為 [NAME] 的物理物體朝向目標 xyz [X] [Y] [Z] 的速度 [SPEED]",
     "d3_setphysicsangularvelocity": "設置名為 [NAME] 的物理物體 繞xyz軸的旋轉速度 [X] [Y] [Z]",
     "d3_setphysicsdamping": "設置名為 [NAME] 的物理物體的阻尼係數 移動 [MD]% 旋轉 [RD]%",
     "d3_getphysicsdata": "獲取名為 [NAME] 的物理物體的 [SPEEDTYPE]",

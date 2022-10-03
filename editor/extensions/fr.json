@@ -685,6 +685,7 @@
     "d3_turnonvr": "passer à la caméra VR",
     "d3_setasphysicsparent": "définit l'objet [PARENTNAME] du sprite [SPRITE] comme parent pour la physique",
     "d3_setphysicslinearvelocity": "régler la vitesse de l'objet physique en xyz [X] [Y] [Z] pour [NAME]",
+    "d3_setphysicsspeedtowards": "fixe la vitesse de l'objet physique [SPEED] vers la cible xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsdamping": "définit l'amortissement de l'objet physique pour le mouvement [MD]% de rotation [RD]% pour [NAME]",
     "d3_getphysicsdata": "obtenir l'objet physique [SPEEDTYPE] pour [NAME]",
