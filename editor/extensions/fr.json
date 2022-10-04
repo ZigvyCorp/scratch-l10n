@@ -326,6 +326,7 @@
     "widget.runProject-dropdown1": "ce",
     "widget.runProject-dropdown2": "nouveau",
     "widget.openNewTabWithURL": "ouvrir l'URL [URL] dans un nouvel onglet",
+    "widget.applyLayoutRowHeightCellWidth": "appliquer la hauteur de ligne de mise en page [HEIGHT]% largeur de cellule [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] marge [MARGIN] remplissage [PADDING]",
     "normal": "Normal",
     "gauche-droite retournée": "gauche-droite retournée",
     "haut-bas renversé": "haut-bas renversé",
