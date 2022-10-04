@@ -286,6 +286,7 @@
     "widget.currentVideoTime": "[NAME] 的當前視頻時間",
     "widget.setYoutubeVolume": "將 [NAME] 的音量設置為 [VOLUME]",
     "widget.setYoutubePlaybackSpeedRatio": "為 [NAME] 設置播放速度比 [SPEED]",
+    "widget.whenVideoTimeIs": "當 [NAME] 的視頻時間為 [SECONDS] 秒時",
     "widget.addImage": "將造型圖片 [COSTUME] 添加到名為 [NAME] 的控件 位置為 X [X] Y [Y]",
     "widget.addImageURL": "將 URL [URL] 處的圖片添加到名為 [NAME] 的控件 位置為 X [X] Y [Y]",
     "widget.menuItem.single": "单行",
