@@ -467,6 +467,7 @@
     "d3_setasphysicsparent": "将角色 [SPRITE] 中的物理物体 [PARENTNAME] 设置为物理父节点",
     "d3_setphysicslinearvelocity": "设置名为 [NAME] 的物理物体在xyz方向的移动速度 [X] [Y] [Z]",
     "d3_setphysicsspeedtowards": "设置名为 [NAME] 的物理物体朝向目标 xyz [X] [Y] [Z] 的速度 [SPEED]",
+    "d3_setphysicsspeedtoobj": "设置名为 [NAME] 的物理物体 速度 [SPEED] 朝向 [SPRITE] 中的 [TARGETNAME]",
     "d3_setphysicsangularvelocity": "设置名为 [NAME] 的物理物体 绕xyz轴的旋转速度 [X] [Y] [Z]",
     "d3_setphysicsdamping": "设置名为 [NAME] 的物理物体的阻尼系数 移动 [MD]% 旋转 [RD]%",
     "d3_getphysicsdata": "获取名为 [NAME] 的物理物体的 [SPEEDTYPE]",
