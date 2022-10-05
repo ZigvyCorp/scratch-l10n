@@ -260,7 +260,7 @@
     "widget.addButton": "ajouter le bouton [TEXT] à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] tooltip [TOOLTIP] nommé [NAME]",
     "widget.addDatePicker" : "ajouter un sélecteur de date à X [X] Y [Y] nommé [NAME]",
     "widget.addColorPicker": "ajouter un sélecteur de couleurs à X [X] Y [Y] nommé [NAME]",
-    "widget.addSlider": "ajouter un curseur à X [X] Y [Y] entre [MIN] et [MAX] nommé [NAME]",
+    "widget.addSlider": "ajouter un curseur à X [X] Y [Y] largeur [WIDTH] entre [MIN] et [MAX] nommé [NAME]",
     "widget.addMenu": "ajouter un menu déroulant à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] en utilisant la liste [LIST] comme [NAME]",
     "widget.whenWidgetClicked": "lorsque le widget [NAME] a cliqué",
     "widget.whenWidgetChanges": "lorsque le widget nommé [NAME] change",

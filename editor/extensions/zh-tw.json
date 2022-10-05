@@ -260,7 +260,7 @@
     "widget.addButton": "添加按钮 文字 [TEXT] X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 提示 [TOOLTIP] 名為 [NAME]",
     "widget.addDatePicker": "添加日期选择器 X [X] Y [Y] 名為 [NAME]",
     "widget.addColorPicker": "添加颜色选择器 X [X] Y [Y] 名為 [NAME]",
-    "widget.addSlider": "添加滑动条 X [X] Y [Y] 最小值　[MIN] 最大值 [MAX] 名為 [NAME]",
+    "widget.addSlider": "添加滑动条 X [X] Y [Y] 寬度 [WIDTH] 最小值　[MIN] 最大值 [MAX] 名為 [NAME]",
     "widget.addMenu": "添加下拉菜單 使用列表 [LIST] 在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 名為 [NAME]",
     "widget.whenWidgetClicked": "當控件 [NAME] 被點擊時",
     "widget.whenWidgetChanges": "當控件 [NAME] 被更改時",

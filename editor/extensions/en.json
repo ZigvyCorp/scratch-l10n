@@ -261,7 +261,7 @@
     "widget.addButton": "add button [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] tooltip [TOOLTIP] as [NAME]",
     "widget.addDatePicker" : "add date picker at X [X] Y [Y] as [NAME]",
     "widget.addColorPicker": "add color picker at X [X] Y [Y] as [NAME]",
-    "widget.addSlider": "add slider at X [X] Y [Y] between [MIN] and [MAX] as [NAME]",
+    "widget.addSlider": "add slider at X [X] Y [Y] width [WIDTH] between [MIN] and [MAX] as [NAME]",
     "widget.addMenu": "add dropdown menu at X [X] Y [Y] width [WIDTH] height [HEIGHT] using list [LIST] as [NAME]",
     "widget.whenWidgetClicked": "when widget [NAME] clicked",
     "widget.whenWidgetChanges": "when widget [NAME] changes",
