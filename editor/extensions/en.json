@@ -331,7 +331,7 @@
     "widget.runProject-dropdown1": "this",
     "widget.runProject-dropdown2": "new",
     "widget.openNewTabWithURL": "open URL [URL] in new tab",
-    "widget.applyLayoutRowHeightCellWidth": "apply layout row height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]",
+    "widget.applyLayoutRowHeightCellWidth": "apply layout row named [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]",
     "ai.menuItem.male": "Male",
     "ai.menuItem.female": "Female",
     "ai.menuItem.male2": "Male2",
