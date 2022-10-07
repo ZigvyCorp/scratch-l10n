@@ -575,6 +575,8 @@
     "REMOVE_BOOKMARK": "Remove bookmark",
     "BLOCK_GATHERING": "Make loop",
     "UNSTACK_REPEAT_BLOCKS": "Break loop",
+    "MAKE_FOR_LOOP": "Make for loop",
+    "UNSTACK_FOR_LOOP": "Break for loop",
     "OPERATORS_REGEX_TEST": "regex %1 flag %2 test %3",
     "OPERATORS_REGEX_MATCH_INTO_LIST": "regex %1 flag %2 match %3 into list %4",
     "OPERATORS_REGEX_SEARCH": "regex %1 flag %2 search %3",
@@ -620,5 +622,6 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "The testing table should start with the same columns as the training table",
     "DATA_SETLISTTOCOLUMN": "set list %1 to column %2 of table %3",
-    "OPEN_AI_GPT3": "OpenAI GPT-3: request %1 word limit %2"
+    "OPEN_AI_GPT3": "OpenAI GPT-3: request %1 word limit %2",
+    "OPEN_AI_GPT3_WARNING": "The response has been blocked based on our safety policy"
 }
