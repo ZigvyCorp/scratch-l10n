@@ -598,6 +598,9 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前项目中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.sharedMessages.collapseAllStacks": "折叠所有堆栈",
+    "gui.sharedMessages.autoCodeReview": "自动代码审查工具",
+    "gui.autoCodeReview.issueMessage": "发现 {numberOfIssue} 个潜在问题：",
+    "gui.autoCodeReview.viewInEditor": "在代码编辑器中查看",
     "gui.sharedMessages.requestToEdit": "请求编辑",
     "gui.gui.defaultProjectTitle": "Scratch项目",
     "gui.workspaceColorTooltip.title": "更改工作区背景",
@@ -658,5 +661,7 @@
     "gui.remote.deny": "否定",
     "gui.remote.requestToEdit": "请求编辑",
     "gui.remote.isRequesting": "正在请求编辑",
-    "gui.consolePanel.premiumWarning": "项目中的高级块被禁用"
+    "gui.consolePanel.premiumWarning": "项目中的高级块被禁用",
+    "gui.alerts.reviewing": "审查项目...",
+    "gui.alerts.reviewSuccess": "审核成功。"
 }

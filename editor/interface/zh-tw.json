@@ -592,6 +592,7 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有項目？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
+    "gui.sharedMessages.autoCodeReview": "自動代碼審查工具",
     "gui.sharedMessages.requestToEdit": "請求編輯",
     "gui.gui.defaultProjectTitle": "Scratch 項目",
     "gui.workspaceColorTooltip.title": "更改工作區背景",
@@ -654,5 +655,7 @@
     "gui.remote.deny": "否定",
     "gui.remote.requestToEdit": "請求編輯",
     "gui.remote.isRequesting": "正在請求編輯",
-    "gui.consolePanel.premiumWarning": "項目中的高級塊被禁用"
+    "gui.consolePanel.premiumWarning": "項目中的高級塊被禁用",
+    "gui.alerts.reviewing": "審查項目...",
+    "gui.alerts.reviewSuccess": "審核成功。"
 }

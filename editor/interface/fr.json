@@ -589,6 +589,9 @@
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
     "gui.sharedMessages.collapseAllStacks": "Réduire toutes les piles",
+    "gui.sharedMessages.autoCodeReview": "Outil de révision automatique du code",
+    "gui.autoCodeReview.issueMessage": "{numberOfIssue} problèmes potentiels trouvés : ",
+    "gui.autoCodeReview.viewInEditor": "Afficher dans l'éditeur de code",
     "gui.sharedMessages.requestToEdit": "Demande de modification",
     "gui.gui.defaultProjectTitle": "Projet Scratch",
     "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail",
@@ -657,5 +660,7 @@
     "gui.remote.deny": "Refuser",
     "gui.remote.requestToEdit": "Demande de modification",
     "gui.remote.isRequesting": "demande à modifier",
-    "gui.consolePanel.premiumWarning": "Les blocs premium dans les projets sont désactivés"
+    "gui.consolePanel.premiumWarning": "Les blocs premium dans les projets sont désactivés",
+    "gui.alerts.reviewing": "Revoir le projet…",
+    "gui.alerts.reviewSuccess": "Révision réussie."
 }

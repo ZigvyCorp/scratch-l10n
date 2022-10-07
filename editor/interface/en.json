@@ -598,6 +598,9 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
+    "gui.sharedMessages.autoCodeReview": "Auto code review tool",
+    "gui.autoCodeReview.issueMessage": "{numberOfIssue} potential issues found: ",
+    "gui.autoCodeReview.viewInEditor": "View in code editor",
     "gui.sharedMessages.requestToEdit": "Request to edit",
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.workspaceColorTooltip.title": "Change workspace background",
@@ -658,5 +661,7 @@
     "gui.remote.deny": "Deny",
     "gui.remote.requestToEdit": "Request to Edit",
     "gui.remote.isRequesting": "is requesting to edit",
-    "gui.consolePanel.premiumWarning": "The premium blocks in the projects are disabled"
+    "gui.consolePanel.premiumWarning": "The premium blocks in the projects are disabled",
+    "gui.alerts.reviewing": "Review project…",
+    "gui.alerts.reviewSuccess": "Review success."
 }
