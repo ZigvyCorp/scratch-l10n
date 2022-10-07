@@ -621,5 +621,6 @@
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "La table de test doit commencer par les mêmes colonnes que la table d'entraînement",
     "DATA_SETLISTTOCOLUMN": "définir la liste %1 dans la colonne %2 de la table %3",
     "OPEN_AI_GPT3": "OpenAI GPT-3 : demande %1 limite de mots %2",
-    "OPEN_AI_GPT3_WARNING": "La réponse a été bloquée en raison de notre politique de sécurité"
+    "OPEN_AI_GPT3_WARNING": "La réponse a été bloquée en raison de notre politique de sécurité",
+    "RATE_LIMIT_WARNING": "Vous avez dépassé la limite de 1 requêtes en 5 secondes !"
 }
