@@ -268,7 +268,7 @@
     "widget.addButton": "Agregar botón [TEXT] a X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] información sobre herramientas [TOOLTIP] llamado [NAME]",
     "widget.addDatePicker": "agregar selector de fecha en X [X] Y [Y] llamado [NAME]",
     "widget.addColorPicker": "agregar selector de color en X [X] Y [Y] llamado [NAME]",
-    "widget.addSlider": "agregue el control deslizante en X [X] Y [Y] entre [MIN] y [MAX] llamado [NAME]",
+    "widget.addSlider": "agregue el control deslizante en X [X] Y [Y] ancho [WIDTH] entre [MIN] y [MAX] llamado [NAME]",
     "widget.addMenu": "agregue el menú desplegable en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] usando la lista [LIST] como [NAME]",
     "widget.whenWidgetClicked": "cuando se hizo clic en el widget [NAME]",
     "widget.whenWidgetChanges": "cuando cambia el widget llamado [NAME]",
