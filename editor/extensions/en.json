@@ -628,6 +628,7 @@
     "None": "None",
     
     "d3_setskybox": "set sky [SKYTYPE]",
+    "d3_addpipeline": "beautify scene with vignette [DOVIG] bloom [DOBLOOM] antialiasing [DOANTI] sharpening [DOSHARPENING]",
     "d3_showscene": "show 3D scene [SHOW]", 
     "d3_addeditorcamera": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]", 
     "d3_addobservercamera": "add observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] speed [SPEED]", 
@@ -722,7 +723,7 @@
     "d3_addcurveusinglist": "add curve [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] using list [LISTNAME] from [STARTIND] to [ENDIND] segments [SEGCOUNT] as [NAME]",
     "d3_addbox": "add box [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] edge radius [RADIUS] as [NAME]", 
     "d3_addtext": "add 3D text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] diameter [CURVED] camera facing [FORWARD] as [NAME]", 
-    "d3_addtext2": "add 3D art text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] thickness [THICKNESS] camera facing [FORWARD] as [NAME]",
+    "d3_addtext2": "add 3D thick text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] thickness [THICKNESS] diameter [D] camera facing [FORWARD] as [NAME]",
     "d3_add6box": "add 6-colored box [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] size in x [SIZEX] y [SIZEY] z [SIZEZ] as [NAME]", 
     "d3_addsphere": "add sphere [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] arc [ARC] slice [SLICE] sides [SIDES] as [NAME]",
     "d3_addcylinder": "add cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] as [NAME]", 
