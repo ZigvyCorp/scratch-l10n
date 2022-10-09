@@ -806,7 +806,7 @@
     "None": "無",
     "d3_setscenephysics": "為場景啟用物理引擎 重力 [GRAVITY]",
     "d3_setskybox": "設置天空 [SKYTYPE]",
-    "d3_addpipeline": "美化場景 暈影 [DOVIG] 泛光 [DOBLOOM] 抗鋸齒 [DOANTI] 銳化 [DOSHARPENING]",
+    "d3_addpipeline": "添加特效 暈影 [DOVIG] [VCOLOR] 泛光 強度 [BWEIGHT] 閾值 [BTHRESH]% 內核 [BKERNEL] 抗鋸齒 [DOANTI] 銳化 [DOSHARPENING] 對比度 [CCONTRAST] 曝光度 [CEXPOSURE]",
     "d3_showscene": "顯示 3D 場景 [SHOW]",
     "d3_additorcamera": "在 xyz [X] [Y] [Z] 方向 [DIRECTION] 速度 [SPEED] 角速度 [ANGULARSPEED] 添加編輯器攝像頭",
     "d3_addobservercamera": "在 xyz [X] [Y] [Z] 向 xyz [X2] [Y2] [Z2] 速度 [SPEED] 添加觀察者攝像頭",

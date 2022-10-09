@@ -588,7 +588,7 @@
     "Ninguno": "Ninguno",
     "d3_setscenephysics": "habilitar física para escena con gravedad [GRAVITY]",
     "d3_setskybox": "establecer cielo [SKYTYPE]",
-    "d3_addpipeline": "embellezca la escena con viñeta [DOVIG] resplandecer [DOBLOOM] suavizado [DOANTI] nitidez [DOSHARPENING]",
+    "d3_addpipeline": "agregar viñeta de tubería [DOVIG] [VCOLOR] fuerza de floración [BWEIGHT] umbral [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] nitidez [DOSHARPENING] contraste de cámara [CCONTRAST] exposición [CEXPOSURE]",
     "d3_showscene": "mostrar escena 3D [MOSTRAR]",
     "d3_addeditorcamera": "agregar la cámara del editor en xyz [X] [Y] [Z] dirección [DIRECCIÓN] velocidad [VELOCITY] velocidad angular [ANGULARSPEED]",
     "d3_addobservercamera": "agregar cámara de observador en xyz [X] [Y] [Z] hacia xyz [X2] [Y2] [Z2] velocidad [VELOCITY]",

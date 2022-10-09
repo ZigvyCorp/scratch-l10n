@@ -588,7 +588,7 @@
     "None": "None",
     
     "d3_setskybox": "set sky [SKYTYPE]",
-    "d3_addpipeline": "beautify scene with vignette [DOVIG] bloom [DOBLOOM] antialiasing [DOANTI] sharpening [DOSHARPENING]",
+    "d3_addpipeline": "add pipeline vignette [DOVIG] [VCOLOR] bloom strength [BWEIGHT] threshold [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] sharpening [DOSHARPENING] camera contrast [CCONTRAST] exposure [CEXPOSURE]",
     "d3_showscene": "show 3D scene [SHOW]", 
     "d3_addeditorcamera": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]", 
     "d3_addobservercamera": "add observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] speed [SPEED]", 
