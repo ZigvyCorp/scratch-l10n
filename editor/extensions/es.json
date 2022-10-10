@@ -255,6 +255,7 @@
     "p2p.addToEmailContent": "agregar al correo electrónico [NAME] contenido [TEXT] formato [FORMAT] color [COLOR] nueva línea [YES]",
     "p2p.sendEmail": "enviar correo electrónico [NAME]",
     "p2p.sendPhoneSMS": "enviar SMS al número de teléfono del receptor [RECEIVER] contenido [CONTENT] desde el nombre del remitente [SENDERNAME]",
+    "p2p.sendPhoneSMSWarning": "El número de teléfono solo puede incluir números",
     "p2p.formatContent.normal": "normal",
     "p2p.formatContent.bold": "negrito",
     "p2p.formatContent.italic": "itálico",
