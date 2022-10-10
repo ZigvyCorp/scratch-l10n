@@ -255,6 +255,7 @@
     "p2p.addToEmailContent": "添加到電子郵件 [NAME] 內容 [TEXT] 格式 [FORMAT] 顏色 [COLOR] 換行 [YES]",
     "p2p.sendEmail": "發送電子郵件 [NAME]",
     "p2p.sendPhoneSMS": "從發件人姓名 [SENDERNAME] 向收件人電話號碼 [RECEIVER] 發送 SMS 內容 [CONTENT]",
+    "p2p.sendPhoneSMSWarning": "電話號碼只能包含數字",
     "p2p.formatContent.normal": "普通的",
     "p2p.formatContent.bold": "大膽的",
     "p2p.formatContent.italic": "斜體",
