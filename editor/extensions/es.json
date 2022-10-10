@@ -777,6 +777,7 @@
     "d3_3dturnto": "girar [DEGREES] grados alrededor del eje [AXIS] en [PERIOD] segundos",
     "d3_3dpointto": "apunta a la posición x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",
     "d3_movealongdir": "mueve [DIST] a lo largo de la dirección actual en [PERIOD] segundos [BLOCKING]",
+    "d3_showbubble": "mostrar burbuja de diálogo [TEXTO] desplazamiento xyz [OFFSETX] [OFFSETY] [OFFSETZ] ancho máximo [MWIDTH] fuente de texto [FONT] tamaño [FONTSIZE] color [FONTCOLOR] fondo [BACKCOLOR] durante [PERIOD] segundos con la cámara mirando [FORWARD] ID [ID]",
     "d3_copycameradirection": "copiar la dirección de la cámara",
     "d3_copycameraposition": "copiar la posición de la cámara",
     "d3_setrotationpivot": "establecer el punto de pivote x [X] y [Y] z [Z]",
