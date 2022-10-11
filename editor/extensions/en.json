@@ -253,7 +253,7 @@
     "p2p.left": "left",
     "p2p.joinedOrLeft": "joined or left",
     "p2p.createEmail": "create email [NAME] from sender [SENDER] email [SENDEREMAIL] to receiver email [RECEIVEREMAIL] Subject [SUBJECT] Content [CONTENT]",
-    "p2p.addToEmailContent": "add to email [NAME] content [TEXT] format [FORMAT] color [COLOR] new line [YES]",
+    "p2p.addToEmailContent": "add to email [NAME] content [TEXT] font size [FSIZE] format [FORMAT] color [COLOR] new line [YES]",
     "p2p.sendEmail": "send email [NAME]",
     "p2p.sendPhoneSMS": "send message to phone number [RECEIVER] content [CONTENT]",
     "p2p.sendPhoneSMSWarning": "Phone number can only include digits",

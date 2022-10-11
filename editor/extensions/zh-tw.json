@@ -252,7 +252,7 @@
     "p2p.left": "剩下",
     "p2p.joinedOrLeft": "加入或離開",
     "p2p.createEmail": "從發件人 [SENDER] 電子郵件 [SENDEREMAIL] 創建電子郵件 [NAME] 到收件人電子郵件 [RECEIVEREMAIL] 主題 [SUBJECT] 內容 [CONTENT]",
-    "p2p.addToEmailContent": "添加到電子郵件 [NAME] 內容 [TEXT] 格式 [FORMAT] 顏色 [COLOR] 換行 [YES]",
+    "p2p.addToEmailContent": "添加到電子郵件 [NAME] 內容 [TEXT] 字體大小 [FSIZE] 格式 [FORMAT] 顏色 [COLOR] 換行 [YES]",
     "p2p.sendEmail": "發送電子郵件 [NAME]",
     "p2p.sendPhoneSMS": "發送短信到電話號碼 [RECEIVER] 內容 [CONTENT]",
     "p2p.sendPhoneSMSWarning": "電話號碼只能包含數字",
