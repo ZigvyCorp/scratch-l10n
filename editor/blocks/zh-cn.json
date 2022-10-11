@@ -193,6 +193,8 @@
     "LOOKS_HELLO": "你好！",
     "LOOKS_THINKFORSECS": "思考 %1 %2 秒",
     "LOOKS_THINK": "思考 %1",
+    "LOOKS_SAYFORSECS_WITHSTYLE": "说 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
+    "LOOKS_THINKFORSECS_WITHSTYLE": "认为 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
     "LOOKS_HMM": "嗯……",
     "LOOKS_SHOW": "显示",
     "LOOKS_HIDE": "隐藏",

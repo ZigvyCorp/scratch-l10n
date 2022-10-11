@@ -192,6 +192,8 @@
     "LOOKS_HELLO": "¡Hola!",
     "LOOKS_THINKFORSECS": "pensar %1 durante %2 segundos",
     "LOOKS_THINK": "pensar %1",
+    "LOOKS_SAYFORSECS_WITHSTYLE": "diga %1 para %2 segundos tamaño de texto %3 %4 fondo %5 borde %6",
+    "LOOKS_THINKFORSECS_WITHSTYLE": "piense %1 para %2 segundos tamaño de texto %3 %4 fondo %5 borde %6",
     "LOOKS_HMM": "Umm...",
     "LOOKS_SHOW": "mostrar",
     "LOOKS_HIDE": "esconder",
