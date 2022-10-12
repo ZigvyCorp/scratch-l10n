@@ -265,7 +265,7 @@
     "widget.addTextbox": "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]",
     "widget.valueFromWidget": "value of widget [NAME]",
     "widget.setText": "set value to [TEXT] for widget [NAME]",
-    "widget.appendText": "append text [TEXT] to [NAME]",
+    "widget.appendText": "append text [TEXT] to [NAME] in new line [YESNO]",
     "widget.addLabel": "add label [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] as [NAME]",
     "widget.addButton": "add button [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] tooltip [TOOLTIP] as [NAME]",
     "widget.addDatePicker" : "add date picker at X [X] Y [Y] as [NAME]",

@@ -264,7 +264,7 @@
     "widget.addTextbox": "在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 填充 [PADDING] 行 [MULTIPLELINE] 滾動 [SCROLL] 模式 [MODE] 名為 [NAME] 添加文本框",
     "widget.valueFromWidget": "控件 [NAME] 的值",
     "widget.setText": "將控件 [NAME] 的值設為 [TEXT]",
-    "widget.appendText": "將文本 [TEXT] 附加到 [NAME]",
+    "widget.appendText": "將文本 [TEXT] 附加到 [NAME] 換行 [YESNO]",
     "widget.addLabel": "添加標籤 [TEXT] 在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 邊距 [PADDING] 名為 [NAME]",
     "widget.addButton": "添加按钮 文字 [TEXT] X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 提示 [TOOLTIP] 名為 [NAME]",
     "widget.addDatePicker": "添加日期选择器 X [X] Y [Y] 名為 [NAME]",
