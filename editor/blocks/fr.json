@@ -192,6 +192,8 @@
     "LOOKS_HELLO": "Bonjour !",
     "LOOKS_THINKFORSECS": "penser à %1 pendant %2 secondes",
     "LOOKS_THINK": "penser à %1",
+    "LOOKS_SAYFORSECS_WITHSTYLE": "dire %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
+    "LOOKS_THINKFORSECS_WITHSTYLE": "penser %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
     "LOOKS_HMM": "Hmm...",
     "LOOKS_SHOW": "montrer",
     "LOOKS_HIDE": "cacher",
