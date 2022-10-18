@@ -28,7 +28,7 @@
     "CONTROL_BREAKPOINT": "breakpoint",
     "CONTROL_CONDITIONAL_EXPRESSION": "if %1 then %2 else %3",
     "CONTROL_SET_VARIABLE_IN_LOOP": "for %1 from %2 to %3 at step %4",
-    "CONTROL_REPEAT_ON_EVERY": "repeat %1 times on every %2 %3",
+    "CONTROL_REPEAT_ON_EVERY": "repeat %1 at intervals of %2 %3",
     "CONTROL_REPEAT_ON_EVERY_SECONDS": "seconds",
     "CONTROL_REPEAT_ON_EVERY_MILLISECONDS": "milliseconds",
     "CONTROL_REPEAT_ON_EVERY_FRAMES": "frames",

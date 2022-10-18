@@ -28,7 +28,7 @@
     "CONTROL_BREAKPOINT": "punto de ruptura",
     "CONTROL_CONDITIONAL_EXPRESSION": "si %1 entonces %2 si no %3",
     "CONTROL_SET_VARIABLE_IN_LOOP": "para %1 de %2 a %3 en el paso %4",
-    "CONTROL_REPEAT_ON_EVERY": "repetir %1 veces cada %2 %3",
+    "CONTROL_REPEAT_ON_EVERY": "repetir %1 a intervalos de %2 %3",
     "CONTROL_REPEAT_ON_EVERY_SECONDS": "segundos",
     "CONTROL_REPEAT_ON_EVERY_MILLISECONDS": "milisegundos",
     "CONTROL_REPEAT_ON_EVERY_FRAMES": "marcos",
