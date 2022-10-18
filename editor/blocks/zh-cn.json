@@ -590,7 +590,7 @@
     "CONTROL_REPORT_OLYMPIC_RESULT": "申报奥运成绩单号 %1",
     "START_RECOGNIZER": "开始在 %1 到列表格 %2 中运行语音识别",
     "STOP_RECOGNIZER": "停止运行语音识别",
-    "NEW_COLLECTION": "制作收藏",
+    "NEW_COLLECTION": "创建数据作集合",
     "DATABASE_INSERT_FROM_TABLE": "从表格 %1 行从 %2 到 %3 插入集合 %4",
     "DATABASE_FIND_FROM_COLLECTION":"从集合 %1 提取到表格 %2 中，其中 %3 限制 %4 按 %5 %6 %7 %8 排序",
     "DATABASE_REMOVE_ALL_DOCUMENT":"从集合 %1 中删除所有文档，其中 %2",
