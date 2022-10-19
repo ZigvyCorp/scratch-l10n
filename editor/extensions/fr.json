@@ -770,6 +770,7 @@
     "d3_mergeobject": "fusionner [NAME2] dans [NAME1]", 
     "d3_cloneobject": "copier les données de partage d'objets [PARTAGER] nommé [NAME]", 
     "d3_rotationcopy": "copier vers la position tournée autour de l'axe [AXIS] compter [COUNT] degré pas [STEP] décalage XYZ [X] [Y] [Z]",
+    "d3_vrotationcopy": "copier vers la position pivotée autour du vecteur xyz [VX] [VY] [VZ] compter [COUNT] degré pas [STEP] décaler XYZ [X] [Y] [Z]",
     "d3_mirrorcopy": "copier en position miroir [MIRRORTYPE] partager les données [SHAREDATA] partager le parent [SHAREPARENT]",
     "d3_doadd_addinstancematrix": "copie par matrice nombre en xyz [X2] [Y2] [Z2] espacement en xyz [SPACINGX] [SPACINGY] [SPACINGZ] rapport aléatoire en espacement [SPACINGRANDOM]% échelle [SCALERANDOM]% z-rotation [ROTRANDOM]% [AVOIDMODE] l'objet [AVOIDNAME]", 
     "d3_turnondistancesensor": "régler le capteur de distance avant [ISFRONT] arrière [ISBACK] gauche [ISLEFT] droite [ISRIGHT] bas [ISDOWN] haut [ISUP] distance max [LEN] count [COUNT] visible [ISVISIBLE]",
