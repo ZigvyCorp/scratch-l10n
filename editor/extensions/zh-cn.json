@@ -546,6 +546,7 @@
     "d3_vrotationcopy": "围绕向量 xyz [VX] [VY] [VZ] 复制到旋转位置 次数 [COUNT] 间隔角度 [STEP] 位移 XYZ [X] [Y] [Z]",
     "d3_mirrorcopy":  "复制到镜像位置 [MIRRORTYPE]",
     "d3_doadd_addinstancematrix": "矩阵复制 数量 xyz [X2] [Y2] [Z2] 间隔 xyz [SPACINGX] [SPACINGY] [SPACINGZ] 随机比例 间隔 [SPACINGRANDOM]% 大小 [SCALERANDOM]% z方向 [ROTRANDOM]% [AVOIDMODE] 物体 [AVOIDNAME]",
+    "d3_doadd_addinstancematrix2": "从中心矩阵复制 数量 xyz [X2] [Y2] [Z2] 间隔 xyz [SPACINGX] [SPACINGY] [SPACINGZ] 随机比例 间隔 [SPACINGRANDOM]% 大小 [SCALERANDOM]% z方向 [ROTRANDOM]% [AVOIDMODE] 物体 [AVOIDNAME]",
     "d3_turnondistancesensor":  "设置距离感应器 前 [ISFRONT] 后 [ISBACK] 左 [ISLEFT] 右 [ISRIGHT] 下 [ISDOWN] 上 [ISUP] 最大距离 [LEN] 数量 [COUNT] 可见 [ISVISIBLE]",
     "d3_objectdistance": "物体 [NAME1] 和 [NAME2] 之间的距离",
     "d3_setcollision":  "打开与 [SPRITE] 的　[ISBLOCKING] 碰撞 碰撞器 z 位移  [ZCENTER] 精度 [PRECISION] 调试 [ISDEBUG]",

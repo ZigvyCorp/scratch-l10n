@@ -778,6 +778,7 @@
     "d3_vrotationcopy": "copier vers la position pivotée autour du vecteur xyz [VX] [VY] [VZ] compter [COUNT] degré pas [STEP] décaler XYZ [X] [Y] [Z]",
     "d3_mirrorcopy": "copier en position miroir [MIRRORTYPE] partager les données [SHAREDATA] partager le parent [SHAREPARENT]",
     "d3_doadd_addinstancematrix": "copie par matrice nombre en xyz [X2] [Y2] [Z2] espacement en xyz [SPACINGX] [SPACINGY] [SPACINGZ] rapport aléatoire en espacement [SPACINGRANDOM]% échelle [SCALERANDOM]% z-rotation [ROTRANDOM]% [AVOIDMODE] l'objet [AVOIDNAME]", 
+    "d3_doadd_addinstancematrix2": "copier par matrice à partir du nombre central en xyz [X2] [Y2] [Z2] espacement en xyz [SPACINGX] [SPACINGY] [SPACINGZ] rapport aléatoire en espacement [SPACINGRANDOM]% échelle [SCALERANDOM]% z-rotation [ROTRANDOM]% [AVOIDMODE] l'objet [AVOIDNAME]", 
     "d3_turnondistancesensor": "régler le capteur de distance avant [ISFRONT] arrière [ISBACK] gauche [ISLEFT] droite [ISRIGHT] bas [ISDOWN] haut [ISUP] distance max [LEN] count [COUNT] visible [ISVISIBLE]",
     "d3_objectdistance": "distance entre les objets [NAME1] et [NAME2]",
     "d3_setcollision": "activer [ISBLOCKING] collision avec [SPRITE] décalage z du collisionneur [ZCENTER] précision [PRECISION] débogage [ISDEBUG]", 
