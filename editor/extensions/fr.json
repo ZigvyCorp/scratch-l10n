@@ -682,7 +682,7 @@
     "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsdamping": "définit l'amortissement de l'objet physique pour le mouvement [MD]% de rotation [RD]% pour [NAME]",
     "d3_getphysicsdata": "obtenir l'objet physique [SPEEDTYPE] pour [NAME]",
-    "d3_applyimpulse": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point xyz [X2] [Y2] [Z2] à [NAME]",
+    "d3_applyimpulse": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_applyforce": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_broadcastcollisionmessage": "message diffusé [BROADCAST_INPUT] sur la collision entre l'objet physique [NAME] et [NAME2]",
     "d3_setphysicsframerate": "définit la fréquence d'images physique [RATE] pour [NAME]",
