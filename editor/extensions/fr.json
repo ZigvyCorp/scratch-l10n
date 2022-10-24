@@ -852,5 +852,11 @@
     "d3_foreachproperty": "pour chaque propriété nommée [PROPERTY_NAME] avec la valeur [PROPERTY_VALUE] pour [OBJECT_NAME] dans le modèle nommé [MODEL_NAME]",
     "d3_for_each_cloned_d3_object": "pour chaque objet 3D nommé [OBJECT_NAME]",
     "database.categoryName": "Base de données",
-    "database.createCollectionBtn": "Créer une collection"
+    "database.createCollectionBtn": "Créer une collection",
+    "p2p.scheduleEmailService": "service de planification : e-mail [EMAIL] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]",
+    "p2p.scheduleEmailService.pacificTime": "Heure du Pacifique des États-Unis",
+    "p2p.scheduleEmailService.mountainTime": "Heure des Rocheuses des États-Unis",
+    "p2p.scheduleEmailService.centralTime": "Heure centrale des États-Unis",
+    "p2p.scheduleEmailService.easternTime": "Heure de l'Est des États-Unis",
+    "p2p.schedulePhoneMessageService": "message au numéro de téléphone [PHONENUMBER] contenu [CONTENT] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]"
 }
