@@ -598,6 +598,7 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前项目中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.sharedMessages.collapseAllStacks": "折叠所有堆栈",
+    "gui.sharedMessages.fixBlocks": "修复块",
     "gui.sharedMessages.turnOnAutoCodeReview": "开启自动代码审查工具",
     "gui.sharedMessages.turnOffAutoCodeReview": "关闭自动代码审查工具",
     "gui.autoCodeReview.issueMessage": "发现 {numberOfIssue} 个潜在问题：",
