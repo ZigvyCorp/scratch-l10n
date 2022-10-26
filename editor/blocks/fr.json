@@ -608,6 +608,7 @@
     "YES": "Oui",
     "NO": "Non",
     "FACE_DETECTION": "exécuter le débogage de détection de visage %1 dans la table %2",
+    "PARSESENTENCE": "analyser la phrase %1 et écrire dans la table %2",
     "BODY_DETECTION": "exécuter la reconnaissance des parties du corps (2D) personne seule %1 table %2 débogage %3",
     "STOPBODY_DETECTION": "arrêter la reconnaissance de la partie du corps (2D)",
     "BODY_DETECTION3": "exécuter le débogage de détection de pose 3D %1 dans la table %2",

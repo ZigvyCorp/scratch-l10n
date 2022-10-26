@@ -599,6 +599,7 @@
     "YES":"是的",
     "NO": "不",
     "FACE_DETECTION": "運行人臉識別 調試 %1 保存到表格 %2",
+    "PARSESENTENCE": "分析句子 %1 保存到表格 %2",
     "BODY_DETECTION": "識別身體部位 (二維) 單人模式 %1 保存到表格 %2 調試 %3",
     "STOPBODY_DETECTION": "停止身體部位識別 (二維)",
     "BODY_DETECTION3": "運行3D姿勢識別 調試 %1 保存到表格 %2",

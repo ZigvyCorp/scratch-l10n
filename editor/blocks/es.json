@@ -608,6 +608,7 @@
     "YES": "Sí",
     "NO": "No",
     "FACE_DETECTION": "ejecutar la depuración de detección de rostros %1 en la tabla %2",
+    "PARSESENTENCE": "analizar la oración %1 y escribir en la tabla %2",
     "BODY_DETECTION": "ejecutar el reconocimiento de partes del cuerpo (2D) sola persona %1 tabla %2 depurar %3",
     "STOPBODY_DETECTION": "detener reconocimiento de partes del cuerpo (2D)",
     "BODY_DETECTION3": "ejecutar la depuración de detección de pose 3D %1 en la tabla %2",
