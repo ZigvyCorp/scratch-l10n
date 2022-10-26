@@ -592,6 +592,7 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有項目？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.sharedMessages.collapseAllStacks": "折疊所有堆棧",
+    "gui.sharedMessages.fixBlocks": "修復塊",
     "gui.sharedMessages.turnOnAutoCodeReview": "開啟自動代碼審查工具",
     "gui.sharedMessages.turnOffAutoCodeReview": "關閉自動代碼審查工具",
     "gui.sharedMessages.requestToEdit": "請求編輯",
