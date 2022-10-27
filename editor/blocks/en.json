@@ -154,6 +154,7 @@
     "EVENT_WHENSPRITEDRAGGINGSTOPS": "when dragging stops",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONCLICK": "when %1 mouse button is released at x %2 y %3",
     "EVENT_WHENLEFTRIGHTMOUSEBUTTONPRESS": "when %1 mouse button is pressed at x %2 y %3",
+    "EVENT_WHENLEFTRIGHTMOUSEBUTTONMOVE": "when %1 mouse pointer is moved to x %2 y %3",
     "EVENT_WHENMOUSEWHEEL": "when mouse wheel scroll by %1",
     "EVENT_WHENKEYVARIABLEPRESSED": "when key %1 pressed",
     "EVENT_WHENKEYVARIABLERELEASED": "when key %1 released",
