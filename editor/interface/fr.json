@@ -212,6 +212,8 @@
     "gui.3dEditor.category.Spaceship": "Vaisseau spatial",
     "gui.3dEditor.category.Vehicle": "Véhicule",
     "gui.3dEditor.category.Shapes": "Formes",
+    "gui.3dEditor.communityModelInfo.by": "Par: ",
+    "gui.3dEditor.communityModelInfo.license": "Licence: ",
     "gui.modal.help": "Aide",
     "gui.modal.back": "Retour",
     "gui.monitor.listMonitor.rename": "Renommer",

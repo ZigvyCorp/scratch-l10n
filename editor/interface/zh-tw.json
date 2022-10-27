@@ -204,6 +204,8 @@
     "gui.3dEditor.category.Spaceship": "飛船",
     "gui.3dEditor.category.Vehicle": "車輛",
     "gui.3dEditor.category.Shapes": "形狀",
+    "gui.3dEditor.communityModelInfo.by": "經過: ",
+    "gui.3dEditor.communityModelInfo.license": "執照: ",
     "gui.modal.help": "幫助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空的)",

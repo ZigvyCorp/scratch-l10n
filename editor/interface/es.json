@@ -212,6 +212,8 @@
     "gui.3dEditor.category.Spaceship": "Astronave",
     "gui.3dEditor.category.Vehicle": "Vehículo",
     "gui.3dEditor.category.Shapes": "Formas",
+    "gui.3dEditor.communityModelInfo.by": "Por: ",
+    "gui.3dEditor.communityModelInfo.license": "Licencia: ",
     "gui.modal.help": "Ayuda",
     "gui.modal.back": "Atrás",
     "gui.monitor.listMonitor.empty": "(vacía)",

@@ -212,6 +212,8 @@
     "gui.3dEditor.category.Spaceship": "飞船",
     "gui.3dEditor.category.Vehicle": "车辆",
     "gui.3dEditor.category.Shapes": "形状",
+    "gui.3dEditor.communityModelInfo.by": "经过: ",
+    "gui.3dEditor.communityModelInfo.license": "执照: ",
     "gui.modal.help": "帮助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",

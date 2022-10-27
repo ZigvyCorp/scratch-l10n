@@ -212,6 +212,8 @@
     "gui.3dEditor.category.Spaceship": "Spaceship",
     "gui.3dEditor.category.Vehicle": "Vehicle",
     "gui.3dEditor.category.Shapes": "Shapes",
+    "gui.3dEditor.communityModelInfo.by": "By: ",
+    "gui.3dEditor.communityModelInfo.license": "License: ",
     "gui.modal.help": "Help",
     "gui.modal.back": "Back",
     "gui.monitor.listMonitor.empty": "(empty)",
