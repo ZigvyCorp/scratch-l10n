@@ -572,6 +572,7 @@
     "addFpsCameraError": "Lo siento, al agregar la cámara fps, no encuentro el objetivo",
     "updateFpsCamera": "Lo siento, cuando actualizo la cámara fps, no encuentro el objetivo",
     "d3_initscene": "inicializar la escena 3D [SCENETYPE] como oculta [HIDDEN]",
+    "d3_when3dsceneisready": "cuando se inicializa la escena 3D",
     "d3_configbrickworld": "configurar el tamaño del plano del mundo de ladrillos [SIZE] color de resaltado [COLOR]",
     "d3_getbrickworldstring": "mostrar código mundial de ladrillos",
     "d3_loadbrickworldstring": "construir un mundo de ladrillos a partir del código [CÓDIGO]",

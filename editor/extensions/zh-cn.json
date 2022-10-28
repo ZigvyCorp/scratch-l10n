@@ -808,6 +808,7 @@
     "addFpsCameraError": "抱歉,添加 fps 摄像头时,我找不到目标",
     "updateFpsCamera": "抱歉,添加fps摄像头时,找不到目标",
     "d3_initscene":  "创建三维场景 [SCENETYPE] 并隐藏 [HIDDEN]",
+    "d3_when3dsceneisready": "当三维场景创建完毕",
     "d3_configbrickworld":  "设置砖块世界大小 [SIZE] 高亮颜色 [COLOR]",
     "d3_getbrickworldstring":  "显示砖块世界代码",
     "d3_loadbrickworldstring":  "装载砖块世界代码 [CODE]",

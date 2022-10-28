@@ -572,6 +572,7 @@
     "addFpsCameraError": "Désolé, lors de l'ajout de la caméra fps, je ne trouve pas la cible",
     "updateFpsCamera": "Désolé, lors de l'ajout de la caméra fps, je ne trouve pas la cible",
     "d3_initscene": "initialiser la scène 3D [SCENETYPE] comme masquée [HIDDEN]", 
+    "d3_when3dsceneisready": "lorsque la scène 3D est initialisée",
     "d3_configbrickworld": "configurer la taille du plan du monde des briques [SIZE] couleur de surbrillance [COLOR]",
     "d3_getbrickworldstring": "afficher le code du monde des briques", 
     "d3_loadbrickworldstring": "construire un monde de briques à partir du code [CODE]",

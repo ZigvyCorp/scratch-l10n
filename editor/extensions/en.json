@@ -572,6 +572,7 @@
     "addFpsCameraError": "Sorry, when adding the fps camera, I can't find the target",
     "updateFpsCamera": "Sorry, when update the fps camera, I can't find the target",
     "d3_initscene": "initialize 3D scene [SCENETYPE] as hidden [HIDDEN]", 
+    "d3_when3dsceneisready": "when 3D scene is initialized",
     "d3_configbrickworld": "configure brick world plane size [SIZE] highlight color [COLOR]",
     "d3_getbrickworldstring": "show brick world code", 
     "d3_loadbrickworldstring": "build brick world from code [CODE]",
