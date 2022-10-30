@@ -613,6 +613,8 @@
     "BODY_DETECTION": "ejecutar el reconocimiento de partes del cuerpo (2D) sola persona %1 tabla %2 depurar %3",
     "STOPBODY_DETECTION": "detener reconocimiento de partes del cuerpo (2D)",
     "BODY_DETECTION3": "ejecutar la depuración de detección de pose 3D %1 en la tabla %2",
+    "HAND_DETECTION3": "ejecutar tabla de detección de manos %1 depurar %2 mostrar video %3",
+    "FINGERPOSE": "estimar la pose del dedo tabla de entrada %1 tabla de salida %2",
     "UPDATE_DEBUG": "establecer el modo de depuración %1",
     "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2",
     "DATABASE_OPERATOR": "%1 %2 %3",

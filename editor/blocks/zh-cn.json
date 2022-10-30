@@ -615,6 +615,8 @@
     "BODY_DETECTION": "识别身体部位 (二维) 单人模式 %1 保存到表格 %2 调试 %3",
     "STOPBODY_DETECTION": "停止身体部位识别 (二维)",
     "BODY_DETECTION3": "识别3D姿势 调试 %1 保存到表格 %2",
+    "HAND_DETECTION3": "识别手部关节 保存到表格 %1 调试 %2 显示图像 %3",
+    "FINGERPOSE": "估计手指姿势 输入表 %1 输出表 %2",
     "UPDATE_DEBUG": "设置调试模式 %1",
     "BODY_SEGMENTATION": "运行人体识别 调试 %1 保存到表格 %2",
     "DATABASE_OPERATOR": "%1 %2 %3",

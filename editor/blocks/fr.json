@@ -613,6 +613,8 @@
     "BODY_DETECTION": "exécuter la reconnaissance des parties du corps (2D) personne seule %1 table %2 débogage %3",
     "STOPBODY_DETECTION": "arrêter la reconnaissance de la partie du corps (2D)",
     "BODY_DETECTION3": "exécuter le débogage de détection de pose 3D %1 dans la table %2",
+    "HAND_DETECTION3": "exécuter la table de détection des mains %1 déboguer %2 afficher la vidéo %3",
+    "FINGERPOSE": "estimer la table d'entrée de la pose du doigt %1 la table de sortie %2",
     "UPDATE_DEBUG": "définir le mode de débogage %1",
     "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2",
     "DATABASE_OPERATOR": "%1 %2 %3",
