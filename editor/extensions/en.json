@@ -295,6 +295,8 @@
     "widget.aligment.left": "Left",
     "widget.aligment.center": "Middle",
     "widget.aligment.right": "Right",
+    "widget.tabMenu.add": "add",
+    "widget.tabMenu.remove": "remove",
     "widget.moveWidgetToXY": "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]",
     "widget.scaleWidgetToWidthHeight": "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]",
     "widget.resizeWidgetToWidthHeight": "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]",
