@@ -824,6 +824,7 @@
     "d3_setscenephysics": "为场景启用物理引擎 重力 [GRAVITY]",
     "d3_updategravity": "将场景的重力更新为 [GRAVITY]",
     "d3_setskybox":  "指定天空 [SKYTYPE]",
+    "d3_removeskybox": "移除天空",
     "d3_addpipeline": "添加特效 晕影 [DOVIG] [VCOLOR] 泛光 强度 [BWEIGHT] 阈值 [BTHRESH]% 内核 [BKERNEL] 抗锯齿 [DOANTI] 锐化 [DOSHARPENING] 对比度 [CCONTRAST] 曝光度 [CEXPOSURE]",
     "d3_removepipeline": "取消特效",
     "d3_showscene":  "显示三维场景 [SHOW]",

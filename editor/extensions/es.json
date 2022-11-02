@@ -586,6 +586,7 @@
     "d3_setscenephysics": "habilitar física para escena con gravedad [GRAVITY]",
     "d3_updategravity": "actualizar la gravedad de la escena a [GRAVITY]",
     "d3_setskybox": "establecer cielo [SKYTYPE]",
+    "d3_removeskybox": "eliminar cielo",
     "d3_addpipeline": "agregar viñeta de tubería [DOVIG] [VCOLOR] fuerza de floración [BWEIGHT] umbral [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] nitidez [DOSHARPENING] contraste de cámara [CCONTRAST] exposición [CEXPOSURE]",
     "d3_removepipeline": "eliminar canalización",
     "d3_showscene": "mostrar escena 3D [SHOW]",

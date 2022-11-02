@@ -586,6 +586,7 @@
     "d3_setscenephysics": "activer la physique pour la scène avec gravité [GRAVITY]",
     "d3_updategravity": "met à jour la gravité de la scène à [GRAVITY]",
     "d3_setskybox": "set sky [SKYTYPE]",
+    "d3_removeskybox": "supprimer le ciel",
     "d3_addpipeline": "ajouter une vignette de pipeline [DOVIG] [VCOLOR] force de floraison [BWEIGHT] seuil [BTHRESH]% noyau [BKERNEL] anticrénelage [DOANTI] netteté [DOSHARPENING] contraste de la caméra [CCONTRAST] exposition [CEXPOSURE]",
     "d3_removepipeline": "supprimer le pipeline",
     "d3_showscene": "afficher la scène 3D [SHOW]",
