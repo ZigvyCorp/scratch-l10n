@@ -260,6 +260,7 @@
     "widget.setVisibilityForAll": "définir la visibilité [VISIBILITY] pour tous les widgets",
     "widget.whenMouseEnter": "lorsque le pointeur entre dans le widget [NAME]",
     "widget.whenMouseLeave": "lorsque le pointeur quitte le widget nommé [NAME]",
+    "widget.playBilibiliVideo": "lire la vidéo bilibili x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] démarrage automatique [AUTOSTART_YESNO] écran de texte [TEXTSCREEN_YESNO] arrière-plan [BACKGROUND_YESNO] heure de début [TIME] secondes URL [URL]",
     "widget.addVideo": "ajouter une vidéo youtube [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nommé [NAME] dans [BACKGROUND]",
     "widget.actionVideo": "vidéo d'action [ACTION] nommée [NAME]",
     "widget.seekToSecondsVideo": "chercher à [SECONDS] secondes dans la vidéo nommée [NAME]",

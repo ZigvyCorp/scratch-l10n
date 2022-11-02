@@ -260,6 +260,7 @@
     "widget.setVisibilityForAll": "为所有控件設置可见性 [VISIBILITY]",
     "widget.whenMouseEnter": "當指針進入控件 [NAME] 時",
     "widget.whenMouseLeave": "當指針離開控件 [NAME] 時",
+    "widget.playBilibiliVideo": "播放 bilibili 視頻 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 自動啟動 [AUTOSTART_YESNO] 文本屏幕 [TEXTSCREEN_YESNO] 背景 [BACKGROUND_YESNO] 開始時間 [TIME] 秒 URL [URL]",
     "widget.addVideo": "添加 Youtube 視頻 [URL] X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 名為 [NAME] 屏幕位置 [BACKGROUND]",
     "widget.actionVideo": "將控件 [NAME] 中的視頻 [ACTION]",
     "widget.seekToSecondsVideo": "將控件 [NAME] 中的視頻 跳轉到第 [SECONDS] 秒",
