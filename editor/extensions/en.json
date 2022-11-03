@@ -590,6 +590,7 @@
     "None": "None",
     
     "d3_setskybox": "set sky [SKYTYPE]",
+    "d3_removeskybox": "remove sky",
     "d3_addpipeline": "add pipeline vignette [DOVIG] [VCOLOR] bloom strength [BWEIGHT] threshold [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] sharpening [DOSHARPENING] camera contrast [CCONTRAST] exposure [CEXPOSURE]",
     "d3_removepipeline": "remove pipeline",
     "d3_showscene": "show 3D scene [SHOW]", 
@@ -824,6 +825,7 @@
     "d3_disablecamerahovering": "turn off hovering for objects created in sprites [SPRITENAMES]",
     "d3_disablehoveringignforobject": "disable hovering for objects named [OBJECTNAMES]",
     "d3_enablehoveringignforobject": "enable hovering for objects named [OBJECTNAMES]",
+    "d3_getXYZonPlanefromXY": "map screen XY [X] [Y] to XYZ position on object [OBJNAME]",
     "d3_whenobjectpicked": "when an object from this sprite is picked",
     "d3_setdraggingmode": "set dragging mode [DRAGGINGMODE] direction X [X] Y [Y] z [Z]",
     "d3_setdragginglimit": "set dragging limits min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
