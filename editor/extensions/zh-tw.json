@@ -882,5 +882,11 @@
     "d3_switchFullScreen": "切換到全屏 [BORDERTYPE] 邊界",
     "d3_for_each_cloned_d3_object": "对于每個命名的 3D 对象 [OBJECT_NAME]",
     "database.categoryName": "數據庫",
-    "database.createCollectionBtn": "創建一個集合"
+    "database.createCollectionBtn": "創建一個集合",
+    "p2p.scheduleEmailService": "调度服务：在日期 [DATE] 小时 [HOUR] 分钟 [MINUTE] 时区 [TIMEZONE] 发送电子邮件 [EMAIL]，ID [ID]",
+    "p2p.scheduleEmailService.pacificTime": "美国太平洋时间",
+    "p2p.scheduleEmailService.mountainTime": "美国山区时间",
+    "p2p.scheduleEmailService.centralTime": "美国中部时间",
+    "p2p.scheduleEmailService.easternTime": "美国东部时间",
+    "p2p.schedulePhoneMessageService":"在日期 [DATE] 小时 [HOUR] 分钟 [MINUTE] 时区 [TIMEZONE] 与 ID [ID] 给电话号码 [PHONENUMBER] 内容 [CONTENT] 的消息"
 }
