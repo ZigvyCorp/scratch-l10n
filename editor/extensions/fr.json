@@ -704,7 +704,7 @@
     "d3_getphysicsdata": "obtenir l'objet physique [SPEEDTYPE] pour [NAME]",
     "d3_applyimpulse": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_applyforce": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
-    "d3_broadcastcollisionmessage": "message diffusé [BROADCAST_INPUT] sur la collision entre l'objet physique [NAME] et [NAME2]",
+    "d3_broadcastcollisionmessage": "diffuse [BROADCASTMESSAGE] sur la collision entre les corps de [NAME] de [SPRITE] et [NAME2] de [SPRITE2]",
     "d3_setphysicsframerate": "définit la fréquence d'images physique [RATE] pour [NAME]",
     "d3_getphysicsframerate": "obtenir la fréquence d'images physique pour [NAME]",
     "d3_freezeallphysics": "fige toutes les formes physiques [YESNO]",

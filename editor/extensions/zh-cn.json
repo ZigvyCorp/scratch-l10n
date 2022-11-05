@@ -464,7 +464,7 @@
     "d3_getphysicsdata": "获取名为 [NAME] 的物理物体的 [SPEEDTYPE]",
     "d3_applyimpulse": "施加冲力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
     "d3_applyforce": "施加恒力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
-    "d3_broadcastcollisionmessage": "当物理物体 [NAME] 和 [NAME2] 碰撞时广播消息 [BROADCAST_INPUT]",
+    "d3_broadcastcollisionmessage": "当物理物体 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 碰撞时 广播消息 [BROADCASTMESSAGE]",
     "d3_setphysicsframerate": "为 [NAME] 设置物理帧速率 [RATE]",
     "d3_getphysicsframerate": "获取 [NAME] 的物理帧速率",
     "d3_freezeallphysics": "冻结所有物理物体 [YESNO]",
