@@ -457,7 +457,7 @@
     "d3_applyimpulse": "施加衝力 強度 [SIZE] 方向 xyz [X] [Y] [Z] 相對作用點 xyz [X2] [Y2] [Z2] 目標名稱 [NAME]",
     "d3_applyforce": "施加恆力 強度 [SIZE] 方向 xyz [X] [Y] [Z] 相對作用點 xyz [X2] [Y2] [Z2] 目標名稱 [NAME]",
     "d3_broadcastcollisionmessage": "當物理物體 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 碰撞時 廣播消息 [BROADCASTMESSAGE]",
-    "d3_setphysicsframerate": "為 [NAME] 設置物理幀速率 [RATE]",
+    "d3_setphysicsframerate": "設置物理幀速率 [RATE]",
     "d3_getphysicsframerate": "獲取 [NAME] 的物理幀速率",
     "d3_freezeallphysics": "凍結所有物理物體 [YESNO]",
     "d3_freezeonephysics": "凍結名為 [NAME] 的物理物體 [YESNO]",
