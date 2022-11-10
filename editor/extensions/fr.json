@@ -226,6 +226,7 @@
     "p2p.broadcast": "diffuser un message [MESSAGE] au monde",
     "p2p.receivemessage": "lorsque je reçois [MESSAGE] de [USER]",
     "p2p.whenworldcreated": "quand le monde a été créé",
+    "p2p.whenworlddeleted": "quand le monde a été supprimé",
     "p2p.whenmemberjoined": "quand le nouveau membre [USERNAME] avec le surnom [NICKNAME] rejoint le monde",
     "p2p.whenmemberleft": "cuando el miembro [USERNAME] deja el mundo",
     "p2p.readworldmember": "lire les informations sur les membres du monde dans le tableau [WORLD_MEMBER]",

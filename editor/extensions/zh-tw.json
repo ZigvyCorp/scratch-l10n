@@ -226,6 +226,7 @@
     "p2p.broadcast": "向世界廣播消息 [MESSAGE]",
     "p2p.receivemessage": "當我收到來自 [USER] 的 [MESSAGE]",
     "p2p.whenworldcreated": "當世界創造",
+    "p2p.whenworlddeleted": "當世界被刪除",
     "p2p.whenmemberjoined": "當暱稱 [NICKNAME] 的新成員 [USERNAME] 加入世界時",
     "p2p.whenmemberleft": "當成員 [USERNAME] 離開世界時",
     "p2p.readworldmember": "將世界成員信息讀入表 [WORLD_MEMBER]",
