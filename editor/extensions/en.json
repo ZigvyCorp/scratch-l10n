@@ -677,6 +677,7 @@
     "d3_addlinebetweenpoints": "geometry: add line between points [OBJ1] [OBJ2] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] segments [SEGCOUNT] as [NAME]",
     "d3_addnewpoint": "geometry: add point between points [OBJ1] [OBJ2] at [PCT]% color [COLOR] size [SIZE] as [NAME]",
     "d3_addxyzpoint": "geometry: add point at xyz [X] [Y] [Z] color [COLOR] size [SIZE] on [ORIGOBJ] as [NAME]",
+    "d3_addanglemark": "geometry: add angle mark [OBJ1] [OBJ2] [OBJ3] size [SIZE] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] label [LABEL] as [NAME]",
 
     "d3_addAtom": "chemistry: add atom [ATOMTYPE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
     "d3_addcustomeatom": "chemistry: add custom atom [COLOR] size [SIZE] holes [HOLESPEC] label [LABEL] angle [LABELANGLE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
