@@ -332,6 +332,8 @@
     "ai.menuItem.female": "Femme",
     "ai.menuItem.male2": "Homme2",
     "ai.menuItem.female2": "Femme2",
+    "ai.menuItem.male3": "Homme3",
+    "ai.menuItem.female3": "Femme3",
     "ai.menuItem.boy": "Garçon",
     "ai.menuItem.girl": "Fille",
     "automation.categoryName": "Automatisation",
@@ -673,6 +675,7 @@
     "d3_addlinebetweenpoints": "géométrie: ajouter une ligne entre les points [OBJ1] [OBJ2] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] as [NAME]",
     "d3_addnewpoint": "géométrie: ajouter un point entre les points [OBJ1] [OBJ2] à [PCT] % de couleur [COLOR] taille [SIZE] comme [NAME]",
     "d3_addxyzpoint": "géométrie: ajouter un point à xyz [X] [Y] [Z] couleur [COLOR] taille [SIZE] sur [ORIGOBJ] en tant que [NAME]",
+    "d3_addanglemark": "géométrie : ajouter une marque d'angle [OBJ1] [OBJ2] [OBJ3] taille [SIZE] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] étiquette [LABEL] comme [NAME]",
 
     "d3_addAtom": "chimie: ajouter l'atome [ATOMTYPE] en tant que [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN]",
     "d3_addcustomeatom": "chimie: ajouter un atome personnalisé [COLOR] taille [SIZE] trous [HOLESPEC] étiquette [LABEL] angle [LABELANGLE] comme [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN ]",

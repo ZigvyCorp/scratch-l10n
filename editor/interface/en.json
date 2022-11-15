@@ -692,7 +692,7 @@
     "gui.autoCodeReview.d3SceneMoreThanOnce.title": "3D Scene initialized more than once",
     "gui.autoCodeReview.d3SceneMoreThanOnce.description": "The block to 'initialize 3D scene' is used more than once",
     "gui.autoCodeReview.ignoreD3StartAnimation.title": "Animation not added",
-    "gui.autoCodeReview.ignoreD3StartAnimation.description": "You are running the '{ANIMATIONNAME}' animation before it is added to the avatar",
+    "gui.autoCodeReview.ignoreD3StartAnimation.description": "You have to add the '{ANIMATIONNAME}' animation to the avatar before running it.",
     "gui.autoCodeReview.customBlockUnused.title": "Unused Block",
     "gui.autoCodeReview.customBlockUnused.description": "The block '{BLOCKNAME}' is defined but never used",
     "gui.autoCodeReview.ignoreD3ActionBlock.title": "Sprite object not found",

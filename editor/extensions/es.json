@@ -332,6 +332,8 @@
     "ai.menuItem.female": "Mujer",
     "ai.menuItem.male2": "Hombre2",
     "ai.menuItem.female2": "Mujer2",
+    "ai.menuItem.male3": "Hombre3",
+    "ai.menuItem.female3": "Mujer3",
     "ai.menuItem.boy": "Niño2",
     "ai.menuItem.girl": "Niña",
     "automation.categoryName": "Automatización",
@@ -677,6 +679,7 @@
     "d3_addlinebetweenpoints": "geometría: agregar línea entre puntos [OBJ1] [OBJ2] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] segmentos [SEGCOUNT] como [NAME]",
     "d3_addnewpoint": "geometría: agregar punto entre puntos [OBJ1] [OBJ2] en [PCT]% color [COLOR] tamaño [SIZE] como [NAME]",
     "d3_addxyzpoint": "geometría: agregar punto en xyz [X] [Y] [Z] color [COLOR] tamaño [SIZE] en [ORIGOBJ] como [NAME]",
+    "d3_addanglemark": "geometría: agregar marca de ángulo [OBJ1] [OBJ2] [OBJ3] tamaño [SIZE] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] etiqueta [LABEL] como [NAME]",
 
     "d3_addAtom": "química: agregar átomo [ATOMTYPE] como [NAME] conectar el agujero [HOLE] al átomo [ATOM2] agujero [HOLE2] distancia [BONDLEN]",
     "d3_addcustomeatom": "química: agregue un átomo personalizado [COLOR] tamaño [SIZE] agujeros [HOLESPEC] etiqueta [LABEL] ángulo [LABELANGLE] como [NAME] conecte el agujero [HOLE] al átomo [ATOM2] agujero [HOLE2] distancia [BONDLEN ]",
