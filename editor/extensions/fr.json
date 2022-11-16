@@ -704,6 +704,8 @@
     "d3_setphysicsspeedtowards": "fixe la vitesse de l'objet physique [SPEED] vers la cible xyz [X] [Y] [Z] pour [NAME]",
     "d3_setphysicsspeedtoobj": "définit la vitesse physique du corps [SPEED] pour [NAME] vers l'objet [TARGETNAME] depuis le sprite [SPRITE]",
     "d3_setphysicsangularvelocity": "définit la vitesse de rotation de l'objet physique autour des axes xyz [X] [Y] [Z] pour [NAME]",
+    "d3_setphysicsspeedlimit": "fixe la limite de vitesse de mouvement physique du corps [LIMIT] autorise la direction X [XYES] Y [YYES] Z [ZYES] pour [NAME]",
+    "d3_setphysicsrotationlimit": "fixe la vitesse limite de rotation du corps physique [LIMIT] autorise l'axe X [XYES] Y [YYES] Z [ZYES] pour [NAME]",
     "d3_setphysicsdamping": "définit l'amortissement de l'objet physique pour le mouvement [MD]% de rotation [RD]% pour [NAME]",
     "d3_getphysicsdata": "obtenir l'objet physique [SPEEDTYPE] pour [NAME]",
     "d3_applyimpulse": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",

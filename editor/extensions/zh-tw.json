@@ -456,6 +456,8 @@
     "d3_setphysicsspeedtowards": "設置名為 [NAME] 的物理物體朝向目標 xyz [X] [Y] [Z] 的速度 [SPEED]",
     "d3_setphysicsspeedtoobj": "設置名為 [NAME] 的物理物體 速度 [SPEED] 朝向 [SPRITE] 中的 [TARGETNAME]",
     "d3_setphysicsangularvelocity": "設置名為 [NAME] 的物理物體 繞xyz軸的旋轉速度 [X] [Y] [Z]",
+    "d3_setphysicsspeedlimit": "設置名為 [NAME] 的物理物體的移動速度最大值 [LIMIT] 允許方向 X [XYES] Y [YYES] Z [ZYES]",
+    "d3_setphysicsrotationlimit": "設置名為 [NAME] 的物理物體的旋轉速度最大值 [LIMIT] 允許轉軸 X [XYES] Y [YYES] Z [ZYES]",
     "d3_setphysicsdamping": "設置名為 [NAME] 的物理物體的阻尼係數 移動 [MD]% 旋轉 [RD]%",
     "d3_getphysicsdata": "獲取名為 [NAME] 的物理物體的 [SPEEDTYPE]",
     "d3_applyimpulse": "施加衝力 強度 [SIZE] 方向 xyz [X] [Y] [Z] 相對作用點 xyz [X2] [Y2] [Z2] 目標名稱 [NAME]",
