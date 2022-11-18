@@ -758,5 +758,6 @@
     "Gujarati_Indian": "Gujarati (India)",
     "Indonesian": "Indonesio",
     "Kannada_India": "Kannada (India)",
-    "Spanish_USA": "Spanish (USA)"
+    "Spanish_USA": "Spanish (USA)",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E genera imagen de vestuario nombre %1 descripción %2"
 }
