@@ -749,5 +749,6 @@
     "Gujarati_Indian": "古吉拉特语（印度）",
     "Indonesian": "印度尼西亚",
     "Kannada_India": "卡纳达语（印度）",
-    "Spanish_USA": "西班牙语（美国）"
+    "Spanish_USA": "西班牙语（美国）",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E 生成服裝圖像名稱 %1 描述 %2"
 }

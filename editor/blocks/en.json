@@ -759,5 +759,6 @@
     "Gujarati_Indian": "Gujarati (Indian)",
     "Indonesian": "Indonesian ",
     "Kannada_India": "Kannada (India)",
-    "Spanish_USA": "Spanish (USA)"
+    "Spanish_USA": "Spanish (USA)",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E generate costume image name %1 description %2"
 }
