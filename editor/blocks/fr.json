@@ -759,5 +759,6 @@
     "Indonesian" : "Indonésien",
     "Kannada_India" : "Kannada (Inde)",
     "Spanish_USA" : "Spanish (USA)",
-    "OPEN_AI_IMAGE": "OpenAI DALL-E: génère le nom de l'image de costume %1 description %2"
+    "OPEN_AI_IMAGE": "OpenAI DALL-E génère le nom de l'image de costume %1 description %2",
+    "OPEN_AI_IMAGE_ERROR" : "Désolé, la requête DALL-E a été rejetée car elle viole la politique de contenu d'OpenAI."
 }
