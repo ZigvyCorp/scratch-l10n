@@ -541,7 +541,7 @@
     "CLEAR_SPEECH": "texto de voz claro",
     "END_SPEECH": "finalizar el reconocimiento de voz",
     "TEXT_FROM_SPEECH": "texto de voz",
-    "SPEAK_IN_LANGUAGE": "decir %1 en %2 como %3 velocidad %4 tono %5 volumen %6",
+    "SPEAK_IN_LANGUAGE": "decir %1 en %2 como %3 velocidad %4 tono %5 volumen %6 almacenar sonido como %7",
     "TRANSLATE_TEXT": "traducir %1 de %2 a %3",
     "LOCATEWEBCAMERA": "localizar cámara desde marcadores en video",
     "ARABIC_ID": "árabe",
