@@ -761,6 +761,6 @@
     "Indonesian": "印度尼西亚",
     "Kannada_India": "卡纳达语（印度）",
     "Spanish_USA": "西班牙语（美国）",
-    "OPEN_AI_IMAGE": "OpenAI DALL-E 生成服装图像名称 %1 描述 %2",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E：生成服装图像名称 %1 描述 %2，分辨率 %3",
     "OPEN_AI_IMAGE_ERROR" : "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。"
 }
