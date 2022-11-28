@@ -897,5 +897,12 @@
     "p2p.scheduleEmailService.mountainTime": "Heure des Rocheuses des États-Unis",
     "p2p.scheduleEmailService.centralTime": "Heure centrale des États-Unis",
     "p2p.scheduleEmailService.easternTime": "Heure de l'Est des États-Unis",
-    "p2p.schedulePhoneMessageService": "message au numéro de téléphone [PHONENUMBER] contenu [CONTENT] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]"
+    "p2p.schedulePhoneMessageService": "message au numéro de téléphone [PHONENUMBER] contenu [CONTENT] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]",
+    "widget.drawChartUsingList":"dessine un graphique [CHARTTYPE] en utilisant la liste [LIST] x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT]",
+    "widget.drawChartUsingColumn":"dessine le graphique [CHARTTYPE] en utilisant les colonnes [COLUMNS] du tableau [TABLE] x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT]",
+    "widget.drawChartUsingCategory":"dessine un graphique à secteurs en utilisant la catégorie [CATEGORY] et la valeur [VALUE] du tableau [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.chartType.line": "ligne",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "pie",
+    "widget.chartType.percentage": "pourcentage"
 }

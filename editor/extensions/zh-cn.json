@@ -896,5 +896,12 @@
     "d3_switchFullScreen": "切换到全屏 [BORDERTYPE] 边界",
     "d3_for_each_cloned_d3_object": "对于每个命名的 3D 物体 [OBJECT_NAME]",
     "database.categoryName": "数据库",
-    "database.createCollectionBtn": "创建一个集合"
+    "database.createCollectionBtn": "创建一个集合",
+    "widget.drawChartUsingList":"使用列表 [LIST] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 绘制 [CHARTTYPE] 图表",
+    "widget.drawChartUsingColumn":"使用表 [TABLE] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 中的列 [COLUMNS] 绘制 [CHARTTYPE] 图表",
+    "widget.drawChartUsingCategory":"使用表 [TABLE] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 中的类别 [CATEGORY] 和值 [VALUE] 绘制饼图",
+    "widget.chartType.line": "线",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "饼图",
+    "widget.chartType.percentage": "百分比"
 }
