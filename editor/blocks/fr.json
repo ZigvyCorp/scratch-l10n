@@ -541,7 +541,7 @@
     "CLEAR_SPEECH": "texte vocal clair",
     "END_SPEECH": "terminer la reconnaissance vocale",
     "TEXT_FROM_SPEECH": "texte de la parole",
-    "SPEAK_IN_LANGUAGE": "dire %1 dans %2 comme %3 vitesse %4 tonalité %5 volume %6",
+    "SPEAK_IN_LANGUAGE": "dire %1 dans %2 comme %3 vitesse %4 tonalité %5 volume %6 stocker le son comme %7",
     "TRANSLATE_TEXT": "traduire %1 de %2 à %3",
     "LOCATEWEBCAMERA": "localiser la caméra à partir de marqueurs dans la vidéo",
     "ARABIC_ID":"Arabe",
@@ -758,5 +758,6 @@
     "Gujarati_Indian" : "Gujarati (Indien)",
     "Indonesian" : "Indonésien",
     "Kannada_India" : "Kannada (Inde)",
-    "Spanish_USA" : "Spanish (USA)"
+    "Spanish_USA" : "Spanish (USA)",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E: génère le nom de l'image de costume %1 description %2"
 }

@@ -543,7 +543,7 @@
     "CLEAR_SPEECH": "清除语音內容",
     "END_SPEECH": "结束语音识别",
     "TEXT_FROM_SPEECH": "语音内容",
-    "SPEAK_IN_LANGUAGE": "用 %2 说 %1 语音 %3 速度 %4 音高 %5 音量 %6",
+    "SPEAK_IN_LANGUAGE": "用 %2 说 %1 语音 %3 速度 %4 音高 %5 音量 %6 将声音存储为 %7",
     "TRANSLATE_TEXT": "將 %1 從 %2 翻譯成 %3",
     "LOCATEWEBCAMERA": "从视频中的标记定位摄像头",
     "ARABIC_ID":"阿拉伯語",
@@ -760,5 +760,6 @@
     "Gujarati_Indian": "古吉拉特语（印度）",
     "Indonesian": "印度尼西亚",
     "Kannada_India": "卡纳达语（印度）",
-    "Spanish_USA": "西班牙语（美国）"
+    "Spanish_USA": "西班牙语（美国）",
+    "OPEN_AI_IMAGE": "OpenAI DALL-E: 生成造型图片 名称 %1 描述 %2"
 }
