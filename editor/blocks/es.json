@@ -759,5 +759,6 @@
     "Indonesian": "Indonesio",
     "Kannada_India": "Kannada (India)",
     "Spanish_USA": "Spanish (USA)",
-    "OPEN_AI_IMAGE": "OpenAI DALL-E: genera imagen de vestuario nombre %1 descripción %2"
+    "OPEN_AI_IMAGE": "OpenAI DALL-E: genera el nombre de la imagen del disfraz %1 descripción %2 con resolución %3",
+    "OPEN_AI_IMAGE_ERROR": "Lo siento, la solicitud DALL-E ha sido rechazada porque viola la política de contenido de OpenAI."
 }
