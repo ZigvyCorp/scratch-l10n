@@ -434,7 +434,7 @@
     "d3_addlinebetweenpoints":"几何: 在点 [OBJ1] [OBJ2] 之间添加线 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 段数 [SEGCOUNT] 名为 [NAME]",
     "d3_addnewpoint": "几何: 在点 [OBJ1] [OBJ2] 之间 [PCT]% 处添加点 颜色 [COLOR] 大小 [SIZE] 名为 [NAME]",
     "d3_addxyzpoint":"几何: 在 位置xyz [X] [Y] [Z] 上添加点 颜色 [COLOR] 大小 [SIZE] 父节点 [ORIGOBJ] 名为 [NAME]",
-    "d3_addanglemark": "几何：添加角度标记 [OBJ1] [OBJ2] [OBJ3] 大小 [SIZE] 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 标签 [LABEL] 作为 [NAME]",
+    "d3_addanglemark": "几何:添加角度标记 [OBJ1] [OBJ2] [OBJ3] 大小 [SIZE] 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 标签 [LABEL] 作为 [NAME]",
 
 
     "d3_addAtom": "化学: 添加原子 [ATOMTYPE] 名为 [NAME] 连接孔 [HOLE] 到原子 [ATOM2] 的孔 [HOLE2] 距离 [BONDLEN]",
@@ -471,6 +471,10 @@
     "d3_applyimpulse": "施加冲力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
     "d3_applyforce": "施加恒力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
     "d3_broadcastcollisionmessage": "当物理物体 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 碰撞时 广播消息 [BROADCASTMESSAGE]",
+    "d3_converttophysicscar": "为物体 [NAME] 启用汽车模拟 质量 [MASS] 恢复系数 [RESTITUTION]% 轮胎摩擦系数 [FRICTION]% 侧倾减少 [ROLL]% 刚度 [STIFFNESS]",
+    "d3_updatecarphysics": "为汽车 [NAME] 发动引擎 [ENGINE] 刹车 [BRAKE]",
+    "d3_updatecarsteer":"将汽车 [NAME] 转向角度 [STEER]",
+    "d3_updatecollisiongroup": "为汽车 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",
     "d3_setphysicsframerate": "设置物理帧速率 [RATE]",
     "d3_getphysicsframerate": "获取 [NAME] 的物理帧速率",
     "d3_freezeallphysics": "冻结所有物理物体 [YESNO]",
