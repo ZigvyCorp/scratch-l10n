@@ -196,6 +196,7 @@
     "LOOKS_SAYFORSECS_WITHSTYLE": "diga %1 para %2 segundos tamaño de texto %3 %4 fondo %5 borde %6",
     "LOOKS_THINKFORSECS_WITHSTYLE": "piense %1 para %2 segundos tamaño de texto %3 %4 fondo %5 borde %6",
     "LOOKS_MOVE_VIEWPORT": "mover el puerto de visualización a x %1 y %2",
+    "LOOKS_LOCK_VIEWPORT_TO_SPRITE": "bloquear el puerto de vista al sprite %1",
     "LOOKS_HMM": "Umm...",
     "LOOKS_SHOW": "mostrar",
     "LOOKS_HIDE": "esconder",
