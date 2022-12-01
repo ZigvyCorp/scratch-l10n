@@ -149,6 +149,7 @@
     "gui.menuBar.mode": "模式：",
     "gui.menuBar.desktop": "桌面",
     "gui.menuBar.mobile": "移动的",
+    "gui.menuBar.dimension": "方面：",
     "gui.menuBar.joinScratch": "加入 Scratch",
     "gui.menuBar.signIn": "登录",
     "gui.gui.projectTitlePlaceholder": "在此填写项目标题",

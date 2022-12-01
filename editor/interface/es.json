@@ -149,6 +149,7 @@
     "gui.menuBar.mode": "Modo:",
     "gui.menuBar.desktop": "Escritorio",
     "gui.menuBar.mobile": "Móvil",
+    "gui.menuBar.dimension": "Dimensión:",
     "gui.menuBar.joinScratch": "Únete a Scratch",
     "gui.menuBar.signIn": "Iniciar sesión",
     "gui.gui.projectTitlePlaceholder": "Nombre del proyecto aquí",
