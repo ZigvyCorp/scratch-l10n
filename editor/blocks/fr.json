@@ -195,6 +195,8 @@
     "LOOKS_THINK": "penser à %1",
     "LOOKS_SAYFORSECS_WITHSTYLE": "dire %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
     "LOOKS_THINKFORSECS_WITHSTYLE": "penser %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
+    "LOOKS_MOVE_VIEWPORT": "déplacer le port d'affichage vers x %1 y %2",
+    "LOOKS_LOCK_VIEWPORT_TO_SPRITE": "verrouiller le port d'affichage sur l'image-objet %1",
     "LOOKS_HMM": "Hmm...",
     "LOOKS_SHOW": "montrer",
     "LOOKS_HIDE": "cacher",
