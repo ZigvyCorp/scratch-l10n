@@ -909,5 +909,8 @@
     "p2p.scheduleEmailService.mountainTime": "US Mountain Time",
     "p2p.scheduleEmailService.centralTime": "US Central Time",
     "p2p.scheduleEmailService.easternTime": "US Eastern Time",
-    "p2p.schedulePhoneMessageService": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]"
+    "p2p.schedulePhoneMessageService": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
+    "pen.printText": "print [TEXT] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] for [SECS] seconds",
+    "pen.setDrawing": "set drawing [DRAWINGMENU] costume",
+    "pen.drawLine": "draw line [COLOR] thickness [THICKNESS] from x [FROMX] y [FROMY] to x [TOX] y [TOY]"
 }

@@ -198,6 +198,7 @@
     "LOOKS_THINKFORSECS_WITHSTYLE": "認為 %1 %2 秒文本大小 %3 %4 背景 %5 邊緣 %6",
     "LOOKS_MOVE_VIEWPORT": "將視口移動到 x %1 y %2",
     "LOOKS_LOCK_VIEWPORT_TO_SPRITE": "將視口鎖定到 sprite %1",
+    "LOOKS_EXPORTING_COSTUME_IMAGE": "導出名為 %1 的服裝",
     "LOOKS_HMM": "Hmm...",
     "LOOKS_SHOW": "顯示",
     "LOOKS_HIDE": "隱藏",
