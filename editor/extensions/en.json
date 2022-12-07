@@ -909,5 +909,12 @@
     "p2p.scheduleEmailService.mountainTime": "US Mountain Time",
     "p2p.scheduleEmailService.centralTime": "US Central Time",
     "p2p.scheduleEmailService.easternTime": "US Eastern Time",
-    "p2p.schedulePhoneMessageService": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]"
+    "p2p.schedulePhoneMessageService": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
+    "widget.drawChartUsingList":"draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.drawChartUsingColumn":"draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.drawChartUsingCategory":"draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.chartType.line": "line",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "pie",
+    "widget.chartType.percentage": "percentage"
 }

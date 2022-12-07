@@ -821,7 +821,7 @@
     "d3_turnondistancesensor": "establece el sensor de distancia frontal [ISFRONT] atrás [ISBACK] izquierda [ISLEFT] derecha [ISRIGHT] abajo [ISDOWN] arriba [ISUP] distancia máxima [LEN] recuento [COUNT] visible [ISVISIBLE]",
     "d3_objectdistance": "distancia entre los objetos [NAME1] y [NAME2]",
     "d3_setcollision": "activar [ISBLOCKING] colisión con [SPRITE] desplazamiento z del colisionador [ZCENTER] precisión [PRECISION] depurar [ISDEBUG]",
-    "d3_setcollisiondimension": "actualizar la dimensión del colisionador x [ANCHO] y [PROFUNDIDAD] z [ALTO] desplazamiento z del colisionador [ZCENTER] rango de detección x [RX] y [RY] z [RZ] color [COLOR]",
+    "d3_setcollisiondimension": "actualizar la dimensión del colisionador x [WIDTH] y [PROFUNDIDAD] z [HEIGHT] desplazamiento z del colisionador [ZCENTER] rango de detección x [RX] y [RY] z [RZ] color [COLOR]",
     "d3_whenincollision": "al chocar con [SPRITE]",
     "d3_enablecamerapicking": "activar selección con [POINTERTYPE] para objetos creados en sprites [SPRITENAMES]",
     "d3_enablecamerahovering": "activar el desplazamiento para objetos creados en sprites [SPRINAMES]",
@@ -904,5 +904,12 @@
     "p2p.scheduleEmailService.mountainTime": "Hora de la montaña de EE. UU.",
     "p2p.scheduleEmailService.centralTime": "Hora central de EE. UU.",
     "p2p.scheduleEmailService.easternTime": "Hora del Este de EE. UU.",
-    "p2p.schedulePhoneMessageService": "mensaje al número de teléfono [PHONENUMBER] contenido [CONTENT] en fecha [DATE] hora [HOUR] minuto [MINUTE] zona horaria [TIMEZONE] con ID [ID]"
+    "p2p.schedulePhoneMessageService": "mensaje al número de teléfono [PHONENUMBER] contenido [CONTENT] en fecha [DATE] hora [HOUR] minuto [MINUTE] zona horaria [TIMEZONE] con ID [ID]",
+    "widget.drawChartUsingList":"dibujar el gráfico [CHARTTYPE] usando la lista [LIST] x [X] y [Y] ancho [WIDTH] alto [HEIGHT]",
+    "widget.drawChartUsingColumn":"dibujar el gráfico [CHARTTYPE] usando las columnas [COLUMNS] de la tabla [TABLE] x [X] y [Y] ancho [WIDTH] alto [HEIGHT]",
+    "widget.drawChartUsingCategory":"dibuja un gráfico circular usando la categoría [CATEGORY] y el valor [VALUE] de la tabla [TABLE] x [X] y [Y] ancho [WIDTH] alto [HEIGHT]",
+    "widget.chartType.line": "línea",
+    "widget.chartType.bar":"barra",
+    "widget.chartType.pie": "pastel",
+    "widget.chartType.percentage": "porcentaje"
 }
