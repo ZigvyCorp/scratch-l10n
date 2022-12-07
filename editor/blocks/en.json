@@ -196,6 +196,8 @@
     "LOOKS_THINK": "think %1",
     "LOOKS_SAYFORSECS_WITHSTYLE": "say %1 for %2 seconds text size %3 %4 background %5 edge %6",
     "LOOKS_THINKFORSECS_WITHSTYLE": "think %1 for %2 seconds text size %3 %4 background %5 edge %6",
+    "LOOKS_MOVE_VIEWPORT": "move view port to x %1 y %2",
+    "LOOKS_LOCK_VIEWPORT_TO_SPRITE": "lock view port to sprite %1",
     "LOOKS_HMM": "Hmm...",
     "LOOKS_SHOW": "show",
     "LOOKS_HIDE": "hide",
@@ -760,5 +762,6 @@
     "Indonesian": "Indonesian ",
     "Kannada_India": "Kannada (India)",
     "Spanish_USA": "Spanish (USA)",
-    "OPEN_AI_IMAGE": "OpenAI DALL-E: generate costume image name %1 description %2"
+    "OPEN_AI_IMAGE": "OpenAI DALL-E: generate costume image name %1 description %2 with resolution %3",
+    "OPEN_AI_IMAGE_ERROR" : "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy."
 }

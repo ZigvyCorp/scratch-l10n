@@ -182,7 +182,6 @@
     "gui.menuBar.logoLarge": "CCLogoCH3L.png",
     "gui.blockSearch.placeholder": "搜索積木塊",
     "gui.blockSearchWorkspace.placeholder": "搜索工作區",
-    "gui.stageHeader.stageSize3d": "切換到三維",
     "gui.stageHeader.gizmosTranslation": "位置",
     "gui.stageHeader.gizmosRotation": "旋轉",
     "gui.stageHeader.gizmosScale": "拉伸",
