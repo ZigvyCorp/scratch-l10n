@@ -241,7 +241,7 @@
     "p2p.formatContent.italic": "斜體",
     "p2p.formatContent.boldItalic": "加粗斜體",
     "widget.categoryName": "控件",
-    "widget.addTextbox": "在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 填充 [PADDING] 行 [MULTIPLELINE] 滾動 [SCROLL] 模式 [MODE] 名為 [NAME] 添加文本框",
+    "widget.addTextbox": "在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 填充 [PADDING] 行 [MULTIPLELINE] 滾動 [SCROLL] 模式 [MODE] 添加文本框 名為 [NAME]",
     "widget.valueFromWidget": "控件 [NAME] 的值",
     "widget.setText": "將控件 [NAME] 的值設為 [TEXT]",
     "widget.appendText": "將文本 [TEXT] 附加到 [NAME] 換行 [YESNO]",
@@ -901,5 +901,12 @@
     "p2p.schedulePhoneMessageService":"在日期 [DATE] 小时 [HOUR] 分钟 [MINUTE] 时区 [TIMEZONE] 与 ID [ID] 给电话号码 [PHONENUMBER] 内容 [CONTENT] 的消息",
     "pen.printText": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 顏色 [COLOR] 處打印 [TEXT] [SECS] 秒",
     "pen.setDrawing": "設置繪圖 [DRAWINGMENU] 服裝",
-    "pen.drawLine": "從 x [FROMX] y [FROMY] 到 x [TOX] y [TOY] 畫線 [COLOR] 厚度 [THICKNESS]"
+    "pen.drawLine": "從 x [FROMX] y [FROMY] 到 x [TOX] y [TOY] 畫線 [COLOR] 厚度 [THICKNESS]",
+    "widget.drawChartUsingList":"使用列表 [LIST] x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 繪製 [CHARTTYPE] 圖表",
+    "widget.drawChartUsingColumn":"使用表 [TABLE] x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 中的列 [COLUMNS] 繪製 [CHARTTYPE] 圖表",
+    "widget.drawChartUsingCategory":"使用表 [TABLE] x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 中的類別 [CATEGORY] 和值 [VALUE] 繪製餅圖",
+    "widget.chartType.line": "線",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "餅圖",
+    "widget.chartType.percentage": "百分比"
 }

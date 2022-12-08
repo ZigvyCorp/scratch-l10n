@@ -912,5 +912,12 @@
     "p2p.schedulePhoneMessageService": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
     "pen.printText": "print [TEXT] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] for [SECS] seconds",
     "pen.setDrawing": "set drawing [DRAWINGMENU] costume",
-    "pen.drawLine": "draw line [COLOR] thickness [THICKNESS] from x [FROMX] y [FROMY] to x [TOX] y [TOY]"
+    "pen.drawLine": "draw line [COLOR] thickness [THICKNESS] from x [FROMX] y [FROMY] to x [TOX] y [TOY]",
+    "widget.drawChartUsingList":"draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.drawChartUsingColumn":"draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.drawChartUsingCategory":"draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.chartType.line": "line",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "pie",
+    "widget.chartType.percentage": "percentage"
 }
