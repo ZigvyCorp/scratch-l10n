@@ -711,6 +711,10 @@
     "d3_applyimpulse": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_applyforce": "appliquer l'impulsion force [SIZE] direction xyz [X] [Y] [Z] au point relatif xyz [X2] [Y2] [Z2] à [NAME]",
     "d3_broadcastcollisionmessage": "diffuse [BROADCASTMESSAGE] sur la collision entre les corps de [NAME] de [SPRITE] et [NAME2] de [SPRITE2]",
+    "d3_converttophysicscar": "active la restitution de la masse [MASS] de la simulation de voiture [RESTITUTION]% de frottement des pneus [FRICTION] % pour [NAME]",
+    "d3_updatecarphysics": "régler la force du moteur [ENGINE] niveau de freinage [BRAKE] % sur la voiture [NAME]",
+    "d3_updatecarsteer": "dirige la voiture à l'angle [STEER] pour [NAME]",
+    "d3_updatecollisiongroup": "met à jour le groupe de collisions [COLLISIONGROUP] cible les groupes [TARGETGROUPS] pour [NAME]",
     "d3_setphysicsframerate": "définit la fréquence d'images physique [RATE]",
     "d3_getphysicsframerate": "obtenir la fréquence d'images physique pour [NAME]",
     "d3_freezeallphysics": "fige toutes les formes physiques [YESNO]",
@@ -897,5 +901,15 @@
     "p2p.scheduleEmailService.mountainTime": "Heure des Rocheuses des États-Unis",
     "p2p.scheduleEmailService.centralTime": "Heure centrale des États-Unis",
     "p2p.scheduleEmailService.easternTime": "Heure de l'Est des États-Unis",
-    "p2p.schedulePhoneMessageService": "message au numéro de téléphone [PHONENUMBER] contenu [CONTENT] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]"
+    "p2p.schedulePhoneMessageService": "message au numéro de téléphone [PHONENUMBER] contenu [CONTENT] à la date [DATE] heure [HOUR] minute [MINUTE] fuseau horaire [TIMEZONE] avec ID [ID]",
+    "pen.printText": "imprimer [TEXT] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] couleur [COLOR] pendant [SECS] secondes",
+    "pen.setDrawing": "set dessin costume [DRAWINGMENU]",
+    "pen.drawLine": "dessine une ligne [COLOR] épaisseur [THICKNESS] de x [FROMX] y [FROMY] à x [TOX] y [TOY]",
+    "widget.drawChartUsingList":"dessine un graphique [CHARTTYPE] en utilisant la liste [LIST] x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT]",
+    "widget.drawChartUsingColumn":"dessine le graphique [CHARTTYPE] en utilisant les colonnes [COLUMNS] du tableau [TABLE] x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT]",
+    "widget.drawChartUsingCategory":"dessine un graphique à secteurs en utilisant la catégorie [CATEGORY] et la valeur [VALUE] du tableau [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT]",
+    "widget.chartType.line": "ligne",
+    "widget.chartType.bar":"bar",
+    "widget.chartType.pie": "pie",
+    "widget.chartType.percentage": "pourcentage"
 }

@@ -196,6 +196,9 @@
     "LOOKS_THINK": "思考 %1",
     "LOOKS_SAYFORSECS_WITHSTYLE": "说 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
     "LOOKS_THINKFORSECS_WITHSTYLE": "认为 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
+    "LOOKS_MOVE_VIEWPORT": "将视口移动到 x %1 y %2",
+    "LOOKS_LOCK_VIEWPORT_TO_SPRITE": "将视口锁定到 sprite %1",
+    "LOOKS_EXPORTING_COSTUME_IMAGE": "导出名为 %1 的服装",
     "LOOKS_HMM": "嗯……",
     "LOOKS_SHOW": "显示",
     "LOOKS_HIDE": "隐藏",
@@ -761,5 +764,6 @@
     "Indonesian": "印度尼西亚",
     "Kannada_India": "卡纳达语（印度）",
     "Spanish_USA": "西班牙语（美国）",
-    "OPEN_AI_IMAGE": "OpenAI DALL-E: 生成造型图片 名称 %1 描述 %2"
+    "OPEN_AI_IMAGE": "OpenAI DALL-E：生成服装图像名称 %1 描述 %2，分辨率 %3",
+    "OPEN_AI_IMAGE_ERROR" : "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。"
 }
