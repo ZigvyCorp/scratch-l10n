@@ -718,8 +718,10 @@
     "d3_applyimpulse": "apply impulse strength [SIZE] direction xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] to [NAME]",
     "d3_applyforce": "apply force strength [SIZE] direction xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] to [NAME]",
     "d3_broadcastcollisionmessage": "broadcast [BROADCASTMESSAGE] on collision between bodies of [NAME] from [SPRITE] and [NAME2] from [SPRITE2]",
-    "d3_converttophysicscar": "enable car simulation mass [MASS] restitution [RESTITUTION]% tire friction [FRICTION]% for [NAME]",
-    "d3_updatecarphysics": "set engine force [ENGINE] brake level [BRAKE] % to car [NAME]",
+    "d3_converttophysicscar": "enable car simulation mass [MASS] restitution [RESTITUTION]% friction [BODYFRICTION]% tire friction [FRICTION]% for [NAME]",
+    "d3_updatecarphysics": "set car engine force [ENGINE] brake level [BRAKE] % for [NAME]",
+    "d3_updatecarwheelphysics": "set car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [NAME]",
+    "d3_setcarsteer": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
     "d3_updatecarsteer": "steer car to angle [STEER] for [NAME]",
     "d3_updatecollisiongroup": "update collision group [COLLISIONGROUP] target groups [TARGETGROUPS] for [NAME]",
 
