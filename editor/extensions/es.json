@@ -792,6 +792,7 @@
     "d3_setrenderinggroup": "establecer capa de representación [LAYERID]",
     "d3_lockfacing": "establecer el modo de orientación de la cámara [FACEMODE]",
     "d3_updatephysics": "habilitar la física como una [SHAPE] con masa [MASS] restitución [RESTITUTION]% fricción [FRICTION]% Congelada [YESNO] depuración [ISDEBUG] [COLOR]",
+    "d3_changephysics": "actualizar la restitución de la propiedad física [RESTITUTION]% fricción [FRICTION]%",
     "d3_removephysics": "eliminar cuerpo físico",
     "d3_mergephysics": "añadir cuerpos físicos de [CHILDREN] en el compuesto [NAME] mantener el objeto [KEEPOBJ]",
     "d3_updatescale": "actualizar escala x [X]% y [Y]% z [Z]% en [PERIOD] segundos [BLOCKING]",

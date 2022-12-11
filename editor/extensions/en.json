@@ -704,6 +704,7 @@
     "d3_setscenephysics": "enable physics for scene with gravity [GRAVITY]",
     "d3_updategravity": "update gravity for scene to [GRAVITY]",
     "d3_updatephysics": "add [SHAPE] physics body with mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% frozen [YESNO] debug [ISDEBUG] [COLOR]",
+    "d3_changephysics": "update physics property restitution [RESTITUTION]% friction [FRICTION]%",
     "d3_removephysics": "remove physics body",
     "d3_mergephysics": "add physics bodies of [CHILDREN] into compound [NAME] keep object [KEEPOBJ]",
     "d3_setasphysicsparent": "set object [PARENTNAME] from sprite [SPRITE] as parent for physics",
