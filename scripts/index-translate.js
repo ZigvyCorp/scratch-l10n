@@ -18,7 +18,20 @@ blockTransList.forEach((component) => {
 
             Object.entries(langData).forEach(([id, translated]) => {
                 if (id.includes('.') || id.includes('_')) {
-                    set(result, [id.toLowerCase().replaceAll('.', '_'), lang], translated);
+                    let newId = id.toLowerCase();
+
+                    // For convert extension key to have same format with block type --> <category>_<block_id>
+                    newId = newId.replaceAll('.', '_');
+                    // For convert AI category blocks key to have same format with block type ---> <block_id>
+                    newId = newId.replace('ai_', '');
+                    // For convert operator blocks key to have same format with block type ---> <operator>_<block_id>
+                    newId = newId.replace('operators_', 'operator_');
+                    // For convert forever block to have same format with block type ---> forever
+                    newId = newId.replace('control_forever', 'forever');
+                    // For convert my blocks category return block to have same format with block type ---> procedure_return
+                    newId = newId.replace('procedure_', 'procedures_');
+
+                    set(result, [newId, lang], translated);
                 }
             });
         } catch (e) {
