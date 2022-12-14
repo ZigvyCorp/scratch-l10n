@@ -725,7 +725,8 @@
     "d3_setcarsteer": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
     "d3_updatecarsteer": "steer car to angle [STEER] for [NAME]",
     "d3_updatecollisiongroup": "update collision group [COLLISIONGROUP] target groups [TARGETGROUPS] for [NAME]",
-
+    "d3_adddistanceconstraint": "add distance constraint between [OBJA] and [OBJB] named [JOINTNAME]",
+    "d3_removeconstraint": "remove constraint named [JOINTNAME]",
     "d3_setphysicsframerate": "set physics frame rate [RATE]",
     "d3_getphysicsframerate": "get physics frame rate for [NAME]",
     "d3_freezeallphysics": "freeze all physics bodys [YESNO]",
