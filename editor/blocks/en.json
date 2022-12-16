@@ -257,6 +257,8 @@
     "LOOKS_DRAW_LINE": "draw line in %1 from x %2 y %3 to x %4 y %5 thickness %6",
     "LOOKS_DRAW_CURVE": "draw curve in %1 from x %2 y %3 to x %4 y %5 control 1 x %6 y %7 control 2 x %8 y %9 thickness %10 ",
     "MOTION_MOVESTEPS": "move %1 steps",
+    "MOTION_ATTACHTOVIEWPORT": "attach to viewport at x %1 y %2",
+    "MOTION_DETACHFROMVIEWPORT": "detach from viewport",
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
     "MOTION_TURNAROUNDSPRITE": "turn %1 %2 degrees around %3 in %4 seconds",
