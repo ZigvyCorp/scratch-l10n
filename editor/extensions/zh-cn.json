@@ -422,7 +422,7 @@
     "d3_addavatarforuser": "添加用户 [USERNAME] 的化身 [AVATAR_NAME] 高度 [HEIGHT] 名为 [NAME] 隐藏 [HIDDEN]",
     "d3_addanimation":  "添加动画 [ANIMATIONS]",
     "d3_startanimation":  "开始动画 [ANIMATIONNAME] 循环 [LOOPING] 帧号 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 进度广播 [BROADCASTMESSAGE]",
-    "d3_startanimation2":  "开始模型动画 [ANIMATIONNAME] 循环 [LOOPING] 帧号 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 在 [PROGRESSLIST]% 进度广播 [BROADCASTMESSAGE]",
+    "d3_startanimation2":  "开始模型动画 [ANIMATIONNAME] 循环 [LOOPING] 帧号 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 进度广播 [BROADCASTMESSAGE]",
     "d3_stopanimation":  "停止动画",
     "d3_addplane":  "添加平面 [COLOR] 大小 x [SIZEX] y [SIZEY] 名为 [NAME]",
     "d3_addabcdplane":  "添加平面 [COLOR] 宽 [SIZEX] 长 [SIZEY] 系数 abcd [A] [B] [C] [D] 名为 [NAME]",

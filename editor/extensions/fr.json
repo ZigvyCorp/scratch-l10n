@@ -663,7 +663,7 @@
     "d3_addavatarforuser": "ajouter l'avatar [AVATAR_NAME] pour l'utilisateur [USERNAME] taille [HEIGHT] en tant que [NAME] caché [HIDDEN]",
     "d3_addanimation": "ajouter des animations [ANIMATIONS]",
     "d3_startanimation": "démarrer l'animation [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
-    "d3_startanimation2": "démarrer l'animation du modèle [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
+    "d3_startanimation2": "démarrer l'animation du modèle [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
     "d3_stopanimation": "arrêter l'animation",
     "d3_addplane": "ajouter la taille du plan [COLOR] x [SIZEX] y [SIZEY] nommé [NAME]", 
     "d3_addabcdplane": "ajouter plan [COLOR] largeur [SIZEX] hauteur [SIZEY] coefficients abcd [A] [B] [C] [D] nommé [NAME]", 
