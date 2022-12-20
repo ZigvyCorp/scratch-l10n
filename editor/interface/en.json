@@ -621,7 +621,7 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
-    "gui.sharedMessages.fixBlocks": "Fix blocks",
+    "gui.sharedMessages.fixBlocks": "Fix holes in blocks",
     "gui.sharedMessages.turnOnAutoCodeReview": "Turn on auto code review tool",
     "gui.sharedMessages.turnOffAutoCodeReview": "Turn off auto code review tool",
     "gui.autoCodeReview.issueMessage": "{numberOfIssue} potential issues found: ",
