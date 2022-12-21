@@ -18,10 +18,15 @@ blockTransList.forEach((component) => {
 
             Object.entries(langData).forEach(([id, translated]) => {
                 if (id.includes('.') || id.includes('_')) {
+                    // Regex for remove %n and [] barack in translate string
+                    const regex = /(?:%)\d+|\x5b|\x5D/g;
+                    let newTranslate = translated.replace(regex, '');
                     let newId = id.toLowerCase();
 
                     // For convert extension key to have same format with block type --> <category>_<block_id>
                     newId = newId.replaceAll('.', '_');
+                    // For getting category name ---> for later use (if have)
+                    const [category, blockName] = newId.split('_');
                     // For convert AI category blocks key to have same format with block type ---> <block_id>
                     newId = newId.replace('ai_', '');
                     // For convert operator blocks key to have same format with block type ---> <operator>_<block_id>
@@ -31,7 +36,9 @@ blockTransList.forEach((component) => {
                     // For convert my blocks category return block to have same format with block type ---> procedure_return
                     newId = newId.replace('procedure_', 'procedures_');
 
-                    set(result, [newId, lang], translated);
+                    set(result, [newId, lang], newTranslate);
+
+                    if (category) set(result, [newId, 'category'], category);
                 }
             });
         } catch (e) {
