@@ -689,6 +689,7 @@
     "d3_clearmirrorreflect": "eliminar todos los reflejos en el espejo [NAME]",
     "d3_addsolidline": "agregar línea [COLOR] diámetro [DIAMETER] tapa [CAPTYPE] flecha [ARROWHEAD] lados [SIDES] xyz de [X] [Y] [Z] a [X2] [Y2] [Z2] segmentos [SEGCOUNT] como [NAME]",
     "d3_adddottedline": "agregar línea de puntos [COLOR] diámetro [DIAMETER] longitud del segmento [SEGLEN] longitud del espacio [GAPLEN] tapa [CAPTYPE] flecha [ARROWHEAD] lados [SIDES] desde xyz [X] [Y] [Z] a xyz [X2] [Y2] [Z2] llamado [NAME] ",
+    "d3_addmovingline": "añadir línea móvil entre [OBJ1] y [OBJ2] [COLOR] diámetro [DIAMETER] lados [SIDES] como [NAME]",
     "d3_generatearcpoints": "generar puntos de arco desde [X] [Y] [Z] a través de [X2] [Y2] [Z2] a [X3] [Y3] [Z3] en la lista [LISTNAME] cuenta [COUNT]",
     "d3_addcurveusinglist": "agregue la curva [COLOR] diámetro [DIAMETER] tapa [CAPTYPE] flecha [ARROWHEAD] lados [SIDES] usando la lista [LISTNAME] de [STARTIND] a [ENDIND] segmentos [SEGCOUNT] como [NAME]",
     "d3_addbox": "agregar tamaño de cuadro [COLOR] en x [SIZEX] y [SIZEY] z [SIZEZ] radio de borde [RADIUS] llamado [NAME]",
