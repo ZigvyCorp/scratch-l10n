@@ -4,11 +4,13 @@ import * as fs from 'fs';
 import * as path from 'path';
 import set from 'lodash/set';
 import axios from 'axios';
+var pinyin = require('chinese-to-pinyin');
 
 const baseUrl = `${process.env.METEOR_DOMAIN}/api`;
 
 let blockTransList = ['extensions', 'blocks'];
 let result = {};
+
 blockTransList.forEach((component) => {
     Object.keys(indexLanguage).forEach((lang) => {
         try {
@@ -39,6 +41,11 @@ blockTransList.forEach((component) => {
                     set(result, [newId, lang], newTranslate);
 
                     if (category) set(result, [newId, 'category'], category);
+
+                    if (lang === 'zh-cn' && newTranslate) {
+                        const convertedPinyin = pinyin(newTranslate, {toneToNumber: true}).replace(/[0-9]/g, '');
+                        set(result, [newId, 'pinyin'], convertedPinyin);
+                    }
                 }
             });
         } catch (e) {
