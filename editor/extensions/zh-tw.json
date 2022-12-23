@@ -483,11 +483,11 @@
     "d3tools_d3_showbounds": "顯示邊界框 [SHOW]",
     "d3tools_d3_showskeleton": "顯示骨架 [SHOW]",
 
-    "d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之間添加連線 [COLOR] 直徑 [DIAMETER] 側面數 [SIDES] 名為 [NAME]",
-    "d3_updatecarwheelphysics": "為汽車 [NAME] 設置車輪引擎機力 LF [LF] RF [RF] LB [LB] RB [RB] 剎車係數 [BRAKE]%",
-    "d3_setcarsteer": "為汽車 [NAME] 設置車輪角度 LF [LF] RF [RF] LB [LB] RB [RB]",
-    "d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之間添加名為 [JOINTNAME] 的距離約束",
-    "d3_removeconstraint": "刪除名為 [JOINTNAME] 的約束",
+    "d3object_d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之間添加連線 [COLOR] 直徑 [DIAMETER] 側面數 [SIDES] 名為 [NAME]",
+    "d3physics_d3_updatecarwheelphysics": "為汽車 [NAME] 設置車輪引擎機力 LF [LF] RF [RF] LB [LB] RB [RB] 剎車係數 [BRAKE]%",
+    "d3physics_d3_setcarsteer": "為汽車 [NAME] 設置車輪角度 LF [LF] RF [RF] LB [LB] RB [RB]",
+    "d3physics_d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之間添加名為 [JOINTNAME] 的距離約束",
+    "d3physics_d3_removeconstraint": "刪除名為 [JOINTNAME] 的約束",
 
 
     "d3_convertToFlatShading": "顯示平面著色",

@@ -737,11 +737,11 @@
     "d3tools_d3_showskeleton": "show skeleton [SHOW]",
 
 
-    "d3_changephysics": "update physics property restitution [RESTITUTION]% friction [FRICTION]%",
-    "d3_updatecarwheelphysics": "set car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [NAME]",
-    "d3_setcarsteer": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
-    "d3_adddistanceconstraint": "add distance constraint between [OBJA] and [OBJB] named [JOINTNAME]",
-    "d3_removeconstraint": "remove constraint named [JOINTNAME]",
+    "d3physics_d3_changephysics": "update physics property restitution [RESTITUTION]% friction [FRICTION]%",
+    "d3physics_d3_updatecarwheelphysics": "set car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [NAME]",
+    "d3physics_d3_setcarsteer": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
+    "d3physics_d3_adddistanceconstraint": "add distance constraint between [OBJA] and [OBJB] named [JOINTNAME]",
+    "d3physics_d3physics_d3_removeconstraint": "remove constraint named [JOINTNAME]",
 
     "d3_convertToFlatShading": "convert to flat shading",
     "d3tools_d3_showedges": "show edges [SHOW] color [EDGECOLOR] thickness [EDGETHICK]",

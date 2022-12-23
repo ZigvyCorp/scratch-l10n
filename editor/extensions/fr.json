@@ -730,11 +730,11 @@
     "d3tools_d3_showbounds": "afficher le cadre de délimitation [SHOW]",
     "d3tools_d3_showskeleton": "afficher le squelette [SHOW]",
 
-    "d3_addmovingline": "ajouter une ligne mobile entre [OBJ1] et [OBJ2] [COLOR] diamètre [DIAMETER] côtés [SIDES] comme [NAME]",
-    "d3_updatecarwheelphysics": "régler la force du moteur de la roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] niveau de freinage [BRAKE]% pour [NAME]",
-    "d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
-    "d3_adddistanceconstraint": "ajouter une contrainte de distance entre [OBJA] et [OBJB] nommée [JOINTNAME]",
-    "d3_removeconstraint": "supprime la contrainte nommée [JOINTNAME]",
+    "d3object_d3_addmovingline": "ajouter une ligne mobile entre [OBJ1] et [OBJ2] [COLOR] diamètre [DIAMETER] côtés [SIDES] comme [NAME]",
+    "d3physics_d3_updatecarwheelphysics": "régler la force du moteur de la roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] niveau de freinage [BRAKE]% pour [NAME]",
+    "d3physics_d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
+    "d3physics_d3_adddistanceconstraint": "ajouter une contrainte de distance entre [OBJA] et [OBJB] nommée [JOINTNAME]",
+    "d3physics_d3_removeconstraint": "supprime la contrainte nommée [JOINTNAME]",
 
     "d3_convertToFlatShading": "convertir en ombrage plat",
     "d3tools_d3_showedges": "afficher les bords [SHOW] la couleur [EDGECOLOR] l'épaisseur [EDGETHICK]",

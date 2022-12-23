@@ -491,12 +491,12 @@
     "d3tools_d3_showbounds":  "显示边界盒子 [SHOW]",
     "d3tools_d3_showskeleton": "显示骨架 [SHOW]",
 
-    "d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之间添加连线 [COLOR] 直径 [DIAMETER] 侧面数 [SIDES] 名为 [NAME]",
+    "d3object_d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之间添加连线 [COLOR] 直径 [DIAMETER] 侧面数 [SIDES] 名为 [NAME]",
     "d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE]%",
-    "d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
-    "d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
-    "d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的距离约束",
-    "d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
+    "d3physics_d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
+    "d3physics_d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
+    "d3physics_d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的距离约束",
+    "d3physics_d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
 
 
     "d3_convertToFlatShading": "显示平面着色",
@@ -616,7 +616,7 @@
     "d3object_d3_spriteminy":  "角色物体最小y",
     "d3object_d3_spriteminz":  "角色物体最小z",
 
-    "d3_changephysics": "更新物理属性 恢复系数 [RESTITUTION]% 摩擦系数 [FRICTION]%",
+    "d3physics_d3_changephysics": "更新物理属性 恢复系数 [RESTITUTION]% 摩擦系数 [FRICTION]%",
 
     "d3_sprite最大 [x":  "角色物体最大x",
     "d3_sprite最大 [y":  "角色物体最大y",

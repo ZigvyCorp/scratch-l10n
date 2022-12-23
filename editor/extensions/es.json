@@ -733,10 +733,10 @@
     "d3tools_d3_showbounds": "mostrar cuadro delimitador [SHOW]",
     "d3tools_d3_showskeleton": "mostrar esqueleto [SHOW]",
 
-    "d3_addmovingline": "añadir línea móvil entre [OBJ1] y [OBJ2] [COLOR] diámetro [DIAMETER] lados [SIDES] como [NAME]",
-    "d3_updatecarwheelphysics": "establecer la fuerza del motor de la rueda del automóvil LF [LF] RF [RF] LB [LB] RB [RB] nivel de freno [BRAKE] % para [NAME]",
-    "d3_setcarsteer": "establecer el ángulo de la rueda del coche LF [LF] RF [RF] LB [LB] RB [RB] para [NAME]",
-    "d3_adddistanceconstraint": "añadir restricción de distancia entre [OBJA] y [OBJB] llamado [JOINTNAME]",
+    "d3object_d3_addmovingline": "añadir línea móvil entre [OBJ1] y [OBJ2] [COLOR] diámetro [DIAMETER] lados [SIDES] como [NAME]",
+    "d3physics_d3_updatecarwheelphysics": "establecer la fuerza del motor de la rueda del automóvil LF [LF] RF [RF] LB [LB] RB [RB] nivel de freno [BRAKE] % para [NAME]",
+    "d3physics_d3_setcarsteer": "establecer el ángulo de la rueda del coche LF [LF] RF [RF] LB [LB] RB [RB] para [NAME]",
+    "d3physics_d3_adddistanceconstraint": "añadir restricción de distancia entre [OBJA] y [OBJB] llamado [JOINTNAME]",
 
     "d3_convertToFlatShading": "convertir a sombreado plano",
     "d3tools_d3_showedges": "mostrar bordes [SHOW] color [EDGECOLOR] grosor [EDGETHICK]",
