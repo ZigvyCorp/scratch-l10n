@@ -26,7 +26,7 @@ blockTransList.forEach((component) => {
                     let newId = id.toLowerCase();
 
                     // For convert extension key to have same format with block type --> <category>_<block_id>
-                    newId = newId.replaceAll('.', '_');
+                    newId = newId.replace('.', '_');
                     // For getting category name ---> for later use (if have)
                     const [category, blockName] = newId.split('_');
                     // For convert AI category blocks key to have same format with block type ---> <block_id>
