@@ -725,7 +725,7 @@
 
     "d3_adddistanceconstraint": "añadir restricción de distancia entre [OBJA] y [OBJB] llamado [JOINTNAME]",
     "d3_removeconstraint": "eliminar la restricción llamada [JOINTNAME]",
-
+    "d3_addfixedconstraint": "añadir restricción fija entre [OBJA] y [OBJB] llamado [JOINTNAME]",
     "d3_setphysicsframerate": "establecer la velocidad de fotogramas de la física [RATE]",
     "d3_getphysicsframerate": "obtener la velocidad de fotogramas de física para [NAME]",
     "d3_freezeallphysics": "congelar todas las formas físicas [YESNO]",

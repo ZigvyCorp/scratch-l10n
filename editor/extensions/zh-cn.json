@@ -477,6 +477,7 @@
     "d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
     "d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
     "d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的距离约束",
+    "d3_addfixedconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的固定约束",
     "d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
     "d3_updatecarsteer":"将汽车 [NAME] 转向角度 [STEER]",
     "d3_updatecollisiongroup": "为汽车 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",

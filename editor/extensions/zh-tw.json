@@ -469,6 +469,7 @@
     "d3_updatecarwheelphysics": "為汽車 [NAME] 設置車輪引擎機力 LF [LF] RF [RF] LB [LB] RB [RB] 剎車係數 [BRAKE]%",
     "d3_setcarsteer": "為汽車 [NAME] 設置車輪角度 LF [LF] RF [RF] LB [LB] RB [RB]",
     "d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之間添加名為 [JOINTNAME] 的距離約束",
+    "d3_addfixedconstraint": "在 [OBJA] 和 [OBJB] 之間添加名為 [JOINTNAME] 的固定約束",
     "d3_removeconstraint": "刪除名為 [JOINTNAME] 的約束",
     "d3_updatecarsteer":"將汽車 [NAME] 轉向角度 [STEER]",
     "d3_updatecollisiongroup": "為汽車 [NAME] 更新碰撞組 [COLLISIONGROUP] 目標組 [TARGETGROUPS]",

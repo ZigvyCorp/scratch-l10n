@@ -718,6 +718,7 @@
     "d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
     "d3_adddistanceconstraint": "ajouter une contrainte de distance entre [OBJA] et [OBJB] nommée [JOINTNAME]",
     "d3_removeconstraint": "supprime la contrainte nommée [JOINTNAME]",
+    "d3_addfixedconstraint": "ajouter une contrainte fixe entre [OBJA] et [OBJB] nommée [JOINTNAME]",
     "d3_updatecarsteer": "dirige la voiture à l'angle [STEER] pour [NAME]",
     "d3_updatecollisiongroup": "met à jour le groupe de collisions [COLLISIONGROUP] cible les groupes [TARGETGROUPS] pour [NAME]",
     "d3_setphysicsframerate": "définit la fréquence d'images physique [RATE]",
