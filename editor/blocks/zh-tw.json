@@ -294,6 +294,8 @@
     "MOTION_XPOSITION": "x 座標",
     "MOTION_YPOSITION": "y 座標",
     "MOTION_ZPOSITION": "z 位置",
+    "MOTION_VPXPOSITION": "視口 x 位置",
+    "MOTION_VPYPOSITION": "視口 y 位置",
     "MOTION_DIRECTION": "方向",
     "MOTION_SCROLLRIGHT": "滾動向右 %1",
     "MOTION_SCROLLUP": "滾動向上 %1",

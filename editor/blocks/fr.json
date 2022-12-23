@@ -295,6 +295,8 @@
     "MOTION_XPOSITION": "abscisse x",
     "MOTION_YPOSITION": "ordonnée y",
     "MOTION_ZPOSITION": "ordonnée z",
+    "MOTION_VPXPOSITION": "fenêtre x position",
+    "MOTION_VPYPOSITION": "fenêtre y position",
     "MOTION_DIRECTION": "direction",
     "MOTION_SCROLLRIGHT": "défiler à droite de %1",
     "MOTION_SCROLLUP": "défiler en haut de %1",
