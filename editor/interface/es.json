@@ -585,6 +585,8 @@
     "gui.opcodeLabels.xposition": "posición en x",
     "gui.opcodeLabels.yposition": "posición en y",
     "gui.opcodeLabels.zposition": "posición en z", 
+    "gui.opcodeLabels.vpx": "vista x",
+    "gui.opcodeLabels.vpy": "vista y",
     "gui.opcodeLabels.cloneid": "id del clon",
     "gui.opcodeLabels.size": "tamaño",
     "gui.opcodeLabels.costumename": "nombre de disfraz",

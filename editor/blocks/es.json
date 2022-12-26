@@ -295,6 +295,8 @@
     "MOTION_XPOSITION": "posición en x",
     "MOTION_YPOSITION": "posición en y",
     "MOTION_ZPOSITION": "posición en z",
+    "MOTION_VPXPOSITION": "ventana x posición",
+    "MOTION_VPYPOSITION": "vista y posición",
     "MOTION_DIRECTION": "dirección",
     "MOTION_SCROLLRIGHT": "desplazar a la derecha %1",
     "MOTION_SCROLLUP": "desplazar arriba %1",
