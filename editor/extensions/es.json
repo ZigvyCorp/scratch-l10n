@@ -737,7 +737,7 @@
     "d3physics_d3_updatecarwheelphysics": "establecer la fuerza del motor de la rueda del automóvil LF [LF] RF [RF] LB [LB] RB [RB] nivel de freno [BRAKE] % para [NAME]",
     "d3physics_d3_setcarsteer": "establecer el ángulo de la rueda del coche LF [LF] RF [RF] LB [LB] RB [RB] para [NAME]",
     "d3physics_d3_adddistanceconstraint": "añadir restricción de distancia entre [OBJA] y [OBJB] llamado [JOINTNAME]",
-    "d3_addfixedconstraint": "añadir restricción fija entre [OBJA] y [OBJB] llamado [JOINTNAME]",
+    "d3physics_d3_addfixedconstraint": "añadir restricción fija entre [OBJA] y [OBJB] llamado [JOINTNAME]",
     "d3_convertToFlatShading": "convertir a sombreado plano",
     "d3tools_d3_showedges": "mostrar bordes [SHOW] color [EDGECOLOR] grosor [EDGETHICK]",
     "d3tools_d3_updatecolor": "actualizar difusión de color [COLOR] emisión [COLOR2] rugosidad [ROUGHESS] brillo [BRIGHTNESS] eliminar textura [REMOVETEXTURE] área [COMPONENT]",

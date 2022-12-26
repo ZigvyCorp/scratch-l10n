@@ -735,7 +735,7 @@
     "d3physics_d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
     "d3physics_d3_adddistanceconstraint": "ajouter une contrainte de distance entre [OBJA] et [OBJB] nommée [JOINTNAME]",
     "d3physics_d3_removeconstraint": "supprime la contrainte nommée [JOINTNAME]",
-    "d3_addfixedconstraint": "ajouter une contrainte fixe entre [OBJA] et [OBJB] nommée [JOINTNAME]",
+    "d3physics_d3_addfixedconstraint": "ajouter une contrainte fixe entre [OBJA] et [OBJB] nommée [JOINTNAME]",
 
     "d3_convertToFlatShading": "convertir en ombrage plat",
     "d3tools_d3_showedges": "afficher les bords [SHOW] la couleur [EDGECOLOR] l'épaisseur [EDGETHICK]",
