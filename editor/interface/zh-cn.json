@@ -706,5 +706,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "未使用的变量",
     "gui.autoCodeReview.variableInstallButNotUse.description": "变量 '{VARIABLENAME}' 设置了一个值但从未使用过",
     "gui.autoCodeReview.sameVariable.title": "嵌套 Forloop 中使用的相同变量",
-    "gui.autoCodeReview.sameVariable.description": "变量 '{VARIABLENAME}' 用于嵌套 for 循环"
+    "gui.autoCodeReview.sameVariable.description": "变量 '{VARIABLENAME}' 用于嵌套 for 循环",
+    "gui.menuBar.shareMobileLink": "分享链接",
+    "gui.monitor.contextMenu.importTableWithSymbol": "导入 ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "导出 ('|')"
 }

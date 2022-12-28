@@ -706,5 +706,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "Unused Variable",
     "gui.autoCodeReview.variableInstallButNotUse.description": "The variable '{VARIABLENAME}' is set a value but never used",
     "gui.autoCodeReview.sameVariable.title": "Same Variable Used in Nested Forloop",
-    "gui.autoCodeReview.sameVariable.description": "The variable '{VARIABLENAME}' is used in nested for-loops"
+    "gui.autoCodeReview.sameVariable.description": "The variable '{VARIABLENAME}' is used in nested for-loops",
+    "gui.menuBar.shareMobileLink": "Share link",
+    "gui.monitor.contextMenu.importTableWithSymbol": "import ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "export ('|')"
 }
