@@ -584,6 +584,8 @@
     "gui.opcodeLabels.xposition": "abscisse x",
     "gui.opcodeLabels.yposition": "ordonnée y",
     "gui.opcodeLabels.zposition": "ordonnée z",
+    "gui.opcodeLabels.vpx": "fenêtre x",
+    "gui.opcodeLabels.vpy": "fenêtre y",
     "gui.opcodeLabels.cloneid": "id de clonage",
     "gui.opcodeLabels.size": "taille",
     "gui.opcodeLabels.costumename": "nom du costume",
