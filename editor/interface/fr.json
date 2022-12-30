@@ -707,5 +707,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "Variable inutilisée",
     "gui.autoCodeReview.variableInstallButNotUse.description": "La variable '{VARIABLENAME}' est définie sur une valeur mais jamais utilisée",
     "gui.autoCodeReview.sameVariable.title": "Même variable utilisée dans la boucle for imbriquée",
-    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' est utilisée dans les boucles for imbriquées"
+    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' est utilisée dans les boucles for imbriquées",
+    "gui.menuBar.shareMobileLink": "Lien de partage",
+    "gui.monitor.contextMenu.importTableWithSymbol": "importer ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "exporter ('|')"
 }
