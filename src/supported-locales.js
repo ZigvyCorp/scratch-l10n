@@ -3,7 +3,7 @@
  * @type {Object} Key Value pairs of locale code: Language name written in the language
  */
 
- const locales = {
+const locales = {
     'en': {name: 'English'},
     'es': {name: 'Español (España)'},
     'fr': {name: 'Français'},
@@ -77,7 +77,15 @@
     'sv': {name: 'Svenska'},
     'vi': {name: 'Tiếng Việt'},
     'tr': {name: 'Türkçe'},
-    'uk': {name: 'Українська'},
+    'uk': {name: 'Українська'}
+};
+
+const indexLanguage = {
+    'en': {name: 'English'},
+    'es': {name: 'Español (España)'},
+    'fr': {name: 'Français'},
+    'zh-cn': {name: '简体中文'},
+    'zh-tw': {name: '繁體中文'}
 };
 
 const customLocales = {
@@ -131,4 +139,4 @@ const isRtl = locale => {
     return rtlLocales.indexOf(locale) !== -1;
 };
 
-export {locales as default, customLocales, localeMap, isRtl};
+export {locales as default, customLocales, localeMap, isRtl, indexLanguage};

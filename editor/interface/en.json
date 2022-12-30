@@ -144,8 +144,8 @@
     "gui.menuBar.edit": "Edit",
     "gui.menuBar.turboModeOff": "Turn off Turbo Mode",
     "gui.menuBar.turboModeOn": "Turn on Turbo Mode",
-    "gui.menuBar.leftClickForMenuModeOff": "Turn off Click for menu",
-    "gui.menuBar.leftClickForMenuModeOn": "Turn on Click for menu",
+    "gui.menuBar.leftClickForMenuModeOff": "Turn off Click for Menu",
+    "gui.menuBar.leftClickForMenuModeOn": "Turn on Click for Menu (One Time)",
     "gui.menuBar.mode": "Mode:",
     "gui.menuBar.desktop": "Desktop",
     "gui.menuBar.mobile": "Mobile",
@@ -593,6 +593,8 @@
     "gui.opcodeLabels.xposition": "x position",
     "gui.opcodeLabels.yposition": "y position",
     "gui.opcodeLabels.zposition": "z position",
+    "gui.opcodeLabels.vpx": "viewport x",
+    "gui.opcodeLabels.vpy": "viewport y",
     "gui.opcodeLabels.cloneid": "clone id",
     "gui.opcodeLabels.size": "size",
     "gui.opcodeLabels.costumename": "costume name",
@@ -621,7 +623,7 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.sharedMessages.collapseAllStacks": "Collapse all stacks",
-    "gui.sharedMessages.fixBlocks": "Fix blocks",
+    "gui.sharedMessages.fixBlocks": "Fix holes in blocks",
     "gui.sharedMessages.turnOnAutoCodeReview": "Turn on auto code review tool",
     "gui.sharedMessages.turnOffAutoCodeReview": "Turn off auto code review tool",
     "gui.autoCodeReview.issueMessage": "{numberOfIssue} potential issues found: ",
@@ -706,5 +708,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "Unused Variable",
     "gui.autoCodeReview.variableInstallButNotUse.description": "The variable '{VARIABLENAME}' is set a value but never used",
     "gui.autoCodeReview.sameVariable.title": "Same Variable Used in Nested Forloop",
-    "gui.autoCodeReview.sameVariable.description": "The variable '{VARIABLENAME}' is used in nested for-loops"
+    "gui.autoCodeReview.sameVariable.description": "The variable '{VARIABLENAME}' is used in nested for-loops",
+    "gui.menuBar.shareMobileLink": "Share link",
+    "gui.monitor.contextMenu.importTableWithSymbol": "import ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "export ('|')"
 }

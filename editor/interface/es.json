@@ -585,6 +585,8 @@
     "gui.opcodeLabels.xposition": "posición en x",
     "gui.opcodeLabels.yposition": "posición en y",
     "gui.opcodeLabels.zposition": "posición en z", 
+    "gui.opcodeLabels.vpx": "vista x",
+    "gui.opcodeLabels.vpy": "vista y",
     "gui.opcodeLabels.cloneid": "id del clon",
     "gui.opcodeLabels.size": "tamaño",
     "gui.opcodeLabels.costumename": "nombre de disfraz",
@@ -613,7 +615,7 @@
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
     "gui.sharedMessages.collapseAllStacks": "Contraer todas las pilas",
-    "gui.sharedMessages.fixBlocks": "Arreglar bloques",
+    "gui.sharedMessages.fixBlocks": "Arreglar agujeros en bloques",
     "gui.sharedMessages.turnOnAutoCodeReview": "Activar herramienta de revisión automática de código",
     "gui.sharedMessages.turnOffAutoCodeReview": "Desactivar la herramienta de revisión automática de código",
     "gui.autoCodeReview.issueMessage": "{numberOfIssue} problemas potenciales encontrados: ",
@@ -708,5 +710,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "Variable no utilizada",
     "gui.autoCodeReview.variableInstallButNotUse.description": "La variable '{VARIABLENAME}' tiene un valor establecido pero nunca se usa",
     "gui.autoCodeReview.sameVariable.title": "Se usa la misma variable en Forloop anidado",
-    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' se usa en bucles for anidados"
+    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' se usa en bucles for anidados",
+    "gui.menuBar.shareMobileLink": "Compartir enlace",
+    "gui.monitor.contextMenu.importTableWithSymbol": "importar ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "exportar ('|')"
 }

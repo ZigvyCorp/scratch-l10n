@@ -584,6 +584,8 @@
     "gui.opcodeLabels.xposition": "abscisse x",
     "gui.opcodeLabels.yposition": "ordonnée y",
     "gui.opcodeLabels.zposition": "ordonnée z",
+    "gui.opcodeLabels.vpx": "fenêtre x",
+    "gui.opcodeLabels.vpy": "fenêtre y",
     "gui.opcodeLabels.cloneid": "id de clonage",
     "gui.opcodeLabels.size": "taille",
     "gui.opcodeLabels.costumename": "nom du costume",
@@ -612,7 +614,7 @@
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
     "gui.sharedMessages.collapseAllStacks": "Réduire toutes les piles",
-    "gui.sharedMessages.fixBlocks": "Réparer les blocs",
+    "gui.sharedMessages.fixBlocks": "Réparer les trous dans les blocs",
     "gui.sharedMessages.turnOnAutoCodeReview": "Activer l'outil de révision automatique du code",
     "gui.sharedMessages.turnOffAutoCodeReview": "Désactiver l'outil de révision automatique du code",
     "gui.autoCodeReview.issueMessage": "{numberOfIssue} problèmes potentiels trouvés : ",
@@ -705,5 +707,8 @@
     "gui.autoCodeReview.variableInstallButNotUse.title": "Variable inutilisée",
     "gui.autoCodeReview.variableInstallButNotUse.description": "La variable '{VARIABLENAME}' est définie sur une valeur mais jamais utilisée",
     "gui.autoCodeReview.sameVariable.title": "Même variable utilisée dans la boucle for imbriquée",
-    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' est utilisée dans les boucles for imbriquées"
+    "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' est utilisée dans les boucles for imbriquées",
+    "gui.menuBar.shareMobileLink": "Lien de partage",
+    "gui.monitor.contextMenu.importTableWithSymbol": "importer ('|')",
+    "gui.monitor.contextMenu.exportTableWithSymbol": "exporter ('|')"
 }
