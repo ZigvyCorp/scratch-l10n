@@ -456,7 +456,7 @@
     "d3object_d3_addtransformnode":  "添加转换器 名为 [NAME]",
     "d3object_d3_setasparent": "把角色 [SPRITE] 中的物体 [PARENTNAME] 名为父节点",
     "d3object_d3_setcameraasparent": "将摄像头设置为父节点",
-    "d3action_d3_spriteblockeddir": "角色对象在 [DIRECTION] 方向被阻止",
+    "d3action_d3_spriteblockeddir": "角色物体在 [DIRECTION] 方向被阻止",
     "d3arvr_d3_setasocclusion": "转换为透明遮挡",
     "d3arvr_d3_turnonvr": "切换到 VR 摄像头",
     "d3physics_d3_setasphysicsparent": "将角色 [SPRITE] 中的物理物体 [PARENTNAME] 设置为物理父节点",
