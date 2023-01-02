@@ -852,6 +852,7 @@
     "Linear": "线性",
     "Exponential": "指数增长",
     "None": "无",
+    "All Other Sprites": "其它所有角色",
     "d3physics_d3_setscenephysics": "为场景启用物理引擎 重力 [GRAVITY]",
     "d3_updategravity": "将场景的重力更新为 [GRAVITY]",
     "d3scene_d3_setskybox":  "指定天空 [SKYTYPE]",

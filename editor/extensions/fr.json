@@ -414,6 +414,8 @@
     "grass": "Terre d'herbe",
     "makeselection": "Veuillez sélectionner", 
     "none": "Rien", 
+    "None": "Rien", 
+    "All Other Sprites": "Tous les autres sprites",
     "OK": "d'accord", 
     "Another object has already used this name: ": "Un autre objet a déjà utilisé ce nom : ",
     "yes": "Oui", 
