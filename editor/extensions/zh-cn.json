@@ -879,7 +879,7 @@
     "d3scene_d3_adddirectionallight": "添加单向光 [COLOR] 方向 xyz [X] [Y] [Z] 位置 xyz [X2] [Y2] [Z2] 亮度 [INTENSITY] 名为 [NAME]",
     "d3scene_d3_addhemisphericlight":  "添加环境光 [COLOR] 天空方向 xyz [X] [Y] [Z] 亮度 [INTENSITY] 名为 [NAME]",
     "d3scene_d3_addspotlight":  "添加聚焦光源 [COLOR] 位置 xyz [X] [Y] [Z] 打开角度 [ANGLE] 亮度 [INTENSITY] 光晕 [DECAY] 显示位置 [SHOW] 名为 [NAME]",
-    "d3scene_d3_castshadowfromlight": "对于名为 [NAME] 的光源投射阴影",
+    "d3scene_d3_castshadowfromlight": "从名为 [NAME] 的灯光投射阴影 [CAST] 模糊度 [BLUR]",
     "d3scene_d3_receiveshadow": "显示阴影 [SHOW]",
     "d3scene_d3_addglowgroup":  "创建辉光层 强度 [INTENSITY] 光晕大小 [BLURSIZE] 名为 [NAME]",
     "d3scene_d3_addtoglowgroup": "加入名为 [NAME] 的辉光层",

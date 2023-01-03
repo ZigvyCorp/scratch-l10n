@@ -619,7 +619,7 @@
     "d3scene_d3_adddirectionallight": "añadir luz direccional [COLOR] en la dirección xyz [X] [Y] [Z] en xyz [X2] [Y2] [Z2] INTENSITY [INTENSITY] llamada [NAME]",
     "d3scene_d3_addhemisphericlight": "añadir luz ambiental [COLOR] dirección del cielo xyz [X] [Y] [Z] INTENSITY [INTENSITY] denominada [NAME]",
     "d3scene_d3_addspotlight": "agregar luz puntual [COLOR] en xyz [X] [Y] [Z] ángulo abierto [ÁNGULO] INTENSITY [INTENSITY] desenfoque [DECAY] mostrar la posición [SHOW] denominada [NAME]",
-    "d3scene_d3_castshadowfromlight": "proyecta sombra de una luz llamada [NAME]",
+    "d3scene_d3_castshadowfromlight": "sombra proyectada [CAST] desde una luz llamada [NAME] tamaño de desenfoque [BLUR]",
     "d3scene_d3_receiveshadow": "recibe sombra [SHOW]",
     "d3scene_d3_addglowgroup": "crea la INTENSITY de la capa de brillo [INTENSITY] tamaño de desenfoque [BLURSIZE] llamado [NAME]",
     "d3scene_d3_addtoglowgroup": "agregar a la capa luminosa llamada [NAME]",

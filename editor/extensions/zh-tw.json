@@ -865,7 +865,7 @@
     "d3scene_d3_adddirectionallight": "添加單向光 [COLOR] 方向 xyz [X] [Y] [Z] 位置 xyz [X] [Y] [Z] 強度 [INTENSITY] 名為 [NAME]",
     "d3scene_d3_addhemisphericlight": "添加環境光 [COLOR] 天空方向 xyz [X] [Y] [Z] 強度 [INTENSITY] 名為 [NAME]",
     "d3scene_d3_addspotlight": "添加聚光燈 [COLOR] 位置 xyz [X] [Y] [Z] 開角 [ANGLE] 強度 [INTENSITY] 光晕 [DECAY] 顯示位置 [SHOW] 名為 [NAME]",
-    "d3scene_d3_castshadowfromlight": "從名為 [NAME] 的光源投射陰影",
+    "d3scene_d3_castshadowfromlight": "從名為 [NAME] 的燈光投射陰影 [CAST] 模糊度 [BLUR]",
     "d3scene_d3_receiveshadow": "接收陰影 [SHOW]",
     "d3scene_d3_addglowgroup": "創建發光層強度 [INTENSITY] 光晕大小 [BLURSIZE] 名為 [NAME]",
     "d3scene_d3_addtoglowgroup": "添加到名為 [NAME] 的發光層",

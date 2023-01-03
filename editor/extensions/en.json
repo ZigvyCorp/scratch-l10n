@@ -617,7 +617,7 @@
     "d3scene_d3_adddirectionallight": "add directional light [COLOR] in direction xyz [X] [Y] [Z] at xyz [X2] [Y2] [Z2] intensity [INTENSITY] as [NAME]", 
     "d3scene_d3_addhemisphericlight": "add ambient light [COLOR] sky direction xyz [X] [Y] [Z] intensity [INTENSITY] as [NAME]",
     "d3scene_d3_addspotlight": "add spot light [COLOR] at xyz [X] [Y] [Z] open angle [ANGLE] intensity [INTENSITY] blur [DECAY] show position [SHOW] as [NAME]", 
-    "d3scene_d3_castshadowfromlight": "cast shadow from light named [NAME]", 
+    "d3scene_d3_castshadowfromlight": "cast shadow [CAST] from light named [NAME] blur size [BLUR]", 
     "d3scene_d3_receiveshadow": "receives shadow [SHOW]",
     "d3scene_d3_addglowgroup": "create glow layer intensity [INTENSITY] blur size [BLURSIZE] as [NAME]", 
     "d3scene_d3_addtoglowgroup": "add to glow layer named [NAME]",
