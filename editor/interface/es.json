@@ -611,6 +611,7 @@
     "gui.sharedMessages.backdrop": "fondo{index}",
     "gui.sharedMessages.costume": "disfraz{index}",
     "gui.sharedMessages.sprite": "Objeto{index}",
+    "gui.sharedMessages.empty": "Vacío{index}",
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
@@ -713,5 +714,10 @@
     "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' se usa en bucles for anidados",
     "gui.menuBar.shareMobileLink": "Compartir enlace",
     "gui.monitor.contextMenu.importTableWithSymbol": "importar ('|')",
-    "gui.monitor.contextMenu.exportTableWithSymbol": "exportar ('|')"
+    "gui.monitor.contextMenu.exportTableWithSymbol": "exportar ('|')",
+    "gui.gameLeader.scoreTitle": "Puntaje",
+    "gui.gameLeader.playerTitle": "Jugador",
+    "gui.gameLeader.dateTitle": "Fecha",
+    "gui.SpriteInfo.Y": "Y",
+    "gui.SpriteInfo.Z": "Z"
 }

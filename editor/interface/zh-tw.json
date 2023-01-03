@@ -608,6 +608,7 @@
     "gui.sharedMessages.backdrop": "背景{index}",
     "gui.sharedMessages.costume": "造型{index}",
     "gui.sharedMessages.sprite": "角色{index}",
+    "gui.sharedMessages.empty": "空的{index}",
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有項目？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
@@ -700,5 +701,11 @@
     "gui.autoCodeReview.sameVariable.description": "變量 '{VARIABLENAME}' 用於嵌套 for 循環",
     "gui.menuBar.shareMobileLink": "分享鏈接",
     "gui.monitor.contextMenu.importTableWithSymbol": "導入 ('|')",
-    "gui.monitor.contextMenu.exportTableWithSymbol": "導出 ('|')"
+    "gui.monitor.contextMenu.exportTableWithSymbol": "導出 ('|')",
+    "gui.gameLeader.scoreTitle": "分數",
+    "gui.gameLeader.playerTitle": "播放器",
+    "gui.gameLeader.dateTitle": "日期",
+    "gui.SpriteInfo.Y": "Y",
+    "gui.SpriteInfo.Z": "Z",
+    "gui.menuBar.tutorials": "教程"
 }

@@ -619,6 +619,7 @@
     "gui.sharedMessages.backdrop": "backdrop{index}",
     "gui.sharedMessages.costume": "costume{index}",
     "gui.sharedMessages.sprite": "Sprite{index}",
+    "gui.sharedMessages.empty": "Empty{index}",
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
@@ -711,5 +712,10 @@
     "gui.autoCodeReview.sameVariable.description": "The variable '{VARIABLENAME}' is used in nested for-loops",
     "gui.menuBar.shareMobileLink": "Share link",
     "gui.monitor.contextMenu.importTableWithSymbol": "import ('|')",
-    "gui.monitor.contextMenu.exportTableWithSymbol": "export ('|')"
+    "gui.monitor.contextMenu.exportTableWithSymbol": "export ('|')",
+    "gui.gameLeader.scoreTitle": "Score",
+    "gui.gameLeader.playerTitle": "Player",
+    "gui.gameLeader.dateTitle": "Date",
+    "gui.SpriteInfo.Y": "Y",
+    "gui.SpriteInfo.Z": "Z"
 }
