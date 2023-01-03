@@ -610,6 +610,7 @@
     "gui.sharedMessages.backdrop": "arrière-plan{index}",
     "gui.sharedMessages.costume": "costume{index}",
     "gui.sharedMessages.sprite": "Sprite{index}",
+    "gui.sharedMessages.empty": "Vider{index}",
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": " Remplacer le contenu du projet actuel ?",
     "gui.sharedMessages.loadFromComputerTitle": "Importer depuis votre ordinateur",
@@ -710,5 +711,10 @@
     "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' est utilisée dans les boucles for imbriquées",
     "gui.menuBar.shareMobileLink": "Lien de partage",
     "gui.monitor.contextMenu.importTableWithSymbol": "importer ('|')",
-    "gui.monitor.contextMenu.exportTableWithSymbol": "exporter ('|')"
+    "gui.monitor.contextMenu.exportTableWithSymbol": "exporter ('|')",
+    "gui.gameLeader.scoreTitle": "Score",
+    "gui.gameLeader.playerTitle": "Joueur",
+    "gui.gameLeader.dateTitle": "Date",
+    "gui.SpriteInfo.Y": "Y",
+    "gui.SpriteInfo.Z": "Z"
 }

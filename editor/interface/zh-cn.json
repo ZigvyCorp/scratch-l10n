@@ -619,6 +619,7 @@
     "gui.sharedMessages.backdrop": "背景{index}",
     "gui.sharedMessages.costume": "造型{index}",
     "gui.sharedMessages.sprite": "角色{index}",
+    "gui.sharedMessages.empty": "空的{index}",
     "gui.sharedMessages.pop": "啵",
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前项目中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
@@ -711,5 +712,10 @@
     "gui.autoCodeReview.sameVariable.description": "变量 '{VARIABLENAME}' 用于嵌套 for 循环",
     "gui.menuBar.shareMobileLink": "分享链接",
     "gui.monitor.contextMenu.importTableWithSymbol": "导入 ('|')",
-    "gui.monitor.contextMenu.exportTableWithSymbol": "导出 ('|')"
+    "gui.monitor.contextMenu.exportTableWithSymbol": "导出 ('|')",
+    "gui.gameLeader.scoreTitle": "分数",
+    "gui.gameLeader.playerTitle": "播放器",
+    "gui.gameLeader.dateTitle": "日期",
+    "gui.SpriteInfo.Y": "Y",
+    "gui.SpriteInfo.Z": "Z"
 }
