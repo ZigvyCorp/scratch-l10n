@@ -524,6 +524,13 @@
     "blocked above": "Bloqueado arriba",
     "blocked below": "Bloqueado a continuación",
     "blocking object below": "Objeto de bloqueo debajo",
+    "blocking object above": "Objeto de bloqueo arriba",
+    "blocking object front": "Objeto de bloqueo frente",
+    "blocking object back": "Objeto de bloqueo de vuelta",
+    "blocking object left": "Objeto de bloqueo a la izquierda",
+    "blocking object right": "Objeto de bloqueo derecho",
+
+
     "speed x": "Velocidad X",
     "speed y": "Velocidad Y",
     "speed z": "Velocidad Z",

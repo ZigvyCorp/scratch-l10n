@@ -781,7 +781,14 @@
     "blocked right": "右面被挡住",
     "blocked above": "上面被挡住",
     "blocked below": "下面被挡住",
-    "blocking object below": "下面挡住的物体",
+    "blocking object below": "底下的障碍物",
+    "blocking object above": "顶部的障碍物",
+    "blocking object front": "面前的障碍物",
+    "blocking object back": "背后的障碍物",
+    "blocking object left": "左边的障碍物",
+    "blocking object right": "右边的障碍物",
+
+
     "speed x": "x 速度",
     "speed y": "y 速度",
     "speed z": "z 速度",
