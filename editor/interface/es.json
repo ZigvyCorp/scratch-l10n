@@ -719,5 +719,7 @@
     "gui.gameLeader.playerTitle": "Jugador",
     "gui.gameLeader.dateTitle": "Fecha",
     "gui.SpriteInfo.Y": "Y",
-    "gui.SpriteInfo.Z": "Z"
+    "gui.SpriteInfo.Z": "Z",
+    "gui.gameLeader.leaderBoard": "Tabla de clasificación",
+    "gui.gameLeader.noRecords": "No hay registros"
 }

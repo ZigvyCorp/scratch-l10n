@@ -716,5 +716,7 @@
     "gui.gameLeader.playerTitle": "Joueur",
     "gui.gameLeader.dateTitle": "Date",
     "gui.SpriteInfo.Y": "Y",
-    "gui.SpriteInfo.Z": "Z"
+    "gui.SpriteInfo.Z": "Z",
+    "gui.gameLeader.leaderBoard": "Classement",
+    "gui.gameLeader.noRecords": "Pas d'enregistrements"
 }

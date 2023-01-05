@@ -717,5 +717,7 @@
     "gui.gameLeader.playerTitle": "播放器",
     "gui.gameLeader.dateTitle": "日期",
     "gui.SpriteInfo.Y": "Y",
-    "gui.SpriteInfo.Z": "Z"
+    "gui.SpriteInfo.Z": "Z",
+    "gui.gameLeader.leaderBoard": "排行榜",
+    "gui.gameLeader.noRecords": "无记录"
 }
