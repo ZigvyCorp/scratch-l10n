@@ -344,7 +344,7 @@
     "automation.readPixelColor": "RGB color at X [X] Y [Y]",
     "game.categoryName": "Game",
     "game.recordPlayerScore": "record player score [VALUE]",
-    "game.showGameLeaderboard": "show game leaderboard [SORT]",
+    "game.showGameLeaderboard": "show game leaderboard [SORT] rows [ROWS] header [HEADER_COLOR] background [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "hide game leaderboard",
     "gui.stageHeader.captureBtn": "Update project preview",
     "gui.sortMenu.highest": "Highest",

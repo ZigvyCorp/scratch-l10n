@@ -343,7 +343,7 @@
     "automation.readPixelColor": "Couleur RVB à x [X] y [Y]",
     "game.categoryName": "Jeu",
     "game.recordPlayerScore": "record joueur score [VALUE]",
-    "game.showGameLeaderboard": "afficher le classement du jeu [TRI]",
+    "game.showGameLeaderboard": "afficher le classement du jeu [SORT] lignes [ROWS] en-tête [HEADER_COLOR] arrière-plan [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "masquer le classement du jeu",
     "gui.stageHeader.captureBtn": "Mettre à jour l'aperçu du projet",
     "gui.sortMenu.highest": "Le plus haut",
