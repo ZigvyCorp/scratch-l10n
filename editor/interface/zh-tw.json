@@ -707,5 +707,7 @@
     "gui.gameLeader.dateTitle": "日期",
     "gui.SpriteInfo.Y": "Y",
     "gui.SpriteInfo.Z": "Z",
-    "gui.menuBar.tutorials": "教程"
+    "gui.menuBar.tutorials": "教程",
+    "gui.gameLeader.leaderBoard": "排行榜",
+    "gui.gameLeader.noRecords": "無記錄"
 }

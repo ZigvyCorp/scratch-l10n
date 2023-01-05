@@ -717,5 +717,7 @@
     "gui.gameLeader.playerTitle": "Player",
     "gui.gameLeader.dateTitle": "Date",
     "gui.SpriteInfo.Y": "Y",
-    "gui.SpriteInfo.Z": "Z"
+    "gui.SpriteInfo.Z": "Z",
+    "gui.gameLeader.leaderBoard": "Leaderboard",
+    "gui.gameLeader.noRecords": "No Records"
 }
