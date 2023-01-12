@@ -41,7 +41,7 @@ Missing locales are ignored, react-intl will use the default messages for them.
 import * as fs from 'fs';
 import * as path from 'path';
 import {sync as mkdirpSync} from 'mkdirp';
-import defaultsDeep from 'lodash.defaultsdeep';
+import defaultsDeep from 'lodash/defaultsDeep';
 import locales from '../src/supported-locales.js';
 
 const MSGS_DIR = './locales/';
