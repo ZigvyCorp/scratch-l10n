@@ -941,5 +941,6 @@
     "widget.chartType.line": "ligne",
     "widget.chartType.bar":"bar",
     "widget.chartType.pie": "pie",
-    "widget.chartType.percentage": "pourcentage"
+    "widget.chartType.percentage": "pourcentage",
+    "widget.progressBar": "ajouter la barre de progression comme [VALUE] sur le total [TOTAL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] couleur [COLOR] arrière-plan [BGCOLOR] largeur de bordure [BORDER_WIDTH] couleur [BORDER_COLOR] comme nommé [NAME]"
 }

@@ -942,5 +942,6 @@
     "widget.chartType.line": "line",
     "widget.chartType.bar":"bar",
     "widget.chartType.pie": "pie",
-    "widget.chartType.percentage": "percentage"
+    "widget.chartType.percentage": "percentage",
+    "widget.progressBar": "add progress bar as [VALUE] out of total [TOTAL] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] background [BGCOLOR] border width [BORDER_WIDTH] color [BORDER_COLOR] as named [NAME]"
 }
