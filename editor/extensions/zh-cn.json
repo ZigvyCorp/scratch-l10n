@@ -940,5 +940,6 @@
     "widget.chartType.line": "线",
     "widget.chartType.bar":"bar",
     "widget.chartType.pie": "饼图",
-    "widget.chartType.percentage": "百分比"
+    "widget.chartType.percentage": "百分比",
+    "widget.progressBar": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 颜色 [COLOR] 背景 [BGCOLOR] 边框宽度 [BORDER_WIDTH] 颜色 [BORDER_COLOR] 处添加进度条作为 [VALUE] 总计 [TOTAL] 作为命名 [NAME]"
 }

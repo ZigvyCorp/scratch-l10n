@@ -932,5 +932,6 @@
     "widget.chartType.line": "線",
     "widget.chartType.bar":"bar",
     "widget.chartType.pie": "餅圖",
-    "widget.chartType.percentage": "百分比"
+    "widget.chartType.percentage": "百分比",
+    "widget.progressBar": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 顏色 [COLOR] 背景 [BGCOLOR] 邊框寬度 [BORDER_WIDTH] 顏色 [BORDER_COLOR] 處添加進度條作為 [VALUE] 總計[TOTAL] 作為命名 [NAME]"
 }
