@@ -502,11 +502,13 @@
     "d3physics_d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
     "d3physics_d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
     "d3physics_d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的距离约束",
+    "d3physics_d3_addhingeconstraint": "在 [OBJA] 和 [OBJB] 之间添加铰链约束 连接点1 x [X2] y [Y2] z [Z2] 轴1 x [X] y [Y] z [Z] 连接点2 x [X4] y [Y4] z [Z4] 轴2 x [X3] y [Y3] z [Z3] 命名为 [JOINTNAME]",
+    "d3physics_d3_sethingespeed": "为名为 [JOINTNAME] 的铰链约束设置速度 [SPEED]",
     "d3physics_d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
     "d3physics_d3_addfixedconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的固定约束",
 
 
-    "d3_convertToFlatShading": "显示平面着色",
+    "d3tools_d3_convertToFlatShading": "显示平面着色",
     "d3tools_d3_showedges": "显示边缘 [SHOW] 颜色 [EDGECOLOR] 宽度 [EDGETHICK]",
     "d3tools_d3_updatecolor":  "更新颜色 反射 [COLOR] 自发 [COLOR2] 光泽度 [ROUGHNESS] 亮度 [BRIGHTNESS] 去掉纹理 [REMOVETEXTURE] 区域 [COMPONENT]",
     "d3tools_d3_updatetexture":  "更新纹理 [TEXTURE] 纹理边长 [SIZE] 非盒子重复 横 [REPEATU] 竖 [REPEATV] 旋转 [ANGLEW] 区域 [COMPONENT]",
