@@ -710,6 +710,7 @@
     "d3object_d3_setcameraasparent": "définir la caméra comme parent",
     "d3action_d3_spriteblockeddir": "objet sprite bloqué [DIRECTION]",
     "d3action_d3_setintersection": "détecter l'intersection avec des objets de [SPRITE] avec suppression [REMOVAL]",
+    "d3action_d3_ignoreintersection": "arrête de détecter l'intersection avec les objets de [SPRITE]",
     "d3action_d3_whenintersect": "lors de l'intersection avec un objet de [SPRITE]",
     "d3action_d3_intersectobjectname": "nom de l'objet intersecté",
     "d3action_d3_intersectobjectposition": "position de l'objet intersecté",

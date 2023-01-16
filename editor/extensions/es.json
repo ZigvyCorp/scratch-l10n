@@ -714,6 +714,7 @@
     "d3object_d3_setcameraasparent": "establecer cámara como principal",
     "d3action_d3_spriteblockeddir": "objeto sprite bloqueado [DIRECTION]",
     "d3action_d3_setintersection": "detectar intersección con objetos de [SPRITE] con eliminación [REMOVAL]",
+    "d3action_d3_ignoreintersection": "dejar de detectar intersección con objetos de [SPRITE]",
     "d3action_d3_whenintersect": "al cruzar con el objeto de [SPRITE]",
     "d3action_d3_intersectobjectname": "nombre del objeto intersectado",
     "d3action_d3_intersectobjectposition": "posición del objeto intersectado",

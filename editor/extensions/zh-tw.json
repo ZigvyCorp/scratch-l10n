@@ -450,6 +450,7 @@
     "d3object_d3_setcameraasparent": "將攝像頭設置為父節點",
     "d3action_d3_spriteblockeddir": "角色物體在 [DIRECTION] 方向被阻止",
     "d3action_d3_setintersection": "檢測與 [SPRITE] 中物體的接觸 並刪除 [REMOVAL]",
+    "d3action_d3_ignoreintersection": "停止檢測與來[SPRITE] 中物體的接觸",
     "d3action_d3_whenintersect": "與 [SPRITE] 中物體接觸時",
     "d3action_d3_intersectobjectname": "被接觸物體的名稱",
     "d3action_d3_intersectobjectposition": "被接觸物體的位置",
