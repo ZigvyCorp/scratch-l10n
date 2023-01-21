@@ -863,6 +863,8 @@
     "addFpsCarCameraError": "抱歉,在添加 fps 车载摄像头时,我找不到目标物体",
     "addFpsCameraError": "抱歉,添加 fps 摄像头时,我找不到目标",
     "updateFpsCamera": "抱歉,添加fps摄像头时,找不到目标",
+    "loginbeforecreate": "在创建新的多人游戏世界之前请先登录你的账号。",
+    "saveprojectfirst": "在创建新的多人游戏世界之前请先保存当前项目。",
     "d3scene_d3_initscene":  "创建三维场景 [SCENETYPE] 并隐藏 [HIDDEN]",
     "d3scene_d3_when3dsceneisready": "当三维场景创建完毕",
     "d3scene_d3_configbrickworld":  "设置砖块世界大小 [SIZE] 高亮颜色 [COLOR]",
