@@ -777,6 +777,13 @@
     "Indonesian": "Indonesian ",
     "Kannada_India": "Kannada (India)",
     "Spanish_USA": "Spanish (USA)",
-    "AI_OPENAIIMAGE": "OpenAI DALL-E: generate costume image name %1 description %2 with resolution %3",
-    "OPEN_AI_IMAGE_ERROR" : "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy."
+    "OPEN_AI_IMAGE": "OpenAI DALL-E: generate costume image name %1 description %2 with resolution %3",
+    "OPEN_AI_IMAGE_ERROR" : "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy.",
+    "CREATE_NN_MODEL": "create NN model named %1",
+    "ADD_LAYER": "add layer to model %1 input size %2 output size %3 activation %4",
+    "COMPILE_MODEL": "compile model %1 loss %2 optimizer %3",
+    "TRAIN_MODEL": "train model %1 using table %2 rows from %3 to %4 input columns %5 output column %6 batch size %7 epochs %8",
+    "PREDICT_BY_MODEL": "predict using model %1 for table %2 rows from %3 to %4 input columns %5 output column %6",
+    "SAVE_MODEL": "save model named %1",
+    "LOAD_MODEL": "load model named %1"
 }
