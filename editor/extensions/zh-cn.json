@@ -520,11 +520,11 @@
     "d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE]%",
     "d3physics_d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
     "d3physics_d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
-    "d3physics_d3_adddistanceconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的距离约束",
-    "d3physics_d3_addhingeconstraint": "在 [OBJA] 和 [OBJB] 之间添加铰链约束 连接点1 x [X2] y [Y2] z [Z2] 轴1 x [X] y [Y] z [Z] 连接点2 x [X4] y [Y4] z [Z4] 轴2 x [X3] y [Y3] z [Z3] 命名为 [JOINTNAME]",
+    "d3physics_d3_addhingeconstraint": "在 [SPRITE] 中的 [NAME] 的连接点 x [X2] y [Y2] z [Z2] 轴 x [X] y [Y] z [Z] 与 [SPRITE2] 中的 [NAME2] 的连接点 x [X4] y [Y4] z [Z4] 轴 x [X3] y [Y3] z [Z3] 之间添加铰链约束 命名为 [JOINTNAME]",
     "d3physics_d3_sethingespeed": "为名为 [JOINTNAME] 的铰链约束设置速度 [SPEED]",
     "d3physics_d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
-    "d3physics_d3_addfixedconstraint": "在 [OBJA] 和 [OBJB] 之间添加名为 [JOINTNAME] 的固定约束",
+    "d3physics_d3_addfixedconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的固定约束",
+    "d3physics_d3_adddistanceconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的距离约束",
 
 
     "d3tools_d3_convertToFlatShading": "显示平面着色",
