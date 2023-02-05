@@ -506,7 +506,7 @@
     "d3object_d3_removeparent": "解除父節點關係",
     "d3object_d3_removechildren": "解除孩子關係",
     "d3object_d3_converttosps": "轉換為 固體粒子系統 xyz位置列表 [LIST] 可更新 [UPDATABLE]",
-    "d3action_d3_selectobject": "按名稱 [NAME] 選擇角色物體",
+    "d3action_d3_selectobject": "選擇 名為 [NAME] 的物體 作為角色物體",
     "d3object_d3_removeobject": "刪除名為 [NAME] 的物體",
     "d3object_d3_removeallobjects": "刪除所有物體",
     "d3tools_d3_showbounds": "顯示邊界框 [SHOW]",
