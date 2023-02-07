@@ -383,6 +383,7 @@
     "OPERATORS_TEXTTRANSFORM_LOWERCASE": "lowercase",
     "PROCEDURES_DEFINITION": "define %1",
     "SENSING_TOUCHINGOBJECT": "touching %1?",
+    "SENSING_TOUCHINGOBJECTCLONEID": "clone ID of touched %1",
     "SENSING_TOUCHINGOBJECT_POINTER": "mouse-pointer",
     "SENSING_TOUCHINGOBJECT_EDGE": "edge",
     "SENSING_TOUCHINGCOLOR": "touching color %1?",

@@ -382,6 +382,7 @@
     "OPERATORS_TEXTTRANSFORM_LOWERCASE": "minuscule",
     "PROCEDURES_DEFINITION": "définir %1",
     "SENSING_TOUCHINGOBJECT": "touche le %1 ?",
+    "SENSING_TOUCHINGOBJECTCLONEID": "ID de clone de %1 touché",
     "SENSING_TOUCHINGOBJECT_POINTER": "pointeur de souris",
     "SENSING_TOUCHINGOBJECT_EDGE": "bord",
     "SENSING_TOUCHINGCOLOR": "couleur %1 touchée ?",
