@@ -37,6 +37,7 @@
     "CONTROL_DEBUG_ALERT": "alerte",
     "CONTROL_DEFAULT_OPTION": "sélectionner",
     "CONTROL_REPORT_TEST_RESULT": "rapport du résultat du test %1",
+    "CONTROL_SETGLOBALPARAM": "définir la clé de paramètre global %1 valeur %2",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "obtenir le script pour le bloc personnalisé %1 à partir du sprite %2",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "obtenir le script pour le clic du drapeau vert à partir du sprite %1",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "obtenir les scripts pour tous les blocs du sprite %1 dans la liste %2",

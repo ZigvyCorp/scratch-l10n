@@ -37,6 +37,7 @@
     "CONTROL_DEBUG_ALERT": "弹窗",
     "CONTROL_DEFAULT_OPTION": "选择",
     "CONTROL_REPORT_TEST_RESULT": "报告测试结果 %1",
+    "CONTROL_SETGLOBALPARAM": "设置全局参数 键 %1 值 %2",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "从角色 %2 获取自定义积木 %1 的脚本",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "从角色 %1 获取绿旗点击积木下的脚本",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "从角色 %1 获取所有脚本到列表格 %2",
