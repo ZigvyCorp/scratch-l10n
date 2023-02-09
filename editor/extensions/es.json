@@ -785,6 +785,7 @@
     "d3physics_d3_removeconstraint": "eliminar la restricción llamada [JOINTNAME]",
     "d3physics_d3_addhingeconstraint": "añadir restricción de bisagra entre los cuerpos de [NAME] de [SPRITE] en el punto x [X2] y [Y2] z [Z2] eje x [X] y [Y] z [Z] y [NAME2] ​​de [SPRITE2] en el punto x [X4] y [Y4] z [Z4] eje x [X3] y [Y3] z [Z3] llamado [JOINTNAME]",
     "d3physics_d3_sethingespeed": "establece la velocidad [SPEED] para la restricción de bisagra llamada [JOINTNAME]",
+    "d3physics_d3_sethingelimit": "establecer límites para la restricción de bisagra denominada [JOINTNAME] ángulo entre [LOW] y [HIGH] suavidad [SOFT] factor de sesgo [BIAS] relajación [RELAX]",
     "d3tools_d3_convertToFlatShading": "convertir a sombreado plano",
     "d3tools_d3_showedges": "mostrar bordes [SHOW] color [EDGECOLOR] grosor [EDGETHICK]",
     "d3tools_d3_updatecolor": "actualizar difusión de color [COLOR] emisión [COLOR2] rugosidad [ROUGHESS] brillo [BRIGHTNESS] eliminar textura [REMOVETEXTURE] área [COMPONENT]",

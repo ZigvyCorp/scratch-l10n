@@ -779,6 +779,7 @@
     "d3physics_d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
     "d3physics_d3_addhingeconstraint": "ajoute une contrainte de charnière entre les corps de [NAME] de [SPRITE] au point x [X2] y [Y2] z [Z2] axe x [X] y [Y] z [Z] et [NAME2] de [SPRITE2] au point x [X4] y [Y4] z [Z4] axe x [X3] y [Y3] z [Z3] nommé [JOINTNAME]",
     "d3physics_d3_sethingespeed": "réglez la vitesse [SPEED] pour la contrainte de charnière nommée [JOINTNAME]",
+    "d3physics_d3_sethingelimit": "fixe des limites pour la contrainte de rotule nommée [JOINTNAME] angle entre [LOW] et [HIGH] douceur [SOFT] facteur de biais [BIAS] relaxation [RELAX]",
     "d3physics_d3_removeconstraint": "supprime la contrainte nommée [JOINTNAME]",
     "d3physics_d3_addfixedconstraint": "ajoute une contrainte fixe entre les corps de [NAME] de [SPRITE] et [NAME2] de [SPRITE2] nommé [JOINTNAME]",
     "d3physics_d3_adddistanceconstraint": "ajoute une contrainte de distance entre les corps de [NAME] de [SPRITE] et [NAME2] de [SPRITE2] nommé [JOINTNAME]",

@@ -522,6 +522,7 @@
     "d3physics_d3_setcarsteer": "为汽车 [NAME] 设置车轮角度 LF [LF] RF [RF] LB [LB] RB [RB]",
     "d3physics_d3_addhingeconstraint": "在 [SPRITE] 中的 [NAME] 的连接点 x [X2] y [Y2] z [Z2] 轴 x [X] y [Y] z [Z] 与 [SPRITE2] 中的 [NAME2] 的连接点 x [X4] y [Y4] z [Z4] 轴 x [X3] y [Y3] z [Z3] 之间添加铰链约束 命名为 [JOINTNAME]",
     "d3physics_d3_sethingespeed": "为名为 [JOINTNAME] 的铰链约束设置速度 [SPEED]",
+    "d3physics_d3_sethingelimit": "为名为 [JOINTNAME] 的铰链约束设置限制 角度 最小 [LOW] 最大 [HIGH] 柔度 [SOFT] 偏置因子 [BIAS] 松弛度 [RELAX]",
     "d3physics_d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
     "d3physics_d3_addfixedconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的固定约束",
     "d3physics_d3_adddistanceconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的距离约束",

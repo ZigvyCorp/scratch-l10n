@@ -784,6 +784,7 @@
     "d3physics_d3_adddistanceconstraint": "add distance constraint between bodies of [NAME] from [SPRITE] and [NAME2] from [SPRITE2] named [JOINTNAME]",
     "d3physics_d3_addhingeconstraint": "add hinge constraint between bodies of [NAME] from [SPRITE] at point x [X2] y [Y2] z [Z2] axis x [X] y [Y] z [Z] and [NAME2] from [SPRITE2] at point x [X4] y [Y4] z [Z4] axis x [X3] y [Y3] z [Z3] named [JOINTNAME]",
     "d3physics_d3_sethingespeed": "set speed [SPEED] for hinge constraint named [JOINTNAME]",
+    "d3physics_d3_sethingelimit": "set limits for hinge constraint named [JOINTNAME] angle between [LOW] and [HIGH] softness [SOFT] bias factor [BIAS] relaxation [RELAX]",
     "d3tools_d3_convertToFlatShading": "convert to flat shading",
     "d3tools_d3_showedges": "show edges [SHOW] color [EDGECOLOR] thickness [EDGETHICK]",
     "d3tools_d3_updatecolor": "update color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] remove texture [REMOVETEXTURE] area [COMPONENT]",
