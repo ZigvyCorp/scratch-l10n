@@ -746,5 +746,7 @@
     "gui.SpriteInfo.Y": "Y",
     "gui.SpriteInfo.Z": "Z",
     "gui.gameLeader.leaderBoard": "Tabla de clasificación",
+    "gui.gameLeader.total": "Total:",
+    "gui.gameLeader.yourBestScore": "Tu mejor puntuación:",
     "gui.gameLeader.noRecords": "No hay registros"
 }
