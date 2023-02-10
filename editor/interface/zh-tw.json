@@ -733,5 +733,7 @@
     "gui.SpriteInfo.Z": "Z",
     "gui.menuBar.tutorials": "教程",
     "gui.gameLeader.leaderBoard": "排行榜",
+    "gui.gameLeader.total": "全部的：",
+    "gui.gameLeader.yourBestScore": "你的最好成績：",
     "gui.gameLeader.noRecords": "無記錄"
 }

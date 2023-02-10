@@ -744,5 +744,7 @@
     "gui.SpriteInfo.Y": "Y",
     "gui.SpriteInfo.Z": "Z",
     "gui.gameLeader.leaderBoard": "Leaderboard",
+    "gui.gameLeader.total": "Total: ",
+    "gui.gameLeader.yourBestScore": "Your best score: ",
     "gui.gameLeader.noRecords": "No Records"
 }
