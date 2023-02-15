@@ -643,6 +643,9 @@
     "AI_PREDICTKNNCLASSIFIER": "用分类器 %2 预测表格 %1 显示邻居 %3",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "表格 {tableName} 应具有与用于创建 knn 分类器的表相同的列",
     "ERROR_DEBUG_LABEL_KNN": "表格 {tableName} 的第一列必须是 'label'",
+    "ERROR_MODEL_EXIST_NEURAL_NETWORK": "模型不存在！",
+    "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "名称为{modelName}的模型已存在！",
+    "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "您输入了错误的输入格式列。例如：（宽度、高度、重量）用逗号分隔列或列名不存在!",
     "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "请先为场景启用物理引擎",
     "ERROR_DEBUG_NUMBER_KNN": "表 <{tableName}> 的行 <{ROW}> 列 <{COLUMN}> 不是数字", 
     "ERROR_DEBUG_TESTING_TABLE_KNN_COL": "测试表应以与训练表相同的列开头",
@@ -779,5 +782,12 @@
     "Kannada_India": "卡纳达语（印度）",
     "Spanish_USA": "西班牙语（美国）",
     "AI_OPENAIIMAGE": "OpenAI DALL-E：生成造型图像名称 %1 描述 %2，分辨率 %3",
-    "OPEN_AI_IMAGE_ERROR" : "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。"
+    "OPEN_AI_IMAGE_ERROR" : "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。",
+    "CREATE_NN_MODEL": "创建名为 %1 的 NN 模型",
+    "ADD_LAYER": "将图层添加到模型 %1 输入形状 %2 输出大小（单位) %3 激活 %4",
+    "COMPILE_MODEL": "编译模型 %1 损失 %2 优化器 %3",
+    "TRAIN_MODEL": "使用表 %2 行从 %3 到 %4 训练模型 %1 输入列 %5 输出列 %6 批量大小 %7 轮次 %8",
+    "PREDICT_BY_MODEL": "预测使用模型 %1 表 %2 行从 %3 到 %4 输入列 %5 输出列 %6",
+    "SAVE_MODEL": "保存名为 %1 的模型",
+    "LOAD_MODEL": "加载名为 %1 的模型"
 }

@@ -641,6 +641,9 @@
     "AI_CREATEKNNCLASSIFIER": "create KNN number classifier from table %1  K %2 named %3",
     "AI_PREDICTKNNCLASSIFIER": "predict for table %1 with classifier %2 show neighbors %3",
     "ERROR_DEBUG_LABEL_KNN": "First column in table {tableName} has to be 'label'",
+    "ERROR_MODEL_EXIST_NEURAL_NETWORK": "model is not exist!",
+    "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "Model with name {modelName} has exsited!",
+    "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "you have entered the wrong input format columns. ex: (width,height,weight) with commas to separate columns or column's name don't exist!",
     "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Please enable physics for the scene first.",
     "ERROR_DEBUG_NUMBER_KNN": "Row <{ROW}> column <{COLUMN}> of table <{tableName}> is not a number",
     "ERROR_DEBUG_TESTING_TABLE_KNN": "Table {tableName} should have the same columns as the table that are used to create the knn classifier",
@@ -778,5 +781,12 @@
     "Kannada_India": "Kannada (India)",
     "Spanish_USA": "Spanish (USA)",
     "AI_OPENAIIMAGE": "OpenAI DALL-E: generate costume image name %1 description %2 with resolution %3",
-    "OPEN_AI_IMAGE_ERROR" : "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy."
+    "OPEN_AI_IMAGE_ERROR" : "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy.",
+    "CREATE_NN_MODEL": "create NN model named %1",
+    "ADD_LAYER": "add layer to model %1 input shape %2 output size (units) %3 activation %4",
+    "COMPILE_MODEL": "compile model %1 loss %2 optimizer %3",
+    "TRAIN_MODEL": "train model %1 using table %2 rows from %3 to %4 input columns %5 output column %6 batch size %7 epochs %8",
+    "PREDICT_BY_MODEL": "predict using model %1 for table %2 rows from %3 to %4 input columns %5 output column %6",
+    "SAVE_MODEL": "save model named %1",
+    "LOAD_MODEL": "load model named %1"
 }

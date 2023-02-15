@@ -639,6 +639,9 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "AI_CREATEKNNCLASSIFIER": "créer un classificateur de numéros KNN à partir de la table %1 K %2 nommé %3",
     "ERROR_DEBUG_LABEL_KNN": "La première colonne de la table {tableName} doit être 'label'",
+    "ERROR_MODEL_EXIST_NEURAL_NETWORK": "le modèle n'existe pas !",
+    "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "Le modèle avec le nom {modelName} a disparu !",
+    "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "vous avez entré les mauvaises colonnes de format d'entrée. ex : (largeur, hauteur, poids) avec des virgules pour séparer les colonnes ou le nom de la colonne n'existe pas !",
     "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Veuillez d'abord activer la physique pour la scène.",
     "ERROR_DEBUG_NUMBER_KNN": "La ligne <{ROW}> la colonne <{COLUMN}> de la table <{tableName}> n'est pas un nombre", 
     "AI_PREDICTKNNCLASSIFIER": "prévoir pour la table %1 avec le classificateur %2 avec les voisins %3",
@@ -777,5 +780,12 @@
     "Kannada_India" : "Kannada (Inde)",
     "Spanish_USA" : "Spanish (USA)",
     "AI_OPENAIIMAGE": "OpenAI DALL-E : générer le nom de l'image de costume %1 description %2 avec la résolution %3",
-    "OPEN_AI_IMAGE_ERROR" : "Désolé, la requête DALL-E a été rejetée car elle viole la politique de contenu d'OpenAI."
+    "OPEN_AI_IMAGE_ERROR" : "Désolé, la requête DALL-E a été rejetée car elle viole la politique de contenu d'OpenAI.",
+    "CREATE_NN_MODEL": "créer un modèle NN nommé %1",
+    "ADD_LAYER": "ajouter une couche au modèle %1 forme d'entrée %2 taille de sortie (unités) %3 activation %4",
+    "COMPILE_MODEL": "compiler le modèle %1 perdre %2 optimiseur %3",
+    "TRAIN_MODEL": "former le modèle %1 en utilisant la table %2 lignes de %3 à %4 colonnes d'entrée %5 colonne de sortie %6 taille de lot %7 époques %8",
+    "PREDICT_BY_MODEL": "prédire en utilisant le modèle %1 pour la table %2 lignes de %3 à %4 colonnes d'entrée %5 colonne de sortie %6",
+    "SAVE_MODEL": "enregistrer le modèle nommé %1",
+    "LOAD_MODEL": "charger le modèle nommé %1"
 }
