@@ -362,6 +362,8 @@
     "game.showGameLeaderboard": "mostrar la clasificación del juego [SORT] filas [ROWS] encabezado [HEADER_COLOR] fondo [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "ocultar la tabla de clasificación del juego",
     "game.clearGameLeaderboard": "puntajes claros para [WHO]",
+    "game.storeUserDataKey": "almacenar clave de datos de usuario [KEY] valor [VALUE]",
+    "game.readUserDataKey": "leer clave de datos de usuario [KEY]",
     "gui.stageHeader.captureBtn": "Actualizar la vista previa del proyecto",
     "gui.sortMenu.highest": "Más alta",
     "gui.sortMenu.lowest": "Más baja",
