@@ -609,7 +609,7 @@
     "d3tools_d3_mirrorcopy": "複製到鏡像位置 [MIRRORTYPE]",
     "d3tools_d3_doadd_addinstancematrix": "矩陣複製 數量 xyz [X2] [Y2] [Z2] 間隔 xyz [SPACINGX] [SPACINGY] [SPACINGZ] 隨機比例 間隔 [SPACINGRANDOM]% 大小 [SCALERANDOM]% z方向 [ROTRANDOM]% [AVOIDMODE] 物體 [AVOIDNAME]",
     "d3tools_d3_doadd_addinstancematrix2": "從中心矩陣複製 數量 xyz [X2] [Y2] [Z2] 間隔 xyz [SPACINGX] [SPACINGY] [SPACINGZ] 隨機比例 間隔 [SPACINGRANDOM]% 大小 [SCALERANDOM]% z方向 [ROTRANDOM]% [AVOIDMODE] 物體 [AVOIDNAME]",
-    "d3action_d3_turnondistancesensor": "設置距離傳感器前 [ISFRONT] 後 [ISBACK] 左 [ISLEFT] 右 [ISRIGHT] 下 [ISDOWN] 上 [ISUP] 最大距離 [LEN] 計數 [COUNT] 可見 [ISVISIBLE]",
+    "d3action_d3_turnondistancesensor":  "設置距離感應器 前 [ISFRONT] 後 [ISBACK] 左 [ISLEFT] 右 [ISRIGHT] 下 [ISDOWN] 上 [ISUP] z 位移  [ZCENTER] 最大距離 [LEN] 數量 [COUNT] 可見 [ISVISIBLE]",
     "d3action_d3_objectdistance": "物體 [NAME1] 和 [NAME2] 之間的距離",
     "d3action_d3_setcollision": "開啟與 [SPRITE] 的 [ISBLOCKING] 碰撞 碰撞器 z 位移  [ZCENTER] 精度 [PRECISION] 调试 [ISDEBUG]",
     "d3action_d3_setcollisiondimension": "更新碰撞範圍 x [WIDTH] y [DEPTH] z [HEIGHT] 碰撞器 z 位移  [ZCENTER] 檢測距離 x [RX] y [RY] z [RZ] 颜色 [COLOR]",
