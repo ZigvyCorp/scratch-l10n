@@ -506,7 +506,7 @@
     "d3physics_d3_freezeonephysics": "冻结名为 [NAME] 的物理物体 [YESNO] ",
     "d3action_d3_attachtobone": "附着于角色 [SPRITE] 中的物体 [PARENTNAME] 的身体部位 [BODYPART] 目标高度 [HEIGHT]",
     "d3action_d3_detachfrombone": "从身体上分离",
-    "d3action_d3_updateBone": "更新骨头 [BODYPART] 偏移 [X] [Y] [Z] 旋转 [X2] [Y2] [Z2]",
+    "d3action_d3_updateBone": "更新骨头 [BODYPART] 移动 x [X] y [Y] z [Z] 旋转 x [X2] y [Y2] z [Z2]",
     "d3object_d3_removeparent":  "解除父节点",
     "d3object_d3_removechildren": "解除孩子关系",
     "d3object_d3_converttosps": "转换为 固体粒子系统 xyz位置列表 [LIST] 可更新 [UPDATABLE]",

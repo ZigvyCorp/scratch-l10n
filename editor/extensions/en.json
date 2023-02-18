@@ -767,7 +767,7 @@
     "d3physics_d3_freezeonephysics": "freeze physics body named [NAME] [YESNO]",
     "d3action_d3_attachtobone": "attach to body part [BODYPART] of [PARENTNAME] from sprite [SPRITE] target height [HEIGHT]",
     "d3action_d3_detachfrombone": "detach from body",
-    "d3action_d3_updateBone": "update bone [BODYPART] offset [X] [Y] [Z] rotation [X2] [Y2] [Z2]",
+    "d3action_d3_updateBone": "update bone [BODYPART] move in x [X] y [Y] z [Z] rotate in x [X2] y [Y2] z [Z2]",
     "d3object_d3_removeparent": "unlink parent", 
     "d3object_d3_removechildren": "unlink all children",
     "d3object_d3_removeobject": "remove object named [NAME]",

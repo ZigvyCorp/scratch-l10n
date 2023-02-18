@@ -769,7 +769,7 @@
     "d3physics_d3_freezeonephysics": "congelar forma física llamada [NAME] [YESNO]",
     "d3action_d3_attachtobone": "adjuntar a parte del cuerpo [BODYPART] de [PARENTNAME] del sprite [SPRITE] altura del objetivo [HEIGHT]",
     "d3action_d3_detachfrombone": "separar del cuerpo",
-    "d3action_d3_updateBone": "actualizar hueso [BODYPART] desplazamiento [X] [Y] [Z] rotación [X2] [Y2] [Z2]",
+    "d3action_d3_updateBone": "actualizar hueso [BODYPART] mover hacia adentro x [X] y [Y] z [Z] rotar hacia adentro x [X2] y [Y2] z [Z2]",
     "d3object_d3_removechildren": "Desenlazar a las niñas",
     "d3object_d3_converttosps": "convertir a sps en xyz [LIST] actualizable [UPDATABLE]",
     "d3object_d3_removeobject": "eliminar objeto llamado [NAME]",
