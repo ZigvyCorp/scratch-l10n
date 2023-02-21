@@ -251,7 +251,7 @@
     "physics.setVelocityY": "设置 y 速度 [SPEED]",
     "physics.setVelocityDIR": "设置在方向 [DIR] 上的速度 [SPEED]",
     "physics.setDIRByVelocity": "面向当前速度方向",
-
+    "physics.setRotationSpeed": "设置旋转速度 [SPEED]",
     "physics.addForce": "在 [DIR] 方向施加外力 [FORCE]",
     "physics.addForce2": "在位置 x [PX] y [PY] 方向 [DIR] 上施加外力 [FORCE]",
     "physics.clearForce": "移除所有外力",

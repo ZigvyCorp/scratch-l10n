@@ -247,6 +247,7 @@
     "physics.setVelocityX": "set x speed [SPEED]",
     "physics.setVelocityY": "set y speed [SPEED]",
     "physics.setVelocityDIR": "set speed [SPEED] in direction [DIR]",
+    "physics.setRotationSpeed": "set rotation speed [SPEED]",
     "physics.setDIRByVelocity": "point in direction of speed",
     "physics.addForce": "add force [FORCE] in direction [DIR]",
     "physics.addForce2": "add force [FORCE] in direction [DIR] at position x [PX] y [PY]",
