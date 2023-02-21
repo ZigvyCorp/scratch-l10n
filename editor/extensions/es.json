@@ -244,7 +244,7 @@
     "boxshape": "Caja",
     "capsuleshape": "Cápsula",
     "convexpolygonshape": "Hul convexo",
-    "physics.setPhysicsBody2": "comportarse como un [TYPE] [SENSORTYPE] usando tolerancia de curva de polígonos svg [TOLERANCE] punto de distancia [DISTANCE] depuración [DEBUG]",
+    "physics.setPhysicsBody2": "comportarse como una forma compuesta [TYPE] [SENSORTYPE] en forma compuesta con tolerancia de curva [TOLERANCE] punto de distancia [DISTANCE] depuración [DEBUG]",
     "physics.updatePhysicsBody": "actualizar densidad [DENSITY] fricción [FRICTION]% restitución [RESTITUTION]%",
     "physics.setVelocityX": "establecer velocidad x [SPEED]",
     "physics.setVelocityY": "establecer y velocidad [SPEED]",

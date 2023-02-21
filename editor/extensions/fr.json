@@ -245,7 +245,7 @@
     "boxshape": "Boîte",
     "capsuleshape": "Gélule",
     "convexpolygonshape": "Convex Hul",
-    "physics.setPhysicsBody2": "se comporter comme un [TYPE] [SENSORTYPE] en utilisant la tolérance de courbe svg-polygones [TOLERANCE] point distance [DISTANCE] debug [DEBUG]",
+    "physics.setPhysicsBody2": "se comporter comme un [TYPE] [SENSORTYPE] en forme composée avec une tolérance de courbe [TOLERANCE] point distance [DISTANCE] debug [DEBUG]",
     "physics.updatePhysicsBody": "mise à jour densité [DENSITÉ] frottement [FRICTION]% restitution [RESTITUION]%",
     "physics.setVelocityX": "définir la vitesse x [SPEED]",
     "physics.setVelocityY": "régler la vitesse y [SPEED]",

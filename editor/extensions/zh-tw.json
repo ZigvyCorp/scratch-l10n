@@ -238,7 +238,7 @@
 
     "physics.enablePhysics": "初始化二維物理世界 重力加速度 x [X] y [Y]",
     "physics.setEdgeCollider": "設置世界邊框 摩擦係數 [FRICTION]% 彈性係數 [RESTITUION]%",
-    "physics.setPhysicsBody": "變成一個 [TYPE] 的 [SENSORTYPE] 形狀 [SHAPE] 調試 [DEBUG]",
+    "physics.setPhysicsBody": "當作一個 [TYPE] 的 [SENSORTYPE] 形狀 [SHAPE] 調試 [DEBUG]",
     "fixedbody": "固定的",
     "dynamicbody": "動態的",
     "kinematicbody": "可設速度的",
@@ -247,7 +247,7 @@
     "boxshape": "盒子",
     "capsuleshape": "膠囊",
     "convexpolygonshape": "凸形",
-    "physics.setPhysicsBody2": "變成一個 [TYPE] 的向量多邊形 [SENSORTYPE] 曲線精度 [TOLERANCE] 取點距離 [DISTANCE] 調試 [DEBUG]",
+    "physics.setPhysicsBody2": "當作一個 [TYPE] 複合形狀的 [SENSORTYPE] 曲線精度 [TOLERANCE] 取點距離 [DISTANCE] 調試 [DEBUG]",
     "physics.updatePhysicsBody": "設置 密度 [DENSITY] 摩擦係數 [FRICTION]% 彈性係數 [RESTITUION]%",
     "physics.setVelocityX": "設置 x 速度 [SPEED]",
     "physics.setVelocityY": "設置 y 速度 [SPEED]",
