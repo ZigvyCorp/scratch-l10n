@@ -55,5 +55,6 @@
     "paint.rectMode.roundedTriangle": "Triangle arrondi",
     "paint.rectMode.roundedPentagon": "Pentagone arrondi",
     "paint.rectMode.roundedHexagon": "Hexagone arrondi",
-    "paint.rectMode.roundedOctagon": "Octogone arrondi"
+    "paint.rectMode.roundedOctagon": "Octogone arrondi",
+    "paint.rectMode.center": "Centre"
 }

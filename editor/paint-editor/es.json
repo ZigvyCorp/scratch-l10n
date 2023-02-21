@@ -55,5 +55,6 @@
     "paint.rectMode.roundedTriangle": "Triángulo redondeado",
     "paint.rectMode.roundedPentagon": "Pentágono redondeado",
     "paint.rectMode.roundedHexagon": "Hexágono redondeado",
-    "paint.rectMode.roundedOctagon": "Octágono redondeado"
+    "paint.rectMode.roundedOctagon": "Octágono redondeado",
+    "paint.rectMode.center": "Centro"
 }
