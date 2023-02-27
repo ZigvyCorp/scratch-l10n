@@ -271,7 +271,7 @@
     "physics.setCCD": "enable collision detection as a fast object [YESNO]",
     "physics.setGravityScale": "set gravity scale [SCALE] %",
     "physics.addFixedJoint": "fix relative position to [SPRITE]",
-    "physics.addRevolteJoint": "fix distance to [SPRITE]",
+    "physics.addRevolteJoint": "rotate around [SPRITE]",
     "physics.addPrismaticJoint": "allow [XORY] sliding relative to [SPRITE] range from [MINDISTANCE] and [MAXDISTANCE]",
     "physics.setEdgeCollider": "set world border collider friction [FRICTION]%  restitution [RESTITUION]%",
     "physics.removeCollider": "remove physics-based behavior",

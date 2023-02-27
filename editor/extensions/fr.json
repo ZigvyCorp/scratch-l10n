@@ -273,7 +273,7 @@
     "physics.setCCD": "activer la détection de collision en tant qu'objet rapide [YESNO]",
     "physics.setGravityScale": "définir l'échelle de gravité [SCALE] %",
     "physics.addFixedJoint": "fixe la position relative à [SPRITE]",
-    "physics.addRevolteJoint": "fixe la distance à [SPRITE]",
+    "physics.addRevolteJoint": "définir [SPRITE] comme axe de rotation",
     "physics.addPrismaticJoint": "autoriser le glissement de [XORY] par rapport à la plage de [SPRITE] entre [MINDISTANCE] et [MAXDISTANCE]",
     "physics.setEdgeCollider": "définir le frottement du collisionneur de bord du monde [FRICTION]% restitution [RESTITUION]%",
     "physics.removeCollider": "supprimer le comportement basé sur la physique",

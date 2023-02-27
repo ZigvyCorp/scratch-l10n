@@ -276,7 +276,7 @@
     "physics.setCCD": "作為飛速物體進行碰撞檢測 [YESNO]",
     "physics.setGravityScale": "設置重力 乘數 [SCALE] %",
     "physics.addFixedJoint": "固定與 [SPRITE] 的相對位置",
-    "physics.addRevolteJoint": "固定到 [SPRITE] 的距離",
+    "physics.addRevolteJoint": "將 [SPRITE] 設置為旋轉軸",
     "physics.addPrismaticJoint": "只允許在 [XORY] 方向相對於 [SPRITE] 滑動 範圍從 [MINDISTANCE] 到 [MAXDISTANCE]",
     "physics.removeCollider": "移除基於物理的行為",
     "physics.turnoncollisiondetection": "開啟地面檢測 最大距離 [DISTANCE] 調試 [DEBUG]",

@@ -272,7 +272,7 @@
     "physics.setCCD": "habilitar detección de colisión como un objeto rápido [YESNO]",
     "physics.setGravityScale": "establecer escala de gravedad [SCALE] %",
     "physics.addFixedJoint": "corregir la posición relativa a [SPRITE]",
-    "physics.addRevolteJoint": "corregir la distancia a [SPRITE]",
+    "physics.addRevolteJoint": "establecer [SPRITE] como eje de rotación",
     "physics.addPrismaticJoint": "permitir que [XORY] se deslice en relación con el rango de [SPRITE] desde [MINDISTANCE] y [MAXDISTANCE]",
     "physics.setEdgeCollider": "establecer de la fricción [FRICTION]% la restitución [RESTITUION]% del colisionador de borde mundial",
     "physics.removeCollider": "eliminar el comportamiento basado en la física",
