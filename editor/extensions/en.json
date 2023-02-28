@@ -260,7 +260,7 @@
     "physics.lockMovement": "prevent body movement from forces [YESNO]",
     "physics.lockRotation": "prevent body rotation from forces [YESNO]",
     
-    "physics.setDampingFactor": "set damping factor for movement [MD] rotation [RD]",
+    "physics.setDampingFactor": "set damping factor for movement [MD] % rotation [RD] %",
     "physics.broadcastCollisionEventMessage": "broadcast [BROADCASTMESSAGESTART] when colliding with [SPRITE]",
     "physics.broadcastCollisionEventMessage2": "broadcast [BROADCASTMESSAGESTOP] when finish colliding with [SPRITE]",
     "physics.addToCollisionGroup": "add to collision group [GROUP]",
@@ -272,7 +272,7 @@
     "physics.setGravityScale": "set gravity scale [SCALE] %",
     "physics.addFixedJoint": "fix relative position to [SPRITE]",
     "physics.addRevolteJoint": "set [SPRITE] as rotation axis with offset x [X] y [Y]",
-    "physics.setRotationAxisSpeed": "set rotation axis speed [SPEED] damping factor [DAMPING]",
+    "physics.setRotationAxisSpeed": "set rotation axis speed [SPEED] damping factor [DAMPING] %",
     "physics.removeFixedJoint": "remove relative position constraint",
     "physics.removeRevolteJoint": "remove rotation axis",
     "physics.addPrismaticJoint": "allow [XORY] sliding relative to [SPRITE] range from [MINDISTANCE] and [MAXDISTANCE]",
