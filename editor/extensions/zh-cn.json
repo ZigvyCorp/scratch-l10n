@@ -673,6 +673,7 @@
     "d3action_d3_objectdistance": "物体 [NAME1] 和 [NAME2] 之间的距离",
     "d3action_d3_setcollision":  "打开与 [SPRITE] 的　[ISBLOCKING] 碰撞 碰撞器 z 位移  [ZCENTER] 精度 [PRECISION] 调试 [ISDEBUG]",
     "d3action_d3_setcollisiondimension": "设置碰撞器大小 x [WIDTH] y [DEPTH] z [HEIGHT] 碰撞器 z 位移  [ZCENTER] 检测距离 x [RX] y [RY] z [RZ] 颜色 [COLOR]",
+    "d3action_d3_broadcastmeshcollisionmessage": "当 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 碰撞时 广播消息 [BROADCASTMESSAGE]",
     "d3action_d3_whenincollision":  "当与 [SPRITE] 碰撞时",
     "d3action_d3_enablecamerapicking": "开启角色 [SPRITENAMES] 中创建的物体的 [POINTERTYPE] 选取事件",
     "d3action_d3_enablecamerahovering": "开启角色 [SPRITENAMES] 中创建的物体的悬停事件",
