@@ -880,6 +880,7 @@
     "d3effect_d3_updateemitterscale": "configurer l'échelle de l'émetteur [NAME] : x min [XMIN]% max [XMAX]% y min [YMIN]% max [YMAX]%",
     "d3effect_d3_updateemitterrotation": "configurer la vitesse de rotation de l'émetteur [NAME] : début ([STARTROTATION1] à [STARTROTATION2]) fin ([ENDROTATION1] à [ENDROTATION2]) à progression [MIDDLETIME] % ([MIDDLEROTATION1] à [MIDDLEROTATION2])",
     "d3effect_d3_updateemitterinitrotation": "configurer la rotation initiale de l'émetteur [NAME] : min [MINROTATION] max [MAXROTATION]",
+    "d3effect_d3_updateemitterblendmode": "configurer l'émetteur [NAME] mode de fusion [BM]",
     "d3effect_d3_updateboxemitter": "configurer l'émetteur de la boîte [NAME] : min xyz [X1] [Y1] [Z1] max xyz [X2] [Y2] [Z2]",
     "d3effect_d3_updatesphereemitter": "configurer l'émetteur de sphère [NAME] : rayon [RADIUS] plage [RADIUSRANGE]",
     "d3effect_d3_updatehemisphericemitter": "configurer l'émetteur hémisphérique [NAME] : rayon [RADIUS] plage [RADIUSRANGE]",

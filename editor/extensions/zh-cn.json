@@ -626,6 +626,7 @@
     "d3effect_d3_updateemitterscale": "配置发射器 [NAME] 比例: x 最小 [XMIN]% 最大 [XMAX]% y 最小 [YMIN]% 最大 [YMAX]%",
     "d3effect_d3_updateemitterrotation": "配置发射器 [NAME] 转速: 开始 ([STARTROTATION1] 到 [STARTROTATION2]) 结束 ([ENDROTATION1] 到 [ENDROTATION2]) 在进度 [MIDDLETIME]% ([MIDDLEROTATION1] 到 [MIDDLEROTATION2])",
     "d3effect_d3_updateemitterinitrotation": "配置发射器 [NAME] 初始旋转: 最小 [MINROTATION] 最大 [MAXROTATION]",
+    "d3effect_d3_updateemitterblendmode": "配置发射器 [NAME] 颜色混合模式 [BM]",
     "d3effect_d3_updateboxemitter": "配置 长方体发射器 [NAME]: 最小 xyz [X1] [Y1] [Z1] 最大 xyz [X2] [Y2] [Z2]",
     "d3effect_d3_updatesphereemitter": "配置 球体发射器 [NAME]: 半径 [RADIUS] 范围 [RADIUSRANGE]",
     "d3effect_d3_updatehemisphericemitter": "配置 半球体发射器 [NAME]: 半径 [RADIUS] 范围 [RADIUSRANGE]",

@@ -888,6 +888,7 @@
     "d3effect_d3_updateemitterscale": "configure emitter [NAME] scale: x min [XMIN]% max [XMAX]% y min [YMIN]% max [YMAX]%",
     "d3effect_d3_updateemitterrotation": "configure emitter [NAME] rotation speed: start ([STARTROTATION1] to [STARTROTATION2]) end ([ENDROTATION1] to [ENDROTATION2]) at progress [MIDDLETIME]% ([MIDDLEROTATION1] to [MIDDLEROTATION2])",
     "d3effect_d3_updateemitterinitrotation": "configure emitter [NAME] initial rotation: min [MINROTATION] max [MAXROTATION]",
+    "d3effect_d3_updateemitterblendmode": "configure emitter [NAME] blend mode [BM]",
     "d3effect_d3_updateboxemitter": "configure box emitter [NAME]: min xyz [X1] [Y1] [Z1] max xyz [X2] [Y2] [Z2]",
     "d3effect_d3_updatesphereemitter": "configure sphere emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
     "d3effect_d3_updatehemisphericemitter": "configure hemispheric emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
