@@ -639,6 +639,9 @@
     "DATABASE_OPERATOR": "%1 %2 %3",
     "AI_CREATEKNNCLASSIFIER": "crear un clasificador de números KNN a partir de la tabla %1 K %2 con el nombre %3",
     "ERROR_DEBUG_LABEL_KNN": "La primera columna en la tabla {tableName} tiene que ser 'label'",
+    "ERROR_MODEL_EXIST_NEURAL_NETWORK": "¡El modelo no existe!",
+    "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "¡La modelo con nombre {modelName} ha salido!",
+    "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "ha ingresado las columnas de formato de entrada incorrectas. ej: (ancho, alto, peso) con comas para separar las columnas o el nombre de la columna no existe.",
     "ERROR_DEBUG_PHYSICS_SCENE_NOT_ENABLED": "Habilite primero la física para la escena.",
     "ERROR_DEBUG_NUMBER_KNN": "La fila <{ROW}> columna <{COLUMN}> de la tabla <{tableName}> no es un número", 
     "AI_PREDICTKNNCLASSIFIER": "Predecir para la tabla %1 con clasificador %2 con vecinos %3",
@@ -777,5 +780,12 @@
     "Kannada_India": "Kannada (India)",
     "Spanish_USA": "Spanish (USA)",
     "AI_OPENAIIMAGE": "OpenAI DALL-E: genera el nombre de la imagen del disfraz %1 descripción %2 con resolución %3",
-    "OPEN_AI_IMAGE_ERROR": "Lo siento, la solicitud DALL-E ha sido rechazada porque viola la política de contenido de OpenAI."
+    "OPEN_AI_IMAGE_ERROR": "Lo siento, la solicitud DALL-E ha sido rechazada porque viola la política de contenido de OpenAI.",
+    "CREATE_NN_MODEL": "crear modelo NN llamado %1",
+    "ADD_LAYER": "agregar capa al modelo %1 forma de entrada %2 tamaño de salida (unidades) %3 activación %4",
+    "COMPILE_MODEL": "compilar modelo %1 pérdida %2 optimizador %3",
+    "TRAIN_MODEL": "entrenar el modelo %1 usando la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6 tamaño de lote %7 épocas %8",
+    "PREDICT_BY_MODEL": "predecir usando el modelo %1 para la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6",
+    "SAVE_MODEL": "guardar el modelo llamado %1",
+    "LOAD_MODEL": "modelo de carga llamado %1"
 }

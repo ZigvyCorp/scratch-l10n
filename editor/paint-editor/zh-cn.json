@@ -55,5 +55,6 @@
     "paint.rectMode.roundedTriangle": "圆角三角形",
     "paint.rectMode.roundedPentagon": "圆形五边形",
     "paint.rectMode.roundedHexagon": "圆形六边形",
-    "paint.rectMode.roundedOctagon": "圆角八边形"
+    "paint.rectMode.roundedOctagon": "圆角八边形",
+    "paint.rectMode.center": "中心"
 }
