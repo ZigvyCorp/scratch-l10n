@@ -417,6 +417,8 @@
     "game.showGameLeaderboard": "afficher le classement du jeu [SORT] lignes [ROWS] en-tête [HEADER_COLOR] arrière-plan [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "masquer le classement du jeu",
     "game.clearGameLeaderboard": "scores clairs pour [WHO]",
+    "game.storeUserDataKey": "stocker la clé de données utilisateur [KEY] valeur [VALUE]",
+    "game.readUserDataKey": "lire la clé de données utilisateur [KEY]",
     "gui.stageHeader.captureBtn": "Mettre à jour l'aperçu du projet",
     "gui.sortMenu.highest": "Le plus haut",
     "gui.sortMenu.lowest": "Le plus bas",
