@@ -789,5 +789,8 @@
     "TRAIN_MODEL": "使用表 %2 行从 %3 到 %4 训练模型 %1 输入列 %5 输出列 %6 批量大小 %7 轮次 %8",
     "PREDICT_BY_MODEL": "预测使用模型 %1 表 %2 行从 %3 到 %4 输入列 %5 输出列 %6",
     "SAVE_MODEL": "保存名为 %1 的模型",
-    "LOAD_MODEL": "加载名为 %1 的模型"
+    "LOAD_MODEL": "加载名为 %1 的模型",
+    "OPENAI_CHATGPT": "OpenAI ChatGPT：请求 %1 结果 %2 模式 %3 温度 %4",
+    "STREAMING": "串流",
+    "WAITING": "等待"
 }

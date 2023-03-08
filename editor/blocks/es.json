@@ -787,5 +787,8 @@
     "TRAIN_MODEL": "entrenar el modelo %1 usando la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6 tamaño de lote %7 épocas %8",
     "PREDICT_BY_MODEL": "predecir usando el modelo %1 para la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6",
     "SAVE_MODEL": "guardar el modelo llamado %1",
-    "LOAD_MODEL": "modelo de carga llamado %1"
+    "LOAD_MODEL": "modelo de carga llamado %1",
+    "OPENAI_CHATGPT": "OpenAI ChatGPT: solicitud %1 resultado %2 modo %3 temperatura %4",
+    "STREAMING": "transmisión",
+    "WAITING": "espera"
 }
