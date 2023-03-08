@@ -931,6 +931,8 @@
     "d3action_d3_setcollisiondimension": "mettre à jour la dimension du collisionneur x [WIDTH] y [DEPTH] z [HEIGHT] décalage z du collisionneur [ZCENTER] plage de détection x [RX] y [RY] z [RZ] couleur [COLOR]",
     "d3action_d3_broadcastmeshcollisionmessage": "diffuse [BROADCASTMESSAGE] lors d'une collision entre [NAME] de [SPRITE] et [NAME2] de [SPRITE2]",
     "d3action_d3_whenincollision": "en cas de collision avec [SPRITE]",
+    "d3action_d3_broadcasdistmessage": "diffuse [BROADCASTMESSAGE] lorsque [DISTTYPE] distance <= [THRESHOLD] entre [NAME] de [SPRITE] et [NAME2] de [SPRITE2]",
+    "d3action_d3_broadcastoverlapmessage": "diffuse [BROADCASTMESSAGE] lorsque [NAME] de [SPRITE] et [NAME2] de [SPRITE2] se chevauchent",
     "d3action_d3_enablecamerapicking": "activer la sélection avec [POINTERTYPE] pour les objets créés dans les sprites [SPRITENAMES]",
     "d3action_d3_enablecamerahovering": "activer le survol pour les objets créés dans les sprites [SPRITENAMES]",
     "d3action_d3_disablecamerapicking": "désactiver la sélection pour les objets créés dans les sprites [SPRITENAMES]",
