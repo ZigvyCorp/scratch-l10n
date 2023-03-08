@@ -415,6 +415,8 @@
     "game.showGameLeaderboard": "show game leaderboard [SORT] rows [ROWS] header [HEADER_COLOR] background [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "hide game leaderboard",
     "game.clearGameLeaderboard": "clear scores for [WHO]",
+    "game.storeUserDataKey": "store user data key [KEY] value [VALUE]",
+    "game.readUserDataKey": "read user data key [KEY]",
     "gui.stageHeader.captureBtn": "Update project preview",
     "gui.sortMenu.highest": "Highest",
     "gui.sortMenu.lowest": "Lowest",  

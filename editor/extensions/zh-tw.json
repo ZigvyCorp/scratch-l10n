@@ -418,6 +418,8 @@
     "game.showGameLeaderboard": "顯示遊戲排行榜 [SORT] 前 [ROWS] 行 標題 [HEADER_COLOR] 背景 [BACKGROUND_COLOR]",
     "game.hideGameLeaderboard": "隱藏遊戲排行榜",
     "game.clearGameLeaderboard": "[WHO]的明確分數",
+    "game.storeUserDataKey": "存儲用戶數據鍵 [KEY] 值 [VALUE]",
+    "game.readUserDataKey": "讀取用戶數據密鑰[KEY]",
     "gui.stageHeader.captureBtn": "更新項目預覽圖",
     "gui.sortMenu.highest": "從高到低",
     "gui.sortMenu.lowest": "從低到高",
