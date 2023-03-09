@@ -776,5 +776,7 @@
     "TRAIN_MODEL": "使用表 %2 行從 %3 到 %4 訓練模型 %1 輸入列 %5 輸出列 %6 批量大小 %7 輪次 %8",
     "PREDICT_BY_MODEL": "預測使用模型 %1 表 %2 行從 %3 到 %4 輸入列 %5 輸出列 %6",
     "SAVE_MODEL": "保存名為 %1 的模型",
-    "LOAD_MODEL": "加載名為 %1 的模型"
+    "LOAD_MODEL": "加載名為 %1 的模型",
+    "DATA_SHOWTABLE": "顯示表 %1",
+    "DATA_HIDETABLE": "隱藏表格 %1"
 }

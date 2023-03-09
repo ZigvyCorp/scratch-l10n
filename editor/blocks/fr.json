@@ -787,5 +787,7 @@
     "TRAIN_MODEL": "former le modèle %1 en utilisant la table %2 lignes de %3 à %4 colonnes d'entrée %5 colonne de sortie %6 taille de lot %7 époques %8",
     "PREDICT_BY_MODEL": "prédire en utilisant le modèle %1 pour la table %2 lignes de %3 à %4 colonnes d'entrée %5 colonne de sortie %6",
     "SAVE_MODEL": "enregistrer le modèle nommé %1",
-    "LOAD_MODEL": "charger le modèle nommé %1"
+    "LOAD_MODEL": "charger le modèle nommé %1",
+    "DATA_SHOWTABLE": "afficher le tableau %1",
+    "DATA_HIDETABLE": "masquer le tableau %1"
 }
