@@ -788,5 +788,7 @@
     "TRAIN_MODEL": "train model %1 using table %2 rows from %3 to %4 input columns %5 output column %6 batch size %7 epochs %8",
     "PREDICT_BY_MODEL": "predict using model %1 for table %2 rows from %3 to %4 input columns %5 output column %6",
     "SAVE_MODEL": "save model named %1",
-    "LOAD_MODEL": "load model named %1"
+    "LOAD_MODEL": "load model named %1",
+    "DATA_SHOWTABLE": "show table %1",
+    "DATA_HIDETABLE": "hide table %1"
 }
