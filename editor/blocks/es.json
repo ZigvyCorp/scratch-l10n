@@ -792,5 +792,7 @@
     "STREAMING": "transmisión",
     "WAITING": "espera",
     "NEW_CHAT": "nueva conversación",
-    "CONTINUE": "continuar"
+    "CONTINUE": "continuar",
+    "DATA_SHOWTABLE": "mostrar tabla %1",
+    "DATA_HIDETABLE": "ocultar tabla %1"
 }

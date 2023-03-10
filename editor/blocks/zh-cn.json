@@ -794,5 +794,7 @@
     "STREAMING": "串流",
     "WAITING": "等待",
     "NEW_CHAT": "新聊天",
-    "CONTINUE": "继续"
+    "CONTINUE": "继续",
+    "DATA_SHOWTABLE": "显示表 %1",
+    "DATA_HIDETABLE": "隐藏表格 %1"
 }
