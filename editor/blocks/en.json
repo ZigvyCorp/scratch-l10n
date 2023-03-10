@@ -789,7 +789,9 @@
     "PREDICT_BY_MODEL": "predict using model %1 for table %2 rows from %3 to %4 input columns %5 output column %6",
     "SAVE_MODEL": "save model named %1",
     "LOAD_MODEL": "load model named %1",
-    "OPENAI_CHATGPT": "OpenAI ChatGPT: request %1 result %2  mode %3 temperature %4",
+    "OPENAI_CHATGPT": "OpenAI ChatGPT: request %1 result %2  mode %3 temperature %4 session %5",
     "STREAMING": "streaming",
-    "WAITING": "waiting"
+    "WAITING": "waiting",
+    "NEW_CHAT": "new chat",
+    "CONTINUE": "continue"
 }
