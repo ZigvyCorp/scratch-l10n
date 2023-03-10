@@ -41,6 +41,7 @@
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "get script for custom block %1 from sprite %2",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "get script for green flag click from sprite %1",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "get scripts for all blocks from sprite %1 into list %2",
+    "CONTROL_GET_JSON_FROM_SPRITE_BLOCK": "get json for all blocks into list %1",
     "CONTROL_CLONE_ID": "clone ID",
     "CONTROL_CREATE_CLONE_WITH_ID": "create clone of %1 with ID %2",
     "CONTROL_OF": "%1 of %2",
