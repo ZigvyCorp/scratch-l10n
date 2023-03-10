@@ -790,6 +790,11 @@
     "PREDICT_BY_MODEL": "预测使用模型 %1 表 %2 行从 %3 到 %4 输入列 %5 输出列 %6",
     "SAVE_MODEL": "保存名为 %1 的模型",
     "LOAD_MODEL": "加载名为 %1 的模型",
+    "OPENAI_CHATGPT": "OpenAI ChatGPT：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
+    "STREAMING": "串流",
+    "WAITING": "等待",
+    "NEW_CHAT": "新聊天",
+    "CONTINUE": "继续",
     "DATA_SHOWTABLE": "显示表 %1",
     "DATA_HIDETABLE": "隐藏表格 %1"
 }
