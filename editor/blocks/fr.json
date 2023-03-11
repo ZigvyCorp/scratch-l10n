@@ -49,6 +49,7 @@
     "DATA_REDUCEVARIABLEBY": "réduire %1 de %2",
     "DATA_SHOWVARIABLE": "montrer la variable %1",
     "DATA_HIDEVARIABLE": "cacher la variable %1",
+    "DATA_EXPORTVARIABLE": "exporter la variable %1",
     "DATA_ADDTOLIST": "ajouter %1 à %2",
     "DATA_ADDVECTORTOLIST": "ajouter le vecteur X %1 Y %2 Z %3 à %4",
     "DATA_SET_RANDOM_LIST": "définir %1 à %2 nombres aléatoires entre %3 et %4 %5",

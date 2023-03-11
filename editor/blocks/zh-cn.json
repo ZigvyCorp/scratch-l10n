@@ -49,6 +49,7 @@
     "DATA_REDUCEVARIABLEBY": "将 %1 减少 %2",
     "DATA_SHOWVARIABLE": "显示变量 %1",
     "DATA_HIDEVARIABLE": "隐藏变量 %1",
+    "DATA_EXPORTVARIABLE": "导出变量 %1",
     "DATA_ADDTOLIST": "将 %1 加入 %2",
     "DATA_ADDVECTORTOLIST": "将向量 X %1 Y %2 Z %3 添加到 %4",
     "DATA_SET_RANDOM_LIST": "将 %1 设置为 %2 个随机数 在 %3 和 %4 之间 %5",
