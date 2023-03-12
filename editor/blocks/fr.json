@@ -252,7 +252,7 @@
     "LOOKS_COLOUR": "couleur %1 saturation %2 luminosité %3 transparence %4",
     "LOOKS_SECONDS": "secondes",
     "LOOKS_FRAMES": "cadres",
-    "LOOKS_ANIMATEINSECONDFRAME": "animer pour %1 en %2 %3",
+    "LOOKS_ANIMATESECONDFRAME": "animer pour %1 en %2 %3",
     "LOOKS_DRAW_RECTANGLE": "dessine un rectangle à x %1 y %2 largeur %3 hauteur %4 remplissage %5 bordure %6 largeur %7 rayon d'angle %8 rotation %9",
     "LOOKS_DRAW_OVAL": "dessine un ovale à x %1 y %2 largeur %3 hauteur %4 remplissage %5 bordure %6 largeur %7 rotation %8",
     "LOOKS_DRAW_LINE": "trace une ligne dans %1 de x %2 y %3 à x %4 y %5 épaisseur %6",
