@@ -778,7 +778,7 @@
     "PREDICT_BY_MODEL": "預測使用模型 %1 表 %2 行從 %3 到 %4 輸入列 %5 輸出列 %6",
     "SAVE_MODEL": "保存名為 %1 的模型",
     "LOAD_MODEL": "加載名為 %1 的模型",
-    "OPENAI_CHATGPT": "OpenAI ChatGPT：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
+    "OPENAI_CHATGPT": "OpenAI ChatGPT：請求 %1 結果 %2 模式 %3 長度 %4 溫度 %5 會話 %6",
     "STREAMING": "串流",
     "WAITING": "等待",
     "NEW_CHAT": "新聊天",
