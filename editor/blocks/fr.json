@@ -556,6 +556,7 @@
     "MOTION_JRTURNLEFT": "tourner à gauche %1",
     "MOTION_JRTURNRIGHT": "tourner à droite %1",
     "AI_STARTSPEECH": "commencer à reconnaître la parole dans %1 enregistrer en tant que %2",
+    "AI_STARTOPENAISPEECH": "OpenAI : commence à reconnaître la parole dans l'enregistrement %1 en tant que %2",
     "AI_CLEARSPEECH": "texte vocal clair",
     "AI_ENDSPEECH": "terminer la reconnaissance vocale",
     "AI_TEXTFROMSPEECH": "texte de la parole",

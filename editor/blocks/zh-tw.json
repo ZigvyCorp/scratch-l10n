@@ -592,6 +592,7 @@
     "RIGHT_MOUSE_BUTTON": "右邊",
     "CONTROL_REPORT_OLYMPIC_RESULT": "申报奥运成绩单号 %1",
     "AI_STARTSPEECH": "開始語音識別 語言 %1 保存聲音為 %2",
+    "AI_STARTOPENAISPEECH": "OpenAI：開始將 %1 記錄中的語音識別為 %2",
     "AI_CLEARSPEECH": "清除語音識別結果",
     "AI_ENDSPEECH": "結束語音識別",
     "AI_TEXTFROMSPEECH": "語音識別結果",
