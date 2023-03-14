@@ -793,6 +793,7 @@
     "SAVE_MODEL": "save model named %1",
     "LOAD_MODEL": "load model named %1",
     "OPENAI_CHATGPT": "OpenAI ChatGPT: request %1 result %2 mode %3 length %4 temperature %5 session %6",
+    "OPENAI_CHATGPT_CANCEL": "OpenAI ChatGPT: cancel ChatGPT request",
     "STREAMING": "streaming",
     "WAITING": "waiting",
     "NEW_CHAT": "new chat",
