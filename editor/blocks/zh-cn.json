@@ -508,6 +508,7 @@
     "PROCEDURE_DEFAULT_NAME": "积木名称",
     "PROCEDURE_USED": "在删除一个积木定义前，请先把该积木从所有使用的地方删除。",
     "PROCEDURE_RETURN": "返回 %1",
+    "PROCEDURE_COMMENT": "// %1",
     "PROCEDURE_ADD_LABEL": "标签文本",
     "PROCEDURE_ADD_BOOLEAN": "布尔",
     "PROCEDURE_ADD_TEXT": "数字或文字",
