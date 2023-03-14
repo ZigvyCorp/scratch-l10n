@@ -792,6 +792,7 @@
     "SAVE_MODEL": "保存名为 %1 的模型",
     "LOAD_MODEL": "加载名为 %1 的模型",
     "OPENAI_CHATGPT": "OpenAI ChatGPT：请求 %1 结果 %2 模式 %3 长度 %4 温度 %5 会话 %6",
+    "OPENAI_CHATGPT_CANCEL": "OpenAI ChatGPT：取消 ChatGPT 请求",
     "STREAMING": "串流",
     "WAITING": "等待",
     "NEW_CHAT": "新聊天",
