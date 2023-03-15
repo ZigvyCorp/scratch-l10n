@@ -509,6 +509,7 @@
     "PROCEDURE_DEFAULT_NAME": "nombre del bloque",
     "PROCEDURE_USED": "Antes de eliminar la definición del bloque debes eliminar todos sus usos",
     "PROCEDURE_RETURN": "Regreso %1",
+    "PROCEDURE_COMMENT": "// %1",
     "PROCEDURE_ADD_LABEL": "etiqueta de texto",
     "PROCEDURE_ADD_BOOLEAN": "booleano",
     "PROCEDURE_ADD_TEXT": "número o texto",

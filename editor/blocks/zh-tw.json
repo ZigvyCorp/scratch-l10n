@@ -508,6 +508,7 @@
     "PROCEDURE_DEFAULT_NAME": "積木名稱",
     "PROCEDURE_USED": "刪除某個積木的定義之前，要先把正在使用中的先移除",
     "PROCEDURE_RETURN": "返回 %1",
+    "PROCEDURE_COMMENT": "// %1",
     "PROCEDURE_ADD_LABEL": "標籤文本",
     "PROCEDURE_ADD_BOOLEAN": "布林",
     "PROCEDURE_ADD_TEXT": "數字或文字",
