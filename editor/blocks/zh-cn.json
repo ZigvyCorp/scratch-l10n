@@ -479,7 +479,7 @@
     "ADD_COMMENT": "添加注释",
     "REMOVE_COMMENT": "删除注释",
     "DELETE_BLOCK": "删除",
-    "EXPORT_AS_AN_IMAGE": "导出为图像",
+    "EXPORT_AS_AN_IMAGE": "导出PNG图片",
     "DELETE_X_BLOCKS": "删除 %1 积木",
     "DELETE_ALL_BLOCKS": "删除全部 %1 积木？",
     "CLEAN_UP": "整理积木",

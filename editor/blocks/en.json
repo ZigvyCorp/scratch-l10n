@@ -480,7 +480,7 @@
     "ADD_COMMENT": "Add Comment",
     "REMOVE_COMMENT": "Remove Comment",
     "DELETE_BLOCK": "Delete",
-    "EXPORT_AS_AN_IMAGE": "Export as an Image",
+    "EXPORT_AS_AN_IMAGE": "Export PNG Image",
     "DELETE_X_BLOCKS": "Delete %1 Blocks",
     "DELETE_ALL_BLOCKS": "Delete all %1 blocks?",
     "CLEAN_UP": "Clean up Blocks",
