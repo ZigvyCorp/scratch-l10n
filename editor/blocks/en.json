@@ -512,6 +512,7 @@
     "PROCEDURE_DEFAULT_NAME": "block name",
     "PROCEDURE_USED": "To delete a block definition, first remove all uses of the block",
     "PROCEDURE_RETURN": "Return %1",
+    "PROCEDURE_COMMENT": "// %1",
     "PROCEDURE_ADD_LABEL": "label text",
     "PROCEDURE_ADD_BOOLEAN": "boolean",
     "PROCEDURE_ADD_TEXT": "number or text",
