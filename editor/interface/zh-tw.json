@@ -133,6 +133,7 @@
     "gui.menuBar.getQuickID": "獲取快捷編號",
     "gui.menuBar.remix": "改編",
     "gui.menuBar.new": "新建項目",
+    "gui.menuBar.newPuzzle": "新拼圖",
     "gui.menuBar.file": "檔案",
     "gui.menuBar.downloadToComputer": "下載到你的電腦",
     "gui.menuBar.edit": "編輯",

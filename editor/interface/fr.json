@@ -139,6 +139,7 @@
     "gui.menuBar.getQuickID": "Obtenez une identification rapide",
     "gui.menuBar.remix": "Remix",
     "gui.menuBar.new": "Nouveau",
+    "gui.menuBar.newPuzzle": "Nouveau casse-tête",
     "gui.menuBar.file": "Fichier",
     "gui.menuBar.downloadToComputer": "Sauvegarder sur votre ordinateur",
     "gui.menuBar.edit": "Modifier",

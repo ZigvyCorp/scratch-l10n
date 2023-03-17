@@ -139,6 +139,7 @@
     "gui.menuBar.getQuickID": "获取快捷编号",
     "gui.menuBar.remix": "改编",
     "gui.menuBar.new": "新项目",
+    "gui.menuBar.newPuzzle": "新拼图",
     "gui.menuBar.file": "文件",
     "gui.menuBar.downloadToComputer": "保存到电脑",
     "gui.menuBar.edit": "编辑",
