@@ -1030,5 +1030,13 @@
     "widget.chartType.bar":"barra",
     "widget.chartType.pie": "pastel",
     "widget.chartType.percentage": "porcentaje",
-    "widget.progressBar": "agregue la barra de progreso como [VALUE] del total [TOTAL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] color [COLOR] fondo [BGCOLOR] ancho del borde [BORDER_WIDTH] color [BORDER_COLOR] como se nombra [NAME]"
+    "widget.progressBar": "agregue la barra de progreso como [VALUE] del total [TOTAL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] color [COLOR] fondo [BGCOLOR] ancho del borde [BORDER_WIDTH] color [BORDER_COLOR] como se nombra [NAME]",
+    "widget.createChatWindow": "agregar ventana de chat x [X] y [Y] ancho [WIDTH] alto [HEIGHT] filas de entrada [ROWS] fondo [COLOR] borde [BCOLOR] nombre [NAME]",
+    "widget.appendChatMessage": "agregar al chat [NAME] mensaje [MSG] como [ROLE] icono [ICON] alinear [ALIGN] tamaño de texto [SIZE] color [TEXTCOLOR] fondo [BGCOLOR]",
+    "widget.updateLastChatMessage": "actualice el último mensaje de chat [NEWMSG] para el chat [NAME]",
+    "widget.disableWidget": "[DISABLE] widget [NAME]",
+    "widget.disable": "Desactivar",
+    "widget.enable": "Permitir",
+    "widget.chat.robot": "ROBOT",
+    "widget.chat.user": "USUARIA"
 }
