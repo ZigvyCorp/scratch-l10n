@@ -1031,5 +1031,13 @@
     "widget.chartType.bar":"bar",
     "widget.chartType.pie": "饼图",
     "widget.chartType.percentage": "百分比",
-    "widget.progressBar": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 颜色 [COLOR] 背景 [BGCOLOR] 边框宽度 [BORDER_WIDTH] 颜色 [BORDER_COLOR] 处添加进度条作为 [VALUE] 总计 [TOTAL] 作为命名 [NAME]"
+    "widget.progressBar": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 颜色 [COLOR] 背景 [BGCOLOR] 边框宽度 [BORDER_WIDTH] 颜色 [BORDER_COLOR] 处添加进度条作为 [VALUE] 总计 [TOTAL] 作为命名 [NAME]",
+    "widget.createChatWindow": "添加聊天窗口 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 输入行 [ROWS] 背景 [COLOR] 边框 [BCOLOR] 名称 [NAME]",
+    "widget.appendChatMessage": "附加到聊天 [NAME] 消息 [MSG] 作为 [ROLE] 图标 [ICON] 对齐 [ALIGN] 文本大小 [SIZE] 颜色 [TEXTCOLOR] 背景 [BGCOLOR]",
+    "widget.updateLastChatMessage": "更新聊天 [NAME] 的最后一条聊天消息 [NEWMSG]",
+    "widget.disableWidget": "[DISABLE] 小部件 [NAME]",
+    "widget.disable": "停用",
+    "widget.enable": "使能够",
+    "widget.chat.robot": "机器人",
+    "widget.chat.user": "用户"
 }
