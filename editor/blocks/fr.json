@@ -81,7 +81,7 @@
     "DATA_ITEMSPECIFICVALUEOFLIST_AVERAGE": "moyenne",
     "DATA_ITEMSPECIFICVALUEOFLIST_MEDIAN": "médian",
     "DATA_SETLISTTOSPLITOF": "définir %1 sur le fractionnement de %2 avec le fractionneur %3",
-    "DATA_JOINLISTWITH": "rejoindre %1 avec %2",
+    "DATA_JOINLISTWITH": "joindre %1 dans le texte avec %2",
     "DATA_COPYORAPPEND": "%1 %2 à %3",
     "DATA_COPYORAPPEND_COPY": "copie",
     "DATA_COPYORAPPEND_APPEND": "ajouter",

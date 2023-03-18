@@ -81,7 +81,7 @@
     "DATA_ITEMSPECIFICVALUEOFLIST_AVERAGE": "promedio",
     "DATA_ITEMSPECIFICVALUEOFLIST_MEDIAN": "mediano",
     "DATA_SETLISTTOSPLITOF": "establecer %1 para dividir %2 con el divisor %3",
-    "DATA_JOINLISTWITH": "unirse a %1 con %2",
+    "DATA_JOINLISTWITH": "unir %1 al texto con %2",
     "DATA_COPYORAPPEND": "%1 %2 a %3",
     "DATA_COPYORAPPEND_COPY": "Copiar",
     "DATA_COPYORAPPEND_APPEND": "adjuntar",
