@@ -376,7 +376,7 @@
     "widget.addMenuBar": "添加菜單欄 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 名為 [NAME]",
     "widget.addMenuGroup": "將菜單組 [MENUGROUP] 添加到名為 [NAME] 的菜單欄",
     "widget.addMenuItem": "將菜單項 [MENUITEM] 添加到名為 [NAME] 的菜單組",
-    "widget.confirmTextWithButtons": "使用按鈕 [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6] 確認 [TEXT]",
+    "widget.confirmTextWithButtons": "使用按鈕 [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6] 確認 [NAME]",
     "widget.whenAnyButtonNamedClicked": "當單擊任何名為 [VARIABLE] 的按鈕時",
     "widget.releaseFocus": "釋放焦點",
     "widget.setValueOfWidgetTo": "將控件 [WIDGET] 的值設置為 [VALUE]",

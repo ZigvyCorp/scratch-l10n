@@ -374,7 +374,7 @@
     "widget.addMenuBar": "ajouter une barre de menu à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] comme [NAME]",
     "widget.addMenuGroup": "ajouter le groupe de menus [MENUGROUP] à la barre de menus nommée [NAME]",
     "widget.addMenuItem": "ajouter l'élément de menu [MENUITEM] au groupe de menus nommé [NAME]",
-    "widget.confirmTextWithButtons": "confirmer [TEXT] avec les boutons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]",
+    "widget.confirmTextWithButtons": "confirmer [NAME] avec les boutons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]",
     "widget.whenAnyButtonNamedClicked": "lorsqu'un bouton nommé [VARIABLE] est cliqué",
     "widget.releaseFocus": "relâcher l'accent",
     "widget.setValueOfWidgetTo": "définir la valeur du widget [WIDGET] sur [VALUE]",
