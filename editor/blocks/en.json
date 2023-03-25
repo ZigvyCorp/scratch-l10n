@@ -436,6 +436,7 @@
     "SENSING_CURRENT_SECOND": "second",
     "SENSING_CURRENT_MILLISECOND": "millisecond",
     "SENSING_DAYSSINCE2000": "days since 2000",
+    "SENSING_DAYSSINCE2000FORDATE": "days since 2000 for date %1",
     "SENSING_DAY": "date %1",
     "SENSING_DAYOFWEEKFOR": "day of week for %1",
     "SENSING_DAYOF": "day of %1",
