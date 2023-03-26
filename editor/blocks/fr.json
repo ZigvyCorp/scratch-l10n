@@ -613,7 +613,7 @@
     "OPERATOR_REGEX_SEARCH": "regex %1 indicateur %2 recherche %3",
     "OPERATOR_REGEX_REPLACE_WITH": "regex %1 indicateur %2 remplace %3 par %4 ",
     "OPERATOR_REGEX_REPLACE_ALL_WITH": "regex %1 flag %2 remplace tous les %3 par %4",
-    "OPERATOR_REGEX_SPLIT_INTO_LIST": "regex %1 divise %2 en liste %3",
+    "OPERATOR_REGEX_SPLIT_INTO_LIST": "regex %1 drapeau %2 divise %3 en liste %4",
     "LEFT_MOUSE_BUTTON": "gauche",
     "RIGHT_MOUSE_BUTTON": "droit",
     "CONTROL_REPORT_OLYMPIC_RESULT": "indiquer le numéro du résultat olympique %1",

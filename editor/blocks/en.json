@@ -620,7 +620,7 @@
     "OPERATOR_REGEX_SEARCH": "regex %1 flag %2 search %3",
     "OPERATOR_REGEX_REPLACE_WITH": "regex %1 flag %2 replace %3 with %4",
     "OPERATOR_REGEX_REPLACE_ALL_WITH": "regex %1 flag %2 replace all %3 with %4",
-    "OPERATOR_REGEX_SPLIT_INTO_LIST": "regex %1 split %2 into list %3",
+    "OPERATOR_REGEX_SPLIT_INTO_LIST": "regex %1 flag %2 split %3 into list %4",
     "LEFT_MOUSE_BUTTON": "left",
     "RIGHT_MOUSE_BUTTON": "right",
     "CONTROL_REPORT_OLYMPIC_RESULT": "report olympic result number %1",
