@@ -1042,5 +1042,9 @@
     "widget.disable": "Disbale",
     "widget.enable": "Enable",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "USER"
+    "widget.chat.user": "USER",
+    "widget.addImageFromCustoms": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "widget.addImageFromUrl": "add image from URL [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "widget.image.keep": "keep",
+    "widget.image.stretch": "stretch"
 }

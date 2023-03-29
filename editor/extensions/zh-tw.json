@@ -1033,5 +1033,9 @@
     "widget.disable": "停用",
     "widget.enable": "使能夠",
     "widget.chat.robot": "機器人",
-    "widget.chat.user": "用戶"
+    "widget.chat.user": "用戶",
+    "widget.addImageFromCustoms": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 處添加圖像 [COSTUME] 作為 [NAME]",
+    "widget.addImageFromUrl": "從 URL [URL] 添加圖像 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 作為 [NAME]",
+    "widget.image.keep": "保持",
+    "widget.image.stretch": "拉緊"
 }
