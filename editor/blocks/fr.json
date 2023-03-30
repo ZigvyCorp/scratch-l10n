@@ -99,6 +99,7 @@
     "DATA_INDEX_LAST": "dernier",
     "DATA_INDEX_RANDOM": "au hasard",
     "DATA_SAVEDATA": "enregistrer %1 données %2 avec le nom %3",
+    "DATA_REMOVEDATA": "supprimer %1 données nommées %2",
     "DATA_SAVEDATA_PUBLIC": "public",
     "DATA_SAVEDATA_PRIVATE": "privé",
     "DATA_TEXTFROMLIST": "obtenir le texte de %1",
