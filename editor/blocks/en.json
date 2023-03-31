@@ -813,5 +813,13 @@
     "NEW_CHAT": "new chat",
     "CONTINUE": "continue",
     "DATA_SHOWTABLE": "show table %1",
-    "DATA_HIDETABLE": "hide table %1"
+    "DATA_HIDETABLE": "hide table %1",
+    "DATA_MAKE_VARIABLE": "make variable %1 for %2 is cloud %3",
+    "DATA_MAKE_VARIABLE_THIS_SPRITE": "this sprite",
+    "DATA_MAKE_VARIABLE_ALL_SPRITE": "all sprites",
+    "DATA_MAKE_VARIABLE_THIS_DEFINITION": "this definition",
+    "DATA_MAKE_VARIABLE_YES": "yes",
+    "DATA_MAKE_VARIABLE_NO": "no",
+    "DATA_MAKE_LIST_VARIABLE": "make list %1 for %2",
+    "DATA_MAKE_TABLE_VARIABLE": "make table %1 for %2"
 }

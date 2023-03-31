@@ -806,5 +806,13 @@
     "NEW_CHAT": "nouveau chat",
     "CONTINUE": "continuer",
     "DATA_SHOWTABLE": "afficher le tableau %1",
-    "DATA_HIDETABLE": "masquer le tableau %1"
+    "DATA_HIDETABLE": "masquer le tableau %1",
+    "DATA_MAKE_VARIABLE": "créer la variable %1 pour %2 dans le cloud %3",
+    "DATA_MAKE_VARIABLE_THIS_SPRITE": "ce sprite",
+    "DATA_MAKE_VARIABLE_ALL_SPRITE": "tous les sprites",
+    "DATA_MAKE_VARIABLE_THIS_DEFINITION": "cette définition",
+    "DATA_MAKE_VARIABLE_YES": "oui",
+    "DATA_MAKE_VARIABLE_NO": "non",
+    "DATA_MAKE_LIST_VARIABLE": "faire la liste %1 pour %2",
+    "DATA_MAKE_TABLE_VARIABLE": "créer la table %1 pour %2"
 }

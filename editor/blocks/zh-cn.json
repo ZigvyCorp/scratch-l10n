@@ -808,5 +808,13 @@
     "NEW_CHAT": "新建",
     "CONTINUE": "继续",
     "DATA_SHOWTABLE": "显示表格 %1",
-    "DATA_HIDETABLE": "隐藏表格 %1"
+    "DATA_HIDETABLE": "隐藏表格 %1",
+    "DATA_MAKE_VARIABLE": "为 %2 生成变量 %1 是云 %3",
+    "DATA_MAKE_VARIABLE_THIS_SPRITE": "这个精灵",
+    "DATA_MAKE_VARIABLE_ALL_SPRITE": "所有精灵",
+    "DATA_MAKE_VARIABLE_THIS_DEFINITION": "这个定义",
+    "DATA_MAKE_VARIABLE_YES": "是",
+    "DATA_MAKE_VARIABLE_NO": "否",
+    "DATA_MAKE_LIST_VARIABLE": "为 %2 创建列表 %1",
+    "DATA_MAKE_TABLE_VARIABLE": "为 %2 创建表 %1"
 }

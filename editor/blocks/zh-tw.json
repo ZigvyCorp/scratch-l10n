@@ -795,5 +795,13 @@
     "NEW_CHAT": "新建",
     "CONTINUE": "繼續",
     "DATA_SHOWTABLE": "顯示表格 %1",
-    "DATA_HIDETABLE": "隱藏表格 %1"
+    "DATA_HIDETABLE": "隱藏表格 %1",
+    "DATA_MAKE_VARIABLE": "為 %2 生成變量 %1 是雲 %3",
+    "DATA_MAKE_VARIABLE_THIS_SPRITE": "這個精靈",
+    "DATA_MAKE_VARIABLE_ALL_SPRITE": "所有精靈",
+    "DATA_MAKE_VARIABLE_THIS_DEFINITION": "這個定義",
+    "DATA_MAKE_VARIABLE_YES": "是",
+    "DATA_MAKE_VARIABLE_NO": "否",
+    "DATA_MAKE_LIST_VARIABLE": "為 %2 創建列表 %1",
+    "DATA_MAKE_TABLE_VARIABLE": "為 %2 創建表 %1"
 }
