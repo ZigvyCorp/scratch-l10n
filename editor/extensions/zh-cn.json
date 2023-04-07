@@ -1039,5 +1039,7 @@
     "widget.disable": "停用",
     "widget.enable": "使能够",
     "widget.chat.robot": "机器人",
-    "widget.chat.user": "用户"
+    "widget.chat.user": "用户",
+    "widget.addToolbox": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 行数 [ROW] 列数 [COLUMN] 作为 [NAME] 添加工具箱",
+    "widget.setIconToToolbox": "将工具箱 [NAME] 的行 [ROW] 列 [COLUMN] 的图标设置为 [COSTUME]"
 }

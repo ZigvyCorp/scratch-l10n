@@ -1042,5 +1042,7 @@
     "widget.disable": "Disbale",
     "widget.enable": "Enable",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "USER"
+    "widget.chat.user": "USER",
+    "widget.addToolbox": "add toolbox at x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]",
+    "widget.setIconToToolbox": "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]"
 }

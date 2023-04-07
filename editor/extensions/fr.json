@@ -1039,5 +1039,7 @@
     "widget.disable": "Désactiver",
     "widget.enable": "Activer",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "UTILISATRICE"
+    "widget.chat.user": "UTILISATRICE",
+    "widget.addToolbox": "ajouter une boîte à outils à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nombre de lignes [ROW] nombre de colonnes [COLUMN] as [NAME]",
+    "widget.setIconToToolbox": "définir l'icône sur [COSTUME] à la ligne [ROW] colonne [COLUMN] pour la boîte à outils [NAME]"
 }
