@@ -806,7 +806,7 @@
     "SAVE_MODEL": "save NN model named %1",
     "LOAD_MODEL": "load NN model named %1",
     "AI_openAIChatCompletion": "OpenAI ChatGPT: request %1 result %2 mode %3 length %4 temperature %5 session %6",
-    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: system request %1 session %2",
+    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: system request %1 session %2 result %3",
     "AI_openAIChatCancelation": "OpenAI ChatGPT: cancel request",
     "STREAMING": "streaming",
     "WAITING": "waiting",

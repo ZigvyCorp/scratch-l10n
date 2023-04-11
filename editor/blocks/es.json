@@ -799,7 +799,7 @@
     "SAVE_MODEL": "guardar el modelo llamado %1",
     "LOAD_MODEL": "modelo de carga llamado %1",
     "AI_openAIChatCompletion": "OpenAI ChatGPT: solicitud %1 resultado %2 modo %3 longitud %4 temperatura %5 sesión %6",
-    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: solicitud del sistema %1 sesión %2",
+    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: solicitud del sistema %1 sesión %2 resultado %3",
     "AI_openAIChatCancelation": "OpenAI ChatGPT: cancelar solicitud",
     "STREAMING": "transmisión",
     "WAITING": "espera",
