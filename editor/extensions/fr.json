@@ -1041,5 +1041,9 @@
     "widget.chat.robot": "ROBOT",
     "widget.chat.user": "UTILISATRICE",
     "widget.addToolbox": "ajouter une boîte à outils à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nombre de lignes [ROW] nombre de colonnes [COLUMN] as [NAME]",
-    "widget.setIconToToolbox": "définir l'icône sur [COSTUME] à la ligne [ROW] colonne [COLUMN] pour la boîte à outils [NAME]"
+    "widget.setIconToToolbox": "définir l'icône sur [COSTUME] à la ligne [ROW] colonne [COLUMN] pour la boîte à outils [NAME]",
+    "widget.addImageFromCustoms": "ajouter une image [COSTUME] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] comme [NAME]",
+    "widget.addImageFromUrl": "ajouter une image à partir de l'URL [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] as [NAME]",
+    "widget.image.keep": "donjon",
+    "widget.image.stretch": "extensible"
 }
