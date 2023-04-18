@@ -1039,5 +1039,9 @@
     "widget.disable": "Désactiver",
     "widget.enable": "Activer",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "UTILISATRICE"
+    "widget.chat.user": "UTILISATRICE",
+    "widget.addImageFromCustoms": "ajouter une image [COSTUME] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] comme [NAME]",
+    "widget.addImageFromUrl": "ajouter une image à partir de l'URL [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] as [NAME]",
+    "widget.image.keep": "donjon",
+    "widget.image.stretch": "extensible"
 }
