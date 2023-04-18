@@ -99,6 +99,7 @@
     "DATA_INDEX_LAST": "último",
     "DATA_INDEX_RANDOM": "aleatorio",
     "DATA_SAVEDATA": "guardar %1 datos %2 con el nombre %3",
+    "DATA_REMOVEDATA": "quitar %1 datos llamados %2",
     "DATA_SAVEDATA_PUBLIC": "público",
     "DATA_SAVEDATA_PRIVATE": "privado",
     "DATA_TEXTFROMLIST": "obtener texto de %1",

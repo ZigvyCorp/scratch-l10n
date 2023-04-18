@@ -1042,5 +1042,11 @@
     "widget.disable": "Disbale",
     "widget.enable": "Enable",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "USER"
+    "widget.chat.user": "USER",
+    "widget.addToolbox": "add toolbox at x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]",
+    "widget.setIconToToolbox": "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]",
+    "widget.addImageFromCustoms": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "widget.addImageFromUrl": "add image from URL [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "widget.image.keep": "keep",
+    "widget.image.stretch": "stretch"
 }

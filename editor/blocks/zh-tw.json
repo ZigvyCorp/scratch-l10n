@@ -101,6 +101,7 @@
     "DATA_INDEX_LAST": "末",
     "DATA_INDEX_RANDOM": "隨機",
     "DATA_SAVEDATA": "使用名稱 %3 保存 %1 的數據 %2",
+    "DATA_REMOVEDATA": "刪除名為 %2 的 %1 數據",
     "DATA_SAVEDATA_PUBLIC": "公開",
     "DATA_SAVEDATA_PRIVATE": "私人",
     "DATA_TEXTFROMLIST": "將列表 %1 轉換為文本",

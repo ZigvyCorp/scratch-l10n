@@ -1038,5 +1038,11 @@
     "widget.disable": "Desactivar",
     "widget.enable": "Permitir",
     "widget.chat.robot": "ROBOT",
-    "widget.chat.user": "USUARIA"
+    "widget.chat.user": "USUARIA",
+    "widget.addToolbox": "agregue la caja de herramientas en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] recuento de filas [ROW] recuento de columnas [COLUMN] como [NAME]",
+    "widget.setIconToToolbox": "establezca el icono en [COSTUME] en la fila [ROW] columna [COLUMN] para la caja de herramientas [NAME]",
+    "widget.addImageFromCustoms": "agregar imagen [COSTUME] en x [X] y [Y] ancho [WIDHT] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
+    "widget.addImageFromUrl": "agregar imagen de URL [URL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
+    "widget.image.keep": "mantener",
+    "widget.image.stretch": "estirar"
 }

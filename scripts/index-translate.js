@@ -54,9 +54,7 @@ blockTransList.forEach((component) => {
     });
 });
 
-let newResult = Object.entries(result).map(([id, value]) => ({id, ...value}));
-
-const body = {data: newResult};
+const body = {data: result};
 
 axios.post(`${baseUrl}/blocks/index-translate`, body).then(() => console.log('✨✨✨ Complete translate indexing..!!!'))
     .catch(err => console.log('Something went wrong while index translate', err));
