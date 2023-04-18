@@ -2,7 +2,7 @@
 import {indexLanguage} from '../src/supported-locales';
 import * as fs from 'fs';
 import * as path from 'path';
-import set from 'lodash/set';
+import set from 'lodash.set';
 import axios from 'axios';
 var pinyin = require('chinese-to-pinyin');
 

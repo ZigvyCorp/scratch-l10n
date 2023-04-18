@@ -909,12 +909,12 @@
 
     "d3tools_d3_updatefiletexture": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]", 
     "d3tools_d3_materialsetting": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]", 
-    "d3tools_d3_applygridmaterial": "apply grid material face [FACECOLOR] line [LINECOLOR] density [LINECOUNT] minor line visibility [MINOR]% desplazamiento de línea xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
+    "d3tools_d3_applygridmaterial": "apply grid material face [FACECOLOR] line [LINECOLOR] density [LINECOUNT] minor line visibility [MINOR]% line offset xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
     "d3tools_d3_setrenderinggroup": "set rendering layer [LAYERID]",
     "d3tools_d3_lockfacing": "set camera facing mode [FACEMODE]", 
     
     "d3tools_d3_updatescale": "update scale x [X]% y [Y]% z [Z]% in [PERIOD] seconds [BLOCKING]", 
-    "d3tools_d3_updatescale2": "update size X [X] Y [Y] z [Z]", 
+    "d3tools_d3_updatescale2": "update size x [X] y [Y] z [Z]", 
     "d3tools_d3_subdivideface": "subdivide faces by [MULTIPLE]",
     "d3tools_d3_shiftvertices": "update vertices scale xyz [XS] [YS] [ZS] move xyz [XM] [YM] [ZM] position min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [MAXZ]",
     "d3action_d3_movetoxyz": "move to X [X] Y [Y] z [Z] in [PERIOD] seconds [BLOCKING]", 
