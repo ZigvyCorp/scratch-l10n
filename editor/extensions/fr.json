@@ -394,7 +394,7 @@
     "widget.addRemoveTabNamed": "Onglet [OPTION] nommé [NAME]",
     "widget.whenTabSelected": "lorsque l'onglet [NAME] est sélectionné",
     "widget.whenVideoIsPaused": "lorsque la vidéo [NAME] est en pause",
-    "widget.whenVideoStopped": "lorsque la vidéo [NAME] s'arrête",
+    "widget.whenVideoIsStopped": "lorsque la vidéo [NAME] s'arrête",
     "widget.whenVideoStart": "lorsque la vidéo [NAME] démarre",
     "normal": "Normal",
     "gauche-droite retournée": "gauche-droite retournée",

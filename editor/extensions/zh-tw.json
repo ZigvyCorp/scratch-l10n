@@ -398,7 +398,7 @@
     "widget.addRemoveTabNamed": "名為 [NAME] 的 [OPTION] 選項卡",
     "widget.whenTabSelected": "選擇標籤 [NAME] 時",
     "widget.whenVideoIsPaused": "當視頻 [NAME] 暫停時",
-    "widget.whenVideoStopped": "當視頻 [NAME] 停止時",
+    "widget.whenVideoIsStopped": "當視頻 [NAME] 停止時",
     "widget.whenVideoStart": "當視頻 [NAME] 開始時",
     "normal": "正常", 
     "left-right flipped": "左右翻轉",

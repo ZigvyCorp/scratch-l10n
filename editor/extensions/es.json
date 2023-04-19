@@ -394,7 +394,7 @@
     "widget.addRemoveTabNamed": "Pestaña [OPTION] llamada [NAME]",
     "widget.whenTabSelected": "cuando se selecciona la pestaña [NAME]",
     "widget.whenVideoIsPaused": "cuando el video [NAME] se detuvo",
-    "widget.whenVideoStopped": "cuando el video [NAME] se detuvo",
+    "widget.whenVideoIsStopped": "cuando el video [NAME] se detuvo",
     "widget.whenVideoStart": "cuando el video [NAME] comenzó",
     "normal": "Normal", 
     "left-right flipped": "Volteado de izquierda a derecha",

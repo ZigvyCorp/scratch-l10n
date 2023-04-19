@@ -400,7 +400,7 @@
     "widget.addRemoveTabNamed": "名为 [NAME] 的 [OPTION] 选项卡",
     "widget.whenTabSelected": "选择标签 [NAME] 时",
     "widget.whenVideoIsPaused": "当视频 [NAME] 暂停时",
-    "widget.whenVideoStopped": "当视频 [NAME] 停止时",
+    "widget.whenVideoIsStopped": "当视频 [NAME] 停止时",
     "widget.whenVideoStart": "当视频 [NAME] 开始时",
     "ai.menuItem.male": "男性",
     "ai.menuItem.female": "女性",
