@@ -162,7 +162,7 @@
     "pen.drawRectangle": "繪製矩形 寬度[WIDTH] 高度[HEIGHT] 填充顏色[FILL_COLOR] 邊框寬度[BORDER_WIDTH] 顏色[BORDER_COLOR] 圓角半徑[CORNOR_RADIUS] 旋轉[ROTATION]",
     "pen.drawOval": "繪製橢圓 寬度[WIDTH] 高度[HEIGHT] 填充顏色[FILL_COLOR] 邊框寬度[BORDER_WIDTH] 顏色[BORDER_COLOR] 旋轉[ROTATION]",
     "pen.stamp": "蓋章",
-    "pen.printText": "繪製文字 [TEXT] x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 顏色 [COLOR] [SECS] 秒",
+    "pen.printText": "繪製文字 [TEXT]寬度 [WIDTH] 高度 [HEIGHT] 顏色 [COLOR] [SECS] 秒",
     "pen.setDrawing": "設置繪圖位置 [DRAWINGMENU] 服裝",
     "pen.drawLine": "從 x [FROMX] y [FROMY] 到 x [TOX] y [TOY] 畫線 [COLOR] 厚度 [THICKNESS]",
     "speech.defaultWhenIHearValue": "開始吧",

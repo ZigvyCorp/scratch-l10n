@@ -1020,7 +1020,7 @@
     "p2p.scheduleEmailService.centralTime": "Hora central de EE. UU.",
     "p2p.scheduleEmailService.easternTime": "Hora del Este de EE. UU.",
     "p2p.schedulePhoneMessageService": "mensaje al número de teléfono [PHONENUMBER] contenido [CONTENT] en fecha [DATE] hora [HOUR] minuto [MINUTE] zona horaria [TIMEZONE] con ID [ID]",
-    "pen.printText": "imprime [TEXT] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] color [COLOR] durante [SECS] segundos",
+    "pen.printText": "imprime [TEXT] ancho [WIDTH] alto [HEIGHT] color [COLOR] durante [SECS] segundos",
     "pen.setDrawing": "disfraz de dibujo [DRAWINGMENU]",
     "pen.drawLine": "dibuja una línea [COLOR] grosor [THICKNESS] desde x [FROMX] y [FROMY] hasta x [TOX] y [TOY]",
     "widget.drawChartUsingList":"dibujar el gráfico [CHARTTYPE] usando la lista [LIST] x [X] y [Y] ancho [WIDTH] alto [HEIGHT]",
