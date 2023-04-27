@@ -382,7 +382,7 @@
     "widget.addMenuItem": "将菜单项 [MENUITEM] 添加到名为 [NAME] 的菜单组",
     "widget.confirmTextWithButtons": "使用按钮 [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6] 确认 [NAME]",
     "widget.whenAnyButtonNamedClicked": "当单击任何名为 [VARIABLE] 的按钮时",
-    "widget.releaseFocus": "释放焦点",
+    "widget.releaseFocus": "释放小部件 [WIDGETNAME] 的焦点",
     "widget.setValueOfWidgetTo": "将控件 [WIDGET] 的值设置为 [VALUE]",
     "widget.addRadioButton": "添加单选按钮 [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] X [X] Y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 命名为 [NAME]",
     "widget.addCheckbox": "添加复选框 X [X] Y [Y] 名为 [NAME]",

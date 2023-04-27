@@ -376,7 +376,7 @@
     "widget.addMenuItem": "ajouter l'élément de menu [MENUITEM] au groupe de menus nommé [NAME]",
     "widget.confirmTextWithButtons": "confirmer [NAME] avec les boutons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]",
     "widget.whenAnyButtonNamedClicked": "lorsqu'un bouton nommé [VARIABLE] est cliqué",
-    "widget.releaseFocus": "relâcher l'accent",
+    "widget.releaseFocus": "libérer le focus pour le widget [WIDGETNAME]",
     "widget.setValueOfWidgetTo": "définir la valeur du widget [WIDGET] sur [VALUE]",
     "widget.addRadioButton": "ajouter des boutons radio [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nommé [NAME]",
     "widget.addCheckbox": "ajouter une case à cocher à x [X] y [Y] nommé [NAME]",
