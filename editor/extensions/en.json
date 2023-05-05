@@ -1015,6 +1015,7 @@
     "d3action_d3_pauseanimation": "pause animation",
     "d3arvr_d3_showinspector": "show inspector [SHOW]",
     "communityObjectNotFound": "Model {modelName} is currently private or does not exist",
+    "defaultAvatarNotFound": "Please make sure you have specified a default avatar under “My Stuff” → “My Avatars”.",
     "d3scene_d3_switchFullScreen": "switch to full screen [BORDERTYPE]",
     "d3object_d3_set_property": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME]",
     "d3object_d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]",

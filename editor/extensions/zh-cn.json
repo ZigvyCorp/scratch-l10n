@@ -1021,6 +1021,7 @@
     "d3tools_d3_exportstl": "输出物体 [NAME] 为STL文件",
     "d3_exportobj": "输出物体 [NAME] 为 OBJ 和 MTL 文件",
     "communityObjectNotFound": "模型 {modelName} 当前是私有的或不存在",
+    "defaultAvatarNotFound": "请确保你在“我的东西”→“我的化身”下指定了默认的化身。",
     "d3scene_d3_switchFullScreen": "切换到全屏 [BORDERTYPE]",
     "d3tools_d3_for_each_cloned_d3_object": "对于每个命名的 3D 物体 [OBJECT_NAME]",
     "database.categoryName": "数据库",
