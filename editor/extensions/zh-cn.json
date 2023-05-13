@@ -493,7 +493,7 @@
     "d3object_d3_addobject":  "添加模型 [OBJECTNAME] 目标高度 [HEIGHT] 原点偏移 x [X] y [Y] z [Z] 旋转 x [RX] y [RY] z [RZ] 隐藏 [HIDDEN] 名为 [NAME]",
     "d3object_d3_addcommunityobject": "添加社区模型 [OBJECTNAME] 目标高度 [HEIGHT] 原点偏移 x [X] y [Y] z [Z] 旋转 x [RX] y [RY] z [RZ] 名为 [NAME]",
     "d3action_d3_pauseanimation": "暂停动画",
-    "d3object_d3_addlinkobject":  "通过URL添加公共物体 [OBJECTNAME] 名为 [NAME]",
+    "d3object_d3_addlinkobject":  "添加共享在 URL [OBJECTNAME] 的 [OBJTYPE] 物体 目标高度 [TARGETHEIGHT] 旋转 [RX] [RY] [RZ] 原点偏移 [X] [Y] [Z] 名为 [NAME]",
     "d3object_d3_addcharacter":  "添加人物 [CHARACTERNAME] 名为 [NAME]",
     "d3object_d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名为 [NAME] 隐藏 [HIDDEN]",
     "d3object_d3_addavatarforuser": "添加用户 [USERNAME] 的化身 [AVATAR_NAME] 高度 [HEIGHT] 名为 [NAME] 隐藏 [HIDDEN]",

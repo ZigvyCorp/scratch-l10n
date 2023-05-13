@@ -749,7 +749,7 @@
     "d3object_d3_addframe": "ajouter le cadre [COLOR] nombre de bords [EDGES] longueur [EDGELENGTH] épaisseur [THICKNESS] nommé [NAME]",
     "d3object_d3_addcone": "ajouter le cône [COLOR] liste de sommets [LIST] hauteur [HEIGHT] nommé [NAME]", 
     "d3object_d3_addobject": "ajouter le modèle [OBJECTNAME] hauteur cible [HEIGHT] décalage d'origine x [X] y [Y] z [Z] rotation x [RX] y [RY] z [RZ] caché [HIDDEN] nommé [NAME]",
-    "d3object_d3_addlinkobject": "ajouter un objet public par URL [OBJECTNAME] nommé [NAME]", 
+    "d3object_d3_addlinkobject": "ajouter un objet public par URL [OBJECTNAME] en tant que [OBJTYPE] hauteur cible [TARGETHEIGHT] rotation [RX] [RY] [RZ] décalage d'origine [X] [Y] [Z] en tant que [NAME]", 
     "d3object_d3_addcharacter": "ajouter le caractère [CHARACTERNAME] nommé [NAME]",
     "d3object_d3_addavatar": "ajouter un avatar [CHARACTERNAME] la taille [HEIGHT] nommé [NAME] caché [HIDDEN]",
     "d3object_d3_addavatarforuser": "ajouter l'avatar [AVATAR_NAME] pour l'utilisateur [USERNAME] taille [HEIGHT] en tant que [NAME] caché [HIDDEN]",

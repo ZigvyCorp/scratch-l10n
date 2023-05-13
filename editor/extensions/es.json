@@ -753,7 +753,7 @@
     "d3tools_d3_exportstl": "exportar objeto [NAME] como un archivo STL",
     "d3_exportboj": "exportar objeto [NAME] como un archivo OBJ y un archivo MTL",
     "d3action_d3_selectobject": "seleccionar objeto sprite por NAME [NAME]",
-    "d3object_d3_addlinkobject": "agregar objeto público por URL [OBJECTNAME] llamado [NAME]",
+    "d3object_d3_addlinkobject": "agregar objeto público por URL [OBJECTNAME] como [OBJTYPE] altura de destino [TARGETHEIGHT] rotación [RX] [RY] [RZ] desplazamiento de origen [X] [Y] [Z] como [NAME]",
     "d3object_d3_addcharacter": "agregar carácter [CHARACTERNAME] llamado [NAME]",
     "d3object_d3_addavatar": "agregar avatar [CHARACTERNAME] altura [HEIGHT] llamado [NAME] oculto [HIDDEN]",
     "d3object_d3_addavatarforuser": "agregar avatar [AVATAR_NAME] para el usuario [USERNAME] altura [HEIGHT] como [NAME] oculto [HIDDEN]",
