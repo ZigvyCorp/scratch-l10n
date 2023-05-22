@@ -796,5 +796,6 @@
     "NEW_CHAT": "新建",
     "CONTINUE": "繼續",
     "DATA_SHOWTABLE": "顯示表格 %1",
-    "DATA_HIDETABLE": "隱藏表格 %1"
+    "DATA_HIDETABLE": "隱藏表格 %1",
+    "PASTE_FROM_CLIPBOARD": "從剪貼板粘貼"
 }

@@ -809,5 +809,6 @@
     "NEW_CHAT": "新建",
     "CONTINUE": "继续",
     "DATA_SHOWTABLE": "显示表格 %1",
-    "DATA_HIDETABLE": "隐藏表格 %1"
+    "DATA_HIDETABLE": "隐藏表格 %1",
+    "PASTE_FROM_CLIPBOARD": "从剪贴板粘贴"
 }
