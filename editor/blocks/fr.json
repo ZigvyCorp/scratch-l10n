@@ -806,5 +806,6 @@
     "NEW_CHAT": "nouveau chat",
     "CONTINUE": "continuer",
     "DATA_SHOWTABLE": "afficher le tableau %1",
-    "DATA_HIDETABLE": "masquer le tableau %1"
+    "DATA_HIDETABLE": "masquer le tableau %1",
+    "PASTE_FROM_CLIPBOARD": "Coller depuis le Presse-papiers"
 }
