@@ -746,5 +746,10 @@
     "gui.gameLeader.leaderBoard": "Leaderboard",
     "gui.gameLeader.total": "Total: ",
     "gui.gameLeader.yourBestScore": "Your best score: ",
-    "gui.gameLeader.noRecords": "No Records"
+    "gui.gameLeader.noRecords": "No Records",
+    "gui.assistantDialog.openDialog": "open XO assistance chat dialog",
+    "gui.assistantDialog.closeDialog": "close XO assistance chat dialog",
+    "gui.assistantDialog.chatDialogName": "XO Assistant",
+    "gui.assistantDialog.explainCommand": "Explain this program pelase",
+    "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?"
 }
