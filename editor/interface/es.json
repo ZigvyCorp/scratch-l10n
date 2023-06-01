@@ -748,5 +748,10 @@
     "gui.gameLeader.leaderBoard": "Tabla de clasificación",
     "gui.gameLeader.total": "Total:",
     "gui.gameLeader.yourBestScore": "Tu mejor puntuación:",
-    "gui.gameLeader.noRecords": "No hay registros"
+    "gui.gameLeader.noRecords": "No hay registros",
+    "gui.assistantDialog.openDialog": "abrir diálogo de chat de asistencia XO",
+    "gui.assistantDialog.closeDialog": "cerrar diálogo de chat de asistencia XO",
+    "gui.assistantDialog.chatDialogName": "Asistente XO",
+    "gui.assistantDialog.explainCommand": "Explica este programa por favor",
+    "gui.assistantDialog.debuggerCommand": "¿Qué problema tiene este programa?"
 }
