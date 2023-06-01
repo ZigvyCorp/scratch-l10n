@@ -736,9 +736,9 @@
     "gui.gameLeader.total": "全部的：",
     "gui.gameLeader.yourBestScore": "你的最好成績：",
     "gui.gameLeader.noRecords": "無記錄",
-    "gui.assistantDialog.openDialog": "打開 XO 協助聊天對話框",
-    "gui.assistantDialog.closeDialog": "關閉 XO 協助聊天對話框",
-    "gui.assistantDialog.chatDialogName": "XO 助手",
+    "gui.assistantDialog.openDialog": "打開 XO 對話框",
+    "gui.assistantDialog.closeDialog": "關閉 XO 對話框",
+    "gui.assistantDialog.chatDialogName": "創益編程 XO",
     "gui.assistantDialog.explainCommand": "請解釋這個程序",
     "gui.assistantDialog.debuggerCommand": "這個程序有什麼問題？"
 }

@@ -746,9 +746,9 @@
     "gui.gameLeader.total": "Totale: ",
     "gui.gameLeader.yourBestScore": "Votre meilleur score :",
     "gui.gameLeader.noRecords": "Pas d'enregistrements",
-    "gui.assistantDialog.openDialog": "ouvrir la boîte de dialogue de chat d'assistance XO",
-    "gui.assistantDialog.closeDialog": "fermer la boîte de dialogue de chat d'assistance XO",
-    "gui.assistantDialog.chatDialogName": "Assistant XO",
-    "gui.assistantDialog.explainCommand": "Expliquez ce programme pelase",
+    "gui.assistantDialog.openDialog": "ouvrir le chat XO",
+    "gui.assistantDialog.closeDialog": "fermer le chat XO",
+    "gui.assistantDialog.chatDialogName": "CreatiCode XO",
+    "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",
     "gui.assistantDialog.debuggerCommand": "Qu'est-ce qui ne va pas avec ce programme ?"
 }
