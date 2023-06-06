@@ -815,5 +815,6 @@
     "CONTINUE": "continue",
     "DATA_SHOWTABLE": "show table %1",
     "DATA_HIDETABLE": "hide table %1",
-    "PASTE_FROM_CLIPBOARD": "Paste from Clipboard"
+    "PASTE_FROM_CLIPBOARD": "Paste from Clipboard",
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Sorry, the {classSetterName} class you're taking has disabled ChatGPT blocks for your account."
 }

@@ -808,5 +808,6 @@
     "CONTINUE": "continuar",
     "DATA_SHOWTABLE": "mostrar tabla %1",
     "DATA_HIDETABLE": "ocultar tabla %1",
-    "PASTE_FROM_CLIPBOARD": "Pegar desde portapapeles"
+    "PASTE_FROM_CLIPBOARD": "Pegar desde portapapeles",
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Lo siento, la clase {classSetterName} que estás tomando ha deshabilitado los bloqueos de ChatGPT para tu cuenta"
 }
