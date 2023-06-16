@@ -242,7 +242,7 @@
     "gui.alerts.creatingCopy": "Copying project…",
     "gui.alerts.creatingRemix": "Remixing project…",
     "gui.alerts.creatingError": "Could not create the project. Please try again!",
-    "gui.alerts.savingError": "Project could not save.",
+    "gui.alerts.savingError": "project could not be saved.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
     "gui.alerts.cloudInfo": "Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}",
