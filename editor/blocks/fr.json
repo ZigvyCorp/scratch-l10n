@@ -809,5 +809,7 @@
     "DATA_SHOWTABLE": "afficher le tableau %1",
     "DATA_HIDETABLE": "masquer le tableau %1",
     "PASTE_FROM_CLIPBOARD": "Coller depuis le Presse-papiers",
-    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Désolé, le cours {classSetterName} que vous suivez a désactivé les blocages ChatGPT pour votre compte."
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Désolé, le cours {classSetterName} que vous suivez a désactivé les blocages ChatGPT pour votre compte.",
+    "DATA_SAVETABLE": "enregistrer la table %1 sur le serveur sous %2",
+    "DATA_LOADTABLE": "charger %1 du serveur dans la table %2"
 }

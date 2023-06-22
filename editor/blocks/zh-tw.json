@@ -798,5 +798,7 @@
     "DATA_SHOWTABLE": "顯示表格 %1",
     "DATA_HIDETABLE": "隱藏表格 %1",
     "PASTE_FROM_CLIPBOARD": "從剪貼板粘貼",
-    "ERROR_TEACHER_DISABLE_CHAT_GPT": "抱歉，您正在上的 {classSetterName} 課程已為您的帳戶禁用 ChatGPT 塊."
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "抱歉，您正在上的 {classSetterName} 課程已為您的帳戶禁用 ChatGPT 塊.",
+    "DATA_SAVETABLE": "將表 %1 作為 %2 保存到服務器",
+    "DATA_LOADTABLE": "從服務器加載 %1 到表 %2"
 }
