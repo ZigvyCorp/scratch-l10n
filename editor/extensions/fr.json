@@ -1047,5 +1047,6 @@
     "widget.addImageFromCustoms": "ajouter une image [COSTUME] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] comme [NAME]",
     "widget.addImageFromUrl": "ajouter une image à partir de l'URL [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] as [NAME]",
     "widget.image.keep": "donjon",
-    "widget.image.stretch": "extensible"
+    "widget.image.stretch": "extensible",
+    "d3object_d3_adduseravatar": "ajouter l’avatar de l’utilisateur [MODELNAME] height [HEIGHT] comme [NAME]"
 }

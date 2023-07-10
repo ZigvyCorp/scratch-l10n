@@ -1047,5 +1047,6 @@
     "widget.addImageFromCustoms": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 处添加图像 [COSTUME] 作为 [NAME]",
     "widget.addImageFromUrl": "从 URL [URL] 添加图像 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 作为 [NAME]",
     "widget.image.keep": "保持",
-    "widget.image.stretch": "拉紧"
+    "widget.image.stretch": "拉紧",
+    "d3object_d3_adduseravatar": "将用户头像 [MODELNAME] 高度 [HEIGHT] 添加为 [NAME]"
 }

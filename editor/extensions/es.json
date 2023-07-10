@@ -1046,5 +1046,6 @@
     "widget.addImageFromCustoms": "agregar imagen [COSTUME] en x [X] y [Y] ancho [WIDHT] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
     "widget.addImageFromUrl": "agregar imagen de URL [URL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
     "widget.image.keep": "mantener",
-    "widget.image.stretch": "estirar"
+    "widget.image.stretch": "estirar",
+    "d3object_d3_adduseravatar": "agregar avatar de usuario [MODELNAME] height [HEIGHT] como [NAME]"
 }
