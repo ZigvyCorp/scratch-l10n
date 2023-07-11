@@ -809,5 +809,7 @@
     "DATA_SHOWTABLE": "mostrar tabla %1",
     "DATA_HIDETABLE": "ocultar tabla %1",
     "PASTE_FROM_CLIPBOARD": "Pegar desde portapapeles",
-    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Lo siento, la clase {classSetterName} que estás tomando ha deshabilitado los bloqueos de ChatGPT para tu cuenta"
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Lo siento, la clase {classSetterName} que estás tomando ha deshabilitado los bloqueos de ChatGPT para tu cuenta",
+    "DATA_SAVETABLE": "guardar la tabla %1 en el servidor como %2",
+    "DATA_LOADTABLE": "cargar %1 del servidor a la tabla %2"
 }

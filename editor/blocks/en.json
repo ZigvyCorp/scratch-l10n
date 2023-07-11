@@ -816,5 +816,7 @@
     "DATA_SHOWTABLE": "show table %1",
     "DATA_HIDETABLE": "hide table %1",
     "PASTE_FROM_CLIPBOARD": "Paste from Clipboard",
-    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Sorry, the {classSetterName} class you're taking has disabled ChatGPT blocks for your account."
+    "ERROR_TEACHER_DISABLE_CHAT_GPT": "Sorry, the {classSetterName} class you're taking has disabled ChatGPT blocks for your account.",
+    "DATA_SAVETABLE": "save table %1 to server as %2",
+    "DATA_LOADTABLE": "load %1 from server into table %2"
 }
