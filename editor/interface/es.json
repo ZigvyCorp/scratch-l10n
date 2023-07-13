@@ -74,8 +74,8 @@
     "gui.customProcedures.runWithoutScreenRefresh": "Ejecutar al instante",
     "gui.customProcedures.cancel": "Cancelar",
     "gui.customProcedures.ok": "Aceptar",
-    "gui.customProcedures.statementShape": "Forma de declaración",
-    "gui.customProcedures.roundShape": "Forma redonda",
+    "gui.customProcedures.statementShape": "Bloque de pila",
+    "gui.customProcedures.roundShape": "Bloque de Reportero",
     "gui.SpriteInfo.direction": "Dirección",
     "gui.directionPicker.rotationStyles.allAround": "En todas direcciones",
     "gui.directionPicker.rotationStyles.leftRight": "Izquierda/Derecha",
@@ -748,5 +748,10 @@
     "gui.gameLeader.leaderBoard": "Tabla de clasificación",
     "gui.gameLeader.total": "Total:",
     "gui.gameLeader.yourBestScore": "Tu mejor puntuación:",
-    "gui.gameLeader.noRecords": "No hay registros"
+    "gui.gameLeader.noRecords": "No hay registros",
+    "gui.assistantDialog.openDialog": "abrir chat XO",
+    "gui.assistantDialog.closeDialog": "cerrar chat XO",
+    "gui.assistantDialog.chatDialogName": "CreatiCode XO",
+    "gui.assistantDialog.explainCommand": "Explica este programa, por favor",
+    "gui.assistantDialog.debuggerCommand": "¿Qué problema tiene este programa?"
 }

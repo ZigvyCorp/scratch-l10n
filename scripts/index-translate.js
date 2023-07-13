@@ -2,7 +2,7 @@
 import {indexLanguage} from '../src/supported-locales';
 import * as fs from 'fs';
 import * as path from 'path';
-import set from 'lodash/set';
+import set from 'lodash.set';
 import axios from 'axios';
 var pinyin = require('chinese-to-pinyin');
 
@@ -54,9 +54,7 @@ blockTransList.forEach((component) => {
     });
 });
 
-let newResult = Object.entries(result).map(([id, value]) => ({id, ...value}));
-
-const body = {data: newResult};
+const body = {data: result};
 
 axios.post(`${baseUrl}/blocks/index-translate`, body).then(() => console.log('✨✨✨ Complete translate indexing..!!!'))
     .catch(err => console.log('Something went wrong while index translate', err));

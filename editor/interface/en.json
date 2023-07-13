@@ -74,8 +74,8 @@
     "gui.customProcedures.runWithoutScreenRefresh": "Run without screen refresh",
     "gui.customProcedures.cancel": "Cancel",
     "gui.customProcedures.ok": "OK",
-    "gui.customProcedures.statementShape": "Statement shape",
-    "gui.customProcedures.roundShape": "Round shape",
+    "gui.customProcedures.statementShape": "Stack Block",
+    "gui.customProcedures.roundShape": "Reporter Block",
     "gui.SpriteInfo.direction": "Direction",
     "gui.directionPicker.rotationStyles.allAround": "All Around",
     "gui.directionPicker.rotationStyles.leftRight": "Left/Right",
@@ -349,7 +349,7 @@
     "gui.alerts.creatingCopy": "Copying project…",
     "gui.alerts.creatingRemix": "Remixing project…",
     "gui.alerts.creatingError": "Could not create the project. Please try again!",
-    "gui.alerts.savingError": "Project could not save.",
+    "gui.alerts.savingError": "project could not be saved.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
     "gui.alerts.cloudInfo": "Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}",
@@ -746,5 +746,10 @@
     "gui.gameLeader.leaderBoard": "Leaderboard",
     "gui.gameLeader.total": "Total: ",
     "gui.gameLeader.yourBestScore": "Your best score: ",
-    "gui.gameLeader.noRecords": "No Records"
+    "gui.gameLeader.noRecords": "No Records",
+    "gui.assistantDialog.openDialog": "open XO chat",
+    "gui.assistantDialog.closeDialog": "close XO chat",
+    "gui.assistantDialog.chatDialogName": "CreatiCode XO",
+    "gui.assistantDialog.explainCommand": "Explain this program please",
+    "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?"
 }

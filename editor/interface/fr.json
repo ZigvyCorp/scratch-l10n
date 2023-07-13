@@ -74,8 +74,8 @@
     "gui.customProcedures.runWithoutScreenRefresh": "Exécuter sans rafraîchissement d'écran",
     "gui.customProcedures.cancel": "Annuler",
     "gui.customProcedures.ok": "OK",
-    "gui.customProcedures.statementShape": "Forme de déclaration",
-    "gui.customProcedures.roundShape": "Forme ronde",
+    "gui.customProcedures.statementShape": "Bloc de pile",
+    "gui.customProcedures.roundShape": "Bloc Reporter",
     "gui.SpriteInfo.direction": "Direction",
     "gui.directionPicker.rotationStyles.allAround": "Tout autour",
     "gui.directionPicker.rotationStyles.leftRight": "Gauche/Droite",
@@ -745,5 +745,10 @@
     "gui.gameLeader.leaderBoard": "Classement",
     "gui.gameLeader.total": "Totale: ",
     "gui.gameLeader.yourBestScore": "Votre meilleur score :",
-    "gui.gameLeader.noRecords": "Pas d'enregistrements"
+    "gui.gameLeader.noRecords": "Pas d'enregistrements",
+    "gui.assistantDialog.openDialog": "ouvrir le chat XO",
+    "gui.assistantDialog.closeDialog": "fermer le chat XO",
+    "gui.assistantDialog.chatDialogName": "CreatiCode XO",
+    "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",
+    "gui.assistantDialog.debuggerCommand": "Qu'est-ce qui ne va pas avec ce programme ?"
 }

@@ -71,8 +71,8 @@
     "gui.customProcedures.runWithoutScreenRefresh": "執行完畢再更新畫面",
     "gui.customProcedures.cancel": "取消",
     "gui.customProcedures.ok": "確定",
-    "gui.customProcedures.statementShape": "聲明形狀",
-    "gui.customProcedures.roundShape": "圓形",
+    "gui.customProcedures.statementShape": "堆棧積木",
+    "gui.customProcedures.roundShape": "報表積木",
     "gui.SpriteInfo.direction": "方向",
     "gui.directionPicker.rotationStyles.allAround": "不設限",
     "gui.directionPicker.rotationStyles.leftRight": "左-右",
@@ -87,7 +87,7 @@
     "gui.gui.diagramTab": "图表",
     "gui.gui.diagramTab.initButton": "初始化图表",
     "gui.gui.diagramTab.upgradeMsg": "您需要 {link} 来创建自己的图表",
-    "gui.gui.diagramTab.upgradeLink": "升级到高级帐户",
+    "gui.gui.diagramTab.upgradeLink": "升级到付费帐户",
     "gui.gui.diagramTab.loadingMsg": "初始化图表",
     "gui.gui.diagramTab.toggleTitle": "图表状态：",
     "gui.gui.diagramTab.toggle.open": "打开",
@@ -735,5 +735,10 @@
     "gui.gameLeader.leaderBoard": "排行榜",
     "gui.gameLeader.total": "全部的：",
     "gui.gameLeader.yourBestScore": "你的最好成績：",
-    "gui.gameLeader.noRecords": "無記錄"
+    "gui.gameLeader.noRecords": "無記錄",
+    "gui.assistantDialog.openDialog": "打開 XO 對話框",
+    "gui.assistantDialog.closeDialog": "關閉 XO 對話框",
+    "gui.assistantDialog.chatDialogName": "創益編程 XO",
+    "gui.assistantDialog.explainCommand": "請解釋這個程序",
+    "gui.assistantDialog.debuggerCommand": "這個程序有什麼問題？"
 }
