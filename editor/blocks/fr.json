@@ -811,5 +811,7 @@
     "PASTE_FROM_CLIPBOARD": "Coller depuis le Presse-papiers",
     "ERROR_TEACHER_DISABLE_CHAT_GPT": "Désolé, le cours {classSetterName} que vous suivez a désactivé les blocages ChatGPT pour votre compte.",
     "DATA_SAVETABLE": "enregistrer la table %1 sur le serveur sous %2",
-    "DATA_LOADTABLE": "charger %1 du serveur dans la table %2"
+    "DATA_LOADTABLE": "charger %1 du serveur dans la table %2",
+    "AI_START_RECOGNIZING_SPEECH_WEB_API": "L'API Web commence à reconnaître la parole dans l'enregistrement %1 en tant que %2",
+    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI dit %1 avec %2 vitesse %3 pitch %4"
 }

@@ -811,5 +811,7 @@
     "PASTE_FROM_CLIPBOARD": "Pegar desde portapapeles",
     "ERROR_TEACHER_DISABLE_CHAT_GPT": "Lo siento, la clase {classSetterName} que estás tomando ha deshabilitado los bloqueos de ChatGPT para tu cuenta",
     "DATA_SAVETABLE": "guardar la tabla %1 en el servidor como %2",
-    "DATA_LOADTABLE": "cargar %1 del servidor a la tabla %2"
+    "DATA_LOADTABLE": "cargar %1 del servidor a la tabla %2",
+    "AI_START_RECOGNIZING_SPEECH_WEB_API": "WebAPI comienza a reconocer el habla en %1 registro como %2",
+    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI dice %1 con %2 velocidad %3 tono %4"
 }
