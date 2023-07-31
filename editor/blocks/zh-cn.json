@@ -815,5 +815,5 @@
     "DATA_SAVETABLE": "将表 %1 作为 %2 保存到服务器",
     "DATA_LOADTABLE": "将 %1 从服务器加载到表 %2",
     "AI_START_RECOGNIZING_SPEECH_WEB_API": "WebAPI 开始将 %1 记录中的语音识别为 %2",
-    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI 以 %2 速度 %3 音调 %4 表示 %1"
+    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI 以 %2 速度 %3 音调 %4 说出 %1"
 }
