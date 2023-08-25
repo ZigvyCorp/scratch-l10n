@@ -654,7 +654,7 @@
     "d3action_d3_movetoxyz":  "移動到 X [X] Y [Y] z [Z] 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_rotateto": "繞 [AXIS] 軸轉到角度 [DIRECTIONVALUE] 用時 [PERIOD] 秒",
     "d3action_d3_rotateto2": "旋轉到 X [X] Y [Y] z [Z] 方向 用時 [PERIOD] 秒 [BLOCKING]",
-    "d3action_d3_3dturnto": "在 [PERIOD] 秒內繞 [AXIS] 軸旋轉 [DEGREES] 度",
+    "d3action_d3_3dturnto":  "繞 [AXIS] 軸旋轉 [DEGREES] 度 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_3dpointto": "指向位置 x [X] y [Y] z [Z] 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_movealongdir": "沿當前方向移動 [DIST] 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_showbubble": "顯示對話泡泡 [TEXT] 位置 xyz [OFFSETX] [OFFSETY] [OFFSETZ] 最大寬度 [MWIDTH] 文本 字體 [FONT] 大小 [FONTSIZE] 顏色 [FONTCOLOR] 背景 [BACKCOLOR] 用時 [PERIOD] 秒 攝像頭朝向 [FORWARD] ID [ID]",
