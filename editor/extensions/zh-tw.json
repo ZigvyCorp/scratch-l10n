@@ -495,6 +495,7 @@
     "d3object_d3_addcharacter": "添加名為 [NAME] 的角色 [CHARACTERNAME]",
     "d3object_d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名為 [NAME] 隱藏 [HIDDEN]",
     "d3object_d3_addavatarforuser": "添加用戶 [USERNAME] 的化身 [AVATAR_NAME] 高度 [HEIGHT] 名為 [NAME] 隱藏 [HIDDEN]",
+    "d3object_d3_adduseravatar": "添加用戶化身 [AVATARNAME] 高度 [HEIGHT] 名為 [NAME]",
     "d3action_d3_addanimation": "添加動畫 [動畫]",
     "d3action_d3_startanimation":  "開始動畫 [ANIMATIONNAME] 循環 [LOOPING] 幀號 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 進度廣播 [BROADCASTMESSAGE]",
     "d3action_d3_startanimation2":  "開始模型動畫 [ANIMATIONNAME] 循環 [LOOPING] 幀號 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 進度廣播 [BROADCASTMESSAGE]",
@@ -1043,6 +1044,5 @@
     "widget.addImageFromCustoms": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 處添加圖像 [COSTUME] 作為 [NAME]",
     "widget.addImageFromUrl": "從 URL [URL] 添加圖像 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 作為 [NAME]",
     "widget.image.keep": "保持",
-    "widget.image.stretch": "拉緊",
-    "d3object_d3_adduseravatar": "将用户头像 [MODELNAME] 高度 [HEIGHT] 添加为 [NAME]"
+    "widget.image.stretch": "拉緊"
 }
