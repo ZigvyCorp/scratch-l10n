@@ -494,6 +494,8 @@
     "earthgeography": "Earth Geography",
     "grass": "Grass Land",
     "makeselection": "Please select", 
+    "runjump": "Run,Jump in Air",
+    "run": "Run",
     "OK": "OK", 
     "Another object has already used this name: ": "Another object has already used this name: ",
     "yes": "Yes", 
