@@ -913,7 +913,7 @@
     "d3tools_d3_subdivideface": "subdivide caras por [MÚLTIPLES]",
     "d3tools_d3_shiftvertices": "actualizar la escala de vértices xyz [XS] [YS] [ZS] mover xyz [XM] [YM] [ZM] posición mínima xyz [MINX] [MINY] [MINZ] máxima xyz [MAXX] [MAXY] [ MAXZ] ",
     "d3action_d3_movetoxyz": "mover ax [X] y [Y] z [Z] en [PERIODO] segundos [BLOCKING]",
-    "d3action_d3_rotateto": "gira al ángulo [DIRECTIONVALUE] alrededor del eje [AXIS] en [PERIOD] segundos",
+    "d3action_d3_rotateto": "gira al ángulo [DIRECTIONVALUE] alrededor del eje [AXIS] en [PERIOD] [BLOCKING]",
     "d3action_d3_rotateto2": "girar en la dirección x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",
     "d3action_d3_3dturnto": "girar [DEGREES] grados alrededor del eje [AXIS] en [PERIOD] segundos [BLOCKING]",
     "d3action_d3_3dpointto": "apunta a la posición x [X] y [Y] z [Z] en [PERIOD] segundos [BLOCKING]",

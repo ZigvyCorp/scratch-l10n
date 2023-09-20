@@ -653,7 +653,7 @@
     "d3tools_d3_subdivideface": "按 [MULTIPLE] 細分人臉",
     "d3tools_d3_shiftvertices":  "更新頂點 拉伸 xyz [XS] [YS] [ZS] 移動 xyz [XM] [YM] [ZM] 位置最小 xyz [MINX] [MINY] [MINZ] 位置最大 xyz [MAXX] [MAXY] [MAXZ]",
     "d3action_d3_movetoxyz":  "移動到 X [X] Y [Y] z [Z] 用時 [PERIOD] 秒 [BLOCKING]",
-    "d3action_d3_rotateto": "繞 [AXIS] 軸轉到角度 [DIRECTIONVALUE] 用時 [PERIOD] 秒",
+    "d3action_d3_rotateto": "繞 [AXIS] 軸轉到角度 [DIRECTIONVALUE] 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_rotateto2": "旋轉到 X [X] Y [Y] z [Z] 方向 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_3dturnto":  "繞 [AXIS] 軸旋轉 [DEGREES] 度 用時 [PERIOD] 秒 [BLOCKING]",
     "d3action_d3_3dpointto": "指向位置 x [X] y [Y] z [Z] 用時 [PERIOD] 秒 [BLOCKING]",
