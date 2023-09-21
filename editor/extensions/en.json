@@ -905,7 +905,7 @@
     "d3effect_d3_updatesphereemitter": "configure sphere emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
     "d3effect_d3_updatehemisphericemitter": "configure hemispheric emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
     "d3effect_d3_updatecylinderemitter": "configure cylinder emitter [NAME]: radius [RADIUS] range [RADIUSRANGE] height [HEIGHT] direction randomness [DIRRANDOM]%",
-    "d3effect_d3_updateconeemitter": "configure cone emitter [NAME]: radius [RADIUS] angle [ANGLE]",
+    "d3effect_d3_updateconeemitter": "configure cone emitter [NAME]: radius [RADIUS] angle [ANGLE] radius range [RADIUSRANGE] height range [HEIGHTRANGE]",
     "d3effect_d3_updatemeshemitter": "configure mesh emitter [NAME]: use mesh normal direction [USENORMAL]",
     "d3effect_d3_emittercommand": "[COMMAND] emitter [NAME]",
     "stop": "Stop",

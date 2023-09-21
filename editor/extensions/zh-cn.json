@@ -638,7 +638,7 @@
     "d3effect_d3_updatesphereemitter": "配置 球体发射器 [NAME]: 半径 [RADIUS] 范围 [RADIUSRANGE]",
     "d3effect_d3_updatehemisphericemitter": "配置 半球体发射器 [NAME]: 半径 [RADIUS] 范围 [RADIUSRANGE]",
     "d3effect_d3_updatecylinderemitter": "配置 圆柱体发射器 [NAME]: 半径 [RADIUS] 范围 [RADIUSRANGE] 高度 [HEIGHT] 方向随机性 [DIRRANDOM]%",
-    "d3effect_d3_updateconeemitter": "配置 圆锥体发射器 [NAME]: 半径 [RADIUS] 角度 [ANGLE]",
+    "d3effect_d3_updateconeemitter": "配置 圆锥体发射器 [NAME]: 半径 [RADIUS] 角度 [ANGLE] 半径范围 [RADIUSRANGE] 高度范围 [HEIGHTRANGE]",
     "d3effect_d3_updatemeshemitter": "配置 物体发射器 [NAME]: 使用物体表面方向 [USENORMAL]",
     "d3effect_d3_emittercommand": "[COMMAND] 发射器 [NAME]",
     "stop": "停止",
