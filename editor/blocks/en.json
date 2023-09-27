@@ -120,7 +120,7 @@
     "DATA_REPLACEROWOFTABLE": "replace row %1 of table %2 with : %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14",
     "DATA_REPLACEITEMATROWCOLUMN": "replace item at row %1 column %2 of table %3 with %4",
     "DATA_READFROMGOOGLESHEET": "read from google sheet: URL %1 sheet name %2 range %3 into table %4",
-    "DATA_WRITEINTOGOOGLESHEET": "write into google sheet: URL %1 sheet name %2 range %3 from table %4 starting at column %5 row %6",
+    "DATA_WRITEINTOGOOGLESHEET": "write into google sheet: URL %1 sheet name %2 start range %3 from table %4",
     "DATA_REDUCEITEMATROWCOLUMN": "reduce item at row %1 column %2 of table %3 by %4",
     "DATA_CHANGEITEMATROWCOLUMN": "change item at row %1 column %2 of table %3 by %4",
     "DATA_SETTABLETOCOMPUTED": "set table %1 to %2 of column %3 in table %4 by column %5",
