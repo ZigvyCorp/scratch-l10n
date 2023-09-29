@@ -307,7 +307,7 @@
     "p2p.whenmemberleft": "当成员 [USERNAME] 离开世界时",
     "p2p.readworldmember": "将世界成员信息读入表 [WORLD_MEMBER]",
     "p2p.currentWorld": "当前世界",
-    "p2p.createEmail": "从发件人 [SENDER] 电子邮件 [SENDEREMAIL] 创建电子邮件 [NAME] 到收件人电子邮件 [RECEIVEREMAIL] 主题 [SUBJECT] 内容 [CONTENT]",
+    "p2p.createEmail": "创建电子邮件 ID [NAME] 发件人 [SENDER] 发电人电子邮件 [SENDEREMAIL] 收件人电子邮件 [RECEIVEREMAIL] 主题 [SUBJECT]",
     "p2p.addToEmailContent": "添加到电子邮件 [NAME] 内容 [TEXT] 字体大小 [FSIZE] 格式 [FORMAT] 颜色 [COLOR] 换行 [YES]",
     "p2p.sendEmail": "发送电子邮件 [NAME]",
     "p2p.sendPhoneSMS": "发送短信到电话号码 [RECEIVER] 内容 [CONTENT]",

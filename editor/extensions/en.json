@@ -306,7 +306,7 @@
     "p2p.whenmemberleft": "when member [USERNAME] leaves the world",
     "p2p.readworldmember": "read world member info into table [WORLD_MEMBER]",
     "p2p.currentWorld": "current world",
-    "p2p.createEmail": "create email [NAME] from sender [SENDER] email [SENDEREMAIL] to receiver email [RECEIVEREMAIL] Subject [SUBJECT] Content [CONTENT]",
+    "p2p.createEmail": "create email ID [NAME] sender name [SENDER] sender email [SENDEREMAIL] receiver email [RECEIVEREMAIL] Subject [SUBJECT]",
     "p2p.addToEmailContent": "add to email [NAME] content [TEXT] font size [FSIZE] format [FORMAT] color [COLOR] new line [YES]",
     "p2p.sendEmail": "send email [NAME]",
     "p2p.sendPhoneSMS": "send message to phone number [RECEIVER] content [CONTENT]",
