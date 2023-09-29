@@ -117,8 +117,8 @@
     "DATA_INSERTROWTOTABLE": "在表格 %2 的第 %1 行插入：%3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14",
     "DATA_REPLACEROWOFTABLE": "将表格 %2 的第 %1 行替换为：%3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14",
     "DATA_REPLACEITEMATROWCOLUMN": "用 %4 替换表格 %3 的行 %1 列 %2 的项目",
-    "DATA_READFROMGOOGLESHEET": "读取谷歌报表： 网址 %1 报表名称 %2 范围 %3 读取到表格 %4",
-    "DATA_WRITEINTOGOOGLESHEET": "写入谷歌报表：网址 %1 报表名称 %2 范围 %3 从表格 %4 读取 列 %5 行 %6",
+    "DATA_READFROMGOOGLESHEET": "读取谷歌工作表： 网址 %1 表单名称 %2 数据范围 %3 保存到表格 %4",
+    "DATA_WRITEINTOGOOGLESHEET": "写入谷歌工作表：网址 %1 表单名称 %2 起始单元 %3 数据来源表格 %4",
     "DATA_REDUCEITEMATROWCOLUMN": "将表格 %3 的行 %1 列 %2 的项目减少 %4",
     "DATA_CHANGEITEMATROWCOLUMN": "将表格 %3 的行 %1 列 %2 的项目改变 %4",
     "DATA_SETTABLETOCOMPUTED": "将表格 %1 设置为表格 %4 中列 %3 的 %2 依照列 %5 ",
@@ -815,5 +815,6 @@
     "DATA_SAVETABLE": "将表 %1 作为 %2 保存到服务器",
     "DATA_LOADTABLE": "将 %1 从服务器加载到表 %2",
     "AI_START_RECOGNIZING_SPEECH_WEB_API": "WebAPI 开始将 %1 记录中的语音识别为 %2",
-    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI 以 %2 速度 %3 音调 %4 说出 %1"
+    "AI_SPEAK_IN_LANGUAGE_BY_WEB_API": "WebAPI 以 %2 速度 %3 音调 %4 说出 %1",
+    "BLOCK_CHATGPT_ON_THIS_REGION": "抱歉，chatGPT 目前在您所在的国家/地区不可用。"
 }

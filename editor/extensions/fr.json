@@ -490,6 +490,8 @@
     "earthgeography": "Géographie de la Terre",
     "grass": "Terre d'herbe",
     "makeselection": "Veuillez sélectionner", 
+    "runjump": "Cours,Sauter dans les airs",
+    "run": "Cours",
     "none": "Rien", 
     "None": "Rien", 
     "All Other Sprites": "Tous les autres sprites",
@@ -753,6 +755,7 @@
     "d3object_d3_addcharacter": "ajouter le caractère [CHARACTERNAME] nommé [NAME]",
     "d3object_d3_addavatar": "ajouter un avatar [CHARACTERNAME] la taille [HEIGHT] nommé [NAME] caché [HIDDEN]",
     "d3object_d3_addavatarforuser": "ajouter l'avatar [AVATAR_NAME] pour l'utilisateur [USERNAME] taille [HEIGHT] en tant que [NAME] caché [HIDDEN]",
+    "d3object_d3_adduseravatar": "ajouter l’avatar de l’utilisateur [AVATARNAME] height [HEIGHT] comme [NAME]",
     "d3action_d3_addanimation": "ajouter des animations [ANIMATIONS]",
     "d3action_d3_startanimation": "démarrer l'animation [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
     "d3action_d3_startanimation2": "démarrer l'animation du modèle [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
@@ -907,9 +910,9 @@
     "d3tools_d3_subdivideface": "subdiviser les visages par [MULTIPLE]",
     "d3tools_d3_shiftvertices": "mise à jour des sommets échelle xyz [XS] [YS] [ZS] déplacer xyz [XM] [YM] [ZM] position min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [MAXZ]",
     "d3action_d3_movetoxyz": "passer à x [X] y [Y] z [Z] en [PERIOD] secondes [BLOCKING]", 
-    "d3action_d3_rotateto": "tourner à l'angle [DIRECTIONVALUE] autour de l'axe [AXIS] en [PERIOD] secondes", 
+    "d3action_d3_rotateto": "tourner à l'angle [DIRECTIONVALUE] autour de l'axe [AXIS] en [PERIOD] secondes [BLOCKING]", 
     "d3action_d3_rotateto2": "tourner dans la direction x [X] y [Y] z [Z] en [PERIOD] secondes [BLOCKING]",
-    "d3action_d3_3dturnto": "tourner [DEGREES] degrés autour de l'axe [AXIS] en [PERIOD] secondes", 
+    "d3action_d3_3dturnto": "tourner [DEGREES] degrés autour de l'axe [AXIS] en [PERIOD] secondes [BLOCKING]", 
     "d3action_d3_3dpointto": "pointez vers la position x [X] y [Y] z [Z] en [PERIOD] secondes [BLOCKING]",
     "d3action_d3_movealongdir": "déplacer [DIST] dans la direction actuelle en [PERIOD] secondes [BLOCKING]",
     "d3action_d3_showbubble": "afficher la bulle de dialogue [TEXT] décalage xyz [OFFSETX] [OFFSETY] [OFFSETZ] largeur maximale [MWIDTH] police de texte [FONT] taille [FONTSIZE] couleur [FONTCOLOR] arrière-plan [BACKCOLOR] pendant [PERIOD] secondes caméra face à [FORWARD] ID [ID]",
@@ -1047,6 +1050,5 @@
     "widget.addImageFromCustoms": "ajouter une image [COSTUME] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] comme [NAME]",
     "widget.addImageFromUrl": "ajouter une image à partir de l'URL [URL] à x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] format d'image [ASPECT] as [NAME]",
     "widget.image.keep": "donjon",
-    "widget.image.stretch": "extensible",
-    "d3object_d3_adduseravatar": "ajouter l’avatar de l’utilisateur [MODELNAME] height [HEIGHT] comme [NAME]"
+    "widget.image.stretch": "extensible"
 }

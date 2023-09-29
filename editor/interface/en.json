@@ -749,7 +749,7 @@
     "gui.gameLeader.noRecords": "No Records",
     "gui.assistantDialog.openDialog": "open XO chat",
     "gui.assistantDialog.closeDialog": "close XO chat",
-    "gui.assistantDialog.chatDialogName": "CreatiCode XO",
+    "gui.assistantDialog.chatDialogName": "CreatiCode XO (Beta)",
     "gui.assistantDialog.explainCommand": "Explain this program please",
     "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?"
 }
