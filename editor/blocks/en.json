@@ -419,6 +419,7 @@
     "SENSING_OF": "%1 of %2",
     "SENSING_OF_XPOSITION": "x position",
     "SENSING_OF_YPOSITION": "y position",
+    "SENSING_OF_ZPOSITION": "z position",
     "SENSING_OF_DIRECTION": "direction",
     "SENSING_OF_COSTUMENUMBER": "costume #",
     "SENSING_OF_COSTUMENAME": "costume name",

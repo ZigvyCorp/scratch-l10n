@@ -417,6 +417,7 @@
     "SENSING_OF": "%2 的 %1",
     "SENSING_OF_XPOSITION": "x 坐标",
     "SENSING_OF_YPOSITION": "y 坐标",
+    "SENSING_OF_ZPOSITION": "z 坐标",
     "SENSING_OF_DIRECTION": "方向",
     "SENSING_OF_COSTUMENUMBER": "造型编号",
     "SENSING_OF_COSTUMENAME": "造型名称",

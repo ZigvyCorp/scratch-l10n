@@ -416,6 +416,7 @@
     "SENSING_OF": "%1 de %2",
     "SENSING_OF_XPOSITION": "posición en x",
     "SENSING_OF_YPOSITION": "posición en y",
+    "SENSING_OF_ZPOSITION": "posición en z",
     "SENSING_OF_DIRECTION": "dirección",
     "SENSING_OF_COSTUMENUMBER": "# de disfraz",
     "SENSING_OF_COSTUMENAME": "nombre de disfraz",
