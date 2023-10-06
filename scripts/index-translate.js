@@ -15,20 +15,26 @@ let result = {};
 let blockIdTransform = id => {
     // Normalize id to have _ format
     const newId = id.replace('.', '_');
-    // eslint-disable-next-line no-unused-vars
     const splitBlockName = newId.split('_');
 
-    // Checking if blockId is camelCase
-    // For handle some special case like: `data_setRandomList` block
-    if (splitBlockName.length === 2){
-        const [category, blockId] = splitBlockName;
-        const isCamel = /^([a-z]+)(([A-Z]([a-z]+))+)$/g.test(blockId);
-        if (isCamel) {
-            return `${category.toLowerCase()}_${blockId}`;
-        }
-    }
+    const category = splitBlockName.shift();
+    let finalId = category.toLowerCase();
 
-    return newId.toLowerCase();
+    // Checking if blockId is camelCase
+    // For handle some special case like:
+    // `data_setRandomList` block
+    // or `data_setRandomList_something`
+    splitBlockName.forEach(part => {
+        const isCamel = /^([a-z]+)(([A-Z]([a-z]+))+)$/g.test(part);
+        let newPart = part;
+
+        // If it not camel case then just lowercase it
+        // If camel case then ignore it, don't lower or upper anything
+        if (!isCamel) newPart = part.toLowerCase();
+        finalId = finalId + '_' + newPart;
+    });
+
+    return finalId;
 };
 
 blockTransList.forEach((component) => {
