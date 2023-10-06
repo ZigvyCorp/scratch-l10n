@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "apvienot %1 %2",
     "OPERATOR_JOIN_APPLE": "ābols",
     "OPERATOR_JOIN_BANANA": "banāns",
-    "OPERATOR_LETTEROF": "burts %1 no %2",
+    "OPERATOR_LETTER_OF": "burts %1 no %2",
     "OPERATOR_LETTEROF_APPLE": "ā",
     "OPERATOR_LENGTH": "%1 garums",
     "OPERATOR_CONTAINS": "%1 satur %2?",

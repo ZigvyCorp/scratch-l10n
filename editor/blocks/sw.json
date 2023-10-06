@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "unganisha %1 %2",
     "OPERATOR_JOIN_APPLE": "tufaha",
     "OPERATOR_JOIN_BANANA": "ndizi",
-    "OPERATOR_LETTEROF": "herufi %1 kati ya %2",
+    "OPERATOR_LETTER_OF": "herufi %1 kati ya %2",
     "OPERATOR_LETTEROF_APPLE": "t",
     "OPERATOR_LENGTH": "urefu wa %1",
     "OPERATOR_CONTAINS": "%1 ina %2?",

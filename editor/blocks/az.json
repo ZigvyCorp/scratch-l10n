@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "birləşdir: %1 və %2",
     "OPERATOR_JOIN_APPLE": "alma",
     "OPERATOR_JOIN_BANANA": "banan",
-    "OPERATOR_LETTEROF": "hərf %1 %2-də",
+    "OPERATOR_LETTER_OF": "hərf %1 %2-də",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "%1 sözünün uzunluğu",
     "OPERATOR_CONTAINS": "%1 sözünün tərkibində %2 hərfi var?",

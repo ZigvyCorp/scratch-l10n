@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "پەیوەندی %1 %2",
     "OPERATOR_JOIN_APPLE": "سێو",
     "OPERATOR_JOIN_BANANA": "مۆز",
-    "OPERATOR_LETTEROF": "پیت %1 لە %2",
+    "OPERATOR_LETTER_OF": "پیت %1 لە %2",
     "OPERATOR_LETTEROF_APPLE": "ێ",
     "OPERATOR_LENGTH": "درێژی لە %1",
     "OPERATOR_CONTAINS": "%1 تێیدایە %2؟",

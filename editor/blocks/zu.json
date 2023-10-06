@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "hlanganisa %1 %2 / xhuma/ bandakanya",
     "OPERATOR_JOIN_APPLE": "aphula",
     "OPERATOR_JOIN_BANANA": "bhanana ",
-    "OPERATOR_LETTEROF": "usonhlamvu %1  ka %2 ",
+    "OPERATOR_LETTER_OF": "usonhlamvu %1  ka %2 ",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "ubude be %1",
     "OPERATOR_CONTAINS": "%1 iqukethe %2",

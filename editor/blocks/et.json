@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 & %2",
     "OPERATOR_JOIN_APPLE": "õun",
     "OPERATOR_JOIN_BANANA": "banaan",
-    "OPERATOR_LETTEROF": "märk %1 sõnas %2",
+    "OPERATOR_LETTER_OF": "märk %1 sõnas %2",
     "OPERATOR_LETTEROF_APPLE": "õ",
     "OPERATOR_LENGTH": "%1 pikkus",
     "OPERATOR_CONTAINS": "%1 sisaldab %2?",

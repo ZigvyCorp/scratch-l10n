@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "voeg %1 en %2 samen",
     "OPERATOR_JOIN_APPLE": "appel",
     "OPERATOR_JOIN_BANANA": "banaan",
-    "OPERATOR_LETTEROF": "letter %1 van %2",
+    "OPERATOR_LETTER_OF": "letter %1 van %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "lengte van %1",
     "OPERATOR_CONTAINS": "%1 bevat %2?",

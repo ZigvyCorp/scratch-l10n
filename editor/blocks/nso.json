@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "tsenela %1 %2",
     "OPERATOR_JOIN_APPLE": "apola",
     "OPERATOR_JOIN_BANANA": "panana",
-    "OPERATOR_LETTEROF": "leletere %1 la %2",
+    "OPERATOR_LETTER_OF": "leletere %1 la %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "botelele bja %1",
     "OPERATOR_CONTAINS": "%1 e na le %2?",

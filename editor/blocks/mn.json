@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1-г %2-т залга",
     "OPERATOR_JOIN_APPLE": "алим",
     "OPERATOR_JOIN_BANANA": "гадил",
-    "OPERATOR_LETTEROF": "%2-ийн %1-р үсэг",
+    "OPERATOR_LETTER_OF": "%2-ийн %1-р үсэг",
     "OPERATOR_LETTEROF_APPLE": "а",
     "OPERATOR_LENGTH": "%1-н урт",
     "OPERATOR_CONTAINS": "%1 нь %2-г агуулж байна уу?",

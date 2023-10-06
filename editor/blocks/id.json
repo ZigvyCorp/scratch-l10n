@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "gabungkan %1 %2",
     "OPERATOR_JOIN_APPLE": "apel",
     "OPERATOR_JOIN_BANANA": "pisang",
-    "OPERATOR_LETTEROF": "huruf %1 dari %2",
+    "OPERATOR_LETTER_OF": "huruf %1 dari %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "panjang dari %1",
     "OPERATOR_CONTAINS": "%1 berisi %2?",

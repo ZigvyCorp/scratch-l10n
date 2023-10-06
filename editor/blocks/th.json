@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "ต่อ %1 %2",
     "OPERATOR_JOIN_APPLE": "แอปเปิ้ล",
     "OPERATOR_JOIN_BANANA": "กล้วย",
-    "OPERATOR_LETTEROF": "อักษรที่ %1 ของ %2",
+    "OPERATOR_LETTER_OF": "อักษรที่ %1 ของ %2",
     "OPERATOR_LETTEROF_APPLE": "อ",
     "OPERATOR_LENGTH": "ความยาวของ %1",
     "OPERATOR_CONTAINS": "%1 มี %2?",

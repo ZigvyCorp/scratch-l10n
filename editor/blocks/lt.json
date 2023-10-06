@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "sujunk %1 ir %2",
     "OPERATOR_JOIN_APPLE": "obuolys",
     "OPERATOR_JOIN_BANANA": "bananas",
-    "OPERATOR_LETTEROF": "%2 raidė nr. %1",
+    "OPERATOR_LETTER_OF": "%2 raidė nr. %1",
     "OPERATOR_LETTEROF_APPLE": "o",
     "OPERATOR_LENGTH": "%1 ilgis",
     "OPERATOR_CONTAINS": "ar %1 turi %2?",

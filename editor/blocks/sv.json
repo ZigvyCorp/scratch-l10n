@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "sammanfoga %1 %2",
     "OPERATOR_JOIN_APPLE": "äpple",
     "OPERATOR_JOIN_BANANA": "banan",
-    "OPERATOR_LETTEROF": "bokstav %1 av %2",
+    "OPERATOR_LETTER_OF": "bokstav %1 av %2",
     "OPERATOR_LETTEROF_APPLE": "ä",
     "OPERATOR_LENGTH": "längden av %1",
     "OPERATOR_CONTAINS": "%1 innehåller %2",

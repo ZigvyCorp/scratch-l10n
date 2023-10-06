@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "შეაერთე %1 %2",
     "OPERATOR_JOIN_APPLE": "ვაშლი",
     "OPERATOR_JOIN_BANANA": "ბანანი",
-    "OPERATOR_LETTEROF": "ასო %1 %2დან ",
+    "OPERATOR_LETTER_OF": "ასო %1 %2დან ",
     "OPERATOR_LETTEROF_APPLE": "ა",
     "OPERATOR_LENGTH": "%1ს სიგრძე",
     "OPERATOR_CONTAINS": "%1 შეიცავს %2ს?",

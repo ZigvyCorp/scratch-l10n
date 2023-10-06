@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "еиԥшьтәуп %1 %2 ",
     "OPERATOR_JOIN_APPLE": "аҵәа",
     "OPERATOR_JOIN_BANANA": "абанан",
-    "OPERATOR_LETTEROF": "асимвол %1 %2 аҟны",
+    "OPERATOR_LETTER_OF": "асимвол %1 %2 аҟны",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "%1 аура",
     "OPERATOR_CONTAINS": "%1 иаҵанакуама %2?",

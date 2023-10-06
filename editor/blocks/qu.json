@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "huqllachay %1 %2",
     "OPERATOR_JOIN_APPLE": "mansana",
     "OPERATOR_JOIN_BANANA": "platanu",
-    "OPERATOR_LETTEROF": "qillqa %1 chaymanta %2",
+    "OPERATOR_LETTER_OF": "qillqa %1 chaymanta %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "sunin %1",
     "OPERATOR_CONTAINS": "%1  kachkanchu %2?",

@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "چسباندن %1 به %2",
     "OPERATOR_JOIN_APPLE": "سیب",
     "OPERATOR_JOIN_BANANA": "موز",
-    "OPERATOR_LETTEROF": "حرف %1 %2",
+    "OPERATOR_LETTER_OF": "حرف %1 %2",
     "OPERATOR_LETTEROF_APPLE": "ی",
     "OPERATOR_LENGTH": "طول %1",
     "OPERATOR_CONTAINS": "در %1 %2 هست؟",

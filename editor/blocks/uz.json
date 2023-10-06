@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 va %2 ni qo'shish",
     "OPERATOR_JOIN_APPLE": "olma",
     "OPERATOR_JOIN_BANANA": "banan",
-    "OPERATOR_LETTEROF": "%1 %2 xat",
+    "OPERATOR_LETTER_OF": "%1 %2 xat",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "uzunligi %1",
     "OPERATOR_CONTAINS": "%1 tarkibida %2 mavjudmi?",

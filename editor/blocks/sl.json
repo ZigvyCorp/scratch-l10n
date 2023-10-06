@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "združi %1 %2",
     "OPERATOR_JOIN_APPLE": "jabolko",
     "OPERATOR_JOIN_BANANA": "banana",
-    "OPERATOR_LETTEROF": "%1 črka v %2",
+    "OPERATOR_LETTER_OF": "%1 črka v %2",
     "OPERATOR_LETTEROF_APPLE": "b",
     "OPERATOR_LENGTH": "dolžina %1",
     "OPERATOR_CONTAINS": "%1 vsebuje %2?",

@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "alătură %1 %2",
     "OPERATOR_JOIN_APPLE": "măr",
     "OPERATOR_JOIN_BANANA": "banană",
-    "OPERATOR_LETTEROF": "litera %1 din %2",
+    "OPERATOR_LETTER_OF": "litera %1 din %2",
     "OPERATOR_LETTEROF_APPLE": "m",
     "OPERATOR_LENGTH": "lungimea lui %1",
     "OPERATOR_CONTAINS": "%1 conține %2?",

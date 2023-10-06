@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "unir %1 %2",
     "OPERATOR_JOIN_APPLE": "manzana",
     "OPERATOR_JOIN_BANANA": "banana",
-    "OPERATOR_LETTEROF": "letra %1 de %2",
+    "OPERATOR_LETTER_OF": "letra %1 de %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "longitud de %1",
     "OPERATOR_CONTAINS": "¿%1 contiene %2?",

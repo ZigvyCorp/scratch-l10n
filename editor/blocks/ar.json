@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "اربط %1 %2",
     "OPERATOR_JOIN_APPLE": "تفاحة",
     "OPERATOR_JOIN_BANANA": "موزة",
-    "OPERATOR_LETTEROF": "الحرف %1 من %2",
+    "OPERATOR_LETTER_OF": "الحرف %1 من %2",
     "OPERATOR_LETTEROF_APPLE": "ت",
     "OPERATOR_LENGTH": "طول %1",
     "OPERATOR_CONTAINS": "%1 تحتوي %2؟",

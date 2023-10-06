@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 %2 አገናኝ",
     "OPERATOR_JOIN_APPLE": "ፖም",
     "OPERATOR_JOIN_BANANA": "ሙዝ",
-    "OPERATOR_LETTEROF": "ፊደል %1 ከ%2",
+    "OPERATOR_LETTER_OF": "ፊደል %1 ከ%2",
     "OPERATOR_LETTEROF_APPLE": "አንድ",
     "OPERATOR_LENGTH": "%1 ርዝመት",
     "OPERATOR_CONTAINS": "%2 %1 አለበት?",

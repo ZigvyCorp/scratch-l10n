@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "elkartu %1 %2 rekin",
     "OPERATOR_JOIN_APPLE": "sagarra",
     "OPERATOR_JOIN_BANANA": "banana",
-    "OPERATOR_LETTEROF": "%1. letra %2 tik",
+    "OPERATOR_LETTER_OF": "%1. letra %2 tik",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "%1 ren luzera",
     "OPERATOR_CONTAINS": "%1(e)k bere baitan al du %2?",

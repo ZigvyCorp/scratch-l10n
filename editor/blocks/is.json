@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "sameina %1 og %2",
     "OPERATOR_JOIN_APPLE": "epli",
     "OPERATOR_JOIN_BANANA": "banani",
-    "OPERATOR_LETTEROF": "stafur númer %1 úr %2",
+    "OPERATOR_LETTER_OF": "stafur númer %1 úr %2",
     "OPERATOR_LETTEROF_APPLE": "e",
     "OPERATOR_LENGTH": "lengd %1",
     "OPERATOR_CONTAINS": "inniheldur %1 %2?",

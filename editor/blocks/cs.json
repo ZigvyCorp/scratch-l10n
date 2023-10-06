@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "spoj %1 %2",
     "OPERATOR_JOIN_APPLE": "jablko",
     "OPERATOR_JOIN_BANANA": "banán",
-    "OPERATOR_LETTEROF": "písmeno %1 z %2",
+    "OPERATOR_LETTER_OF": "písmeno %1 z %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "délka %1",
     "OPERATOR_CONTAINS": "%1 obsahuje %2?",

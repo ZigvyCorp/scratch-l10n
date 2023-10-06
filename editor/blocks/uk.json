@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "з'єднати %1 %2",
     "OPERATOR_JOIN_APPLE": "яблуко",
     "OPERATOR_JOIN_BANANA": "банан",
-    "OPERATOR_LETTEROF": "символ %1 у %2",
+    "OPERATOR_LETTER_OF": "символ %1 у %2",
     "OPERATOR_LETTEROF_APPLE": "я",
     "OPERATOR_LENGTH": "довжина %1",
     "OPERATOR_CONTAINS": "%1 містить %2?",

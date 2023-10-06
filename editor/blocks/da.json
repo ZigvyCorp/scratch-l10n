@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 tilkobles %2",
     "OPERATOR_JOIN_APPLE": "æble",
     "OPERATOR_JOIN_BANANA": "banan",
-    "OPERATOR_LETTEROF": "bogstav %1 af %2",
+    "OPERATOR_LETTER_OF": "bogstav %1 af %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "længden af %1",
     "OPERATOR_CONTAINS": "%1 indeholder %2?",

@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "съедини %1 %2",
     "OPERATOR_JOIN_APPLE": "ябълка",
     "OPERATOR_JOIN_BANANA": "банан",
-    "OPERATOR_LETTEROF": "буква %1 от %2",
+    "OPERATOR_LETTER_OF": "буква %1 от %2",
     "OPERATOR_LETTEROF_APPLE": "а",
     "OPERATOR_LENGTH": "дължина на %1",
     "OPERATOR_CONTAINS": "%1 съдържа %2?",

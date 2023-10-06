@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 û %2ê tevlî hev bike",
     "OPERATOR_JOIN_APPLE": "sêv",
     "OPERATOR_JOIN_BANANA": "mûz",
-    "OPERATOR_LETTEROF": "tîpa %1. ya '%2ê",
+    "OPERATOR_LETTER_OF": "tîpa %1. ya '%2ê",
     "OPERATOR_LETTEROF_APPLE": "yek",
     "OPERATOR_LENGTH": "dirêjiya %1ê",
     "OPERATOR_CONTAINS": "di nav %2ê de %1 heye?",

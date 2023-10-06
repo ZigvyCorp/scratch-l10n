@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "spoj %1 %2",
     "OPERATOR_JOIN_APPLE": "jablko",
     "OPERATOR_JOIN_BANANA": "hruška",
-    "OPERATOR_LETTEROF": "znak %1 z %2",
+    "OPERATOR_LETTER_OF": "znak %1 z %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "dĺžka %1",
     "OPERATOR_CONTAINS": "%1 obsahuje %2?",

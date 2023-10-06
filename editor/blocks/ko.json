@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 와(과) %2 결합하기",
     "OPERATOR_JOIN_APPLE": "가위",
     "OPERATOR_JOIN_BANANA": "나무",
-    "OPERATOR_LETTEROF": "%2 의 %1 번째 글자",
+    "OPERATOR_LETTER_OF": "%2 의 %1 번째 글자",
     "OPERATOR_LETTEROF_APPLE": "가",
     "OPERATOR_LENGTH": "%1 의 길이",
     "OPERATOR_CONTAINS": "%1 이(가) %2 을(를) 포함하는가?",

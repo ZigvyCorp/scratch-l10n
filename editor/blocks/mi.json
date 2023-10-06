@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "tāpiritia te %1, %2",
     "OPERATOR_JOIN_APPLE": "āporo",
     "OPERATOR_JOIN_BANANA": "panana",
-    "OPERATOR_LETTEROF": "te pū %1 o te %2",
+    "OPERATOR_LETTER_OF": "te pū %1 o te %2",
     "OPERATOR_LETTEROF_APPLE": "ā",
     "OPERATOR_LENGTH": "te roanga o te %1",
     "OPERATOR_CONTAINS": "kei roto i a %1 : %2?",

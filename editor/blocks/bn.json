@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 এর সাথে %2 যুক্ত কর",
     "OPERATOR_JOIN_APPLE": "বাংলা",
     "OPERATOR_JOIN_BANANA": "দেশ",
-    "OPERATOR_LETTEROF": "%2 এর %1 নম্বর অক্ষর",
+    "OPERATOR_LETTER_OF": "%2 এর %1 নম্বর অক্ষর",
     "OPERATOR_LETTEROF_APPLE": "ব",
     "OPERATOR_LENGTH": "%1 এর দৈর্ঘ্য",
     "OPERATOR_CONTAINS": "%1 এর মধ্যে কি %2 আছে?",

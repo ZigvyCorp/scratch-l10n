@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "חבר %1 %2",
     "OPERATOR_JOIN_APPLE": "תפוח",
     "OPERATOR_JOIN_BANANA": "בננה",
-    "OPERATOR_LETTEROF": "אות %1 של %2",
+    "OPERATOR_LETTER_OF": "אות %1 של %2",
     "OPERATOR_LETTEROF_APPLE": "ת",
     "OPERATOR_LENGTH": "האורך של %1",
     "OPERATOR_CONTAINS": "%1 מכיל %2?",

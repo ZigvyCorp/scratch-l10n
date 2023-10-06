@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "ଯୋଗ ଦିଅନ୍ତୁ %1 %2 ",
     "OPERATOR_JOIN_APPLE": "ସେଉ",
     "OPERATOR_JOIN_BANANA": "କଦଳୀ",
-    "OPERATOR_LETTEROF": "%2 ରୁ  %1 ଅକ୍ଷର ",
+    "OPERATOR_LETTER_OF": "%2 ରୁ  %1 ଅକ୍ଷର ",
     "OPERATOR_LETTEROF_APPLE": "स",
     "OPERATOR_LENGTH": "%1 ର ଦୈର୍ଘ୍ୟ",
     "OPERATOR_CONTAINS": "%1 ରେ %2 ଅନ୍ତର୍ଭୁକ୍ତ ?",

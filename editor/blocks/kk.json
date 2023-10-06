@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 %2 біріктіру",
     "OPERATOR_JOIN_APPLE": "алма",
     "OPERATOR_JOIN_BANANA": "банан",
-    "OPERATOR_LETTEROF": "%2нің %1 әрібі",
+    "OPERATOR_LETTER_OF": "%2нің %1 әрібі",
     "OPERATOR_LETTEROF_APPLE": "а",
     "OPERATOR_LENGTH": "%1дің ұзындығы",
     "OPERATOR_CONTAINS": "%1де %2 бар ма?",

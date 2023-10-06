@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 ve %2'i birleştir",
     "OPERATOR_JOIN_APPLE": "elma",
     "OPERATOR_JOIN_BANANA": "muz",
-    "OPERATOR_LETTEROF": "%2 in %1. harfi",
+    "OPERATOR_LETTER_OF": "%2 in %1. harfi",
     "OPERATOR_LETTEROF_APPLE": "bir",
     "OPERATOR_LENGTH": "%1'in uzunluğu",
     "OPERATOR_CONTAINS": "%1 %2'i içeriyor mu?",

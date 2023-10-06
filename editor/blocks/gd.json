@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "ceangail %1 ri %2",
     "OPERATOR_JOIN_APPLE": "eòrna",
     "OPERATOR_JOIN_BANANA": "seagal",
-    "OPERATOR_LETTEROF": "litir %1 de %2",
+    "OPERATOR_LETTER_OF": "litir %1 de %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "an fhaide aig %1",
     "OPERATOR_CONTAINS": "%2 am broinn %1",

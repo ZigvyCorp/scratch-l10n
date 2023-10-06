@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "yhdistä %1 ja %2",
     "OPERATOR_JOIN_APPLE": "omena",
     "OPERATOR_JOIN_BANANA": "banaani",
-    "OPERATOR_LETTEROF": "%1. kirjain sanasta %2",
+    "OPERATOR_LETTER_OF": "%1. kirjain sanasta %2",
     "OPERATOR_LETTEROF_APPLE": "o",
     "OPERATOR_LENGTH": "sanan %1 pituus",
     "OPERATOR_CONTAINS": "%1 sisältää %2?",

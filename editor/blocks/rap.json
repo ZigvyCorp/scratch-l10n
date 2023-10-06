@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "ka haka piri %1 %2",
     "OPERATOR_JOIN_APPLE": "manzana",
     "OPERATOR_JOIN_BANANA": "maika",
-    "OPERATOR_LETTEROF": " tiaraʾa %1 o te %2",
+    "OPERATOR_LETTER_OF": " tiaraʾa %1 o te %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "roa roa o te %1",
     "OPERATOR_CONTAINS": "¿%2 e ai era te %1?",

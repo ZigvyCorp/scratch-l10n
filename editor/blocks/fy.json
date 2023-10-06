@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "gearkomme mei %1 %2",
     "OPERATOR_JOIN_APPLE": "apel",
     "OPERATOR_JOIN_BANANA": "banaan",
-    "OPERATOR_LETTEROF": "letter %1 fan %2",
+    "OPERATOR_LETTER_OF": "letter %1 fan %2",
     "OPERATOR_LETTEROF_APPLE": "in",
     "OPERATOR_LENGTH": "lingte fan %1",
     "OPERATOR_CONTAINS": "%1 befettet %2?",

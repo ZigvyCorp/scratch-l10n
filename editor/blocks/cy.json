@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "uno %1 %2",
     "OPERATOR_JOIN_APPLE": "afal",
     "OPERATOR_JOIN_BANANA": "banana",
-    "OPERATOR_LETTEROF": "llythyren %1 o %2",
+    "OPERATOR_LETTER_OF": "llythyren %1 o %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "hyd %1",
     "OPERATOR_CONTAINS": "%1 yn cynnwys %2?",

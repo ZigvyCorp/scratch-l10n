@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "kết hợp %1 %2",
     "OPERATOR_JOIN_APPLE": "táo",
     "OPERATOR_JOIN_BANANA": "chuối",
-    "OPERATOR_LETTEROF": "ký tự thứ %1 của chuỗi %2",
+    "OPERATOR_LETTER_OF": "ký tự thứ %1 của chuỗi %2",
     "OPERATOR_LETTEROF_APPLE": "t",
     "OPERATOR_LENGTH": "độ dài của %1",
     "OPERATOR_CONTAINS": "%1 chứa ký tự %2?",

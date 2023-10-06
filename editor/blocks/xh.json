@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "dibanisa %1 %2",
     "OPERATOR_JOIN_APPLE": "i-apile",
     "OPERATOR_JOIN_BANANA": "i-bhanana",
-    "OPERATOR_LETTEROF": "unobumba %1 ku %2",
+    "OPERATOR_LETTER_OF": "unobumba %1 ku %2",
     "OPERATOR_LETTEROF_APPLE": "i",
     "OPERATOR_LENGTH": "Ubude be %1",
     "OPERATOR_CONTAINS": "%1 iqulathe %2?",

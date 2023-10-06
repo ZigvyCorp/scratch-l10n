@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "%1 -ին միավորել  %2",
     "OPERATOR_JOIN_APPLE": "խնձոր",
     "OPERATOR_JOIN_BANANA": "բանան",
-    "OPERATOR_LETTEROF": "%2-ի թիվ %1 տառը ",
+    "OPERATOR_LETTER_OF": "%2-ի թիվ %1 տառը ",
     "OPERATOR_LETTEROF_APPLE": "խ",
     "OPERATOR_LENGTH": "%1 տողի երկարությունը",
     "OPERATOR_CONTAINS": " %1 -ը պարունակու՞մ է %2",

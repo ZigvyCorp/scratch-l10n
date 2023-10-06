@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "споји %1 и %2",
     "OPERATOR_JOIN_APPLE": "јабука",
     "OPERATOR_JOIN_BANANA": "банана",
-    "OPERATOR_LETTEROF": "%1 слово од %2",
+    "OPERATOR_LETTER_OF": "%1 слово од %2",
     "OPERATOR_LETTEROF_APPLE": "ј",
     "OPERATOR_LENGTH": "дужина %1",
     "OPERATOR_CONTAINS": "%1 садржи %2",

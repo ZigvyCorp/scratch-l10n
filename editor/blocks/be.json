@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "аб'яднаць %1 %2",
     "OPERATOR_JOIN_APPLE": "ананас",
     "OPERATOR_JOIN_BANANA": "банан",
-    "OPERATOR_LETTEROF": "літара %1 у %2",
+    "OPERATOR_LETTER_OF": "літара %1 у %2",
     "OPERATOR_LETTEROF_APPLE": "а",
     "OPERATOR_LENGTH": "даўжыня %1",
     "OPERATOR_CONTAINS": "%1 змяшчае %2?",

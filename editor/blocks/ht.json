@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "kole %1 ak %2",
     "OPERATOR_JOIN_APPLE": "pòm",
     "OPERATOR_JOIN_BANANA": "fig",
-    "OPERATOR_LETTEROF": "lèt %1 nan %2",
+    "OPERATOR_LETTER_OF": "lèt %1 nan %2",
     "OPERATOR_LETTEROF_APPLE": "a",
     "OPERATOR_LENGTH": "longè %1 ",
     "OPERATOR_CONTAINS": "èske %1 gen %2 ladan l ?",

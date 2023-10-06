@@ -150,7 +150,7 @@
     "OPERATOR_JOIN": "ένωσε %1 %2",
     "OPERATOR_JOIN_APPLE": "μήλο",
     "OPERATOR_JOIN_BANANA": "μπανάνα",
-    "OPERATOR_LETTEROF": "γράμμα %1 του %2",
+    "OPERATOR_LETTER_OF": "γράμμα %1 του %2",
     "OPERATOR_LETTEROF_APPLE": "ο",
     "OPERATOR_LENGTH": "μήκος του %1",
     "OPERATOR_CONTAINS": "%1 περιλαμβάνει %2;",
