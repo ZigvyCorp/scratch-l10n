@@ -23,7 +23,7 @@ let blockIdTransform = id => {
     // Checking if blockId is camelCase
     // For handle some special case like:
     // `data_setRandomList` block
-    // or `data_setRandomList_something`
+    // or `d3object_d3_set_property`
     splitBlockName.forEach(part => {
         const isCamel = /^([a-z]+)(([A-Z]([a-z]+))+)$/g.test(part);
         let newPart = part;
