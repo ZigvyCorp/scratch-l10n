@@ -759,6 +759,7 @@
     "d3object_d3_addavatar": "add avatar [CHARACTERNAME] height [HEIGHT] as [NAME] hidden [HIDDEN]",
     "d3object_d3_addavatarforuser": "add avatar [AVATAR_NAME] for user [USERNAME] height [HEIGHT] as [NAME] hidden [HIDDEN]",
     "d3object_d3_adduseravatar": "add user avatar [AVATARNAME] height [HEIGHT] as [NAME]",
+    "d3_adduseravatar": "add user avatar [AVATARNAME] height [HEIGHT] as [NAME]",
     "d3action_d3_addanimation": "add animations [ANIMATIONS]",
     "d3action_d3_startanimation": "start animation [ANIMATIONNAME] looping [LOOPING] progress from [STARTFRAME] to [ENDFRAME] speed ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] broadcast [BROADCASTMESSAGE] at progress [PROGRESSLIST]", 
     "d3action_d3_startanimation2": "start model animation [ANIMATIONNAME] looping [LOOPING] progress from [STARTFRAME] to [ENDFRAME] speed ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] broadcast [BROADCASTMESSAGE] at progress [PROGRESSLIST]", 

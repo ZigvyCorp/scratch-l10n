@@ -496,6 +496,7 @@
     "d3object_d3_addavatar": "添加化身 [CHARACTERNAME] 身高 [HEIGHT] 名為 [NAME] 隱藏 [HIDDEN]",
     "d3object_d3_addavatarforuser": "添加用戶 [USERNAME] 的化身 [AVATAR_NAME] 高度 [HEIGHT] 名為 [NAME] 隱藏 [HIDDEN]",
     "d3object_d3_adduseravatar": "添加用戶化身 [AVATARNAME] 高度 [HEIGHT] 名為 [NAME]",
+    "d3_adduseravatar": "添加用戶化身 [AVATARNAME] 高度 [HEIGHT] 名為 [NAME]",
     "d3action_d3_addanimation": "添加動畫 [動畫]",
     "d3action_d3_startanimation":  "開始動畫 [ANIMATIONNAME] 循環 [LOOPING] 幀號 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 進度廣播 [BROADCASTMESSAGE]",
     "d3action_d3_startanimation2":  "開始模型動畫 [ANIMATIONNAME] 循環 [LOOPING] 幀號 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 進度廣播 [BROADCASTMESSAGE]",

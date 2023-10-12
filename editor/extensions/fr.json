@@ -756,6 +756,7 @@
     "d3object_d3_addavatar": "ajouter un avatar [CHARACTERNAME] la taille [HEIGHT] nommé [NAME] caché [HIDDEN]",
     "d3object_d3_addavatarforuser": "ajouter l'avatar [AVATAR_NAME] pour l'utilisateur [USERNAME] taille [HEIGHT] en tant que [NAME] caché [HIDDEN]",
     "d3object_d3_adduseravatar": "ajouter l’avatar de l’utilisateur [AVATARNAME] height [HEIGHT] comme [NAME]",
+    "d3_adduseravatar": "ajouter l’avatar de l’utilisateur [AVATARNAME] height [HEIGHT] comme [NAME]",
     "d3action_d3_addanimation": "ajouter des animations [ANIMATIONS]",
     "d3action_d3_startanimation": "démarrer l'animation [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
     "d3action_d3_startanimation2": "démarrer l'animation du modèle [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
