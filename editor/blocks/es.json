@@ -803,7 +803,7 @@
     "OPEN_AI_IMAGE_ERROR": "Lo siento, la solicitud DALL-E ha sido rechazada porque viola la política de contenido de OpenAI.",
     "AI_createNeuralNetworkModel": "crear modelo NN llamado %1",
     "AI_addLayerToModel": "agregar capa al modelo %1 forma de entrada %2 tamaño de salida %3 activación %4",
-    "AI_compileModel": "compilar modelo %1 pérdida %2 optimizador %3",
+    "AI_compileModel": "compilar modelo NN %1 pérdida %2 optimizador %3 tasa de aprendizaje %4",
     "AI_trainModel": "entrenar el modelo %1 usando la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6 tamaño de lote %7 épocas %8",
     "AI_predictByModel": "predecir usando el modelo %1 para la tabla %2 filas de %3 a %4 columnas de entrada %5 columna de salida %6",
     "AI_saveModel": "guardar el modelo llamado %1",

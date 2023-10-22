@@ -805,7 +805,7 @@
     "OPEN_AI_IMAGE_ERROR" : "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。",
     "AI_createNeuralNetworkModel": "创建名为 %1 的 NN (神经元网络) 模型",
     "AI_addLayerToModel": "将图层添加到 NN 模型 %1 输入形状 %2 输出大小 %3 激活 %4",
-    "AI_compileModel": "编译 NN 模型 %1 损失 %2 优化器 %3",
+    "AI_compileModel": "编译 NN 模型 %1 损失 %2 优化器 %3 学习率 %4",
     "AI_trainModel": "使用表格 %2 行从 %3 到 %4 训练 NN 模型 %1 输入列 %5 输出列 %6 批量大小 %7 轮次 %8",
     "AI_predictByModel": "使用 NN 模型 %1 预测 表格 %2 行从 %3 到 %4 输入列 %5 输出列 %6",
     "AI_saveModel": "保存名为 %1 的 NN 模型",
