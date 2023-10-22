@@ -286,6 +286,7 @@
     "physics.setEdgeCollisionGroup": "set world border collision group [CG] colliding with group [TG]",
     "physics.removeCollider": "remove physics-based behavior",
     "physics.turnoncollisiondetection": "turn on ground detection within distance [DISTANCE] debug [DEBUG]",
+    "physics_getMass": "mass",
     "physics.getVelocityX": "x speed",
     "physics.getVelocityY": "y speed",
     "physics.getAngularVelocity": "angular speed",

@@ -283,6 +283,7 @@
     "physics.setEdgeCollisionGroup": "définir le groupe de collisions de frontières mondiales [CG] en collision avec le groupe [TG]",
     "physics.removeCollider": "supprimer le comportement basé sur la physique",
     "physics.turnoncollisiondetection": "activer la détection du sol à distance [DISTANCE] debug [DEBUG]",
+    "physics_getMass": "masse",
     "physics.getVelocityX": "x vitesse",
     "physics.getVelocityY": "vitesse y",
     "physics.getAngularVelocity": "vitesse angulaire",

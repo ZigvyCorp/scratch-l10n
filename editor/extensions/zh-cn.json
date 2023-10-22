@@ -286,6 +286,7 @@
     "physics.addPrismaticJoint": "只允许在 [XORY] 方向相对于 [SPRITE] 滑动 范围从 [MINDISTANCE] 到 [MAXDISTANCE]",
     "physics.removeCollider": "移除基于物理的行为",
     "physics.turnoncollisiondetection": "开启地面检测 最大距离 [DISTANCE] 调试 [DEBUG]",
+    "physics_getMass": "质量",
     "physics.getVelocityX": "x 速度",
     "physics.getVelocityY": "y 速度",
     "physics.getAngularVelocity": "旋转速度",
