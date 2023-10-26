@@ -640,6 +640,8 @@
     "gui.spine.drawDebug": "绘制调试",
     "gui.spine.boneTree": "骨头树",
     "head":"头",
+    "neck": "颈部",
+    "hips": "臀部",
     "rightshoulder": "右肩",
     "leftshoulder": "左肩",
     "righthand":"右手",
