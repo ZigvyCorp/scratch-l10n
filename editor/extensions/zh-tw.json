@@ -295,7 +295,7 @@
     "physics.getCollidingBottom": "在下方有碰撞",
     "physics.getGroundSlope": "地面坡度",
     
-
+    "p2p.readWorldsInfo": "將所有世界資訊讀入表 [TABLE]",
     "p2p.categoryName": "云",
     "p2p.createWorld": "創建世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",
     "p2p.joinWorld": "加入世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",

@@ -291,6 +291,7 @@
     "physics.getGroundSlope": "pente du sol",
 
     "physics.categoryName": "2D la physique",
+    "p2p.readWorldsInfo": "lire toutes les informations sur les mondes dans le tableau [TABLE]",
     "p2p.categoryName": "Monde",
     "p2p.createWorld": "créer un monde [WORLD] mot de passe [PASSWORD] mon surnom [NICKNAME]",
     "p2p.joinWorld": "rejoindre le monde [WORLD] mot de passe [PASSWORD] mon surnom [NICKNAME]",
