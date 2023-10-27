@@ -628,6 +628,8 @@
     "gui.spine.boneTree": "骨頭樹",
 
     "head":"頭",
+    "neck": "頸部",
+    "hips": "臀部",
     "rightshoulder": "右肩",
     "leftshoulder": "左肩",
     "righthand":"右手",

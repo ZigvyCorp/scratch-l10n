@@ -639,6 +639,8 @@
     "gui.spine.drawDebug": "Dessiner le débogage",
     "gui.spine.boneTree": "Arbre d'os",
     "head": "Tête",
+    "neck": "Cou",
+    "hips": "Hanches",
     "rightshoulder": "Épaule droite",
     "leftshoulder": "Épaule gauche",
     "righthand": "Main droite",
