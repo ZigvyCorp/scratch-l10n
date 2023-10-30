@@ -1030,7 +1030,7 @@
     "communityObjectNotFound": "模型 {modelName} 当前是私有的或不存在",
     "defaultAvatarNotFound": "请确保你在“我的东西”→“我的化身”下指定了默认的化身。",
     "d3scene_d3_switchFullScreen": "切换到全屏 [BORDERTYPE]",
-    "d3tools_d3_for_each_cloned_d3_object": "对于每个命名的 3D 物体 [OBJECT_NAME]",
+    "d3tools_d3_for_each_cloned_d3_object": "对于每个命名的 3D 物体 [VARIABLE]",
     "database.categoryName": "数据库",
     "database.createCollectionBtn": "创建一个集合",
     "widget.drawChartUsingList":"使用列表 [LIST] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 作为 [NAME] 绘制 [CHARTTYPE] 图表",
