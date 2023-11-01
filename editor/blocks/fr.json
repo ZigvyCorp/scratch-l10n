@@ -809,7 +809,7 @@
     "AI_saveModel": "enregistrer le modèle nommé %1",
     "AI_loadModel": "charger le modèle nommé %1",
     "AI_openAIChatCompletion": "OpenAI ChatGPT : requête %1 résultat %2 mode %3 longueur %4 température %5 session %6",
-    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT : requête système %1 session %2 résultat %3",
+    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT : requête système %1 session %2 résultat %3 température %4",
     "AI_openAIChatCancelation": "OpenAI ChatGPT : annuler la demande",
     "STREAMING": "diffusion",
     "WAITING": "en attendant",
