@@ -1017,7 +1017,7 @@
     "communityObjectNotFound": "模型 {modelName} 当前是私有的或不存在",
     "defaultAvatarNotFound": "请确保你在“我的东西”→“我的化身”下指定了默认的化身。",
     "d3scene_d3_switchFullScreen": "切換到全屏 [BORDERTYPE]",
-    "d3tools_d3_for_each_cloned_d3_object": "对于每個命名的 3D 物体 [OBJECT_NAME]",
+    "d3tools_d3_for_each_cloned_d3_object": "对于每個命名的 3D 物体 [VARIABLE]",
     "database.categoryName": "數據庫",
     "database.createCollectionBtn": "創建一個集合",
     "p2p.scheduleEmailService": "调度服务：在日期 [DATE] 小时 [HOUR] 分钟 [MINUTE] 时区 [TIMEZONE] 发送电子邮件 [EMAIL]，ID [ID]",

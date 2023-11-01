@@ -1027,7 +1027,7 @@
     "d3object_d3_set_property": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME]",
     "d3object_d3_property": "property [PROPERTY_NAME] of [OBJECT_NAME]",
     "d3object_d3_foreachproperty": "for each property named [PROPERTY_NAME] with value [PROPERTY_VALUE] for [OBJECT_NAME]",
-    "d3tools_d3_for_each_cloned_d3_object": "for each 3D object named [OBJECT_NAME]",
+    "d3tools_d3_for_each_cloned_d3_object": "for each 3D object named [VARIABLE]",
     "database.categoryName": "Database",
     "database.createCollectionBtn": "Create a Collection",
     "p2p.scheduleEmailService": "schedule service: email [EMAIL] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
