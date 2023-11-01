@@ -24,8 +24,10 @@ let blockIdTransform = id => {
     // For handle some special case like:
     // `data_setRandomList` block
     // or `d3object_d3_set_property`
+    // or `d3action_d3_getXYZonPlanefromXY`
     splitBlockName.forEach(part => {
-        const isCamel = /^([a-z]+)(([A-Z]([a-z]+))+)$/g.test(part);
+        // NOTE: you can read regex explanation by paste to this site https://regex101.com/
+        const isCamel = /(?<=[a-z])[A-Z]+(?=[a-z]|$)/g.test(part);
         let newPart = part;
 
         // If it not camel case then just lowercase it
