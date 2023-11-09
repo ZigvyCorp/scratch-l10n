@@ -811,7 +811,7 @@
     "AI_saveModel": "保存名为 %1 的 NN 模型",
     "AI_loadModel": "加载名为 %1 的 NN 模型",
     "AI_openAIChatCompletion": "OpenAI ChatGPT: 请求 %1 结果 %2 模式 %3 最大长度 %4 温度 %5 会话 %6",
-    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: 系统请求 %1 会话 %2 结果 %3",
+    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: 系统请求 %1 会话 %2 结果 %3 温度 %4",
     "AI_openAIChatCancelation": "OpenAI ChatGPT: 取消请求",
     "AI_addTableToPinecone": "从表 %1 创建语义数据库",
     "AI_searchFromPinecone": "在语义数据库中使用 %1 搜索 将前 %2 个结果存储在表 %3 中 按列 %4 的值 %5 过滤",

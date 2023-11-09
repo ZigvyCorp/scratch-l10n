@@ -813,7 +813,7 @@
     "AI_saveModel": "save NN model named %1",
     "AI_loadModel": "load NN model named %1",
     "AI_openAIChatCompletion": "OpenAI ChatGPT: request %1 result %2 mode %3 length %4 temperature %5 session %6",
-    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: system request %1 session %2 result %3",
+    "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: system request %1 session %2 result %3 temperature %4",
     "AI_openAIChatCancelation": "OpenAI ChatGPT: cancel request",
     "AI_addTableToPinecone": "create semantic database from table %1",
     "AI_searchFromPinecone": "search semantic database with %1 store top %2 in table %3 filter by column %4 of value %5",
