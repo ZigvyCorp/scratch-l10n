@@ -234,7 +234,7 @@
     "collectableentity": "Collectable",
     "rectangleshape": "Rectangle",
     "circleshape": "Circle",
-    "mp.setSyncMovement": "synchronousely set speed x [XSPEED] y [YSPEED] facing direciton [DIRECTION]",
+    "mp.setSyncMovement": "synchronousely set speed x [XSPEED] y [YSPEED] facing direction [DIRECTION]",
     "mp.setSyncCostume": "synchronousely set costume to [COSTUME]",
     "mp.leaveMultiplayerGame": "leave multiplayer game world [WORLDNAME]",
     
