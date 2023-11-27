@@ -813,6 +813,7 @@
     "AI_openAIChatCancelation": "OpenAI ChatGPT: cancelar solicitud",
     "AI_addTableToPinecone": "crear base de datos semántica a partir de la tabla %1",
     "AI_searchFromPinecone": "buscar en la base de datos semántica con %1 almacenar los primeros %2 en la tabla %3 filtrar por la columna %4 del valor %5",
+    "AI_searchFromPinecone2": "busca en la base de datos semántica con %1 donde %2 almacena los mejores %3 en la tabla %4",
     "STREAMING": "transmisión",
     "WAITING": "espera",
     "NEW_CHAT": "nueva conversación",
