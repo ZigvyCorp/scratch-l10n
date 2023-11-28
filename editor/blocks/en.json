@@ -818,6 +818,7 @@
     "AI_addTableToPinecone": "create semantic database from table %1",
     "AI_searchFromPinecone": "search semantic database with %1 store top %2 in table %3 filter by column %4 of value %5",
     "AI_searchFromPinecone2": "search semantic database with %1 where %2 store top %3 in table %4",
+    "AI_switchChatbot": "select ChatGPT bot %1",
     "STREAMING": "streaming",
     "WAITING": "waiting",
     "NEW_CHAT": "new chat",
