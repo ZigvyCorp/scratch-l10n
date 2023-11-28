@@ -347,6 +347,7 @@
     "OPERATOR_SUBSTRING": "提取 %1 的子串 從位置 %2 到 %3",
     "OPERATOR_SPLITSUBSTRING": "用 %3 分割 %2 後的第 %1 部分",
     "OPERATOR_LCS": "%1 和 %2 之間的最長公共子字符串",
+    "OPERATOR_CALC": "計算表達式 %1",
     "OPERATOR_JOINWITH": "將 %1 %2 %3 %4 %5 %6 通過 %7 連接",
     "OPERATOR_LETTER_OF": "字符串 %2 的第 %1 個字符",
     "OPERATOR_LETTEROF_APPLE": "果",

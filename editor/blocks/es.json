@@ -348,6 +348,7 @@
     "OPERATOR_SUBSTRING": "subcadena de %1 de la posición %2 a la posición %3",
     "OPERATOR_SPLITSUBSTRING": "parte %1 de %2 por %3",
     "OPERATOR_LCS": "Subcadena común más larga entre %1 y %2",
+    "OPERATOR_CALC": "calcular expresión %1",
     "OPERATOR_JOINWITH": "unirse a %1 %2 %3 %4 %5 %6 con %7",
     "OPERATOR_LETTER_OF": "letra %1 de %2",
     "OPERATOR_LETTEROF_APPLE": "a",

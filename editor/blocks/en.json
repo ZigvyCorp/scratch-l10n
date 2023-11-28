@@ -352,6 +352,7 @@
     "OPERATOR_SUBSTRING": "substring of %1 from position %2 to position %3",
     "OPERATOR_SPLITSUBSTRING": "part %1 of %2 by %3",
     "OPERATOR_LCS": "longest common substring between %1 and %2",
+    "OPERATOR_CALC": "calculate expression %1",
     "OPERATOR_JOINWITH": "join %1 %2 %3 %4 %5 %6 with %7",
     "OPERATOR_LETTER_OF": "letter %1 of %2",
     "OPERATOR_LETTEROF_APPLE": "a",
