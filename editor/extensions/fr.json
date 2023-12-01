@@ -293,7 +293,7 @@
     "physics.categoryName": "2D la physique",
     "p2p.readWorldsInfo": "lire toutes les informations sur les mondes dans le tableau [TABLE]",
     "p2p.categoryName": "Monde",
-    "p2p.fetchFromURL": "Récupérer le contenu web depuis une URL [URL]",
+    "p2p.fetchFromURL": "récupérer la page web en tant que markdown depuis l'URL [URL]",
     "p2p.createWorld": "créer un monde [WORLD] mot de passe [PASSWORD] mon surnom [NICKNAME]",
     "p2p.joinWorld": "rejoindre le monde [WORLD] mot de passe [PASSWORD] mon surnom [NICKNAME]",
     "p2p.leaveworld": "quitter le monde",

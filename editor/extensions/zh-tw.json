@@ -297,7 +297,7 @@
     
     "p2p.readWorldsInfo": "將所有世界資訊讀入表 [TABLE]",
     "p2p.categoryName": "云",
-    "p2p.fetchFromURL": "從URL [URL] 獲取網頁內容",
+    "p2p.fetchFromURL": "從URL [URL] 獲取網頁並轉換為Markdown格式",
     "p2p.createWorld": "創建世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",
     "p2p.joinWorld": "加入世界 [WORLD] 密碼 [PASSWORD] 我的暱稱 [NICKNAME]",
     "p2p.leaveworld": "離開世界",
