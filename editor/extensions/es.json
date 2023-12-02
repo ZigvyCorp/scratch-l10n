@@ -250,6 +250,7 @@
     "physics.setVelocityX": "establecer velocidad x [SPEED]",
     "physics.setVelocityY": "establecer y velocidad [SPEED]",
     "physics.setVelocityDIR": "establece la velocidad [SPEED] en la dirección [DIR]",
+    "physics.setVelocityMovingDIR": "establecer velocidad [SPEED] en dirección de movimiento",
     "physics.setRotationSpeed": "establecer la velocidad de rotación [SPEED]",
     "physics.setDIRByVelocity": "punto en la dirección de la velocidad",
     "physics.addForce": "añadir fuerza [FORCE] en la dirección [DIR]",
