@@ -835,6 +835,7 @@
     "d3action_d3_updateBone": "mettre à jour l'os [BODYPART] déplacer en x [X] y [Y] z [Z] tourner en x [X2] y [Y2] z [Z2]",
     "d3object_d3_removechildren": "dissocier les enfants",
     "d3object_d3_converttosps": "convertir en sps à xyz [LIST] modifiable [UPDATABLE]",
+    "d3object_d3_addtosps": "ajouter à sps [NAME] à xyz de la liste [LIST]",
     "d3action_d3_selectobject": "sélectionner l'objet sprite par nom [NAME]", 
     "d3object_d3_removeobject": "supprimer l'objet nommé [NAME]",
     "d3object_d3_removeallobjects": "supprime tous les objets",

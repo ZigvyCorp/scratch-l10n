@@ -578,6 +578,7 @@
     "d3object_d3_removeparent":  "解除父节点",
     "d3object_d3_removechildren": "解除孩子关系",
     "d3object_d3_converttosps": "转换为 固体粒子系统 xyz位置列表 [LIST] 可更新 [UPDATABLE]",
+    "d3object_d3_addtosps": "添加到固体粒子系统 [NAME] xyz位置列表 [LIST]",
     "d3action_d3_selectobject":  "选择 名为 [NAME] 的物体 作为角色物体",
     "d3object_d3_removeobject":  "删除物体 名为 [NAME]",
     "d3object_d3_removeallobjects": "删除所有物体",

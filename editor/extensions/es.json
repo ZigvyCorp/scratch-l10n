@@ -839,6 +839,7 @@
     "d3action_d3_updateBone": "actualizar hueso [BODYPART] mover hacia adentro x [X] y [Y] z [Z] rotar hacia adentro x [X2] y [Y2] z [Z2]",
     "d3object_d3_removechildren": "Desenlazar a las niñas",
     "d3object_d3_converttosps": "convertir a sps en xyz [LIST] actualizable [UPDATABLE]",
+    "d3object_d3_addtosps": "agregar a sps [NAME] en xyz de la lista [LIST]",
     "d3object_d3_removeobject": "eliminar objeto llamado [NAME]",
     "d3object_d3_removeallobjects": "eliminar todos los objetos",
     "d3tools_d3_showbounds": "mostrar cuadro delimitador [SHOW]",
