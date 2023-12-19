@@ -256,6 +256,7 @@
     "LOOKS_ANIMATESECONDFRAME": "animer pour %1 en %2 %3",
     "LOOKS_DRAW_RECTANGLE": "dessine un rectangle à x %1 y %2 largeur %3 hauteur %4 remplissage %5 bordure %6 largeur %7 rayon d'angle %8 rotation %9",
     "LOOKS_DRAW_OVAL": "dessine un ovale à x %1 y %2 largeur %3 hauteur %4 remplissage %5 bordure %6 largeur %7 rotation %8",
+    "LOOKS_DRAW_POLYGON": "Dessiner un polygone à x %1 y %2 points %3 remplissage %4 bordure %5 largeur %6 rotation %7",
     "LOOKS_DRAW_LINE": "trace une ligne dans %1 de x %2 y %3 à x %4 y %5 épaisseur %6",
     "LOOKS_DRAW_CURVE": "dessine la courbe en %1 de x %2 y %3 à x %4 y %5 contrôle 1 x %6 y %7 contrôle 2 x %8 y %9 épaisseur %10 ",
     "MOTION_MOVESTEPS": "avancer de %1 pas",
