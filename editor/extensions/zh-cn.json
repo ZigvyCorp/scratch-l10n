@@ -567,7 +567,7 @@
     "d3physics_d3_converttophysicscar": "为物体 [NAME] 启用汽车模拟 质量 [MASS] 恢复系数 [RESTITUTION]% 摩擦系数 [BODYFRICTION]% 轮胎摩擦系数 [FRICTION]%",
     "d3physics_d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE] %",
     "d3physics_d3_updatecarsteer":"将汽车 [NAME] 转向角度 [STEER]",
-    "d3physics_d3_updatecollisiongroup": "为汽车 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",
+    "d3physics_d3_updatecollisiongroup": "为物理物体 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",
     "d3physics_d3_setphysicsframerate": "设置物理帧速率 [RATE]",
     "d3physics_d3_getphysicsframerate": "获取 [NAME] 的物理帧速率",
     "d3physics_d3_freezeallphysics": "冻结所有物理物体 [YESNO]",
