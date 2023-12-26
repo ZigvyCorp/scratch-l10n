@@ -1050,5 +1050,11 @@
     "widget.addImageFromCustoms": "在 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 處添加圖像 [COSTUME] 作為 [NAME]",
     "widget.addImageFromUrl": "從 URL [URL] 添加圖像 x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 寬高比 [ASPECT] 作為 [NAME]",
     "widget.image.keep": "保持",
-    "widget.image.stretch": "拉緊"
+    "widget.image.stretch": "拉緊",
+    "widget.showCamera": "以 [MODE] x [X] y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 顯示 [SIDE] 相機作為 [NAME]",
+    "widget.savePictureFromCamera": "將相機 [CAMERANAME] 中的圖片儲存為服裝 [COSTUMENAME]",
+    "widget.camera.side": "前面",
+    "widget.camera.back": "返回",
+    "widget.camera.normal": "正常",
+    "widget.camera.flipped": "翻轉"
 }
