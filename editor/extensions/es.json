@@ -1056,5 +1056,11 @@
     "widget.addImageFromCustoms": "agregar imagen [COSTUME] en x [X] y [Y] ancho [WIDHT] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
     "widget.addImageFromUrl": "agregar imagen de URL [URL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] relación de aspecto [ASPECT] como [NAME]",
     "widget.image.keep": "mantener",
-    "widget.image.stretch": "estirar"
+    "widget.image.stretch": "estirar",
+    "widget.showCamera": "muestra la cámara [SIDE] en [MODE] x [X] y [Y] ancho [WIDTH] alto [HEIGHT] como [NAME]",
+    "widget.savePictureFromCamera": "guardar imagen de la cámara [CAMERANAME] como disfraz [COSTUMENAME]",
+    "widget.camera.side": "frontal",
+    "widget.camera.back": "atrás",
+    "widget.camera.normal": "normal",
+    "widget.camera.flipped": "invertido"
 }
