@@ -256,7 +256,7 @@
     "LOOKS_ANIMATESECONDFRAME": "animar a %1 en %2 %3",
     "LOOKS_DRAW_RECTANGLE": "dibujar rectángulo en x %1 y %2 ancho %3 alto %4 relleno %5 borde %6 ancho %7 radio de esquina %8 rotación %9",
     "LOOKS_DRAW_OVAL": "dibujar un óvalo en x %1 y %2 ancho %3 alto %4 rellenar %5 borde %6 ancho %7 rotación %8",
-    "LOOKS_DRAW_POLYGON": "Dibujar polígono en x %1 y %2 puntos %3 relleno %4 borde %5 ancho %6 rotación %7",
+    "LOOKS_DRAW_POLYGON": "Dibujar polígono en x %1 y %2 ancho %3 alto %4 puntos %5 relleno %6 borde %7 ancho %8 rotación %9",
     "LOOKS_DRAW_LINE": "trazar linea en %1 desde x %2 y %3 hasta x %4 y %5 grosor %6",
     "LOOKS_DRAW_CURVE": "dibujar curva en %1 desde x %2 y %3 hasta x %4 y %5 control 1 x %6 y %7 control 2 x %8 y %9 espesor %10 ",
     "MOTION_MOVESTEPS": "mover %1 pasos",

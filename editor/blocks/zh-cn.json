@@ -257,7 +257,7 @@
     "LOOKS_ANIMATESECONDFRAME": "动画到 %1 用时 %2 %3",
     "LOOKS_DRAW_RECTANGLE": "绘制矩形 x %1 y %2 宽度 %3 高度 %4 填充 %5 边框 %6 宽度 %7 圆角半径 %8 旋转 %9",
     "LOOKS_DRAW_OVAL": "绘制椭圆形 x %1 y %2 宽度 %3 高度 %4 填充 %5 边框 %6 宽度 %7 旋转 %8",
-    "LOOKS_DRAW_POLYGON": "绘制多边形 x %1 y %2 顶点 %3 填充 %4 边框 %5 宽度 %6 旋转 %7",
+    "LOOKS_DRAW_POLYGON": "在 x %1 y %2 宽度 %3 高度 %4 点 %5 填充 %6 边框 %7 宽度 %8 旋转 %9 处绘制多边形",
     "LOOKS_DRAW_LINE": "绘制线段 颜色 %1 从 x %2 y %3 到 x %4 y %5 宽度 %6",
     "LOOKS_DRAW_CURVE": "绘制曲线 颜色 %1 从 x %2 y %3 到 x %4 y %5 控制点1 x %6 y %7 控制点2 x %8 y %9 宽度 %10",
     "MOTION_MOVESTEPS": "移动 %1 步",
