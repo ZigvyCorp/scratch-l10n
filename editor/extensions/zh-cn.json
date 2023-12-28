@@ -567,7 +567,7 @@
     "d3physics_d3_converttophysicscar": "为物体 [NAME] 启用汽车模拟 质量 [MASS] 恢复系数 [RESTITUTION]% 摩擦系数 [BODYFRICTION]% 轮胎摩擦系数 [FRICTION]%",
     "d3physics_d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE] %",
     "d3physics_d3_updatecarsteer":"将汽车 [NAME] 转向角度 [STEER]",
-    "d3physics_d3_updatecollisiongroup": "为汽车 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",
+    "d3physics_d3_updatecollisiongroup": "为物理物体 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",
     "d3physics_d3_setphysicsframerate": "设置物理帧速率 [RATE]",
     "d3physics_d3_getphysicsframerate": "获取 [NAME] 的物理帧速率",
     "d3physics_d3_freezeallphysics": "冻结所有物理物体 [YESNO]",
@@ -1057,5 +1057,11 @@
     "widget.addImageFromCustoms": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 处添加图像 [COSTUME] 作为 [NAME]",
     "widget.addImageFromUrl": "从 URL [URL] 添加图像 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 作为 [NAME]",
     "widget.image.keep": "保持",
-    "widget.image.stretch": "拉紧"
+    "widget.image.stretch": "拉紧",
+    "widget.showCamera": "以 [MODE] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 显示 [SIDE] 相机作为 [NAME]",
+    "widget.savePictureFromCamera": "将相机 [CAMERANAME] 中的图片保存为服装 [COSTUMENAME]",
+    "widget.camera.side": "前面",
+    "widget.camera.back": "返回",
+    "widget.camera.normal": "正常",
+    "widget.camera.flipped": "翻转"
 }

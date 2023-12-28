@@ -1060,5 +1060,12 @@
     "widget.addImageFromCustoms": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
     "widget.addImageFromUrl": "add image from URL [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
     "widget.image.keep": "keep",
-    "widget.image.stretch": "stretch"
+    "widget.image.stretch": "stretch",
+    "widget.showCamera": "show [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "widget.savePictureFromCamera": "save picture from camera [CAMERANAME] as costume [COSTUMENAME]",
+    "widget.camera.side": "front",
+    "widget.camera.back": "back",
+    "widget.camera.normal": "normal",
+    "widget.camera.flipped": "flipped"
+
 }
