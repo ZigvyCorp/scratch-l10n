@@ -38,6 +38,7 @@
     "CONTROL_DEFAULT_OPTION": "選擇",
     "CONTROL_REPORT_TEST_RESULT": "報告測試結果 %1",
     "CONTROL_SETGLOBALPARAM": "設置全局參數 鍵 %1 值 %2",
+    "CONTROL_SUBMITQUIZASSIGNMENT": "提交作業結果 %1 代碼 %2 註 %3",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "從角色 %2 獲取自定義積木 %1 的腳本",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "從角色 %1 獲取綠旗點擊積木下的腳本",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "從角色 %1 獲取所有腳本到列表 %2",
