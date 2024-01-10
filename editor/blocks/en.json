@@ -39,6 +39,8 @@
     "CONTROL_REPORT_TEST_RESULT": "report test result %1",
     "CONTROL_SETGLOBALPARAM": "set global parameter key %1 value %2",
     "CONTROL_SUBMITQUIZASSIGNMENT": "submit assignment result %1 code %2 comment %3",
+    "CONTROL_FAIL": "fail",
+    "CONTROL_PASS": "pass",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "get script for custom block %1 from sprite %2",
     "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "get script for green flag click from sprite %1",
     "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "get scripts for all blocks from sprite %1 into list %2",
