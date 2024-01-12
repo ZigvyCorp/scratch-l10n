@@ -292,6 +292,9 @@
 
     "d3effect.categoryName": "Efecto 3D",
     "physics.categoryName": "2D física",
+
+    "p2p.readFromGoogleSheet": "leer desde la hoja de cálculo de Google: URL [SHEET_URL] nombre de la hoja [SHEET_NAME] rango [RANGE_VALUE] en la tabla [TABLE]",
+    "p2p.writeInToGoogleSheet": "escribir en la hoja de cálculo de Google: URL [SHEET_URL] nombre de la hoja [SHEET_NAME] celda de inicio [RANGE_VALUE] desde la tabla [TABLE]",
     "p2p.readWorldsInfo": "leer toda la información del mundo en la tabla [TABLE]",
     "p2p.categoryName": "Mundo",
     "p2p.fetchFromURL": "obtener página web como markdown desde URL [URL]",

@@ -296,6 +296,8 @@
     "physics.getCollidingBottom": "在下方有碰撞",
     "physics.getGroundSlope": "地面坡度",
     
+    "p2p.readFromGoogleSheet": "从 Google 表格读取：URL [SHEET_URL] 表格名称 [SHEET_NAME] 范围 [RANGE_VALUE] 到表 [TABLE]",
+    "p2p.writeInToGoogleSheet": "写入 Google 表格：URL [SHEET_URL] 表格名称 [SHEET_NAME] 起始单元格 [RANGE_VALUE] 从表格 [TABLE]",
     "p2p.readWorldsInfo": "將所有世界資訊讀入表 [TABLE]",
     "p2p.categoryName": "云",
     "p2p.fetchFromURL": "從URL [URL] 獲取網頁並轉換為Markdown格式",

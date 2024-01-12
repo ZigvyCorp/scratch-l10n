@@ -296,6 +296,9 @@
 
     "mp.setSyncMovement": "同步将速度设为 x [XSPEED] y [YSPEED] 面朝方向 [DIRECTION]",
     "mp.setSyncCostume": "同步将造型设为 [COSTUME]",
+
+    "p2p.readFromGoogleSheet": "从 Google 表格读取：URL [SHEET_URL] 表格名称 [SHEET_NAME] 范围 [RANGE_VALUE] 到表 [TABLE]",
+    "p2p.writeInToGoogleSheet": "写入 Google 表格：URL [SHEET_URL] 表格名称 [SHEET_NAME] 起始单元格 [RANGE_VALUE] 从表格 [TABLE]",
     "p2p.readWorldsInfo": "将所有世界信息读入表 [TABLE]",
     "p2p.categoryName": "云",
     "p2p.fetchFromURL": "从URL [URL] 获取网页并转换为Markdown格式",
