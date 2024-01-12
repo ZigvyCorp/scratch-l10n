@@ -294,6 +294,8 @@
     "physics.getCollidingBottom": "in collision below",
     "physics.getGroundSlope": "ground slope",
 
+    "p2p.readFromGoogleSheet": "read from google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] range [RANGE_VALUE] into table [TABLE]",
+    "p2p.writeInToGoogleSheet": "write into google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] starting cell [RANGE_VALUE] from table [TABLE]",
     "p2p.readWorldsInfo": "read all worlds info into table [TABLE]",
     "p2p.categoryName": "Cloud",
     "p2p.fetchFromURL": "fetch web page as markdown from URL [URL]",
