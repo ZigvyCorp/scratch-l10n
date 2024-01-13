@@ -352,6 +352,7 @@
     "OPERATOR_SUBSTRING": "sous-chaîne de %1 de la position %2 à la position %3",
     "OPERATOR_SPLITSUBSTRING": "partie %1 de %2 par %3",
     "OPERATOR_LCS": "La plus longue sous-chaîne commune entre %1 et %2",
+    "OPERATOR_STRINGDIFF": "étapes pour changer %1 en %2",
     "OPERATOR_CALC": "calculer l'expression %1",
     "OPERATOR_JOINWITH": "rejoindre %1 %2 %3 %4 %5 %6 avec %7",
     "OPERATOR_LETTER_OF": "lettre %1 de %2",
