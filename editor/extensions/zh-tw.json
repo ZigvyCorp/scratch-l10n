@@ -324,6 +324,7 @@
     "p2p.formatContent.boldItalic": "加粗斜體",
     "widget.categoryName": "控件",
     "widget.addTextbox": "在 X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 填充 [PADDING] 行 [MULTIPLELINE] 滾動 [SCROLL] 模式 [MODE] 添加文本框 名為 [NAME]",
+    "widget_addRichTextbox": "在 X [X] Y [Y] 新增富文本框 寬度 [WIDTH] 高度 [HEIGHT] 填滿 [PADDING] 模式 [MODE] 名稱為 [NAME]",
     "widget.valueFromWidget": "控件 [NAME] 的值",
     "widget.setText": "將控件 [NAME] 的值設為 [TEXT]",
     "widget.appendText": "將文本 [TEXT] 附加到 [NAME] 換行 [YESNO]",

@@ -321,6 +321,7 @@
     "p2p.formatContent.boldItalic": "negrita-cursiva",
     "widget.categoryName": "Lápiz",
     "widget.addTextbox": "agregar cuadro de texto en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] relleno [PADDING] línea [MULTIPLELINE] desplazarse [SCROLL] modo [MODE] como [NAME]",
+    "widget_addRichTextbox": "añadir caja de texto enriquecido en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] relleno [PADDING] modo [MODE] como [NAME]",
     "widget.valueFromWidget": "valor del widget [NAME]",
     "widget.setText": "establecer valor en [TEXT] para el widget [NAME]",
     "widget.appendText": "agregue texto [TEXT] a [NAME] en la nueva línea [YESNO]",

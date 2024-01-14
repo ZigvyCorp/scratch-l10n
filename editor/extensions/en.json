@@ -322,6 +322,7 @@
     "p2p.formatContent.boldItalic": "bold-italic",
     "widget.categoryName": "Widget",
     "widget.addTextbox": "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]",
+    "widget.addRichTextbox": "add rich textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] mode [MODE] as [NAME]",
     "widget.valueFromWidget": "value of widget [NAME]",
     "widget.setText": "set value to [TEXT] for widget [NAME]",
     "widget.appendText": "append text [TEXT] to [NAME] in new line [YESNO]",

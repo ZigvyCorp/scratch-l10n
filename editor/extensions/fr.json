@@ -321,6 +321,7 @@
     "p2p.formatContent.boldItalic": "gras-italique",
     "widget.categoryName": "Widget",
     "widget.addTextbox": "ajouter une zone de texte à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] remplissage [PADDING] ligne [MULTIPLELINE] faire défiler [SCROLL] mode [MODE] comme [NAME]",
+    "widget_addRichTextbox": "ajouter zone de texte riche à X [X] Y [Y] largeur [WIDTH] hauteur [HEIGHT] padding [PADDING] mode [MODE] comme [NAME]",
     "widget.valueFromWidget": "valeur du widget [NAME]",
     "widget.setText": "définir la valeur sur [TEXT] pour le widget [NAME]",
     "widget.appendText": "ajouter le texte [TEXT] à [NAME] dans une nouvelle ligne [YESNO]",
