@@ -772,6 +772,7 @@
     "d3action_d3_startanimation2": "start model animation [ANIMATIONNAME] looping [LOOPING] progress from [STARTFRAME] to [ENDFRAME] speed ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] broadcast [BROADCASTMESSAGE] at progress [PROGRESSLIST]", 
     "d3object_d3_stopanimation": "stop animation",
     "d3object_d3_addplane": "add plane [COLOR] size x [SIZEX] y [SIZEY] as [NAME]", 
+    "d3object_d3_addVideoPlane": "add video plane [URL] width [WIDTH] height [HEIGHT] as [NAME]", 
     "d3object_d3_addabcdplane": "add plane [COLOR] width [SIZEX] height [SIZEY] coefficients abcd [A] [B] [C] [D] as [NAME]", 
     "d3object_d3_add3pplane": "add triangle [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] as [NAME]",
     "d3_add4pplane": "add quadrilateral [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] as [NAME]",

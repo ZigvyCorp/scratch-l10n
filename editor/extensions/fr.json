@@ -771,6 +771,7 @@
     "d3action_d3_startanimation2": "démarrer l'animation du modèle [ANIMATIONNAME] boucler [LOOPING] progresser de [STARTFRAME] à [ENDFRAME] rapport de vitesse [SPEEDRATIO] [BLOCKING] décalage x [X] y [Y] z [Z] diffuser [BROADCASTMESSAGE] en cours [PROGRESSLIST]", 
     "d3object_d3_stopanimation": "arrêter l'animation",
     "d3object_d3_addplane": "ajouter la taille du plan [COLOR] x [SIZEX] y [SIZEY] nommé [NAME]", 
+    "d3object_d3_addVideoPlane": "ajouter un plan vidéo [URL] largeur [WIDTH] hauteur [HEIGHT] comme [NAME]", 
     "d3object_d3_addabcdplane": "ajouter plan [COLOR] largeur [SIZEX] hauteur [SIZEY] coefficients abcd [A] [B] [C] [D] nommé [NAME]", 
     "d3object_d3_add3pplane": "ajouter le triangle [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] nommé [NAME]",
     "d3_add4pplane": "ajouter le quadrilatère [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] nommé [NAME ]",
