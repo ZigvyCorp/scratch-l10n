@@ -512,6 +512,7 @@
     "d3action_d3_startanimation2":  "开始模型动画 [ANIMATIONNAME] 循环 [LOOPING] 帧号 [STARTFRAME] 到 [ENDFRAME] 速度比例 [SPEEDRATIO] [BLOCKING] 偏移 x [X] y [Y] z [Z] 在 [PROGRESSLIST]% 进度广播 [BROADCASTMESSAGE]",
     "d3object_d3_stopanimation":  "停止动画",
     "d3object_d3_addplane":  "添加平面 [COLOR] 大小 x [SIZEX] y [SIZEY] 名为 [NAME]",
+    "d3object_d3_addVideoPlane": "添加视频平面 [URL] 宽度 [WIDTH] 高度 [HEIGHT] 作为 [NAME]", 
     "d3object_d3_addabcdplane":  "添加平面 [COLOR] 宽 [SIZEX] 长 [SIZEY] 系数 abcd [A] [B] [C] [D] 名为 [NAME]",
     "d3object_d3_add3pplane": "添加三角形 [COLOR] 顶点位置 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] 名为 [NAME]",
     "d3_add4pplane":  "添加四边形 [COLOR] 顶点位置 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] 名为 [NAME]",
