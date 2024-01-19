@@ -837,5 +837,9 @@
     "DATA_LOADTABLE": "cargar %1 del servidor a la tabla %2",
     "AI_startRecognizingSpeechWebAPI": "WebAPI comienza a reconocer el habla en %1 registro como %2",
     "AI_speakInLanguageByWebApi": "WebAPI dice %1 con %2 velocidad %3 tono %4",
-    "BLOCK_CHATGPT_ON_THIS_REGION": "Lo sentimos, chatGPT no está disponible en tu país actualmente."
+    "BLOCK_CHATGPT_ON_THIS_REGION": "Lo sentimos, chatGPT no está disponible en tu país actualmente.",
+    "AI_baichuanAIChat": "Baichuan: solicitud %1 resultado %2 modo %3 temperatura %4 sesión %5",
+    "AI_yiyanAIChat": "Yiyan: solicitud %1 resultado %2 modo %3 temperatura %4 sesión %5",
+    "AI_chatGLMAIChat": "ChatGLM: solicitud %1 resultado %2 modo %3 temperatura %4 sesión %5",
+    "AI_moonshotAIChat": "Moonshot: solicitud %1 resultado %2 modo %3 temperatura %4 sesión %5"
 }

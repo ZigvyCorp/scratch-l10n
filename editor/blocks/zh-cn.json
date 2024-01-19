@@ -839,5 +839,9 @@
     "DATA_LOADTABLE": "将 %1 从服务器加载到表 %2",
     "AI_startRecognizingSpeechWebAPI": "WebAPI 开始将 %1 记录中的语音识别为 %2",
     "AI_speakInLanguageByWebApi": "WebAPI 以 %2 速度 %3 音调 %4 说出 %1",
-    "BLOCK_CHATGPT_ON_THIS_REGION": "抱歉，chatGPT 目前在您所在的国家/地区不可用。"
+    "BLOCK_CHATGPT_ON_THIS_REGION": "抱歉，chatGPT 目前在您所在的国家/地区不可用。",
+    "AI_baichuanAIChat": "百川：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
+    "AI_yiyanAIChat": "文心一言：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
+    "AI_chatGLMAIChat": "智谱清言：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
+    "AI_moonshotAIChat": "月之暗面：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5"
 }
