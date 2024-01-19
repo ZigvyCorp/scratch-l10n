@@ -669,6 +669,7 @@
     "BODY_SEGMENTATION": "ejecutar la depuración de segmentación corporal %1 en la tabla %2",
     "AI_createKNNClassifier": "crear un clasificador de números KNN a partir de la tabla %1 K %2 con el nombre %3",
     "ERROR_DEBUG_LABEL_KNN": "La primera columna en la tabla {tableName} tiene que ser 'label'",
+    "ERROR_TEXT_MODERATION": "Mensaje eliminado",
     "ERROR_MODEL_EXIST_NEURAL_NETWORK": "¡El modelo no existe!",
     "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "¡La modelo con nombre {modelName} ha salido!",
     "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "ha ingresado las columnas de formato de entrada incorrectas. ej: (ancho, alto, peso) con comas para separar las columnas o el nombre de la columna no existe.",

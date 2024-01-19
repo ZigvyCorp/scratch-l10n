@@ -669,6 +669,7 @@
     "BODY_SEGMENTATION": "exécuter le débogage de segmentation corporelle %1 dans la table %2",
     "AI_createKNNClassifier": "créer un classificateur de numéros KNN à partir de la table %1 K %2 nommé %3",
     "ERROR_DEBUG_LABEL_KNN": "La première colonne de la table {tableName} doit être 'label'",
+    "ERROR_TEXT_MODERATION": "Message supprimé",
     "ERROR_MODEL_EXIST_NEURAL_NETWORK": "le modèle n'existe pas !",
     "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "Le modèle avec le nom {modelName} a disparu !",
     "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "vous avez entré les mauvaises colonnes de format d'entrée. ex : (largeur, hauteur, poids) avec des virgules pour séparer les colonnes ou le nom de la colonne n'existe pas !",
