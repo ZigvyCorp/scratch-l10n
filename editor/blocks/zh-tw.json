@@ -659,6 +659,7 @@
     "AI_createKNNClassifier": "從表格 %1 創建 KNN 分類器 K %2 名為 %3",
     "AI_predictKNNClassifier": "用分類器 %2 預測表格 %1 顯示鄰居 %3",
     "ERROR_DEBUG_LABEL_KNN": "表格 {tableName} 的第一列必須是 'label'",
+    "ERROR_TEXT_MODERATION": "消息已移除",
     "ERROR_MODEL_EXIST_NEURAL_NETWORK": "模型不存在！",
     "ERROR_MODEL_NAME_EXIST_NEURAL_NETWORK": "名稱為{modelName}的模型已存在！",
     "ERROR_TYPE_TRAIN_NEURAL_NETWORK": "您輸入了錯誤的輸入格式列。例如：（寬度、高度、重量）用逗號分隔列或列名不存在!",
