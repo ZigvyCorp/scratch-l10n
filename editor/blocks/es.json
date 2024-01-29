@@ -580,6 +580,11 @@
     "MOTION_JRTURNLEFT_2": "girar a la izquierda %1",
     "MOTION_JRTURNRIGHT": "girar a la derecha %1",
     "MOTION_JRTURNRIGHT_2": "girar a la derecha %1",
+    "MOTION_JRPOINTRIGHT": "señalar %1",
+    "MOTION_JRPOINTLEFT": "señalar %1",
+    "MOTION_JRPOINTUP": "señalar %1",
+    "MOTION_JRPOINTDOWN": "señalar %1",
+    
     "AI_startSpeech": "empezar a reconocer el habla en %1 registro como %2",
     "AI_startOpenAiSpeech": "OpenAI: comienza a reconocer el habla en %1 registro como %2",
     "AI_clearSpeech": "texto de voz claro",
