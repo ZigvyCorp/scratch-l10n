@@ -841,7 +841,7 @@
     "DATA_LOADTABLE": "load %1 from server into table %2",
     "AI_startRecognizingSpeechWebAPI": "WebAPI start recognizing speech in %1 record as %2",
     "AI_speakInLanguageByWebApi": "WebAPI say %1 with %2 speed %3 pitch %4",
-    "BLOCK_CHATGPT_ON_THIS_REGION": "Sorry, chatGPT is not available in your country currently.",
+    "BLOCK_CHATGPT_ON_THIS_REGION": "Sorry, this model is not available currently.",
     "AI_baichuanAIChat": "Baichuan: request %1 result %2 mode %3 temperature %4 session %5",
     "AI_yiyanAIChat": "Yiyan: request %1 result %2 mode %3 temperature %4 session %5",
     "AI_chatGLMAIChat": "ChatGLM: request %1 result %2 mode %3 temperature %4 session %5",

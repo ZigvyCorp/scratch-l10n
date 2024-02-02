@@ -826,7 +826,7 @@
     "DATA_LOADTABLE": "從服務器加載 %1 到表 %2",
     "AI_startRecognizingSpeechWebAPI": "WebAPI 開始將 %1 記錄中的語音識別為 %2",
     "AI_speakInLanguageByWebApi": "WebAPI 以 %2 速度 %3 音調 %4 說出 %1",
-    "BLOCK_CHATGPT_ON_THIS_REGION": "抱歉，chatGPT 目前在您所在的國家/地區不可用。",
+    "BLOCK_CHATGPT_ON_THIS_REGION": "抱歉，這個模型目前不可用。",
     "AI_baichuanAIChat": "百川：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
     "AI_yiyanAIChat": "文心一言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
     "AI_chatGLMAIChat": "智谱清言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
