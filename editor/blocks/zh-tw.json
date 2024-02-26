@@ -830,5 +830,7 @@
     "AI_baichuanAIChat": "百川：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
     "AI_yiyanAIChat": "文心一言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
     "AI_chatGLMAIChat": "智谱清言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
-    "AI_moonshotAIChat": "月之暗面：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5"
+    "AI_moonshotAIChat": "月之暗面：請求 %1 結果 %2 模式 %3 角色 %4 溫度 %5 會話 %6",
+    "SYSTEM": "系統",
+    "USER": "用戶"
 }

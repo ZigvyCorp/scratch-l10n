@@ -843,5 +843,7 @@
     "AI_baichuanAIChat": "百川：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
     "AI_yiyanAIChat": "文心一言：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
     "AI_chatGLMAIChat": "智谱清言：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
-    "AI_moonshotAIChat": "月之暗面：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5"
+    "AI_moonshotAIChat": "月之暗面：请求 %1 结果 %2 模式 %3 角色 %4 温度 %5 会话 %6",
+    "SYSTEM": "系统",
+    "USER": "用户"
 }

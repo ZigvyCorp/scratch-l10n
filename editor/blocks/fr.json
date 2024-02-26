@@ -841,5 +841,7 @@
     "AI_baichuanAIChat": "Baichuan : demande %1 résultat %2 mode %3 température %4 session %5",
     "AI_yiyanAIChat": "Yiyan : demande %1 résultat %2 mode %3 température %4 session %5",
     "AI_chatGLMAIChat": "ChatGLM : demande %1 résultat %2 mode %3 température %4 session %5",
-    "AI_moonshotAIChat": "Moonshot : demande %1 résultat %2 mode %3 température %4 session %5"
+    "AI_moonshotAIChat": "Moonshot : demande %1 résultat %2 mode %3 rôle %4 température %5 session %6",
+    "SYSTEM": "système",
+    "USER": "utilisateur"
 }
