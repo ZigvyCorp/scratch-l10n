@@ -842,7 +842,7 @@
   "d3physics_d3_updatecarsteer": "dirigir el auto al ángulo [STEER] para [NAME]",
   "d3physics_d3_updatecollisiongroup": "actualizar grupo de colisión [COLLISIONGROUP] grupos objetivo [TARGETGROUPS] para [NAME]",
   "d3physics_d3_setphysicsframerate": "establecer la velocidad de fotogramas de la física [RATE]",
-  "d3physics_d3_getphysicsframerate": "obtener la velocidad de fotogramas de física para [NAME]",
+  "d3physics_d3_getphysicsframerate": "obtener la velocidad de fotogramas de física",
   "d3physics_d3_freezeallphysics": "congelar todas las formas físicas [YESNO]",
   "d3physics_d3_freezeonephysics": "congelar forma física llamada [NAME] [YESNO]",
   "d3action_d3_attachtobone": "adjuntar a parte del cuerpo [BODYPART] de [PARENTNAME] del sprite [SPRITE] altura del objetivo [HEIGHT]",

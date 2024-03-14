@@ -846,7 +846,7 @@
   "d3physics_d3_updatecarsteer": "steer car to angle [STEER] for [NAME]",
   "d3physics_d3_updatecollisiongroup": "update collision group [COLLISIONGROUP] target groups [TARGETGROUPS] for [NAME]",
   "d3physics_d3_setphysicsframerate": "set physics frame rate [RATE]",
-  "d3physics_d3_getphysicsframerate": "get physics frame rate for [NAME]",
+  "d3physics_d3_getphysicsframerate": "get physics frame rate for",
   "d3physics_d3_freezeallphysics": "freeze all physics bodys [YESNO]",
   "d3physics_d3_freezeonephysics": "freeze physics body named [NAME] [YESNO]",
   "d3action_d3_attachtobone": "attach to body part [BODYPART] of [PARENTNAME] from sprite [SPRITE] target height [HEIGHT]",

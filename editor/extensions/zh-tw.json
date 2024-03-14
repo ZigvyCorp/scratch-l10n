@@ -577,7 +577,7 @@
   "d3physics_d3_updatecarsteer": "將汽車 [NAME] 轉向角度 [STEER]",
   "d3physics_d3_updatecollisiongroup": "為物理物體 [NAME] 更新碰撞組 [COLLISIONGROUP] 目標組 [TARGETGROUPS]",
   "d3physics_d3_setphysicsframerate": "設置物理幀速率 [RATE]",
-  "d3physics_d3_getphysicsframerate": "獲取 [NAME] 的物理幀速率",
+  "d3physics_d3_getphysicsframerate": "物理幀速率",
   "d3physics_d3_freezeallphysics": "凍結所有物理物體 [YESNO]",
   "d3physics_d3_freezeonephysics": "凍結名為 [NAME] 的物理物體 [YESNO]",
   "d3action_d3_attachtobone": "附著於角色 [SPRITE] 中的物體 [PARENTNAME] 的身體部位 [BODYPART] 目標高度 [HEIGHT]",
