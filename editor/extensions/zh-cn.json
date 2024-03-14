@@ -577,7 +577,7 @@
   "d3physics_d3_applyimpulse": "施加冲力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
   "d3physics_d3_applyforce": "施加恒力 强度 [SIZE] 方向 xyz [X] [Y] [Z] 相对作用点 xyz [X2] [Y2] [Z2] 目标名称 [NAME]",
   "d3physics_d3_broadcastcollisionmessage": "当物理物体 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 碰撞时 广播消息 [BROADCASTMESSAGE]",
-  "d3physics_d3_converttophysicscar": "为物体 [NAME] 启用汽车模拟 质量 [MASS] 恢复系数 [RESTITUTION]% 摩擦系数 [BODYFRICTION]% 轮胎摩擦系数 [FRICTION]%",
+  "d3physics_d3_converttophysicscar": "为物体 [NAME] 启用汽车模拟 质量 [MASS] 恢复系数 [RESTITUTION]% 摩擦系数 [BODYFRICTION]% 轮胎摩擦系数 [FRICTION]% 悬挂长度 [SUSPENSION]",
   "d3physics_d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE] %",
   "d3physics_d3_updatecarsteer": "将汽车 [NAME] 转向角度 [STEER]",
   "d3physics_d3_updatecollisiongroup": "为物理物体 [NAME] 更新碰撞组 [COLLISIONGROUP] 目标组 [TARGETGROUPS]",

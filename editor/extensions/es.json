@@ -837,7 +837,7 @@
   "d3physics_d3_applyimpulse": "aplicar impulso fuerza [SIZE] dirección xyz [X] [Y] [Z] en el punto relativo xyz [X2] [Y2] [Z2] a [NAME]",
   "d3physics_d3_applyforce": "aplicar fuerza [SIZE] dirección xyz [X] [Y] [Z] en el punto relativo xyz [X2] [Y2] [Z2] a [NAME]",
   "d3physics_d3_broadcastcollisionmessage": "transmitir [BROADCASTMESSAGE] sobre la colisión entre los cuerpos físicos de [NAME] ​​de [SPRITE] y [NAME2] ​​de [SPRITE2]",
-  "d3physics_d3_converttophysicscar": "habilitar simulación de coche masa [MASS] restitución [RESTITUTION]% fricción [BODYFRICTION]% fricción de neumáticos [FRICTION]% para [NAME]",
+  "d3physics_d3_converttophysicscar": "habilitar simulación de coche masa [MASS] restitución [RESTITUTION]% fricción [BODYFRICTION]% fricción de neumáticos [FRICTION]% suspensión [SUSPENSION] para [NAME]",
   "d3physics_d3_updatecarphysics": "establecer la fuerza del motor [ENGINE] nivel de freno [BRAKE] % para el automóvil [NAME]",
   "d3physics_d3_updatecarsteer": "dirigir el auto al ángulo [STEER] para [NAME]",
   "d3physics_d3_updatecollisiongroup": "actualizar grupo de colisión [COLLISIONGROUP] grupos objetivo [TARGETGROUPS] para [NAME]",
