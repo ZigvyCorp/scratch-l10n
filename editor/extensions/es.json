@@ -231,6 +231,7 @@
   "mp.addSpriteToGame": "añadir este sprite al juego como un [MOTIONTYPE] [SHAPETYPE]",
   "mp.removeSpriteFromGame": "eliminar este sprite del juego",
   "mp.setSyncMovement": "establecer sincrónicamente velocidad x [XSPEED] y [YSPEED]",
+  "mp_setSyncPosition": "establecer sincrónicamente la posición x [XPOS] y [YPOS]",
   "mp.broadcastMessageToAll": "transmitir [BROADCASTMESSAGE] con parámetro [PARAM] modo [TARGETTYPE]",
   "mp.broadcastTouchMessage": "al tocar [SPRITE] se [STOPTYPE] y activará [BROADCASTMESSAGE] con parámetro [PARAM]",
   "mp.isConnectedToGame": "conectado al juego",

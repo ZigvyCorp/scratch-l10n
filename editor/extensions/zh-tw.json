@@ -236,6 +236,7 @@
   "mp.addSpriteToGame": "將此角色作為 [MOTIONTYPE] [SHAPETYPE] 添加到遊戲中",
   "mp.removeSpriteFromGame": "從遊戲中移除此角色",
   "mp.setSyncMovement": "同步設置速度 x [XSPEED] y [YSPEED]",
+  "mp_setSyncPosition": "同步設置位置 x [XPOS] y [YPOS]",
   "mp.broadcastMessageToAll": "廣播 [BROADCASTMESSAGE] 參數 [PARAM] 模式 [TARGETTYPE]",
   "mp.broadcastTouchMessage": "觸碰 [SPRITE] 時將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
   "mp.isConnectedToGame": "已連接到多人遊戲",
