@@ -226,7 +226,7 @@
   "d3physics.categoryName": "3D Physics",
   "d3arvr.categoryName": "3D AR/VR",
   "mp.categoryName": "Multiplayer",
-  "mp.createmultiplayergame": "create game named [GAMENAME] password [PASSWORD] my name [DISPLAYNAME] role [ROLE] server [REGION] capacity [PLAYERCOUNT] world width [WIDTH] height [HEIGHT]",
+  "mp.createMultiplayerGame": "create game named [GAMENAME] password [PASSWORD] my name [DISPLAYNAME] role [ROLE] server [REGION] capacity [PLAYERCOUNT] world width [WIDTH] height [HEIGHT]",
   "mp.listMultiplayerGameUsers": "list players in game [GAMENAME] hosted by [HOSTUSERNAME] from server [REGION] in table [TABLE]",
   "mp.resetMultiplayerGame": "reset game world",
   "mp.listMultiplayerGames": "list multiplayer games in server [REGION] in table [TABLE]",
@@ -1077,5 +1077,9 @@
   "widget.camera.side": "front",
   "widget.camera.back": "back",
   "widget.camera.normal": "normal",
-  "widget.camera.flipped": "flipped"
+  "widget.camera.flipped": "flipped",
+  "static": "Static",
+  "dynamic": "Dynamic",
+  "rectangle": "Rectangle",
+  "circle": "Circle"
 }

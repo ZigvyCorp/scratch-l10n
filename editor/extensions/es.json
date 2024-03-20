@@ -223,7 +223,7 @@
   "d3physics.categoryName": "Física 3D",
   "d3arvr.categoryName": "RA/RV 3D",
   "mp.categoryName": "Multijugador",
-  "mp.createmultiplayergame": "crear juego llamado [GAMENAME] contraseña [PASSWORD] mi nombre [DISPLAYNAME] rol [ROLE] servidor [REGION] capacidad [PLAYERCOUNT] ancho del mundo [WIDTH] altura [HEIGHT]",
+  "mp.createMultiplayerGame": "crear juego llamado [GAMENAME] contraseña [PASSWORD] mi nombre [DISPLAYNAME] rol [ROLE] servidor [REGION] capacidad [PLAYERCOUNT] ancho del mundo [WIDTH] altura [HEIGHT]",
   "mp.listMultiplayerGameUsers": "listar jugadores en el juego [GAMENAME] alojado por [HOSTUSERNAME] del servidor [REGION] en tabla [TABLE]",
   "mp.resetMultiplayerGame": "restablecer el mundo del juego",
   "mp.listMultiplayerGames": "listar juegos multijugador en el servidor [REGION] en tabla [TABLE]",
@@ -1074,5 +1074,9 @@
   "widget.camera.side": "frontal",
   "widget.camera.back": "atrás",
   "widget.camera.normal": "normal",
-  "widget.camera.flipped": "invertido"
+  "widget.camera.flipped": "invertido",
+  "static": "Estático",
+  "dynamic": "Dinámico",
+  "rectangle": "Rectángulo",
+  "circle": "Círculo"
 }

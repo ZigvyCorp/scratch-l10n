@@ -228,7 +228,7 @@
   "physics.categoryName": "二維物理",
   "d3arvr.categoryName": "三維AR/VR",
   "mp.categoryName": "多人遊戲",
-  "mp.createmultiplayergame": "創建多人遊戲 名為 [GAMENAME] 密碼 [PASSWORD] 我的名字 [DISPLAYNAME] 角色 [ROLE] 服務器 [REGION] 容量 [PLAYERCOUNT] 世界寬度 [WIDTH] 高度 [HEIGHT]",
+  "mp.createMultiplayerGame": "創建多人遊戲 名為 [GAMENAME] 密碼 [PASSWORD] 我的名字 [DISPLAYNAME] 角色 [ROLE] 服務器 [REGION] 容量 [PLAYERCOUNT] 世界寬度 [WIDTH] 高度 [HEIGHT]",
   "mp.listMultiplayerGameUsers": "在表格 [TABLE] 中列出由 [HOSTUSERNAME] 在服務器 [REGION] 上創建的多人遊戲 [GAMENAME] 中的玩家",
   "mp.resetMultiplayerGame": "重置遊戲世界",
   "mp.listMultiplayerGames": "在表格 [TABLE] 中列出服務器 [REGION] 上的多人遊戲",

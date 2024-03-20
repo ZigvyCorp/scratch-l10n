@@ -229,7 +229,7 @@
   "d3arvr.categoryName": "三维AR/VR",
   "mp.categoryName": "多人游戏",
 
-  "mp.createmultiplayergame": "创建多人游戏 名为 [GAMENAME] 密码 [PASSWORD] 我的名字 [DISPLAYNAME] 角色 [ROLE] 服务器 [REGION] 容量 [PLAYERCOUNT] 世界宽度 [WIDTH] 高度 [HEIGHT]",
+  "mp.createMultiplayerGame": "创建多人游戏 名为 [GAMENAME] 密码 [PASSWORD] 我的名字 [DISPLAYNAME] 角色 [ROLE] 服务器 [REGION] 容量 [PLAYERCOUNT] 世界宽度 [WIDTH] 高度 [HEIGHT]",
   "mp.listMultiplayerGameUsers": "在表格 [TABLE] 中列出由 [HOSTUSERNAME] 在服务器 [REGION] 上创建的多人游戏 [GAMENAME] 中的玩家",
   "mp.resetMultiplayerGame": "重置游戏世界",
   "mp.listMultiplayerGames": "在表格 [TABLE] 中列出服务器 [REGION] 上的多人游戏",
@@ -1075,5 +1075,9 @@
   "widget.camera.side": "前面",
   "widget.camera.back": "返回",
   "widget.camera.normal": "正常",
-  "widget.camera.flipped": "翻转"
+  "widget.camera.flipped": "翻转",
+  "static": "固定的",
+  "dynamic": "动态的",
+  "rectangle": "矩形",
+  "circle": "圆形"
 }
