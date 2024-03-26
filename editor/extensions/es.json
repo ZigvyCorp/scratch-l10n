@@ -789,7 +789,7 @@
 
   "d3object_d3_addtrianglefrompoints": "geometría: agregar triángulo desde puntos [OBJ1] [OBJ2] [OBJ3] color [COLOR] como [NAME]",
   "d3object_d3_addframebox": "geometría: agregar cuadro de marco color [COLOR] tamaño en x [SIZEX] y [SIZEY] z [SIZEZ] grosor [THICKNESS] etiquetas [LABELS] como [NAME]",
-  "d3object_d3_addlinebetweenpoints": "geometría: agregar línea entre puntos [OBJ1] [OBJ2] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] segmentos [SEGCOUNT] como [NAME]",
+  "d3object_d3_addlinebetweenpoints": "geometría: agregar línea entre puntos [OBJ1] [OBJ2] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] segmentos [SEGCOUNT] etiqueta [LABEL] como [NAME]",
   "d3object_d3_addnewpoint": "geometría: agregar punto entre puntos [OBJ1] [OBJ2] en [PCT]% color [COLOR] tamaño [SIZE] como [NAME]",
   "d3object_d3_addxyzpoint": "geometría: agregar punto en xyz [X] [Y] [Z] color [COLOR] tamaño [SIZE] en [ORIGOBJ] como [NAME]",
   "d3object_d3_addanglemark": "geometría: agregar marca de ángulo [OBJ1] [OBJ2] [OBJ3] tamaño [SIZE] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] etiqueta [LABEL] como [NAME]",

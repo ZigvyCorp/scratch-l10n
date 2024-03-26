@@ -785,7 +785,7 @@
 
   "d3object_d3_addtrianglefrompoints": "géométrie: ajouter un triangle à partir des points [OBJ1] [OBJ2] [OBJ3] colorer [COLOR] comme [NAME]",
   "d3object_d3_addframebox": "géométrie: ajoutez la couleur de la boîte de cadre [COLOR] taille en x [SIZEX] y [SIZEY] z [SIZEZ] épaisseur [THICKNESS] étiquettes [LABELS] as [NAME]",
-  "d3object_d3_addlinebetweenpoints": "géométrie: ajouter une ligne entre les points [OBJ1] [OBJ2] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] as [NAME]",
+  "d3object_d3_addlinebetweenpoints": "géométrie: ajouter une ligne entre les points [OBJ1] [OBJ2] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] étiquette [LABEL] as [NAME]",
   "d3object_d3_addnewpoint": "géométrie: ajouter un point entre les points [OBJ1] [OBJ2] à [PCT] % de couleur [COLOR] taille [SIZE] comme [NAME]",
   "d3object_d3_addxyzpoint": "géométrie: ajouter un point à xyz [X] [Y] [Z] couleur [COLOR] taille [SIZE] sur [ORIGOBJ] en tant que [NAME]",
   "d3object_d3_addanglemark": "géométrie : ajouter une marque d'angle [OBJ1] [OBJ2] [OBJ3] taille [SIZE] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] étiquette [LABEL] comme [NAME]",
