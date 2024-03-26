@@ -750,7 +750,7 @@
   "gui.gameLeader.total": "Total:",
   "gui.gameLeader.yourBestScore": "Tu mejor puntuación:",
   "gui.gameLeader.noRecords": "No hay registros",
-  "gui.assistantDialog.openDialog": "abrir chat XO",
+  "gui.assistantDialog.openDialog": "Chatear con XO (IA)",
   "gui.assistantDialog.closeDialog": "cerrar chat XO",
   "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2)",
   "gui.assistantDialog.explainCommand": "Explica este programa, por favor",

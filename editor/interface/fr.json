@@ -748,7 +748,7 @@
   "gui.gameLeader.total": "Totale: ",
   "gui.gameLeader.yourBestScore": "Votre meilleur score :",
   "gui.gameLeader.noRecords": "Pas d'enregistrements",
-  "gui.assistantDialog.openDialog": "ouvrir le chat XO",
+  "gui.assistantDialog.openDialog": "Discuter avec XO (IA)",
   "gui.assistantDialog.closeDialog": "fermer le chat XO",
   "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2)",
   "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",

@@ -749,7 +749,7 @@
   "gui.gameLeader.total": "全部的：",
   "gui.gameLeader.yourBestScore": "你的最好成绩：",
   "gui.gameLeader.noRecords": "无记录",
-  "gui.assistantDialog.openDialog": "打开 XO 对话框",
+  "gui.assistantDialog.openDialog": "与 XO 智能助手聊天",
   "gui.assistantDialog.closeDialog": "关闭 XO 对话框",
   "gui.assistantDialog.chatDialogName": "创益编程 XO (v2)",
   "gui.assistantDialog.explainCommand": "请解释这个程序",
