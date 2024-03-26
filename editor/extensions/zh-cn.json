@@ -683,6 +683,8 @@
   "d3action_d3_showbubble": "显示对话泡泡 [TEXT] 位置 xyz [OFFSETX] [OFFSETY] [OFFSETZ] 最大宽度 [MWIDTH] 文本 字体 [FONT] 大小 [FONTSIZE] 颜色 [FONTCOLOR] 背景 [BACKCOLOR] 用时 [PERIOD] 秒 摄像头朝向 [FORWARD] ID [ID]",
   "d3action_d3_copycameradirection": "复制摄像头方向",
   "d3action_d3_copycameraposition": "复制摄像头位置",
+  "d3action_d3_copyobjectposition": "复制物体 [NAME] 的位置",
+  "d3action_d3_copyobjectdirection": "复制物体 [NAME] 的方向",
   "d3object_d3_setrotationpivot": "设置枢纽点 X [X] Y [Y] z [Z]",
   "d3object_d3_clearpivot": "清除枢纽点",
   "d3object_d3_setmovingmode": "设置移动模式 [MODE]",

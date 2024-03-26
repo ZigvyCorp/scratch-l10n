@@ -948,6 +948,8 @@
   "d3action_d3_showbubble": "show speech bubble [TEXT] offset xyz [OFFSETX] [OFFSETY] [OFFSETZ] max width [MWIDTH] text font [FONT] size [FONTSIZE] color [FONTCOLOR] background [BACKCOLOR] for [PERIOD] seconds camera facing [FORWARD] ID [ID]",
   "d3action_d3_copycameradirection": "copy direction from camera",
   "d3action_d3_copycameraposition": "copy position from camera",
+  "d3action_d3_copyobjectposition": "copy position from object [NAME]",
+  "d3action_d3_copyobjectdirection": "copy direction from object [NAME]",
   "d3object_d3_setrotationpivot": "set pivot point X [X] Y [Y] z [Z]",
   "d3object_d3_clearpivot": "clear pivot point",
   "d3object_d3_setmovingmode": "set moving mode [MODE]",

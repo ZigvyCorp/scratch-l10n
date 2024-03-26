@@ -679,6 +679,8 @@
   "d3action_d3_showbubble": "顯示對話泡泡 [TEXT] 位置 xyz [OFFSETX] [OFFSETY] [OFFSETZ] 最大寬度 [MWIDTH] 文本 字體 [FONT] 大小 [FONTSIZE] 顏色 [FONTCOLOR] 背景 [BACKCOLOR] 用時 [PERIOD] 秒 攝像頭朝向 [FORWARD] ID [ID]",
   "d3action_d3_copycameradirection": "複製攝像頭方向",
   "d3action_d3_copycameraposition": "複製攝像頭位置",
+  "d3action_d3_copyobjectposition": "複製物體 [NAME] 的位置",
+  "d3action_d3_copyobjectdirection": "複製物體 [NAME] 的方向",
   "d3object_d3_setrotationpivot": "設置樞軸點 x [X] y [Y] z [Z]",
   "d3object_d3_clearpivot": "清除樞軸點",
   "d3object_d3_setmovingmode": "設置移動模式 [MODE]",

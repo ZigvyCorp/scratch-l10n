@@ -937,6 +937,8 @@
   "d3action_d3_showbubble": "afficher la bulle de dialogue [TEXT] décalage xyz [OFFSETX] [OFFSETY] [OFFSETZ] largeur maximale [MWIDTH] police de texte [FONT] taille [FONTSIZE] couleur [FONTCOLOR] arrière-plan [BACKCOLOR] pendant [PERIOD] secondes caméra face à [FORWARD] ID [ID]",
   "d3action_d3_copycameradirection": "direction de copie depuis la caméra",
   "d3action_d3_copycameraposition": "copier la position de la caméra",
+  "d3action_d3_copyobjectposition": "copier la position de l'objet [NAME]",
+  "d3action_d3_copyobjectdirection": "copier la direction de l'objet [NAME]",
   "d3object_d3_setrotationpivot": "définir le point de pivot x [X] y [Y] z [Z]",
   "d3object_d3_clearpivot": "point de pivot clair",
   "d3object_d3_setmovingmode": "régler le mode de déplacement [MODE]",
