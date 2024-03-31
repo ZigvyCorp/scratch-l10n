@@ -239,6 +239,13 @@
   "mp.setSyncMovement": "同步设置速度 x [XSPEED] y [YSPEED]",
   "mp_setSyncPosition": "同步设置位置 x [XPOS] y [YPOS]",
   "mp.broadcastMessageToAll": "广播 [BROADCASTMESSAGE] 参数 [PARAM] 模式 [TARGETTYPE]",
+  "mp.spriteScope.allSprites": "所有角色",
+  "mp.spriteScope.excludeRemoteCopies": "排除远程角色副本",
+  "mp.stopType.stop": "停止",
+  "mp.stopType.stopAndDelete": "停止并删除",
+  "mp.stopType.continue": "继续",
+  "mp.stopType.continueAndDelete": "继续并删除",
+
   "mp.broadcastTouchMessage": "触碰 [SPRITE] 时将 [STOPTYPE] 并广播 [BROADCASTMESSAGE] 参数 [PARAM]",
   "mp.isConnectedToGame": "已连接到多人游戏",
 

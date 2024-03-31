@@ -234,6 +234,13 @@
   "mp.setSyncMovement": "définir synchroniquement vitesse x [XSPEED] y [YSPEED]",
   "mp_setSyncPosition": "définir synchroniquement la position x [XPOS] y [YPOS]",
   "mp.broadcastMessageToAll": "diffuser [BROADCASTMESSAGE] avec paramètre [PARAM] mode [TARGETTYPE]",
+  "mp.spriteScope.allSprites": "Tous les Sprites",
+  "mp.spriteScope.excludeRemoteCopies": "Exclure les Copies Distantes",
+  "mp.stopType.stop": "Arrêter",
+  "mp.stopType.stopAndDelete": "Arrêter et Supprimer",
+  "mp.stopType.continue": "Continuer",
+  "mp.stopType.continueAndDelete": "Continuer et Supprimer",
+
   "mp.broadcastTouchMessage": "lors du toucher [SPRITE] va [STOPTYPE] et déclencher [BROADCASTMESSAGE] avec paramètre [PARAM]",
   "mp.isConnectedToGame": "connecté au jeu",
   "playerentity": "Joueur",
