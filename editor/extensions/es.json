@@ -239,6 +239,8 @@
   "mp.stopType.stopAndDelete": "Detener y Eliminar",
   "mp.stopType.continue": "Continuar",
   "mp.stopType.continueAndDelete": "Continuar y Eliminar",
+  "mp.stopType.rebound": "Rebotar",
+  "mp.stopType.reboundAndDelete": "Rebotar y Eliminar",
 
   "mp.broadcastTouchMessage": "al tocar [SPRITE] se [STOPTYPE] y activará [BROADCASTMESSAGE] con parámetro [PARAM]",
   "mp.isConnectedToGame": "conectado al juego",

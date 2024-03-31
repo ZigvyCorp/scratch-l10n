@@ -244,6 +244,8 @@
   "mp.stopType.stopAndDelete": "停止並刪除",
   "mp.stopType.continue": "繼續",
   "mp.stopType.continueAndDelete": "繼續並刪除",
+  "mp.stopType.rebound": "反彈",
+  "mp.stopType.reboundAndDelete": "反彈並刪除",
 
   "mp.broadcastTouchMessage": "觸碰 [SPRITE] 時將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
   "mp.isConnectedToGame": "已連接到多人遊戲",

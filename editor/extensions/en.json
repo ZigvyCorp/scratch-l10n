@@ -242,6 +242,8 @@
   "mp.stopType.stopAndDelete": "Stop and Delete",
   "mp.stopType.continue": "Continue",
   "mp.stopType.continueAndDelete": "Continue and Delete",
+  "mp.stopType.rebound": "Rebound",
+  "mp.stopType.reboundAndDelete": "Rebound and Delete",
   "mp.broadcastTouchMessage": "when touching [SPRITE] will [STOPTYPE] and trigger [BROADCASTMESSAGE] with parameter [PARAM]",
   "mp.isConnectedToGame": "connected to game",
   "playerentity": "Player",
