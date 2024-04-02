@@ -244,10 +244,12 @@
   "mp.stopType.stopAndDelete": "停止並刪除",
   "mp.stopType.continue": "繼續",
   "mp.stopType.continueAndDelete": "繼續並刪除",
+  "mp.stopType.selfDestruct": "自毀",
+  "mp.stopType.selfDestructAndDelete": "自毀並摧毀它",
   "mp.stopType.rebound": "反彈",
   "mp.stopType.reboundAndDelete": "反彈並刪除",
 
-  "mp.broadcastTouchMessage": "觸碰 [SPRITE] 時將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
+  "mp.broadcastTouchMessage": "當觸碰 [SPRITE] 且克隆ID含有 [CLONEID] 時 我將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
   "mp.isConnectedToGame": "已連接到多人遊戲",
   "playerentity": "玩家",
   "obstacleentity": "障礙物",

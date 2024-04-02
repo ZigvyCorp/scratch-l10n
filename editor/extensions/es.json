@@ -239,10 +239,12 @@
   "mp.stopType.stopAndDelete": "Detener y Eliminar",
   "mp.stopType.continue": "Continuar",
   "mp.stopType.continueAndDelete": "Continuar y Eliminar",
+  "mp.stopType.selfDestruct": "Autodestrucción",
+  "mp.stopType.selfDestructAndDelete": "Autodestruirse y destruirlo",
   "mp.stopType.rebound": "Rebotar",
   "mp.stopType.reboundAndDelete": "Rebotar y Eliminar",
 
-  "mp.broadcastTouchMessage": "al tocar [SPRITE] se [STOPTYPE] y activará [BROADCASTMESSAGE] con parámetro [PARAM]",
+  "mp.broadcastTouchMessage": "cuando toque [SPRITE] con ID de clon que contenga [CLONEID] voy a [STOPTYPE] y transmitiré [BROADCASTMESSAGE] con parámetro [PARAM]",
   "mp.isConnectedToGame": "conectado al juego",
   "playerentity": "Jugador",
   "obstacleentity": "Obstáculo",
