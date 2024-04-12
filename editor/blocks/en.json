@@ -820,6 +820,7 @@
   "Kannada_India": "Kannada (India)",
   "Spanish_USA": "Spanish (USA)",
   "AI_openAiImage": "OpenAI DALL-E: generate costume image name %1 description %2 with resolution %3",
+  "AI_openAiImageReporter": "OpenAI DALL-E: generate costume image description %1 with resolution %2",
   "OPEN_AI_IMAGE_ERROR": "Sorry, DALL-E request has been rejected because it violates OpenAI's content policy.",
   "AI_createNeuralNetworkModel": "create NN model named %1",
   "AI_addLayerToModel": "add layer to NN model %1 input shape %2 output size %3 activation %4",

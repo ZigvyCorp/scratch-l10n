@@ -817,6 +817,7 @@
   "Kannada_India": "Kannada (India)",
   "Spanish_USA": "Spanish (USA)",
   "AI_openAiImage": "OpenAI DALL-E: genera el nombre de la imagen del disfraz %1 descripción %2 con resolución %3",
+  "AI_openAiImageReporter": "OpenAI DALL-E: generar descripción de imagen de vestuario %1 con resolución %2",
   "OPEN_AI_IMAGE_ERROR": "Lo siento, la solicitud DALL-E ha sido rechazada porque viola la política de contenido de OpenAI.",
   "AI_createNeuralNetworkModel": "crear modelo NN llamado %1",
   "AI_addLayerToModel": "agregar capa al modelo %1 forma de entrada %2 tamaño de salida %3 activación %4",
