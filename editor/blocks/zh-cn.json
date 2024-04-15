@@ -818,7 +818,7 @@
   "Kannada_India": "卡纳达语（印度）",
   "Spanish_USA": "西班牙语（美国）",
   "AI_openAiImage": "OpenAI DALL-E：生成造型图像名称 %1 描述 %2 分辨率 %3",
-  "AI_openAiImageReporter": "OpenAI DALL-E: 生成服装图像描述 %1，分辨率为 %2",
+  "AI_openAiImageReporter": "OpenAI DALL-E：生成图像 请求 %1 分辨率 %2",
   "OPEN_AI_IMAGE_ERROR": "抱歉，DALL-E 请求已被拒绝，因为它违反了 OpenAI 的内容政策。",
   "AI_createNeuralNetworkModel": "创建名为 %1 的 NN (神经元网络) 模型",
   "AI_addLayerToModel": "将图层添加到 NN 模型 %1 输入形状 %2 输出大小 %3 激活 %4",
