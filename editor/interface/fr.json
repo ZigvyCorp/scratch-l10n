@@ -750,7 +750,7 @@
   "gui.gameLeader.noRecords": "Pas d'enregistrements",
   "gui.assistantDialog.openDialog": "Discuter avec XO (IA)",
   "gui.assistantDialog.closeDialog": "fermer le chat XO",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.1)",
   "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",
   "gui.assistantDialog.debuggerCommand": "Qu'est-ce qui ne va pas avec ce programme ?"
 }
