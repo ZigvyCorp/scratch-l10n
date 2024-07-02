@@ -317,6 +317,7 @@
   "gui.costumeLibrary.createASpriteByAI": "透過AI創建精靈",
   "gui.costumeLibrary.searchBtn": "搜尋",
   "gui.costumeLibrary.generateBtn": "生成",
+  "gui.costumeLibrary.generateVariationBtn": "生成變體",
   "gui.costumeTab.addBackdropFromLibrary": "選個背景",
   "gui.costumeTab.addCostumeFromLibrary": "選個造型",
   "gui.costumeTab.addBlankCostume": "繪畫",
