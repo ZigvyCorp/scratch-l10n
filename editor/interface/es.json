@@ -324,6 +324,7 @@
   "gui.costumeTab.addCostumeFromLibrary": "Elige un disfraz",
   "gui.costumeTab.addBlankCostume": "Pinta",
   "gui.costumeTab.addSurpriseCostume": "Sorpresa",
+  "gui.spriteSelector.addBackdropFromAI": "Buscar o Generar Imágenes con IA",
   "gui.costumeTab.addFileBackdrop": "Carga un fondo",
   "gui.costumeTab.addFileCostume": "Carga un disfraz",
   "gui.extensionLibrary.chooseAnExtension": "Elige una extensión",

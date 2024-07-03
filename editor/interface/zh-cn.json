@@ -324,6 +324,7 @@
   "gui.costumeTab.addCostumeFromLibrary": "选择一个造型",
   "gui.costumeTab.addBlankCostume": "绘制",
   "gui.costumeTab.addSurpriseCostume": "随机",
+  "gui.spriteSelector.addBackdropFromAI": "搜索或生成 AI 图片",
   "gui.costumeTab.addFileBackdrop": "上传背景",
   "gui.costumeTab.addFileCostume": "上传造型",
   "gui.extensionLibrary.chooseAnExtension": "选择一个扩展",
