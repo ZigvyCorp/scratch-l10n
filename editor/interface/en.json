@@ -329,6 +329,7 @@
   "gui.costumeLibrary.createASpriteByAI": "Create a Sprite by AI",
   "gui.costumeLibrary.searchBtn": "Search",
   "gui.costumeLibrary.generateBtn": "Generate",
+  "gui.costumeLibrary.searchTextBtn": "Search text",
   "gui.costumeLibrary.generateVariationBtn": "Generate Variation",
   "gui.costumeTab.addBackdropFromLibrary": "Choose a Backdrop",
   "gui.costumeTab.addCostumeFromLibrary": "Choose a Costume",
@@ -775,5 +776,7 @@
   "gui.aiGenerateLibrary.deleteConfirm": "Are you sure to delete this item?",
   "gui.aiGenerateLibrary.deleteYes": "Yes",
   "gui.aiGenerateLibrary.deleteNo": "No",
-  "gui.aiGenerateLibrary.selectItem": "use as reference"
+  "gui.aiGenerateLibrary.selectItem": "use as reference",
+  "gui.aiGenerateLibrary.setToPrivate": "set to private",
+  "gui.aiGenerateLibrary.setToShared": "set to Shared"
 }

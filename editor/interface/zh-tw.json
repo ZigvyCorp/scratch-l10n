@@ -316,6 +316,7 @@
   "gui.costumeLibrary.createABackdropByAI": "用AI創建背景",
   "gui.costumeLibrary.createASpriteByAI": "用AI創建角色",
   "gui.costumeLibrary.searchBtn": "搜尋",
+  "gui.costumeLibrary.searchTextBtn": "搜尋文字",
   "gui.costumeLibrary.generateBtn": "創建",
   "gui.costumeLibrary.generateVariationBtn": "創建改版",
   "gui.costumeTab.addBackdropFromLibrary": "選個背景",
@@ -763,5 +764,7 @@
   "gui.aiGenerateLibrary.deleteConfirm": "您確定要刪除此項目嗎？",
   "gui.aiGenerateLibrary.deleteYes": "是",
   "gui.aiGenerateLibrary.deleteNo": "否",
-  "gui.aiGenerateLibrary.selectItem": "用作參考"
+  "gui.aiGenerateLibrary.selectItem": "用作參考",
+  "gui.aiGenerateLibrary.setToPrivate": "設定為私有",
+  "gui.aiGenerateLibrary.setToShared": "設定為共用"
 }
