@@ -329,6 +329,7 @@
   "gui.costumeLibrary.createASpriteByAI": "通过AI创建精灵",
   "gui.costumeLibrary.searchBtn": "搜索",
   "gui.costumeLibrary.generateBtn": "生成",
+  "gui.costumeLibrary.searchTextBtn": "搜索文本",
   "gui.costumeLibrary.generateVariationBtn": "生成变体",
   "gui.costumeTab.addBackdropFromLibrary": "选择一个背景",
   "gui.costumeTab.addCostumeFromLibrary": "选择一个造型",
@@ -778,5 +779,7 @@
   "gui.aiGenerateLibrary.deleteConfirm": "您确定删除此项吗？",
   "gui.aiGenerateLibrary.deleteYes": "是",
   "gui.aiGenerateLibrary.deleteNo": "否",
-  "gui.aiGenerateLibrary.selectItem": "用作参考"
+  "gui.aiGenerateLibrary.selectItem": "用作参考",
+  "gui.aiGenerateLibrary.setToPrivate": "设置为私有",
+  "gui.aiGenerateLibrary.setToShared": "设置为共享"
 }

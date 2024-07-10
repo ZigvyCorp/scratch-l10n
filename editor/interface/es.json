@@ -329,6 +329,7 @@
   "gui.costumeLibrary.createASpriteByAI": "Crear un Sprite por IA",
   "gui.costumeLibrary.searchBtn": "Buscar",
   "gui.costumeLibrary.generateBtn": "Generar",  
+  "gui.costumeLibrary.searchTextBtn": "Buscar texto",
   "gui.costumeLibrary.generateVariationBtn": "Generar variación",
   "gui.costumeTab.addBackdropFromLibrary": "Elige un fondo",
   "gui.costumeTab.addCostumeFromLibrary": "Elige un disfraz",
@@ -779,5 +780,7 @@
   "gui.aiGenerateLibrary.deleteConfirm": "¿Está seguro de eliminar este elemento?",
   "gui.aiGenerateLibrary.deleteYes": "Sí",
   "gui.aiGenerateLibrary.deleteNo": "No",
-  "gui.aiGenerateLibrary.selectItem": "usar como referencia"
+  "gui.aiGenerateLibrary.selectItem": "usar como referencia",
+  "gui.aiGenerateLibrary.setToPrivate": "establecido como privado",
+  "gui.aiGenerateLibrary.setToShared": "establecido en Compartido"
 }
