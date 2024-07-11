@@ -106,6 +106,7 @@
   "gui.library.generating": "générer une nouvelle image en utilisant",
   "gui.library.generatingVariation": "générer une nouvelle image de variation en utilisant",
   "gui.library.placeholder": "une voiture, couleur argent, 4 portes",
+  "gui.library.placeholderBackdrop": "une bibliothèque vide",
   "gui.loader.message1": "Création des blocs ...",
   "gui.loader.message2": "Chargement de sprites...",
   "gui.loader.message3": "Chargement des sons...",
