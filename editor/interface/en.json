@@ -330,7 +330,7 @@
   "gui.costumeLibrary.createASpriteByAI": "Search or Generate a Sprite with AI",
   "gui.costumeLibrary.searchBtn": "Search",
   "gui.costumeLibrary.generateBtn": "Generate",
-  "gui.costumeLibrary.searchTextBtn": "Search text",
+  "gui.costumeLibrary.searchTextBtn": "Search by Name",
   "gui.costumeLibrary.generateVariationBtn": "Generate Variation",
   "gui.costumeTab.addBackdropFromLibrary": "Choose a Backdrop",
   "gui.costumeTab.addCostumeFromLibrary": "Choose a Costume",

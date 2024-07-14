@@ -329,7 +329,7 @@
   "gui.costumeLibrary.createASpriteByAI": "Rechercher ou Créer un Sprite avec l'IA",
   "gui.costumeLibrary.searchBtn": "Rechercher",
   "gui.costumeLibrary.generateBtn": "Générer",
-  "gui.costumeLibrary.searchTextBtn": "Rechercher du texte",
+  "gui.costumeLibrary.searchTextBtn": "Rechercher par Nom",
   "gui.costumeLibrary.generateVariationBtn": "Générer une variation",
   "gui.costumeTab.addBackdropFromLibrary": "Choisir un arrière-plan",
   "gui.costumeTab.addCostumeFromLibrary": "Choisir un costume",
