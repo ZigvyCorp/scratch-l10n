@@ -765,6 +765,7 @@
   "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?",
   "gui.aiGenerateLibrary.addToQueue": "your request has been pushed to queue",
   "gui.aiGenerateLibrary.safetyError": "The image could not be generated due to safety reasons. Please change your request and try again.",
+  "gui.aiGenerateLibrary.jobCanceled": "Your image generation request has been canceled.",
   "gui.aiGenerateLibrary.allOption": "Community",
   "gui.aiGenerateLibrary.myselfOption": "Created By Me",
   "gui.aiGenerateLibrary.humanOption": "Human",
