@@ -756,7 +756,7 @@
   "gui.assistantDialog.explainCommand": "請解釋這個程序",
   "gui.assistantDialog.debuggerCommand": "這個程序有什麼問題？",
   "gui.aiGenerateLibrary.addToQueue": "您的請求已推送到佇列",
-  "gui.aiGenerateLibrary.safetyError": "由於安全原因，無法產生影像。請更改您的請求並重試。",
+  "gui.aiGenerateLibrary.safetyError": "經過審核後，圖像生成請求無法完成。請更改您的請求並重試。",
   "gui.aiGenerateLibrary.jobCanceled": "您的圖像生成請求已取消。",
   "gui.aiGenerateLibrary.allOption": "社區共享",
   "gui.aiGenerateLibrary.myselfOption": "由我創建",

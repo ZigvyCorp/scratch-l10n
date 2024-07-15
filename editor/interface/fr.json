@@ -766,7 +766,7 @@
   "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",
   "gui.assistantDialog.debuggerCommand": "Qu'est-ce qui ne va pas avec ce programme ?",
   "gui.aiGenerateLibrary.addToQueue": "votre requête a été mise en file d'attente",
-  "gui.aiGenerateLibrary.safetyError": "L'image n'a pas pu être générée pour des raisons de sécurité. Veuillez modifier votre demande et réessayer.",
+  "gui.aiGenerateLibrary.safetyError": "La demande de génération d'image n'a pas pu être complétée après révision. Veuillez modifier votre demande et réessayer.",
   "gui.aiGenerateLibrary.jobCanceled": "Votre demande de génération d'image a été annulée.",
   "gui.aiGenerateLibrary.allOption": "Communauté",
   "gui.aiGenerateLibrary.myselfOption": "Créé Par Moi",

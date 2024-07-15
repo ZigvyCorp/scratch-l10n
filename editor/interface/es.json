@@ -768,7 +768,7 @@
   "gui.assistantDialog.explainCommand": "Explica este programa, por favor",
   "gui.assistantDialog.debuggerCommand": "¿Qué problema tiene este programa?",
   "gui.aiGenerateLibrary.addToQueue": "su solicitud ha sido enviada a la cola",
-  "gui.aiGenerateLibrary.safetyError": "La imagen no se pudo generar por razones de seguridad. Cambie su solicitud e inténtelo nuevamente.",
+  "gui.aiGenerateLibrary.safetyError": "La solicitud de generación de imágenes no pudo completarse después de la revisión. Por favor, cambie su solicitud y vuelva a intentarlo.",
   "gui.aiGenerateLibrary.jobCanceled": "Tu solicitud de generación de imagen ha sido cancelada.",
   "gui.aiGenerateLibrary.allOption": "Comunidad",
   "gui.aiGenerateLibrary.myselfOption": "Creado Por Mí",
