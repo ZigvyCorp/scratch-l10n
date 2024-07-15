@@ -768,6 +768,7 @@
   "gui.aiGenerateLibrary.addToQueue": "votre requête a été mise en file d'attente",
   "gui.aiGenerateLibrary.safetyError": "La demande de génération d'image n'a pas pu être complétée après révision. Veuillez modifier votre demande et réessayer.",
   "gui.aiGenerateLibrary.jobCanceled": "Votre demande de génération d'image a été annulée.",
+  "gui.aiGenerateLibrary.errorOccurred": "Une erreur s'est produite. Veuillez réessayer plus tard.",
   "gui.aiGenerateLibrary.allOption": "Communauté",
   "gui.aiGenerateLibrary.myselfOption": "Créé Par Moi",
   "gui.aiGenerateLibrary.humanOption": "Humain",

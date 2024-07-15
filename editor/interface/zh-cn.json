@@ -769,6 +769,7 @@
   "gui.aiGenerateLibrary.addToQueue": "您的请求已被推送到队列",
   "gui.aiGenerateLibrary.safetyError": "经过审核后，图像生成请求无法完成。请更改您的请求并重试。",
   "gui.aiGenerateLibrary.jobCanceled": "您的图像生成请求已取消。",
+  "gui.aiGenerateLibrary.errorOccurred": "发生错误。请稍后再试。",
   "gui.aiGenerateLibrary.allOption": "社区共享",
   "gui.aiGenerateLibrary.myselfOption": "由我创建",
   "gui.aiGenerateLibrary.humanOption": "人物",

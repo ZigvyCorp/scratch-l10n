@@ -758,6 +758,7 @@
   "gui.aiGenerateLibrary.addToQueue": "您的請求已推送到佇列",
   "gui.aiGenerateLibrary.safetyError": "經過審核後，圖像生成請求無法完成。請更改您的請求並重試。",
   "gui.aiGenerateLibrary.jobCanceled": "您的圖像生成請求已取消。",
+  "gui.aiGenerateLibrary.errorOccurred": "發生錯誤。請稍後再試。",
   "gui.aiGenerateLibrary.allOption": "社區共享",
   "gui.aiGenerateLibrary.myselfOption": "由我創建",
   "gui.aiGenerateLibrary.humanOption": "人物",

@@ -770,6 +770,7 @@
   "gui.aiGenerateLibrary.addToQueue": "su solicitud ha sido enviada a la cola",
   "gui.aiGenerateLibrary.safetyError": "La solicitud de generación de imágenes no pudo completarse después de la revisión. Por favor, cambie su solicitud y vuelva a intentarlo.",
   "gui.aiGenerateLibrary.jobCanceled": "Tu solicitud de generación de imagen ha sido cancelada.",
+  "gui.aiGenerateLibrary.errorOccurred": "Ocurrió un error. Por favor, inténtelo de nuevo más tarde.",
   "gui.aiGenerateLibrary.allOption": "Comunidad",
   "gui.aiGenerateLibrary.myselfOption": "Creado Por Mí",
   "gui.aiGenerateLibrary.humanOption": "Humano",
