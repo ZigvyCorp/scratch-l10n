@@ -335,6 +335,7 @@
   "gui.costumeTab.addCostumeFromLibrary": "Choisir un costume",
   "gui.costumeTab.addBlankCostume": "Peindre",
   "gui.costumeTab.addSurpriseCostume": "Surprise",
+  "gui.spriteSelector.addBackdropFromAI": "Rechercher ou Générer des Images avec IA",
   "gui.costumeTab.addFileBackdrop": "Importer un arrière-plan",
   "gui.costumeTab.addFileCostume": "Importer un Costume",
   "gui.extensionLibrary.chooseAnExtension": "Choisis une extension",
