@@ -787,5 +787,14 @@
   "gui.aiGenerateLibrary.deleteNo": "否",
   "gui.aiGenerateLibrary.selectItem": "用作参考",
   "gui.aiGenerateLibrary.setToPrivate": "设置为私有",
-  "gui.aiGenerateLibrary.setToShared": "设置为共享"
+  "gui.aiGenerateLibrary.setToShared": "设置为共享",
+  "gui.aiGenerateLibrary.requestStatus": "请求状态",
+  "gui.aiGenerateLibrary.requestStatus.description": "描述",
+  "gui.aiGenerateLibrary.requestStatus.name": "名称",
+  "gui.aiGenerateLibrary.requestStatus.type": "类型",
+  "gui.aiGenerateLibrary.requestStatus.createdAt": "创建于",
+  "gui.aiGenerateLibrary.requestStatus.status": "状态",
+  "gui.aiGenerateLibrary.requestStatus.action": "操作",
+  "gui.aiGenerateLibrary.reportImage": "报告图片",
+  "gui.aiGenerateLibrary.report": "报告"
 }

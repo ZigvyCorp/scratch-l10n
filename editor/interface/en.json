@@ -783,5 +783,14 @@
   "gui.aiGenerateLibrary.deleteNo": "No",
   "gui.aiGenerateLibrary.selectItem": "use as reference",
   "gui.aiGenerateLibrary.setToPrivate": "set to private",
-  "gui.aiGenerateLibrary.setToShared": "set to Shared"
+  "gui.aiGenerateLibrary.setToShared": "set to Shared",
+  "gui.aiGenerateLibrary.requestStatus": "Request Status",
+  "gui.aiGenerateLibrary.requestStatus.description": "Description",
+  "gui.aiGenerateLibrary.requestStatus.name": "Name",
+  "gui.aiGenerateLibrary.requestStatus.type": "Type",
+  "gui.aiGenerateLibrary.requestStatus.createdAt": "Created At",
+  "gui.aiGenerateLibrary.requestStatus.status": "Status",
+  "gui.aiGenerateLibrary.requestStatus.action": "Action",
+  "gui.aiGenerateLibrary.reportImage": "Report Image",
+  "gui.aiGenerateLibrary.report": "Report"
 }
