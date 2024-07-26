@@ -797,5 +797,6 @@
   "gui.aiGenerateLibrary.requestStatus.status": "Estado",
   "gui.aiGenerateLibrary.requestStatus.action": "Acción",
   "gui.aiGenerateLibrary.reportImage": "Imagen del informe",
-  "gui.aiGenerateLibrary.report": "Informe"
+  "gui.aiGenerateLibrary.report": "Informe",
+  "gui.aiGenerateLibrary.reRenegate": "Regenerando imagen:"
 }

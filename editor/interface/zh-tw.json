@@ -785,5 +785,6 @@
   "gui.aiGenerateLibrary.requestStatus.status": "狀態",
   "gui.aiGenerateLibrary.requestStatus.action": "操作",
   "gui.aiGenerateLibrary.reportImage": "報告圖片",
-  "gui.aiGenerateLibrary.report": "報告"
+  "gui.aiGenerateLibrary.report": "報告",
+  "gui.aiGenerateLibrary.reRenegate": "正在重新產生影像："
 }
