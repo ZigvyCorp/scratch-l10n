@@ -260,7 +260,6 @@
   "LOOKS_COLOUR": "color %1 saturation %2 brightness %3 transparency %4",
   "LOOKS_SECONDS": "seconds",
   "LOOKS_FRAMES": "frames",
-  "LOOKS_ANIMATESECONDFRAME": "animate to %1 in %2 %3",
   "LOOKS_DRAW_RECTANGLE": "draw rectangle at x %1 y %2 width %3 height %4 fill %5 border %6 width %7 corner radius %8 rotation %9",
   "LOOKS_DRAW_OVAL": "draw oval at x %1 y %2 width %3 height %4 fill %5 border %6 width %7 rotation %8",
   "LOOKS_DRAW_POLYGON": "draw polygon at x %1 y %2 width %3 height %4 points %5 fill %6 border %7 width %8 rotation %9",

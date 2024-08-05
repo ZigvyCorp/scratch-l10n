@@ -646,13 +646,6 @@
   "gui.extension.game.description": "Herramientas para crear juegos",
   "gui.extension.automation.name": "Automatización",
   "gui.extension.automation.description": "Reemplazar operaciones manuales",
-  "gui.spine.skeleton": "Esqueleto",
-  "gui.spine.skins": "Pieles",
-  "gui.spine.frame": "Marco {index}",
-  "gui.spine.actions": "Comportamiento",
-  "gui.spine.drawDebug": "Dibujar depuración",
-  "gui.spine.boneTree": "Árbol de huesos",
-
   "head": "Cabeza",
   "neck": "Cuello",
   "hips": "Caderas",
