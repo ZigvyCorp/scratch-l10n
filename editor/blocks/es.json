@@ -648,7 +648,6 @@
   "DATABASE_insertFromTable": "Insertar de la tabla %1 fila de %2 a %3 en la colección %4",
   "DATABASE_findFromCollection": "recuperar de la colección %1 a la tabla %2 donde %3 limita %4 ordenar por %5 %6 %7 %8",
   "DATABASE_removeAllDocument": "eliminar todos los documentos de la colección %1 donde %2",
-  "DATABASE_initializeCollection": "inicializar colección",
   "DATABASE_updateCollection": "actualizar la colección %1 de la tabla %2",
   "DATABASE_updateCollectionInPlace": "actualice la colección %1 en el lugar donde %2 configuró %3 en %4 configuró %5 en %6 configuró %7 en %8 configuró %9 en %10",
   "RENAME_COLLECTION_TITLE": "Cambie la colección \"%1\" a:",
