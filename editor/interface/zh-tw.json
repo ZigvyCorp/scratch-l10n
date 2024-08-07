@@ -753,7 +753,7 @@
   "gui.gameLeader.noRecords": "無記錄",
   "gui.assistantDialog.openDialog": "與 XO 智慧助理聊天",
   "gui.assistantDialog.closeDialog": "關閉 XO 對話框",
-  "gui.assistantDialog.chatDialogName": "創益編程 XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "創益編程 XO (v2.2)",
   "gui.assistantDialog.explainCommand": "請解釋這個程序",
   "gui.assistantDialog.debuggerCommand": "這個程序有什麼問題？",
   "gui.aiGenerateLibrary.addToQueue": "您的請求已推送到佇列",

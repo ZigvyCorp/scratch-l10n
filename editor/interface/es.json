@@ -765,7 +765,7 @@
   "gui.gameLeader.noRecords": "No hay registros",
   "gui.assistantDialog.openDialog": "Chatear con XO (IA)",
   "gui.assistantDialog.closeDialog": "cerrar chat XO",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.2)",
   "gui.assistantDialog.explainCommand": "Explica este programa, por favor",
   "gui.assistantDialog.debuggerCommand": "¿Qué problema tiene este programa?",
   "gui.aiGenerateLibrary.addToQueue": "su solicitud ha sido enviada a la cola",

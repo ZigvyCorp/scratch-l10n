@@ -760,7 +760,7 @@
   "gui.gameLeader.noRecords": "No Records",
   "gui.assistantDialog.openDialog": "Chat with XO (AI)",
   "gui.assistantDialog.closeDialog": "close XO chat",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.2)",
   "gui.assistantDialog.explainCommand": "Explain this program please",
   "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?",
   "gui.aiGenerateLibrary.addToQueue": "your request has been added to the queue",
