@@ -7,8 +7,6 @@ import set from 'lodash.set';
 import axios from 'axios';
 var pinyin = require('chinese-to-pinyin');
 
-const baseUrl = `${process.env.METEOR_DOMAIN}/api`;
-
 let blockTransList = ['extensions', 'blocks'];
 let result = {};
 
@@ -86,7 +84,7 @@ blockTransList.forEach((component) => {
     });
 });
 
-const body = {data: result};
+const body = {translations: result};
 
-axios.post(`${baseUrl}/blocks/index-translate`, body).then(() => console.log('✨✨✨ Complete translate indexing..!!!'))
+axios.post(process.env.ENDPOINT, body).then(() => console.log('✨✨✨ Complete translate indexing..!!!'))
     .catch(err => console.log('Something went wrong while index translate', err));
