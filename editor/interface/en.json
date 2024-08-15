@@ -754,7 +754,7 @@
   "gui.gameLeader.noRecords": "No Records",
   "gui.assistantDialog.openDialog": "Chat with XO (AI)",
   "gui.assistantDialog.closeDialog": "close XO chat",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.2)",
   "gui.assistantDialog.explainCommand": "Explain this program please",
   "gui.assistantDialog.debuggerCommand": "What’s wrong with this program?",
   "gui.aiGenerateLibrary.addToQueue": "your request has been added to the queue",
@@ -777,5 +777,15 @@
   "gui.aiGenerateLibrary.deleteNo": "No",
   "gui.aiGenerateLibrary.selectItem": "use as reference",
   "gui.aiGenerateLibrary.setToPrivate": "set to private",
-  "gui.aiGenerateLibrary.setToShared": "set to Shared"
+  "gui.aiGenerateLibrary.setToShared": "set to Shared",
+  "gui.aiGenerateLibrary.requestStatus": "Request Status",
+  "gui.aiGenerateLibrary.requestStatus.description": "Description",
+  "gui.aiGenerateLibrary.requestStatus.name": "Name",
+  "gui.aiGenerateLibrary.requestStatus.type": "Type",
+  "gui.aiGenerateLibrary.requestStatus.createdAt": "Created At",
+  "gui.aiGenerateLibrary.requestStatus.status": "Status",
+  "gui.aiGenerateLibrary.requestStatus.action": "Action",
+  "gui.aiGenerateLibrary.reportImage": "Report Image",
+  "gui.aiGenerateLibrary.report": "Report",
+  "gui.aiGenerateLibrary.reRenegate": "Regenerating image:"
 }

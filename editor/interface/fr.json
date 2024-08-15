@@ -757,7 +757,7 @@
   "gui.gameLeader.noRecords": "Pas d'enregistrements",
   "gui.assistantDialog.openDialog": "Discuter avec XO (IA)",
   "gui.assistantDialog.closeDialog": "fermer le chat XO",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v2.2)",
   "gui.assistantDialog.explainCommand": "Expliquez ce programme s'il vous plaît",
   "gui.assistantDialog.debuggerCommand": "Qu'est-ce qui ne va pas avec ce programme ?",
   "gui.aiGenerateLibrary.addToQueue": "votre requête a été mise en file d'attente",
@@ -780,5 +780,15 @@
   "gui.aiGenerateLibrary.deleteNo": "Non",
   "gui.aiGenerateLibrary.selectItem": "utiliser comme référence",
   "gui.aiGenerateLibrary.setToPrivate": "défini sur privé",
-  "gui.aiGenerateLibrary.setToShared": "défini sur Partagé"
+  "gui.aiGenerateLibrary.setToShared": "défini sur Partagé",
+  "gui.aiGenerateLibrary.requestStatus": "Statut de la demande",
+  "gui.aiGenerateLibrary.requestStatus.description": "Description",
+  "gui.aiGenerateLibrary.requestStatus.name": "Nom",
+  "gui.aiGenerateLibrary.requestStatus.type": "Type",
+  "gui.aiGenerateLibrary.requestStatus.createdAt": "Créé à",
+  "gui.aiGenerateLibrary.requestStatus.status": "Statut",
+  "gui.aiGenerateLibrary.requestStatus.action": "Action",
+  "gui.aiGenerateLibrary.reportImage": "Image du rapport",
+  "gui.aiGenerateLibrary.report": "Rapport",
+  "gui.aiGenerateLibrary.reRenegate": "Régénération de l'image :"
 }

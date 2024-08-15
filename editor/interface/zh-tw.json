@@ -753,7 +753,7 @@
   "gui.gameLeader.noRecords": "無記錄",
   "gui.assistantDialog.openDialog": "與 XO 智慧助理聊天",
   "gui.assistantDialog.closeDialog": "關閉 XO 對話框",
-  "gui.assistantDialog.chatDialogName": "創益編程 XO (v2.1)",
+  "gui.assistantDialog.chatDialogName": "創益編程 XO (v2.2)",
   "gui.assistantDialog.explainCommand": "請解釋這個程序",
   "gui.assistantDialog.debuggerCommand": "這個程序有什麼問題？",
   "gui.aiGenerateLibrary.addToQueue": "您的請求已推送到佇列",
@@ -776,5 +776,15 @@
   "gui.aiGenerateLibrary.deleteNo": "否",
   "gui.aiGenerateLibrary.selectItem": "用作參考",
   "gui.aiGenerateLibrary.setToPrivate": "設定為私有",
-  "gui.aiGenerateLibrary.setToShared": "設定為共用"
+  "gui.aiGenerateLibrary.setToShared": "設定為共用",
+  "gui.aiGenerateLibrary.requestStatus": "請求狀態",
+  "gui.aiGenerateLibrary.requestStatus.description": "描述",
+  "gui.aiGenerateLibrary.requestStatus.name": "名稱",
+  "gui.aiGenerateLibrary.requestStatus.type": "類型",
+  "gui.aiGenerateLibrary.requestStatus.createdAt": "創建於",
+  "gui.aiGenerateLibrary.requestStatus.status": "狀態",
+  "gui.aiGenerateLibrary.requestStatus.action": "操作",
+  "gui.aiGenerateLibrary.reportImage": "報告圖片",
+  "gui.aiGenerateLibrary.report": "報告",
+  "gui.aiGenerateLibrary.reRenegate": "正在重新產生影像："
 }
