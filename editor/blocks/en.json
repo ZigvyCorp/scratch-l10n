@@ -454,6 +454,7 @@
   "SENSING_USERNAME": "username",
   "SENSING_FULLNAME": "full name",
   "SENSING_GEOINFO": "get geo info for latitude %1 longitude %2 and write into table %3",
+  "SENSING_GETURLPARAM": "read URL parameter %1",
   "SENSING_LATITUDE": "latitude",
   "SENSING_LONGITUDE": "longitude",
   "SENSING_USERID": "user id",

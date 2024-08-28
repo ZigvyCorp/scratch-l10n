@@ -450,6 +450,7 @@
   "SENSING_USERNAME": "nom d'utilisateur",
   "SENSING_FULLNAME": "nom complet",
   "SENSING_GEOINFO": "obtenir des infos géo pour la latitude %1 et la longitude %2 et écrire dans le tableau %3",
+  "SENSING_GETURLPARAM": "lire le paramètre d'URL %1",
   "SENSING_LATITUDE": "latitude",
   "SENSING_LONGITUDE": "longitude",
   "SENSING_USERID": "id de l'utilisateur",

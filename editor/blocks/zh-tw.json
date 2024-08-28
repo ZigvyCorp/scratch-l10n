@@ -449,6 +449,7 @@
   "SENSING_USERNAME": "用戶名稱",
   "SENSING_FULLNAME": "全名",
   "SENSING_GEOINFO": "獲取緯度 %1 和經度 %2 的地理信息 並寫入表格 %3",
+  "SENSING_GETURLPARAM": "讀取 URL 參數 %1",
   "SENSING_LATITUDE": "緯度",
   "SENSING_LONGITUDE": "經度",
   "SENSING_USERID": "用戶 ID",
