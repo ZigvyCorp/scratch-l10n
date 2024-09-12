@@ -236,6 +236,8 @@
   "mp.addSpriteToGame": "將此角色作為 [MOTIONTYPE] [SHAPETYPE] 添加到遊戲中",
   "mp.removeSpriteFromGame": "從遊戲中移除此角色",
   "mp.setSyncMovement": "同步設置速度 x [XSPEED] y [YSPEED]",
+  "mp_setSyncMovement2": "同步設置速度 [SPEED] 方向為 [DIR]",
+  "mp_setSyncDir": "同步設置方向 [DIRECTION]",
   "mp_setSyncPosition": "同步設置位置 x [XPOS] y [YPOS]",
   "mp.broadcastMessageToAll": "廣播 [BROADCASTMESSAGE] 參數 [PARAM] 模式 [TARGETTYPE]",
   "mp.spriteScope.allSprites": "所有角色",
@@ -252,6 +254,7 @@
 
   "mp.broadcastTouchMessage": "當觸碰 [SPRITE] 且克隆ID前綴為 [CLONEID] 時 我將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
   "mp.isConnectedToGame": "已連接到多人遊戲",
+  "mp.whenAddedToGame": "新增到多人遊戲時",
   "playerentity": "玩家",
   "obstacleentity": "障礙物",
   "collectableentity": "物件",
