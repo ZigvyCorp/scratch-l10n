@@ -53,6 +53,7 @@
   "DATA_SHOWVARIABLE": "mostrar variable %1",
   "DATA_HIDEVARIABLE": "esconder variable %1",
   "DATA_EXPORTVARIABLE": "exportar variable %1",
+  "DATA_IMPORTVARIABLE": "importar variable %1",
   "DATA_ADDTOLIST": "añadir %1 a %2",
   "DATA_ADDVECTORTOLIST": "agregar el vector X %1 Y %2 Z %3 a %4",
   "DATA_setRandomList": "establecer %1 en %2 números aleatorios entre %3 y %4 %5",

@@ -55,6 +55,7 @@
   "DATA_SHOWVARIABLE": "show variable %1",
   "DATA_HIDEVARIABLE": "hide variable %1",
   "DATA_EXPORTVARIABLE": "export variable %1",
+  "DATA_IMPORTVARIABLE": "import variable %1",
   "DATA_ADDTOLIST": "add %1 to %2",
   "DATA_ADDVECTORTOLIST": "add vector X %1 Y %2 Z %3 to %4",
   "DATA_setRandomList": "set %1 to %2 random whole numbers between %3 and %4 %5",
