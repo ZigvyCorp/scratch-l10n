@@ -112,6 +112,7 @@
   "DATA_LOAD_DATA_NAMES": "nombres de datos",
   "DATA_LOOKUPTABLE": "elemento en la columna %1 de %2 donde la columna %3 es igual a %4",
   "DATA_EXPORTTABLE": "exportar tabla %1 como %2",
+  "DATA_IMPORTTABLE": "importar archivo en la tabla %1",
   "DATA_ROWATINDEXOFTABLE": "fila %1 de la tabla %2 separador %3",
   "DATA_ROWINDEXWITHCONDITION": "fila # de %1 en la columna %2 en la tabla %3",
   "DATA_ROWINDEXWITHCONDITION2": "fila # de elemento que contiene %1 en la columna %2 en la tabla %3",

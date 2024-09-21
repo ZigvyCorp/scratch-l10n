@@ -113,6 +113,7 @@
   "DATA_LOAD_DATA_NAMES": "数据名称",
   "DATA_LOOKUPTABLE": "在表格 %2 中找到列 %3 为 %4 的行 读出列 %1的值",
   "DATA_EXPORTTABLE": "导出表格 %1 名为 %2",
+  "DATA_IMPORTTABLE": "将文件导入表格 %1",
   "DATA_ROWATINDEXOFTABLE": "表格 %2 的第 %1 行 分隔符 %3",
   "DATA_ROWINDEXWITHCONDITION": "表格 %3 的列 %2 中第一个 %1 的行号",
   "DATA_ROWINDEXWITHCONDITION2": "表格 %3 的列 %2 中第一个包含 %1 的行号",
