@@ -523,7 +523,7 @@
   "PROCEDURE_ALREADY_EXISTS": "程序名稱「%1」已經被使用。",
   "PROCEDURE_DEFAULT_NAME": "積木名稱",
   "PROCEDURE_USED": "刪除某個積木的定義之前，要先把正在使用中的先移除",
-  "PROCEDURE_RETURN": "返回 %1",
+  "PROCEDURES_RETURN": "返回 %1",
   "PROCEDURES_COMMENT": "// %1",
   "PROCEDURES_COMMENT2": "/* %1 */",
   "PROCEDURE_ADD_LABEL": "標籤文本",

@@ -526,7 +526,7 @@
   "PROCEDURE_ALREADY_EXISTS": "已经存在名为「%1」的程序。",
   "PROCEDURE_DEFAULT_NAME": "积木名称",
   "PROCEDURE_USED": "在删除一个积木定义前，请先把该积木从所有使用的地方删除。",
-  "PROCEDURE_RETURN": "返回 %1",
+  "PROCEDURES_RETURN": "返回 %1",
   "PROCEDURES_COMMENT": "// %1",
   "PROCEDURES_COMMENT2": "/* %1 */",
   "PROCEDURE_ADD_LABEL": "标签文本",
