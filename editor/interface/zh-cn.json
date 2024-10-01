@@ -768,7 +768,7 @@
   "gui.gameLeader.noRecords": "无记录",
   "gui.assistantDialog.openDialog": "与 XO 智能助手聊天",
   "gui.assistantDialog.closeDialog": "关闭 XO 对话框",
-  "gui.assistantDialog.chatDialogName": "创益编程 XO (v2.2)",
+  "gui.assistantDialog.chatDialogName": "创益编程 XO (v3)",
   "gui.assistantDialog.explainCommand": "请解释这个程序",
   "gui.assistantDialog.debuggerCommand": "这个程序有什么问题？",
   "gui.aiGenerateLibrary.addToQueue": "您的请求已被推送到队列",
