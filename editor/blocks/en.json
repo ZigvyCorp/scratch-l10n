@@ -159,6 +159,7 @@
   "DATA_SHOWSNAPSHOTOFTABLESTYLE4": "style4",
   "DATA_SHOWSNAPSHOTOFTABLEROWNUMBER": "Row Number",
   "EVENT_WHENFLAGCLICKED": "when %1 clicked",
+  "EVENT_PREPAREWHENFLAGCLICKED": "prepare for %1 click",
   "EVENT_WHENTHISSPRITECLICKED": "when this sprite clicked",
   "EVENT_WHENSPRITEDRAGGINGSTARTS": "when dragging starts",
   "EVENT_WHENSPRITEBEINGDRAGGED": "when being dragged",

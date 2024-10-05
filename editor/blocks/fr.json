@@ -155,6 +155,7 @@
   "DATA_SHOWSNAPSHOTOFTABLESTYLE4": "style4",
   "DATA_SHOWSNAPSHOTOFTABLEROWNUMBER": "Numéro de ligne",
   "EVENT_WHENFLAGCLICKED": "quand %1 est cliqué",
+  "EVENT_PREPAREWHENFLAGCLICKED": "se préparer pour le clic de %1",
   "EVENT_WHENTHISSPRITECLICKED": "quand ce sprite est cliqué",
   "EVENT_WHENSPRITEDRAGGINGSTARTS": "quand le glissement commence",
   "EVENT_WHENSPRITEBEINGDRAGGED": "lorsqu'il est traîné",

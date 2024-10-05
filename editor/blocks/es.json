@@ -155,6 +155,7 @@
   "DATA_SHOWSNAPSHOTOFTABLESTYLE4": "estilo4",
   "DATA_SHOWSNAPSHOTOFTABLEROWNUMBER": "Numero de fila",
   "EVENT_WHENFLAGCLICKED": "al hacer clic en %1",
+  "EVENT_PREPAREWHENFLAGCLICKED": "prepararse para el clic de %1",
   "EVENT_WHENTHISSPRITECLICKED": "al hacer clic en este objeto",
   "EVENT_WHENSPRITEDRAGGINGSTARTS": "cuando comienza el arrastre",
   "EVENT_WHENSPRITEBEINGDRAGGED": "al ser arrastrado",
