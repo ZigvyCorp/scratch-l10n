@@ -207,7 +207,7 @@
   "CHARACTER": "人物",
   "BACKDROP": "背景",
   "LOOKS_SAYFORSECS_WITHSTYLE": "说 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
-  "LOOKS_ADDCOSTUMEFROMURL": "从网址 %2 添加名为 %1 的造型",
+  "LOOKS_ADDCOSTUMEFROMURL": "从网址 %2 添加名为 %1 的造型 最大宽度 %3 最大高度 %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "认为 %1 %2 秒文本大小 %3 %4 背景 %5 边缘 %6",
   "MOTION_MOVE_VIEWPORT": "将视窗移动到 x %1 y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "将视窗锁定到角色 %1",

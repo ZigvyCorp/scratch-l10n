@@ -206,7 +206,7 @@
   "CHARACTER": "personnage",
   "BACKDROP": "décor",
   "LOOKS_SAYFORSECS_WITHSTYLE": "dire %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
-  "LOOKS_ADDCOSTUMEFROMURL": "ajouter un costume nommé %1 depuis l'URL %2",
+  "LOOKS_ADDCOSTUMEFROMURL": "ajouter un costume nommé %1 depuis l'URL %2 avec largeur maximale %3 et hauteur maximale %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "penser %1 pendant %2 secondes taille du texte %3 %4 arrière-plan %5 bord %6",
   "MOTION_MOVE_VIEWPORT": "déplacer le port d'affichage vers x %1 y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "verrouiller le port d'affichage sur l'image-objet %1",

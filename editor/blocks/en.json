@@ -207,7 +207,7 @@
   "LOOKS_THINKFORSECS": "think %1 for %2 seconds",
   "LOOKS_THINK": "think %1",
   "LOOKS_SAYFORSECS_WITHSTYLE": "say %1 for %2 seconds text size %3 %4 background %5 edge %6",
-  "LOOKS_ADDCOSTUMEFROMURL": "add costume named %1 from URL %2",
+  "LOOKS_ADDCOSTUMEFROMURL": "add costume named %1 from URL %2 max width %3 max height %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "think %1 for %2 seconds text size %3 %4 background %5 edge %6",
   "MOTION_MOVE_VIEWPORT": "move viewport to x %1 y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "lock viewport to sprite %1",
