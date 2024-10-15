@@ -44,6 +44,7 @@
   "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "從角色 %2 獲取自定義積木 %1 的腳本",
   "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "從角色 %1 獲取綠旗點擊積木下的腳本",
   "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "從角色 %1 獲取所有腳本到列表 %2",
+  "CONTROL_GET_CONSOLE_LOG": "取得控制台輸出",
   "CONTROL_CLONEID": "克隆 ID",
   "CONTROL_CREATE_CLONE_WITH_ID": "克隆 %1 ID %2",
   "CONTROL_OF": "%2 的 %1",
