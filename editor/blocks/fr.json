@@ -863,6 +863,9 @@
   "AI_yiyanAIChat": "Yiyan : demande %1 résultat %2 mode %3 température %4 session %5",
   "AI_chatGLMAIChat": "ChatGLM : demande %1 résultat %2 mode %3 température %4 session %5",
   "AI_moonshotAIChat": "Kimi: demande %1 résultat %2 mode %3 rôle %4 température %5 session %6",
+  "AI_getModerationResult": "obtenir le résultat de modération %1",
   "SYSTEM": "système",
-  "USER": "utilisateur"
+  "USER": "utilisateur",
+  "MODERATION_FAIL": "échec",
+  "MODERATION_PASS": "réussir"
 }
