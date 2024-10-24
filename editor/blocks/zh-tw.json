@@ -834,6 +834,7 @@
   "AI_addTableToPinecone": "從表 %1 建立語義資料庫",
   "AI_SEARCHFROMPINECONE": "在語義資料庫中使用 %1 搜尋 將前 %2 個結果儲存在表 %3 中 以列 %4 的值 %5 篩選",
   "AI_SEARCHFROMPINECONE2": "在語意資料庫中以 %1 搜尋 條件 %2 儲存前 %3 在表 %4 中",
+  "AI_GOOGLESEARCH": "網路搜尋 %1 將前 %2 儲存在表 %3 中",
   "AI_switchChatbot": "選擇ChatGPT機器人 %1",
   "STREAMING": "持續更新",
   "WAITING": "完整回答",

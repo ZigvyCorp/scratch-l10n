@@ -846,6 +846,7 @@
   "AI_addTableToPinecone": "crear base de datos semántica a partir de la tabla %1",
   "AI_SEARCHFROMPINECONE": "buscar en la base de datos semántica con %1 almacenar los primeros %2 en la tabla %3 filtrar por la columna %4 del valor %5",
   "AI_SEARCHFROMPINECONE2": "busca en la base de datos semántica con %1 donde %2 almacena los mejores %3 en la tabla %4",
+  "AI_GOOGLESEARCH": "búsqueda web %1 almacena los mejores %2 en la tabla %3",
   "AI_switchChatbot": "seleccionar ChatGPT bot %1",
   "STREAMING": "transmisión",
   "WAITING": "espera",
