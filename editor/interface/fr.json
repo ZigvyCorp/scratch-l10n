@@ -647,6 +647,8 @@
   "gui.autoCodeReview.viewInEditor": "Afficher dans l'éditeur de code",
   "gui.gui.defaultProjectTitle": "Projet Scratch",
   "gui.workspaceColorTooltip.title": "Modifier l'arrière-plan de l'espace de travail",
+  "gui.readCodeTooltip.title": "Utilisez l'IA pour parler du programme",
+  "gui.writeCodeTooltip.title": "Utilisez l'IA pour mettre à jour le programme",
   "gui.extension.p2p.name": "Monde",
   "gui.extension.p2p.description": "Créer des projets en ligne multi-utilisateurs.",
   "gui.extension.widget.name": "Widget",

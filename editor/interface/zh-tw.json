@@ -643,6 +643,8 @@
   "gui.sharedMessages.handleGenerateProject": "產生專案",
   "gui.gui.defaultProjectTitle": "新項目",
   "gui.workspaceColorTooltip.title": "更改工作區背景",
+  "gui.readCodeTooltip.title": "使用AI來講解程式",
+  "gui.writeCodeTooltip.title": "使用AI來更新程式",
   "gui.spine.skeleton": "骨骼",
   "gui.spine.skins": "皮膚",
   "gui.spine.frame": "框架 {index}",

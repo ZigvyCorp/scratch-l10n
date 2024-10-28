@@ -648,6 +648,8 @@
   "gui.autoCodeReview.viewInEditor": "Ver en el editor de código",
   "gui.gui.defaultProjectTitle": "Proyecto de Scratch",
   "gui.workspaceColorTooltip.title": "Cambiar el fondo del espacio de trabajo",
+  "gui.readCodeTooltip.title": "Usa IA para hablar sobre el programa",
+  "gui.writeCodeTooltip.title": "Usa IA para actualizar el programa",
   "gui.extension.p2p.name": "Nube",
   "gui.extension.p2p.description": "Cree proyectos en línea multiusuario.",
   "gui.extension.widget.name": "Lápiz",
