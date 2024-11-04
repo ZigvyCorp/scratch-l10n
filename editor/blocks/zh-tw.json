@@ -853,7 +853,7 @@
   "AI_yiyanAIChat": "文心一言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
   "AI_chatGLMAIChat": "智谱清言：請求 %1 結果 %2 模式 %3 溫度 %4 會話 %5",
   "AI_moonshotAIChat": "Kimi：請求 %1 結果 %2 模式 %3 角色 %4 溫度 %5 會話 %6",
-  "AI_getModerationResult": "取得審核結果%1",
+  "AI_getModerationResult": "獲取 %1 的審核結果",
   "AI_attachImageToChat": "將造型 %1 附加到聊天中",
   "SYSTEM": "系統",
   "USER": "用戶",
