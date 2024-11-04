@@ -866,6 +866,7 @@
   "AI_chatGLMAIChat": "ChatGLM: request %1 result %2 mode %3 temperature %4 session %5",
   "AI_moonshotAIChat": "Kimi: request %1 result %2 mode %3 role %4 temperature %5 session %6",
   "AI_getModerationResult": "get moderation result %1",
+  "AI_attachImageToChat": "attach costume %1 to chat",
   "SYSTEM": "system",
   "USER": "user",
   "MODERATION_FAIL": "fail",
