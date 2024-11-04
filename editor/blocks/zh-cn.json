@@ -867,6 +867,7 @@
   "AI_chatGLMAIChat": "智谱清言：请求 %1 结果 %2 模式 %3 温度 %4 会话 %5",
   "AI_moonshotAIChat": "Kimi：请求 %1 结果 %2 模式 %3 角色 %4 温度 %5 会话 %6",
   "AI_getModerationResult": "获取审核结果%1",
+  "AI_attachImageToChat": "将图像 %1 附加到聊天中",
   "SYSTEM": "系统",
   "USER": "用户",
   "MODERATION_FAIL": "失败",
