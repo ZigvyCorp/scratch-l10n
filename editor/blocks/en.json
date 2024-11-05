@@ -96,7 +96,7 @@
   "DATA_COPYORAPPEND_APPEND": "append",
   "DATA_LENGTHOFLIST": "length of %1",
   "DATA_REVERSELIST": "reverse %1",
-  "DATA_SORTLISTBY": "sort list %1  %2",
+  "DATA_SORTLISTBY": "sort list %1 from %2",
   "DATA_SORTLISTBY_LARGETOSMALL": "large to small",
   "DATA_SORTLISTBY_SMALLTOLARGE": "small to large",
   "DATA_LISTCONTAINSITEM": "%1 contains %2?",

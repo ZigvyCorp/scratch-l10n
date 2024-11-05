@@ -858,5 +858,6 @@
   "SYSTEM": "系統",
   "USER": "用戶",
   "MODERATION_FAIL": "失敗",
-  "MODERATION_PASS": "透過"
+  "MODERATION_PASS": "透過",
+  "WIDGET_DELETECOSTUME": "刪除造型 %1"
 }
