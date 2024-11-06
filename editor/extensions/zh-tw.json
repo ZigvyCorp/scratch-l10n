@@ -365,6 +365,7 @@
   "widget.removeAllWidgets": "刪除本角色的所有控件",
   "widget.setVisibility": "設置名為 [NAME] 的控件的可見性 [VISIBILITY]",
   "widget.setVisibilityForAll": "为所有控件設置可见性 [VISIBILITY]",
+  "widget.setZindex": "設置名爲 [NAME] 的控件的z層級設置爲 [ZINDEX]",
   "widget.whenMouseEnter": "當指針進入控件 [NAME] 時",
   "widget.whenMouseLeave": "當指針離開控件 [NAME] 時",
   "widget.addVideo": "添加 Youtube 視頻 [URL] X [X] Y [Y] 寬度 [WIDTH] 高度 [HEIGHT] 名為 [NAME] 屏幕位置 [BACKGROUND]",

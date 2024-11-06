@@ -362,6 +362,7 @@
   "widget.removeAllWidgets": "eliminar todos los widgets",
   "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
   "widget.setVisibilityForAll": "establecer visibilidad [VISIBILITY] para todos los widgets",
+  "widget.setZindex": "establecer z-index en %1 para el widget llamado %2",
   "widget.whenMouseEnter": "cuando el puntero ingresa al widget [NAME]",
   "widget.whenMouseLeave": "cuando el puntero deja el widget llamado [NAME]",
   "widget.addVideo": "agregue el video de youtube [URL] en x [X] y [Y] ancho [WIDTH] alto [HEIGHT] llamado [NAME] en [BACKGROUND]",
