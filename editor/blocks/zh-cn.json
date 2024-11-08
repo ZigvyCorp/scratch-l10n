@@ -603,6 +603,7 @@
   "MOTION_JRPOINTDOWN": "指向 %1",
   "CONTROL_BREAKPOINTJR": "断点",
   "AI_speakInLanguage": "用 %2 说 %1 语音 %3 速度 %4 音高 %5 音量 %6 将声音存储为 %7",
+  "AI_stopSpeaking": "停止说话",
   "AI_translateText": "將 %1 從 %2 翻譯成 %3",
   "AI_LOCATEWEBCAMERA": "从视频中的标记定位摄像头",
   "ARABIC_ID": "阿拉伯語",

@@ -605,6 +605,7 @@
   "AI_endSpeech": "terminer la reconnaissance vocale",
   "AI_textFromSpeech": "texte de la parole",
   "AI_speakInLanguage": "dire %1 dans %2 comme %3 vitesse %4 tonalité %5 volume %6 stocker le son comme %7",
+  "AI_stopSpeaking": "arrêter de parler",
   "AI_translateText": "traduire %1 de %2 à %3",
   "AI_LOCATEWEBCAMERA": "localiser la caméra à partir de marqueurs dans la vidéo",
   "ARABIC_ID": "Arabe",

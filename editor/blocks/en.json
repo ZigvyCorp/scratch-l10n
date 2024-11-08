@@ -606,6 +606,7 @@
   "AI_endSpeech": "end speech recognition",
   "AI_textFromSpeech": "text from speech",
   "AI_speakInLanguage": "say %1 in %2 as %3 speed %4 pitch %5 volume %6 store sound as %7",
+  "AI_stopSpeaking": "stop speaking",
   "AI_translateText": "translate %1 from %2 to %3",
   "AI_LOCATEWEBCAMERA": "locate camera from markers in video",
   "ARABIC_ID": "Arabic",

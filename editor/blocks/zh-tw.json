@@ -587,6 +587,7 @@
   "MOTION_JRPOINTUP": "指向 %1",
   "MOTION_JRPOINTDOWN": "指向 %1",
   "AI_speakInLanguage": "用 %2 說 %1 語音 %3 速度 %4 音高 %5 音量 %6 將聲音存儲為 %7",
+  "AI_stopSpeaking": "停止說話",
   "AI_translateText": "將 %1 從 %2 翻譯成 %3",
   "AI_LOCATEWEBCAMERA": "從視頻中的標記定位攝像頭",
   "ARABIC_ID": "阿拉伯语",
