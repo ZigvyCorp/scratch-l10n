@@ -771,6 +771,8 @@
   "d3scene_d3_showaxis": "show 3D axis [SHOW] length [LEN]",
   "d3object_d3_showlocalaxis": "show local axis [SHOW] length [LEN]",
   "d3scene_d3_webcambackground": "turn [ONOFF] webcam background [CAMERA] in [CAMERA_MODE] mode",
+  "d3scene_d3_addjoystick": "add [SIDE] joystick",
+  "d3scene_d3_readjoystick": "[SIDE] joystick [PROPERTY]",
   "d3object_d3_addtube": "add tube [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] thickness [THICKNESS] as [NAME]",
   "d3object_d3_addrecttube": "add rectangle tube [COLOR] size in X [X] Y [Y] height [HEIGHT] cap type [CAPTYPE] thickness [THICKNESS] sides [SIDES] as [NAME]",
   "d3object_d3_addstairs": "add stairs [COLOR] width [X] depth [Y] height [HEIGHT] count [COUNT] thickness [THICKNESS] type [STAIRTYPE] as [NAME]",

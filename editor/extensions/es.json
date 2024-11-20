@@ -774,6 +774,8 @@
   "d3scene_d3_showaxis": "muestra la longitud del eje 3D [SHOW] [LEN]",
   "d3object_d3_showlocalaxis": "mostrar eje local [show] longitud [len]",
   "d3scene_d3_webcambackground": "activar [ONOFF] la cámara de fondo de la cámara web [CAMERA] en el modo [CAMERA_MODE]",
+  "d3scene_d3_addjoystick": "añadir [SIDE] joystick",
+  "d3scene_d3_readjoystick": "[SIDE] joystick [PROPERTY]",
   "d3object_d3_addtube": "agregar tubo [COLOR] diámetro superior [DIAMETERTOP] inferior [DIAMETERBOTTOM] altura [HEIGHT] arco [ARC] sección cerrada [CLOSED] tipo de tapa [CAPTYPE] lados [SIDES] espesor [GROSOR] llamado [NAME]",
   "d3object_d3_addrecttube": "agregar tamaño del tubo rectangular [COLOR] en x [X] y [Y] altura [HEIGHT] tipo de tapa [CAPTYPE] espesor [GROSOR] lados [SIDES] llamado [NAME]",
   "d3object_d3_addstairs": "agregar escaleras [COLOR] ancho [X] profundidad [Y] altura [HEIGHT] conteo [COUNT] espesor [GROSOR] tipo [STAIRTYPE] llamado [NAME]",

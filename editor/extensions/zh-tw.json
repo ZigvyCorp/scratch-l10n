@@ -1043,6 +1043,8 @@
   "d3scene_d3_showaxis": "顯示三维軸 [SHOW] 長度 [LEN]",
   "d3object_d3_showlocalaxis": "顯示局部坐標軸 [SHOW] 長度 [LEN]",
   "d3scene_d3_webcambackground": "在 [CAMERA_MODE] 模式下打開 [ONOFF] 網絡攝像頭背景 [CAMERA] 攝像頭",
+  "d3scene_d3_addjoystick": "添加 [SIDE] 搖桿",
+  "d3scene_d3_readjoystick": "[SIDE] 搖桿 [PROPERTY]",
   "solar system": "太陽系",
   "empty": "空的",
   "d3tools_d3_exportglb": "輸出物體 [NAME] 為GLB文件",
