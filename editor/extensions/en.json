@@ -608,6 +608,8 @@
   "down": "down",
   "below": "below",
   "above": "above",
+  "dir": "dir",
+  "pressed": "pressed",
   "left": "left",
   "right": "right",
   "position x": "Position x",

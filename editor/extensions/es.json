@@ -610,6 +610,8 @@
   "down": "abajo",
   "below": "debajo",
   "above": "encima",
+  "dir": "dirección",
+  "pressed": "presionado",
   "left": "Izquierda",
   "right": "Derecha",
   "position x": "posición x",
