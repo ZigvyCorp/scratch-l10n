@@ -272,6 +272,7 @@
   "MOTION_MOVESTEPS": "mover %1 pasos",
   "MOTION_ATTACHTOVIEWPORT": "adjuntar a la ventana gráfica en x %1 y %2",
   "MOTION_DETACHFROMVIEWPORT": "separar de la ventana gráfica",
+  "MOTION_SHAKESCREEN": "duración del sacudido de la pantalla %1 tasa de fotogramas %2 magnitud %3",
   "MOTION_TURNLEFT": "girar %1 %2 grados",
   "MOTION_TURNRIGHT": "girar %1 %2 grados",
   "MOTION_TURNAROUNDSPRITE": "gira %1 %2 grados alrededor de %3 en %4 segundos",

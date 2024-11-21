@@ -274,6 +274,7 @@
   "MOTION_MOVESTEPS": "移动 %1 步",
   "MOTION_ATTACHTOVIEWPORT": "在 x %1 y %2 附加到视窗",
   "MOTION_DETACHFROMVIEWPORT": "从视窗分离",
+  "MOTION_SHAKESCREEN": "屏幕抖动时长 %1 帧率 %2 幅度 %3",
   "MOTION_TURNLEFT": "左转 %1 %2 度",
   "MOTION_TURNRIGHT": "右转 %1 %2 度",
   "MOTION_TURNAROUNDSPRITE": "在 %4 秒内绕 %3 向 %1 旋转 %2 度",

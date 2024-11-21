@@ -273,6 +273,7 @@
   "MOTION_MOVESTEPS": "move %1 steps",
   "MOTION_ATTACHTOVIEWPORT": "attach to viewport at x %1 y %2",
   "MOTION_DETACHFROMVIEWPORT": "detach from viewport",
+  "MOTION_SHAKESCREEN": "shake screen duration %1 frame rate %2 magnitude %3",
   "MOTION_TURNLEFT": "turn %1 %2 degrees",
   "MOTION_TURNRIGHT": "turn %1 %2 degrees",
   "MOTION_TURNAROUNDSPRITE": "turn %1 %2 degrees around %3 in %4 seconds",

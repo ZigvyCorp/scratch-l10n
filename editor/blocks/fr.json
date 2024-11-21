@@ -272,6 +272,7 @@
   "MOTION_MOVESTEPS": "avancer de %1 pas",
   "MOTION_ATTACHTOVIEWPORT": "attacher à la fenêtre à x %1 y %2",
   "MOTION_DETACHFROMVIEWPORT": "détacher de la fenêtre",
+  "MOTION_SHAKESCREEN": "durée de secousse de l'écran %1 fréquence d'images %2 amplitude %3",
   "MOTION_TURNLEFT": "tourner %1 de %2 degrés",
   "MOTION_TURNRIGHT": "tourner %1 de %2 degrés",
   "MOTION_TURNAROUNDSPRITE": "tourne %1 %2 degrés autour de %3 en %4 secondes",
