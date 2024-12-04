@@ -647,7 +647,7 @@
   "UNSTACK_REPEAT_BLOCKS": "Break repeat loop",
   "MAKE_FOR_LOOP": "Make for-loop",
   "UNSTACK_FOR_LOOP": "Break for-loop",
-  "EXPLAIN_THIS_SCRIPT": "Explain this script",
+  "EXPLAIN_THIS_SCRIPT": "Use AI to talk about this script",
   "EXPLAIN_ALL_SCRIPTS": "Explain all scripts",
   "EXPLAIN_ALL_SPRITES": "Explain all sprites",
   "OPERATOR_REGEX_TEST": "regex %1 test %2",
