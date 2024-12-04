@@ -647,6 +647,7 @@
   "MAKE_FOR_LOOP": "Créer une boucle for",
   "UNSTACK_FOR_LOOP": "Brise la boucle for",
   "EXPLAIN_THIS_SCRIPT": "Utilisez l'IA pour parler de ce script",
+  "COPY_THIS_SCRIPT_CODE": "Copier le pseudocode de ce script",
   "EXPLAIN_ALL_SCRIPTS": "Expliquer tous les scripts",
   "EXPLAIN_ALL_SPRITES": "Expliquer tous les sprites",
   "OPERATOR_REGEX_TEST": "regex %1 test %2",

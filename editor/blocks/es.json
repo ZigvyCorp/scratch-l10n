@@ -648,6 +648,7 @@
   "MAKE_FOR_LOOP": "Hacer bucle for",
   "UNSTACK_FOR_LOOP": "Romper bucle for",
   "EXPLAIN_THIS_SCRIPT": "Usa IA para hablar sobre este guion",
+  "COPY_THIS_SCRIPT_CODE": "Copiar el pseudocódigo de este guion",
   "EXPLAIN_ALL_SCRIPTS": "Explicar todos los scripts",
   "EXPLAIN_ALL_SPRITES": "Explicar todos los sprites",
   "OPERATOR_REGEX_TEST": "regex %1 prueba %2",

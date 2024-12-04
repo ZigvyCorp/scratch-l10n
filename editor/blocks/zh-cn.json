@@ -645,6 +645,7 @@
   "MAKE_FOR_LOOP": "制作变量循环",
   "UNSTACK_FOR_LOOP": "展开变量循环",
   "EXPLAIN_THIS_SCRIPT": "使用AI解释这个脚本",
+  "COPY_THIS_SCRIPT_CODE": "复制此脚本的伪代码",
   "EXPLAIN_ALL_SCRIPTS": "解释所有脚本",
   "EXPLAIN_ALL_SPRITES": "解释所有角色的脚本",
   "OPERATOR_REGEX_TEST": "用正则表达式 %1 测试 %2",

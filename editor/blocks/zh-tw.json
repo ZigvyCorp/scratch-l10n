@@ -631,6 +631,7 @@
   "MAKE_FOR_LOOP": "製作變量循環",
   "UNSTACK_FOR_LOOP": "展開變量循環",
   "EXPLAIN_THIS_SCRIPT": "使用AI解释这个脚本",
+  "COPY_THIS_SCRIPT_CODE": "複製此腳本的偽代碼",
   "EXPLAIN_ALL_SCRIPTS": "解释所有脚本",
   "EXPLAIN_ALL_SPRITES": "解释所有角度颜色的脚本",
   "OPERATOR_REGEX_TEST": "用正則表達式 %1 測試 %2",
