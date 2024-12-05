@@ -320,7 +320,7 @@
   "p2p.writeInToGoogleSheet": "write into google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] starting cell [RANGE_VALUE] from table [TABLE]",
   "p2p.readWorldsInfo": "read all worlds info into table [TABLE]",
   "p2p.categoryName": "Cloud",
-  "p2p.fetchFromURL": "fetch web page as markdown from URL [URL]",
+  "p2p.fetchFromURL": "fetch web page as [FORMAT] from URL [URL]",
   "p2p.createWorld": "create world [WORLD] password [PASSWORD] my nickname [NICKNAME]",
   "p2p.joinWorld": "join world [WORLD] password [PASSWORD] my nickname [NICKNAME]",
   "p2p.leaveworld": "leave world",
