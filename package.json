@@ -23,9 +23,9 @@
         "validate:paint": "babel-node scripts/validate-translations ./editor/paint-editor/",
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www",
-        "index:translate-dev": "METEOR_DOMAIN=http://localhost:3000 babel-node scripts/index-translate.js",
-        "index:translate-us": "METEOR_DOMAIN=https://app.creaticode.com babel-node scripts/index-translate.js",
-        "index:translate-cn": "METEOR_DOMAIN=https://app.creaticode.cn babel-node scripts/index-translate.js"
+        "index:translate-dev": "ENDPOINT=http://localhost:4500/api/block/v1/block-translation babel-node scripts/index-translate.js",
+        "index:translate-us": "ENDPOINT=https://web-agw.creaticode.com/api/block/v1/block-translation babel-node scripts/index-translate.js",
+        "index:translate-cn": "ENDPOINT=https://web-agw.creaticode.cn/api/block/v1/block-translation babel-node scripts/index-translate.js"
     },
     "repository": {
         "type": "git",
