@@ -45,6 +45,7 @@
   "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "从角色 %1 获取绿旗点击积木下的脚本",
   "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "从角色 %1 获取所有脚本到列表 %2",
   "CONTROL_GET_CONSOLE_LOG": "获取控制台输出",
+  "CONTROL_SPRITE_IS_RUNNING": "角色 %1 正在运行",
   "CONTROL_CLONEID": "克隆 ID",
   "CONTROL_CREATE_CLONE_WITH_ID": "克隆 %1 ID %2",
   "CONTROL_OF": "%2 的 %1",

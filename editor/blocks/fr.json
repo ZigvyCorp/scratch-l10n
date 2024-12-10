@@ -44,6 +44,7 @@
   "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "obtenir le script pour le bloc personnalisé %1 à partir du sprite %2",
   "CONTROL_GET_SCRIPT_FOR_GREEN_FLAG": "obtenir le script pour le clic du drapeau vert à partir du sprite %1",
   "CONTROL_GET_SCRIPT_FROM_SPRITE_BLOCK": "obtenir les scripts pour tous les blocs du sprite %1 dans la liste %2",
+  "CONTROL_SPRITE_IS_RUNNING": "le sprite %1 est en cours d'exécution",
   "CONTROL_GET_CONSOLE_LOG": "obtenir la console de débogage",
   "CONTROL_CLONEID": "ID de clonage",
   "CONTROL_CREATE_CLONE_WITH_ID": "créer un clone de %1 avec l'ID %2",
