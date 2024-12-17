@@ -324,6 +324,8 @@
 
   "p2p.readFromGoogleSheet": "从 Google 表格读取：URL [SHEET_URL] 表格名称 [SHEET_NAME] 范围 [RANGE_VALUE] 到表 [TABLE]",
   "p2p.writeInToGoogleSheet": "写入 Google 表格：URL [SHEET_URL] 表格名称 [SHEET_NAME] 起始单元格 [RANGE_VALUE] 从表格 [TABLE]",
+  "p2p.addSheet": "将工作表 [SHEET_NAME] 添加到位于 [SHEET_URL] 的 Google 工作表",
+  "p2p.removeSheet": "从 [SHEET_URL] 的 Google 工作表中删除工作表 [SHEET_NAME]",
   "p2p.readWorldsInfo": "将所有世界信息读入表 [TABLE]",
   "p2p.categoryName": "云",
   "p2p.fetchFromURL": "从URL [URL] 获取网页并转换为Markdown格式",

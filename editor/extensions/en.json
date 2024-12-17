@@ -318,6 +318,8 @@
 
   "p2p.readFromGoogleSheet": "read from google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] range [RANGE_VALUE] into table [TABLE]",
   "p2p.writeInToGoogleSheet": "write into google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] starting cell [RANGE_VALUE] from table [TABLE]",
+  "p2p.addSheet": "add sheet [SHEET_NAME] to google sheet at [SHEET_URL]",
+  "p2p.removeSheet": "remove sheet [SHEET_NAME] from google sheet at [SHEET_URL]",
   "p2p.readWorldsInfo": "read all worlds info into table [TABLE]",
   "p2p.categoryName": "Cloud",
   "p2p.fetchFromURL": "fetch web page as [FORMAT] from URL [URL]",
