@@ -316,10 +316,11 @@
 
   "physics.categoryName": "2D la physique",
 
-  "p2p.readFromGoogleSheet": "lire depuis la feuille de calcul Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
-  "p2p.writeInToGoogleSheet": "écrire dans la feuille de calcul Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] cellule de départ [RANGE_VALUE] depuis la table [TABLE]",
-  "p2p.addSheet": "ajouter la feuille [SHEET_NAME] à la feuille Google à l'adresse [SHEET_URL]",
-  "p2p.removeSheet": "supprimer la feuille [SHEET_NAME] de la feuille Google à l'adresse [SHEET_URL]",
+  "p2p.readFromGoogleSheet": "lire depuis la feuille Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
+  "p2p.writeInToGoogleSheet": "écrire dans la feuille Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] cellule de départ [RANGE_VALUE] depuis la table [TABLE]",
+  "p2p.addSheet": "ajouter une feuille [SHEET_NAME] à la feuille Google à l'URL [SHEET_URL]",
+  "p2p.removeSheet": "supprimer la feuille [SHEET_NAME] de la feuille Google à l'URL [SHEET_URL]",
+
   "p2p.readWorldsInfo": "lire toutes les informations sur les mondes dans le tableau [TABLE]",
   "p2p.categoryName": "Monde",
   "p2p.fetchFromURL": "récupérer la page web en tant que markdown depuis l'URL [URL]",
