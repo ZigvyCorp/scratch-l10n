@@ -128,6 +128,9 @@
   "P2P_WRITEINTOGOOGLESHEET": "寫入谷歌試算表：URL %1 工作表名稱 %2 範圍 %3 從表格 %4",
   "P2P_ADDSHEET": "向 URL %1 的谷歌試算表添加工作表 %2",
   "P2P_REMOVESHEET": "從 URL %1 的谷歌試算表中移除工作表 %2",
+  "P2P_APPENDROW": "將表 %2 的第 %1 行追加到位於網址 %4 的谷歌工作表 %3",
+  "P2P_SETVALUE": "將位於網址 %5 的谷歌工作表中表單 %4 的第 %2 行第 %3 列的值設為 %1",
+  "P2P_GETVALUE": "讀取位於網址 %4 的谷歌工作表中表單 %3 的第 %1 行第 %2 列的值",
 
   "DATA_REDUCEITEMATROWCOLUMN": "將表格 %3 的行 %1 列 %2 的項目減少 %4",
   "DATA_CHANGEITEMATROWCOLUMN": "將表格 %3 的行 %1 列 %2 的項目改變 %4",

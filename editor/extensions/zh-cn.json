@@ -326,6 +326,9 @@
   "p2p.writeInToGoogleSheet": "写入谷歌表格：URL [SHEET_URL] 工作表名称 [SHEET_NAME] 起始单元格 [RANGE_VALUE] 从表 [TABLE]",
   "p2p.addSheet": "向 URL [SHEET_URL] 的谷歌表格添加工作表 [SHEET_NAME]",
   "p2p.removeSheet": "从 URL [SHEET_URL] 的谷歌表格中移除工作表 [SHEET_NAME]",
+  "p2p.appendRow": "将表 [TABLE] 的行 [ROW] 添加到 URL [SHEET_URL] 的谷歌表格中的工作表 [SHEET_NAME]",
+  "p2p.setValue": "将位于网址 [SHEET_URL] 的谷歌工作表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值设为 [VALUE]",
+  "p2p.getValue": "读取位于网址 [SHEET_URL] 的谷歌工作表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值",
 
   "p2p.readWorldsInfo": "将所有世界信息读入表 [TABLE]",
   "p2p.categoryName": "云",

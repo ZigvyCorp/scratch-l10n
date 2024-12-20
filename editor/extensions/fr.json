@@ -320,6 +320,9 @@
   "p2p.writeInToGoogleSheet": "écrire dans la feuille Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] cellule de départ [RANGE_VALUE] depuis la table [TABLE]",
   "p2p.addSheet": "ajouter une feuille [SHEET_NAME] à la feuille Google à l'URL [SHEET_URL]",
   "p2p.removeSheet": "supprimer la feuille [SHEET_NAME] de la feuille Google à l'URL [SHEET_URL]",
+  "p2p.appendRow": "ajouter la ligne [ROW] de la table [TABLE] à la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
+  "p2p.setValue": "définir la valeur sur [VALUE] à la ligne [ROW] colonne [COLUMN] de la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
+  "p2p.getValue": "valeur à la ligne [ROW] colonne [COLUMN] de la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
 
   "p2p.readWorldsInfo": "lire toutes les informations sur les mondes dans le tableau [TABLE]",
   "p2p.categoryName": "Monde",
