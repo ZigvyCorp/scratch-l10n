@@ -1097,6 +1097,7 @@
   "widget.setIconToToolbox": "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]",
   "widget.deleteCostume": "delete costume [COSTUME]",
   "widget.addImageFromCustoms": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+  "widget.addImageFromCostumes": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
   "widget.addImageFromUrl": "add image from URL [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
   "widget.image.keep": "keep",
   "widget.image.stretch": "stretch",

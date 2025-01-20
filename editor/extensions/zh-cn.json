@@ -1097,6 +1097,7 @@
   "widget.setIconToToolbox": "将工具箱 [NAME] 的行 [ROW] 列 [COLUMN] 的图标设置为造型 [COSTUME]",
   "widget.deleteCostume": "删除造型 [COSTUME]",
   "widget.addImageFromCustoms": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 处添加图像 [COSTUME] 作为 [NAME]",
+  "widget.addImageFromCostumes": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 处添加图像 [COSTUME] 作为 [NAME]",
   "widget.addImageFromUrl": "从 URL [URL] 添加图像 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 宽高比 [ASPECT] 作为 [NAME]",
   "widget.image.keep": "保持",
   "widget.image.stretch": "拉紧",
