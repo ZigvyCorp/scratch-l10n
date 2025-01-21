@@ -470,6 +470,7 @@
   "SENSING_LATITUDE": "latitud",
   "SENSING_LONGITUDE": "longitud",
   "SENSING_USERID": "id de usuario",
+  "SENSING_USERAVATAR": "avatar de usuario",
   "SOUND_PLAY": "iniciar sonido %1",
   "SOUND_PLAYUNTILDONE": "tocar sonido %1 hasta que termine",
   "SOUND_STOPALLSOUNDS": "detener todos los sonidos",
