@@ -455,6 +455,7 @@
   "SENSING_CURRENT_MINUTE": "minuto",
   "SENSING_CURRENT_SECOND": "segundo",
   "SENSING_CURRENT_MILLISECOND": "milisegundo",
+  "SENSING_CURRENT_FULLDATE": "fecha completa",
   "SENSING_DAYSSINCE2000": "días desde el 2000",
   "SENSING_DAYSSINCE2000FORDATE": "días desde 2000 para la fecha %1",
   "SENSING_SECONDSSINCE2000": "segundos desde 2000 para %1",
