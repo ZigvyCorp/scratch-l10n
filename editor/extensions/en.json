@@ -317,6 +317,7 @@
   "physics.getGroundSlope": "ground slope",
 
   "p2p.readFromGoogleSheet": "read from google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] range [RANGE_VALUE] into table [TABLE]",
+  "p2p_getGoogleFolderContent": "list content of Google Drive folder [URL] in table [TABLE]",
   "p2p.writeInToGoogleSheet": "write into google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] starting cell [RANGE_VALUE] from table [TABLE]",
   "p2p.addSheet": "add sheet [SHEET_NAME] to google sheet at URL [SHEET_URL]",
   "p2p.removeSheet": "remove sheet [SHEET_NAME] from google sheet at URL [SHEET_URL]",
