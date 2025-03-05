@@ -869,6 +869,7 @@
   "AI_openAIChatCancelation": "OpenAI ChatGPT : annuler la demande",
   "AI_attachImageToChat": "joindre le costume %1 au chat",
   "AI_attachFilesToChat": "joindre les fichiers au chat",
+  "AI_attachGoogleFileToChat": "joindre le fichier de Google Drive %1 au chat",
   "AI_llmChatCompletion": "LLM modèle %1 requête %2 résultat %3 mode %4 longueur %5 température %6 session %7",
   "AI_llmSystemInstruction": "LLM définir l'instruction système %1 pour le modèle %2",
   "AI_addTableToPinecone": "créer une base de données sémantique à partir de la table %1",

@@ -890,6 +890,7 @@
   "AI_getModerationResult3": "獲取名為 %1 的造型的審核結果",
   "AI_attachImageToChat": "將造型 %1 附加到聊天中",
   "AI_attachFilesToChat": "將文件附加到聊天中",
+  "AI_attachGoogleFileToChat": "将谷歌云盘文件 %1 附加到聊天中",
   "SYSTEM": "系統",
   "USER": "用戶",
   "MODERATION_FAIL": "失敗",

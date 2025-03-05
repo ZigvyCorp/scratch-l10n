@@ -871,6 +871,7 @@
   "AI_llmSystemInstruction": "LLM set system instruction %1 for model %2",
   "AI_attachImageToChat": "attach costume %1 to chat",
   "AI_attachFilesToChat": "attach files to chat",
+  "AI_attachGoogleFileToChat": "attach file from Google Drive %1 to chat",
   "AI_addTableToPinecone": "create semantic database from table %1",
   "AI_SEARCHFROMPINECONE": "search semantic database with %1 store top %2 in table %3 filter by column %4 of value %5",
   "AI_SEARCHFROMPINECONE2": "search semantic database with %1 where %2 store top %3 in table %4",
