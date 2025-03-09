@@ -316,6 +316,7 @@
   "d3effect.categoryName": "Efecto 3D",
   "physics.categoryName": "2D física",
 
+  "p2p.listSheetsInGoogleSheet": "enumerar todas las hojas en la hoja de cálculo de Google en la URL [SHEET_URL] en la lista [LIST]",
   "p2p.readFromGoogleSheet": "leer desde la hoja de Google: URL [SHEET_URL] nombre de la hoja [SHEET_NAME] rango [RANGE_VALUE] en la tabla [TABLE]",
   "p2p_getGoogleFolderContent": "listar contenido de la carpeta de Google Drive [URL] en la tabla [TABLE]",
   "p2p.writeInToGoogleSheet": "escribir en la hoja de Google: URL [SHEET_URL] nombre de la hoja [SHEET_NAME] celda inicial [RANGE_VALUE] desde la tabla [TABLE]",

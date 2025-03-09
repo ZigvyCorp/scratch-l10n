@@ -316,9 +316,10 @@
 
   "physics.categoryName": "2D la physique",
 
-  "p2p.readFromGoogleSheet": "lire depuis la feuille Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
+  "p2p.listSheetsInGoogleSheet": "répertorier toutes les feuilles dans la feuille de calcul Google à l'URL [SHEET_URL] dans la liste [LIST]",
+  "p2p.readFromGoogleSheet": "lire depuis la feuille Google: URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
   "p2p_getGoogleFolderContent": "lister le contenu du dossier Google Drive %1 dans le tableau %2",
-  "p2p.writeInToGoogleSheet": "écrire dans la feuille Google : URL [SHEET_URL] nom de la feuille [SHEET_NAME] cellule de départ [RANGE_VALUE] depuis la table [TABLE]",
+  "p2p.writeInToGoogleSheet": "écrire dans la feuille Google: URL [SHEET_URL] nom de la feuille [SHEET_NAME] cellule de départ [RANGE_VALUE] depuis la table [TABLE]",
   "p2p.addSheet": "ajouter une feuille [SHEET_NAME] à la feuille Google à l'URL [SHEET_URL]",
   "p2p.removeSheet": "supprimer la feuille [SHEET_NAME] de la feuille Google à l'URL [SHEET_URL]",
   "p2p.appendRow": "ajouter la ligne [ROW] de la table [TABLE] à la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
