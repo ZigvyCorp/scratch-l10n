@@ -283,6 +283,8 @@
   "LOOKS_DRAW_POLYGON": "在 x %1 y %2 寬度 %3 高度 %4 點 %5 填充 %6 邊框 %7 寬度 %8 旋轉 %9 處繪製多邊形",
   "LOOKS_DRAW_LINE": "繪製線段 顏色 %1 從 x %2 y %3 到 x %4 y %5 寬度 %6",
   "LOOKS_DRAW_CURVE": "繪製曲線 顏色 %1 從 x %2 y %3 到 x %4 y %5 控制點1 x %6 y %7 控制點2 x %8 y %9 寬度 %10",
+  "LOOKS_DRAW_TEXT": "繪製文字 %1 x %2 y %3 大小 %4 顏色 %5 旋轉 %6",
+  "LOOKS_CLEAR_DRAWING": "清除所有繪圖",
   "MOTION_MOVESTEPS": "移動 %1 點",
   "MOTION_TURNLEFT": "左轉 %1 %2 度",
   "MOTION_TURNRIGHT": "右轉 %1 %2 度",

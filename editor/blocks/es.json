@@ -278,6 +278,8 @@
   "LOOKS_DRAW_POLYGON": "Dibujar polígono en x %1 y %2 ancho %3 alto %4 puntos %5 relleno %6 borde %7 ancho %8 rotación %9",
   "LOOKS_DRAW_LINE": "trazar linea en %1 desde x %2 y %3 hasta x %4 y %5 grosor %6",
   "LOOKS_DRAW_CURVE": "dibujar curva en %1 desde x %2 y %3 hasta x %4 y %5 control 1 x %6 y %7 control 2 x %8 y %9 espesor %10 ",
+  "LOOKS_DRAW_TEXT": "dibujar texto %1 en x %2 y %3 tamaño %4 color %5 rotación %6",
+  "LOOKS_CLEAR_DRAWING": "borrar todos los dibujos",
   "MOTION_MOVESTEPS": "mover %1 pasos",
   "MOTION_ATTACHTOVIEWPORT": "adjuntar a la ventana gráfica en x %1 y %2",
   "MOTION_DETACHFROMVIEWPORT": "separar de la ventana gráfica",

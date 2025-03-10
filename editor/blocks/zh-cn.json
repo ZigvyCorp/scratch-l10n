@@ -282,6 +282,8 @@
   "LOOKS_DRAW_POLYGON": "在 x %1 y %2 宽度 %3 高度 %4 点 %5 填充 %6 边框 %7 宽度 %8 旋转 %9 处绘制多边形",
   "LOOKS_DRAW_LINE": "绘制线段 颜色 %1 从 x %2 y %3 到 x %4 y %5 宽度 %6",
   "LOOKS_DRAW_CURVE": "绘制曲线 颜色 %1 从 x %2 y %3 到 x %4 y %5 控制点1 x %6 y %7 控制点2 x %8 y %9 宽度 %10",
+  "LOOKS_DRAW_TEXT": "绘制文本 %1 x %2 y %3 大小 %4 颜色 %5 旋转 %6",
+  "LOOKS_CLEAR_DRAWING": "清除所有绘图",
   "MOTION_MOVESTEPS": "移动 %1 步",
   "MOTION_ATTACHTOVIEWPORT": "在 x %1 y %2 附加到视窗",
   "MOTION_DETACHFROMVIEWPORT": "从视窗分离",
