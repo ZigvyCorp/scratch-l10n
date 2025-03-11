@@ -325,7 +325,7 @@
   "p2p.appendRow": "ajouter la ligne [ROW] de la table [TABLE] à la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
   "p2p.setValue": "définir la valeur sur [VALUE] à la ligne [ROW] colonne [COLUMN] de la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
   "p2p.getValue": "valeur à la ligne [ROW] colonne [COLUMN] de la feuille [SHEET_NAME] dans la feuille Google à l'URL [SHEET_URL]",
-
+  "p2p.removeColumnsFromSheet": "supprimer les colonnes %1 à %2 de la feuille %3 dans Google Sheet à l'URL %4",
   "p2p.readWorldsInfo": "lire toutes les informations sur les mondes dans le tableau [TABLE]",
   "p2p.categoryName": "Monde",
   "p2p.fetchFromURL": "récupérer la page web en tant que markdown depuis l'URL [URL]",

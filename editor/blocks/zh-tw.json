@@ -133,7 +133,11 @@
   "P2P_APPENDROW": "將表 %2 的第 %1 行追加到位於網址 %4 的谷歌工作表 %3",
   "P2P_SETVALUE": "將位於網址 %5 的谷歌工作表中表單 %4 的第 %2 行第 %3 列的值設為 %1",
   "P2P_GETVALUE": "讀取位於網址 %4 的谷歌工作表中表單 %3 的第 %1 行第 %2 列的值",
-
+  "P2P_REMOVECOLUMNSFROMSHEET": "在位於網址 %4 的 Google 試算表的工作表 %3 中刪除第 %1 列到第 %2 列",
+  "P2P_REMOVEROWSFROMSHEET": "在位於網址 %4 的 Google 試算表的工作表 %3 中刪除第 %1 行到第 %2 行",
+  "P2P_INSERTCOLUMNSINSHEET": "在位於網址 %4 的 Google 試算表的工作表 %3 中的第 %2 列位置插入 %1 列",
+  "P2P_INSERTROWSINSHEET": "在位於網址 %4 的 Google 試算表的工作表 %3 中的第 %2 行位置插入 %1 行",
+  "P2P_CLEARSHEET": "在位於網址 %2 的 Google 試算表中清空工作表 %1",
   "DATA_REDUCEITEMATROWCOLUMN": "將表格 %3 的行 %1 列 %2 的項目減少 %4",
   "DATA_CHANGEITEMATROWCOLUMN": "將表格 %3 的行 %1 列 %2 的項目改變 %4",
   "DATA_SETTABLETOCOMPUTED": "將表格 %1 設置為表格 %4 中列 %3 的 %2 依照列 %5 ",

@@ -134,7 +134,11 @@
   "P2P_APPENDROW": "将表 %2 的第 %1 行追加到位于网址 %4 的谷歌工作表 %3",
   "P2P_SETVALUE": "将位于网址 %5 的谷歌工作表中表单 %4 的第 %2 行第 %3 列的值设为 %1",
   "P2P_GETVALUE": "读取位于网址 %4 的谷歌工作表中表单 %3 的第 %1 行第 %2 列的值",
-
+  "P2P_REMOVECOLUMNSFROMSHEET": "在位于网址 %4 的谷歌工作表的表单 %3 中删除列 %1 到列 %2",
+  "P2P_REMOVEROWSFROMSHEET": "在位于网址 %4 的谷歌工作表的表单 %3 中删除行 %1 到行 %2",
+  "P2P_INSERTCOLUMNSINSHEET": "在位于网址 %4 的谷歌工作表的表单 %3 中的列 %2 位置插入 %1 列",
+  "P2P_INSERTROWSINSHEET": "在位于网址 %4 的谷歌工作表的表单 %3 中的行 %2 位置插入 %1 行",
+  "P2P_CLEARSHEET": "在位于网址 %2 的谷歌工作表中清空表单 %1",
   "DATA_REDUCEITEMATROWCOLUMN": "将表格 %3 的行 %1 列 %2 的项目减少 %4",
   "DATA_CHANGEITEMATROWCOLUMN": "将表格 %3 的行 %1 列 %2 的项目改变 %4",
   "DATA_SETTABLETOCOMPUTED": "将表格 %1 设置为表格 %4 中列 %3 的 %2 依照列 %5 ",

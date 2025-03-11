@@ -328,6 +328,7 @@
   "p2p.appendRow": "将表 [TABLE] 的行 [ROW] 添加到 URL [SHEET_URL] 的谷歌試算表中的工作表 [SHEET_NAME]",
   "p2p.setValue": "将位于网址 [SHEET_URL] 的谷歌試算表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值设为 [VALUE]",
   "p2p.getValue": "读取位于网址 [SHEET_URL] 的谷歌試算表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值",
+  "p2p.removeColumnsFromSheet": "在位於網址 %4 的 Google 試算表的工作表 %3 中刪除第 %1 列到第 %2 列",
 
   "p2p.readWorldsInfo": "將所有世界資訊讀入表 [TABLE]",
   "p2p.categoryName": "云",

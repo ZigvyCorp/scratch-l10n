@@ -325,6 +325,7 @@
   "p2p.appendRow": "añadir la fila [ROW] de la tabla [TABLE] a la hoja [SHEET_NAME] en la hoja de Google en URL [SHEET_URL]",
   "p2p.setValue": "establecer valor en [VALUE] en la fila [ROW] columna [COLUMN] de la hoja [SHEET_NAME] en la hoja de Google en URL [SHEET_URL]",
   "p2p.getValue": "valor en la fila [ROW] columna [COLUMN] de la hoja [SHEET_NAME] en la hoja de Google en URL [SHEET_URL]",
+  "p2p.removeColumnsFromSheet": "eliminar las columnas %1 a %2 de la hoja %3 en Google Sheet en la URL %4",
 
   "p2p.readWorldsInfo": "leer toda la información del mundo en la tabla [TABLE]",
   "p2p.categoryName": "Mundo",
