@@ -128,6 +128,7 @@
   "P2P_LISTSHEETSINGOOGLESHEET": "列出谷歌表格 URL %1 中的所有工作表到列表 %2",
   "P2P_READFROMGOOGLESHEET": "读取谷歌工作表： 网址 %1 表单名称 %2 数据范围 %3 保存到表格 %4",
   "P2P_GETGOOGLEFOLDERCONTENT": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
+  "P2P_UPLOADSOUNDTOGOOGLEDRIVE": "将声音 %1 上传到谷歌云盘文件夹 URL %2",
   "P2P_WRITEINTOGOOGLESHEET": "写入谷歌工作表：网址 %1 表单名称 %2 起始单元 %3 数据来源表格 %4",
   "P2P_ADDSHEET": "向位于网址 %1 的谷歌工作表添加表单 %2",
   "P2P_REMOVESHEET": "从位于网址 %1 的谷歌工作表中移除表单 %2",

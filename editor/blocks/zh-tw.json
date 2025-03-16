@@ -127,6 +127,7 @@
   "P2P_LISTSHEETSINGOOGLESHEET": "列出谷歌試算表 URL %1 中的所有工作表到列表 %2",
   "P2P_READFROMGOOGLESHEET": "從谷歌試算表讀取: URL %1 工作表名稱 %2 範圍 %3 到表格 %4",
   "P2P_GETGOOGLEFOLDERCONTENT": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
+  "P2P_UPLOADSOUNDTOGOOGLEDRIVE": "將聲音 %1 上傳到谷歌雲端硬碟資料夾 URL %2",
   "P2P_WRITEINTOGOOGLESHEET": "寫入谷歌試算表: URL %1 工作表名稱 %2 範圍 %3 從表格 %4",
   "P2P_ADDSHEET": "向 URL %1 的谷歌試算表添加工作表 %2",
   "P2P_REMOVESHEET": "從 URL %1 的谷歌試算表中移除工作表 %2",

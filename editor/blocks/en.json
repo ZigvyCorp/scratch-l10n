@@ -130,6 +130,7 @@
   "P2P_READFROMGOOGLESHEET": "read from google sheet: URL %1 sheet name %2 range %3 into table %4",
   "P2P_LISTSHEETSINGOOGLESHEET": "list all sheets in google sheet at URL %1 into list %2",
   "P2P_GETGOOGLEFOLDERCONTENT": "list content of Google Drive folder %1 into table %2",
+  "P2P_UPLOADSOUNDTOGOOGLEDRIVE": "upload sound %1 to Google Drive folder at URL %2",
   "P2P_WRITEINTOGOOGLESHEET": "write into google sheet: URL %1 sheet name %2 starting cell %3 from table %4",
   "P2P_ADDSHETT": "add sheet %1 to google sheet at URL %2",
   "P2P_REMOVESHEET": "remove sheet %1 from google sheet at URL %2",

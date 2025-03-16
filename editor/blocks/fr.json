@@ -127,6 +127,7 @@
 
   "P2P_LISTSHEETSINGOOGLESHEET": "Répertorie toutes les feuilles dans la feuille de calcul Google à l'URL %1 dans la liste %2",
   "P2P_GETGOOGLEFOLDERCONTENT": "lister le contenu du dossier Google Drive %1 dans la table %2",
+  "P2P_UPLOADSOUNDTOGOOGLEDRIVE": "téléverser le son %1 dans le dossier Google Drive à l'URL %2",
   "P2P_WRITEINTOGOOGLESHEET": "Écrire dans Google Sheet: URL %1 Nom du formulaire %2 Unité de départ %3 Table source de données %4",
   "P2P_ADDSHEET": "ajouter une feuille %1 à la feuille de calcul Google à l'URL %2",
   "P2P_REMOVESHEET": "supprimer la feuille %1 de la feuille de calcul Google à l'URL %2",

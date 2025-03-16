@@ -321,7 +321,8 @@
 
   "p2p.listSheetsInGoogleSheet": "列出谷歌試算表中位於 URL [SHEET_URL] 的所有工作表到列表 [LIST]",
   "p2p.readFromGoogleSheet": "從谷歌試算表讀取: URL [SHEET_URL] 工作表名稱 [SHEET_NAME] 範圍 [RANGE_VALUE] 到表格 [TABLE]",
-  "p2p_getGoogleFolderContent": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
+  "p2p.getGoogleFolderContent": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
+  "p2p.uploadSoundToGoogleDrive": "上傳聲音 [SOUNDNAME] 到谷歌雲端硬碟資料夾 URL [URL]",
   "p2p.writeInToGoogleSheet": "寫入谷歌試算表: URL [SHEET_URL] 工作表名稱 [SHEET_NAME] 起始儲存格 [RANGE_VALUE] 從表格 [TABLE]",
   "p2p.addSheet": "向 URL [SHEET_URL] 的谷歌試算表添加工作表 [SHEET_NAME]",
   "p2p.removeSheet": "從 URL [SHEET_URL] 的谷歌試算表中移除工作表 [SHEET_NAME]",
