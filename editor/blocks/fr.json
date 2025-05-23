@@ -246,6 +246,7 @@
   "LOOKS_REDUCESIZEBY": "réduire la taille de %1",
   "LOOKS_SETSIZETO": "mettre la taille à %1 % de la taille initiale",
   "LOOKS_SIZE": "taille",
+  "LOOKS_LAYERNUMBER": "numéro de couche",
   "LOOKS_CHANGESTRETCHBY": "ajouter %1 à l'étirement",
   "LOOKS_SETSTRETCHTO": "mettre l'étirement à %1 %",
   "LOOKS_SWITCHCOSTUMETO": "basculer sur le costume %1",

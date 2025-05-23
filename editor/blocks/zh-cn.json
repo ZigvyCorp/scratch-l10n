@@ -252,6 +252,7 @@
   "LOOKS_REDUCESIZEBY": "将比例减小 %1",
   "LOOKS_SETSIZETO": "将比例设为 %1",
   "LOOKS_SIZE": "比例",
+  "LOOKS_LAYERNUMBER": "图层编号",
   "LOOKS_CHANGESTRETCHBY": "伸缩%1",
   "LOOKS_SETSTRETCHTO": "设置伸缩为%1 %",
   "LOOKS_SWITCHCOSTUMETO": "换成 %1 造型",
