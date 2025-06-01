@@ -52,6 +52,7 @@
   "DATA_SETVARIABLETO": "将 %1 设为 %2",
   "DATA_CHANGEVARIABLEBY": "将 %1 增加 %2",
   "DATA_REDUCEVARIABLEBY": "将 %1 减少 %2",
+  "DATA_JOINCLOUDSESSION": "加入云会话 %1",
   "DATA_SHOWVARIABLE": "显示变量 %1",
   "DATA_HIDEVARIABLE": "隐藏变量 %1",
   "DATA_EXPORTVARIABLE": "导出变量 %1",
