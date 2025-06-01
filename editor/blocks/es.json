@@ -54,6 +54,7 @@
   "DATA_REDUCEVARIABLEBY": "reducir %1 en %2",
   "DATA_SHOWVARIABLE": "mostrar variable %1",
   "DATA_JOINCLOUDSESSION": "unirse a la sesión en la nube %1",
+  "DATA_WHENVARIABLECHANGED": "cuando la variable %1 cambió",
   "DATA_HIDEVARIABLE": "esconder variable %1",
   "DATA_EXPORTVARIABLE": "exportar variable %1",
   "DATA_IMPORTVARIABLE": "importar variable %1",

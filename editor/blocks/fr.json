@@ -53,6 +53,7 @@
   "DATA_CHANGEVARIABLEBY": "ajouter %2 à %1",
   "DATA_REDUCEVARIABLEBY": "réduire %1 de %2",
   "DATA_JOINCLOUDSESSION": "rejoindre la session cloud %1",
+  "DATA_WHENVARIABLECHANGED": "quand la variable %1 a changé",
   "DATA_SHOWVARIABLE": "montrer la variable %1",
   "DATA_HIDEVARIABLE": "cacher la variable %1",
   "DATA_EXPORTVARIABLE": "exporter la variable %1",
