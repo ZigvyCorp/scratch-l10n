@@ -448,6 +448,7 @@
   "SENSING_PAUSE_TIMER": "temporizador de pausa",
   "SENSING_RESUME_TIMER": "reanudar el temporizador",
   "SENSING_OF": "%1 de %2",
+  "SENSING_OF2": "%1 de sprite %2 con ID de clon %3",
   "SENSING_OF_XPOSITION": "posición en x",
   "SENSING_OF_YPOSITION": "posición en y",
   "SENSING_OF_ZPOSITION": "posición en z",

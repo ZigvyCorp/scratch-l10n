@@ -449,6 +449,7 @@
   "SENSING_PAUSE_TIMER": "暫停計時器",
   "SENSING_RESUME_TIMER": "恢復計時器",
   "SENSING_OF": "%2 的 %1",
+  "SENSING_OF2": "角色 %2 克隆ID %3 的 %1",
   "SENSING_OF_XPOSITION": "x 座標",
   "SENSING_OF_YPOSITION": "y 座標",
   "SENSING_OF_ZPOSITION": "z 座標",
