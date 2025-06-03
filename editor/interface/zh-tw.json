@@ -751,7 +751,7 @@
   "gui.autoCodeReview.variableInstallButNotUse.description": "變量 '{VARIABLENAME}' 設置了一個值但從未使用過",
   "gui.autoCodeReview.sameVariable.title": "嵌套 Forloop 中使用的相同變量",
   "gui.autoCodeReview.sameVariable.description": "變量 '{VARIABLENAME}' 用於嵌套 for 循環",
-  "gui.menuBar.shareMobileLink": "分享鏈接",
+  "gui.menuBar.shareMobileLink": "應用連結",
   "gui.monitor.contextMenu.importTableWithSymbol": "導入 ('|')",
   "gui.monitor.contextMenu.exportTableWithSymbol": "導出 ('|')",
   "gui.gameLeader.scoreTitle": "分數",

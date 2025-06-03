@@ -757,7 +757,7 @@
   "gui.autoCodeReview.variableInstallButNotUse.description": "La variable '{VARIABLENAME}' tiene un valor establecido pero nunca se usa",
   "gui.autoCodeReview.sameVariable.title": "Se usa la misma variable en Forloop anidado",
   "gui.autoCodeReview.sameVariable.description": "La variable '{VARIABLENAME}' se usa en bucles for anidados",
-  "gui.menuBar.shareMobileLink": "Compartir enlace",
+  "gui.menuBar.shareMobileLink": "Enlace app",
   "gui.monitor.contextMenu.importTableWithSymbol": "importar ('|')",
   "gui.monitor.contextMenu.exportTableWithSymbol": "exportar ('|')",
   "gui.gameLeader.scoreTitle": "Puntaje",
