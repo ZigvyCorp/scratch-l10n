@@ -481,6 +481,7 @@
   "SENSING_USERNAME": "username",
   "SENSING_FULLNAME": "full name",
   "SENSING_GEOINFO": "get geo info for latitude %1 longitude %2 and write into table %3",
+  "SENSING_FINDCLONES": "find clones of %1 within distance of %2 and write into table %3",
   "SENSING_GETURLPARAM": "read URL parameter %1",
   "SENSING_SETCURSOR": "set cursor to %1",
   "SENSING_SETCURSOR_DEFAULT": "default",
