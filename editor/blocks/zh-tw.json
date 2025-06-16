@@ -54,6 +54,7 @@
   "DATA_REDUCEVARIABLEBY": "減少 %1 經過 %2",
   "DATA_addColAtPosition": "在表格 %3 的位置 %2 處添加列 %1",
   "DATA_JOINCLOUDSESSION": "加入雲會話 %1",
+  "DATA_CREATECLOUDSESSION": "創建雲會話 %1",
   "EVENT_WHENVARIABLECHANGED": "當變量 %1 改變時",
   "DATA_SHOWVARIABLE": "變量 %1 顯示",
   "DATA_HIDEVARIABLE": "變量 %1 隱藏",
