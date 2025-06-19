@@ -486,6 +486,7 @@
   "SENSING_FULLNAME": "全名",
   "SENSING_GEOINFO": "獲取緯度 %1 和經度 %2 的地理信息 並寫入表格 %3",
   "SENSING_FINDCLONES": "在距離 %2 內搜尋 %1 的克隆，並寫入表格 %3",
+  "SENSING_SEARCHCLONES": "檢測在前方距離 %2 寬度 %3 內 %1 的克隆 並寫入表格 %4",
   "SENSING_GETURLPARAM": "讀取 URL 參數 %1",
   "SENSING_SETCURSOR": "將鼠標指針設為 %1",
   "SENSING_SETCURSOR_DEFAULT": "預設",

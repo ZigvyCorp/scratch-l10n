@@ -482,6 +482,7 @@
   "SENSING_FULLNAME": "nom complet",
   "SENSING_GEOINFO": "obtenir des infos géo pour la latitude %1 et la longitude %2 et écrire dans le tableau %3",
   "SENSING_FINDCLONES": "trouver des clones de %1 dans un rayon de %2 et écrire dans le tableau %3",
+  "SENSING_SEARCHCLONES": "détecter des clones de %1 dans la distance avant %2 largeur %3 et écrire dans le tableau %4",
   "SENSING_GETURLPARAM": "lire le paramètre d'URL %1",
   "SENSING_SETCURSOR": "définir le curseur sur %1",
   "SENSING_SETCURSOR_DEFAULT": "par défaut",
