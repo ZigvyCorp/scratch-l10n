@@ -366,7 +366,7 @@
   "widget.addMenu": "agregue el menú desplegable en X [X] Y [Y] ancho [WIDTH] alto [HEIGHT] usando la lista [LIST] como [NAME]",
   "widget.whenWidgetClicked": "cuando se hizo clic en el widget [NAME]",
   "widget.whenWidgetChanges": "cuando cambia el widget llamado [NAME]",
-  "widget.setTextStyle": "establecer estilo de texto [FONT] tamaño de fuente [FONTSIZE] color de texto [TEXTCOLOR] negrita [BOLDNESS] alineación de texto [ALINEACIÓN] para [NAME]",
+  "widget.setTextStyle": "establecer estilo de texto [FONT] tamaño de fuente [FONTSIZE] color de texto [TEXTCOLOR] negrita [BOLDNESS] alineación de texto [ALIGMENT] para [NAME]",
   "widget.setWidgetStyle": "establecer el color de fondo del widget [BGCOLOR] color del borde [BORDERCOLOR] ancho del borde [BORDERWIDTH] radio del borde [BORDERRADIUS] para [NAME]",
   "widget.removeWidget": "eliminar el widget llamado [NAME]",
   "widget.removeAllWidgets": "eliminar todos los widgets",
