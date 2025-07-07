@@ -771,7 +771,7 @@
   "gui.gameLeader.noRecords": "No hay registros",
   "gui.assistantDialog.openDialog": "Chatear con XO (IA)",
   "gui.assistantDialog.closeDialog": "cerrar chat XO",
-  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v4)",
+  "gui.assistantDialog.chatDialogName": "CreatiCode XO (v5)",
   "gui.assistantDialog.sendCommand": "enviar",
   "gui.assistantDialog.stopCommand": "detener",
   "gui.assistantDialog.socraticMode": "Modo socrático",
