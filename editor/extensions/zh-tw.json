@@ -465,6 +465,7 @@
   "game.clearGameLeaderboard": "[WHO]的明確分數",
   "game.storeUserDataKey": "存儲用戶數據鍵 [KEY] 值 [VALUE]",
   "game.readUserDataKey": "讀取用戶數據密鑰[KEY]",
+  "game.removePlayerScoreByRange": "刪除名為 [NAME] 的玩家的分數，分數範圍在 [LOW] 和 [HIGH] 之間",
   "gui.stageHeader.captureBtn": "更新項目預覽圖",
   "gui.sortMenu.highest": "從高到低",
   "gui.sortMenu.lowest": "從低到高",

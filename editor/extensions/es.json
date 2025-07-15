@@ -462,6 +462,7 @@
   "game.clearGameLeaderboard": "puntajes claros para [WHO]",
   "game.storeUserDataKey": "almacenar clave de datos de usuario [KEY] valor [VALUE]",
   "game.readUserDataKey": "leer clave de datos de usuario [KEY]",
+  "game.removePlayerScoreByRange": "eliminar puntuación para el jugador llamado [NAME] con puntuación entre [LOW] y [HIGH]",
   "gui.stageHeader.captureBtn": "Actualizar la vista previa del proyecto",
   "gui.sortMenu.highest": "Más alta",
   "gui.sortMenu.lowest": "Más baja",
