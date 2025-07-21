@@ -461,6 +461,7 @@
   "game.clearGameLeaderboard": "clear scores for [WHO]",
   "game.storeUserDataKey": "store user data key [KEY] value [VALUE]",
   "game.readUserDataKey": "read user data key [KEY]",
+  "game.removePlayerScoreByRange": "remove score for player named [NAME] with score between [LOW] and [HIGH]",
   "gui.stageHeader.captureBtn": "Update project preview",
   "gui.sortMenu.highest": "Highest",
   "gui.sortMenu.lowest": "Lowest",
