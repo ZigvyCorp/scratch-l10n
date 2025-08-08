@@ -306,6 +306,7 @@
   "gui.stageSelector.addBackdropFromSurprise": "随机",
   "gui.stageSelector.addBackdropFromFile": "上传背景",
   "gui.stageSelector.addBackdropFromAI": "搜索或创建 AI 图像",
+  "gui.stageSelector.addCodeSnippet": "代码片段库",
   "gui.stageSelector.stage": "舞台",
   "gui.stageSelector.backdrops": "背景",
   "gui.telemetryOptIn.label": "统计使用情况并发送给Scratch",

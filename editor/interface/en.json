@@ -306,6 +306,7 @@
   "gui.stageSelector.addBackdropFromSurprise": "Surprise",
   "gui.stageSelector.addBackdropFromFile": "Upload Backdrop",
   "gui.stageSelector.addBackdropFromAI": "Search or Generate AI Images",
+  "gui.stageSelector.addCodeSnippet": "Code Snippets Library",
   "gui.stageSelector.stage": "Stage",
   "gui.stageSelector.backdrops": "Backdrops",
   "gui.telemetryOptIn.label": "Report statistics to improve Scratch",
@@ -820,5 +821,7 @@
   "gui.aiGenerateLibrary.requestStatus.action": "Action",
   "gui.aiGenerateLibrary.reportImage": "Report Image",
   "gui.aiGenerateLibrary.report": "Report",
-  "gui.aiGenerateLibrary.reRenegate": "Regenerating image:"
+  "gui.aiGenerateLibrary.reRenegate": "Regenerating image:",
+  "gui.codeSnippetLibrary.chooseACodeSnippet": "Choose a code snippet",
+  "gui.codeSnippetLibrary.searchPlaceholder": "Enter name or description or pseudocode to search"
 }

@@ -305,6 +305,7 @@
   "gui.stageSelector.addBackdropFromSurprise": "Surprise",
   "gui.stageSelector.addBackdropFromFile": "Importer un arrière-plan",
   "gui.stageSelector.addBackdropFromAI": "Rechercher ou générer des images IA",
+  "gui.stageSelector.addCodeSnippet": "Bibliothèque de fragments de code",
   "gui.stageSelector.stage": "Scène",
   "gui.stageSelector.backdrops": "Arrière-plans",
   "gui.telemetryOptIn.label": "Envoyer des statistiques pour améliorer Scratch",
