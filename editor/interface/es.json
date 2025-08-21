@@ -834,7 +834,7 @@
   "gui.codeSnippet.notification.reportItemError": "Por favor, introduce una razón para reportar.",
   "gui.codeSnippet.notification.reportItemSuccess": "Gracias por tu reporte. Lo revisaremos lo antes posible.",
   "gui.codeSnippet.notification.fetchSpriteFail": "Error al obtener el objeto",
-  "gui.codeSnippet.notification.addSpriteSuccess": "El objeto ha sido añadido al proyecto con el nombre:",
+  "gui.codeSnippet.notification.addSpriteSuccess": "Fragmento de código añadido correctamente:",
   "gui.codeSnippet.notification.addSpriteFail": "Error al añadir el objeto:",
   "gui.codeSnippet.notification.somethingWentWrong": "¡Algo salió mal!",
   "gui.codeSnippet.notification.deleteItemSuccess": "Fragmento de código eliminado correctamente",

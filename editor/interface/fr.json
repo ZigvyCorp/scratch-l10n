@@ -832,7 +832,7 @@
   "gui.codeSnippet.notification.reportItemError": "Veuillez saisir une raison pour le signalement.",
   "gui.codeSnippet.notification.reportItemSuccess": "Merci pour votre signalement. Nous l'examinerons dès que possible.",
   "gui.codeSnippet.notification.fetchSpriteFail": "Échec de la récupération du sprite",
-  "gui.codeSnippet.notification.addSpriteSuccess": "Le sprite a été ajouté au projet avec le nom :",
+  "gui.codeSnippet.notification.addSpriteSuccess": "Extrait de code ajouté avec succès :",
   "gui.codeSnippet.notification.addSpriteFail": "Erreur lors de l'ajout du sprite :",
   "gui.codeSnippet.notification.somethingWentWrong": "Quelque chose s'est mal passé !",
   "gui.codeSnippet.notification.deleteItemSuccess": "Extrait de code supprimé avec succès",

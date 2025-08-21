@@ -828,7 +828,7 @@
   "gui.codeSnippet.notification.reportItemError": "請輸入舉報原因。",
   "gui.codeSnippet.notification.reportItemSuccess": "感謝您的舉報。我們會盡快審核。",
   "gui.codeSnippet.notification.fetchSpriteFail": "讀取角色失敗",
-  "gui.codeSnippet.notification.addSpriteSuccess": "角色已新增至專案，名稱為：",
+  "gui.codeSnippet.notification.addSpriteSuccess": "已成功新增程式碼片段：",
   "gui.codeSnippet.notification.addSpriteFail": "新增角色時發生錯誤：",
   "gui.codeSnippet.notification.somethingWentWrong": "發生錯誤！",
   "gui.codeSnippet.notification.deleteItemSuccess": "程式碼片段刪除成功",

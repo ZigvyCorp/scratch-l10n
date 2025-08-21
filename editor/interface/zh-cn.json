@@ -834,7 +834,7 @@
   "gui.codeSnippet.notification.reportItemError": "请输入举报原因。",
   "gui.codeSnippet.notification.reportItemSuccess": "感谢您的举报。我们会尽快审核。",
   "gui.codeSnippet.notification.fetchSpriteFail": "获取角色失败",
-  "gui.codeSnippet.notification.addSpriteSuccess": "角色已添加到项目中，名称为：",
+  "gui.codeSnippet.notification.addSpriteSuccess": "已成功添加代码片段：",
   "gui.codeSnippet.notification.addSpriteFail": "添加角色时出错：",
   "gui.codeSnippet.notification.somethingWentWrong": "出错了！",
   "gui.codeSnippet.notification.deleteItemSuccess": "代码片段删除成功",

@@ -831,7 +831,7 @@
   "gui.codeSnippet.notification.reportItemError": "Please enter a reason for reporting.",
   "gui.codeSnippet.notification.reportItemSuccess": "Thank you for your report. We will review it as soon as possible.",
   "gui.codeSnippet.notification.fetchSpriteFail": "Failed to fetch sprite",
-  "gui.codeSnippet.notification.addSpriteSuccess": "Sprite has been added to the project with name:",
+  "gui.codeSnippet.notification.addSpriteSuccess": "Successfully added code snippet:",
   "gui.codeSnippet.notification.addSpriteFail": "Error while adding sprite:",
   "gui.codeSnippet.notification.somethingWentWrong": "Something went wrong!",
   "gui.codeSnippet.notification.deleteItemSuccess": "Code snippet deleted successfully",
