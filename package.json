@@ -9,7 +9,8 @@
     },
     "scripts": {
         "build:data": "babel-node scripts/build-data",
-        "build": "yarn && yarn clean && yarn build:data && webpack --progress --colors --bail",
+        "build:data-lazy": "babel-node scripts/build-data-lazy",
+        "build": "yarn && yarn clean && yarn build:data && yarn build:data-lazy && webpack --progress --colors --bail",
         "clean": "rimraf ./dist ./locales && mkdirp dist locales",
         "lint:js": "eslint . --ext .js",
         "lint:json": "jshint -e .json www editor/blocks editor/extensions editor/interface editor/paint-editor",
