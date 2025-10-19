@@ -790,7 +790,7 @@
   "gui.gameLeader.noRecords": "无记录",
   "gui.assistantDialog.openDialog": "与 XO 智能助手聊天",
   "gui.assistantDialog.closeDialog": "关闭 XO 对话框",
-  "gui.assistantDialog.chatDialogName": "创益编程 XO (v5)",
+  "gui.assistantDialog.chatDialogName": "创益编程 XO 聊天机器人 (v5)",
   "gui.assistantDialog.sendCommand": "发送",
   "gui.assistantDialog.stopCommand": "停止",
   "gui.assistantDialog.socraticMode": "苏格拉底模式",

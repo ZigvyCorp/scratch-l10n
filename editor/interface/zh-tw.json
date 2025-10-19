@@ -784,7 +784,7 @@
   "gui.gameLeader.noRecords": "無記錄",
   "gui.assistantDialog.openDialog": "與 XO 智慧助理聊天",
   "gui.assistantDialog.closeDialog": "關閉 XO 對話框",
-  "gui.assistantDialog.chatDialogName": "創益編程 XO (v5)",
+  "gui.assistantDialog.chatDialogName": "創益編程 XO 聊天機器人 (v5)",
   "gui.assistantDialog.sendCommand": "發送",
   "gui.assistantDialog.stopCommand": "停止",
   "gui.assistantDialog.socraticMode": "蘇格拉底模式",
