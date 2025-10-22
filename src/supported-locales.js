@@ -9,6 +9,7 @@ const locales = {
     'fr': {name: 'Français'},
     'de': {name: 'Deutsch'},
     'zh-cn': {name: '简体中文'},
+    'pl': {name: 'Polski'},
     'zh-tw': {name: '繁體中文'},
     'ja': {name: '日本語'},
     'ab': {name: 'Аҧсшәа'},
@@ -62,7 +63,6 @@ const locales = {
     'uz': {name: 'Oʻzbekcha'},
     'th': {name: 'ไทย'},
     'km': {name: 'ភាសាខ្មែរ'},
-    'pl': {name: 'Polski'},
     'pt': {name: 'Português'},
     'pt-br': {name: 'Português Brasileiro'},
     'rap': {name: 'Rapa Nui'},
@@ -85,7 +85,7 @@ const indexLanguage = {
     'es': {name: 'Español (España)'},
     'fr': {name: 'Français'},
     'zh-cn': {name: '简体中文'},
-    'zh-tw': {name: '繁體中文'}
+    'pl': {name: 'Polski'}
 };
 
 const customLocales = {
