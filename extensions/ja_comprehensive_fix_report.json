@@ -1,0 +1,3428 @@
+[
+  {
+    "key": "mp.createMultiplayerGame",
+    "original": "create game 名前d [GAMENAME] password [PASSWORD] my 名前 [DISPLAYNAME] role [ROLE] server [REGION] capacity [PLAYERCOUNT] world width [WIDTH] height [HEIGHT]",
+    "fixed": "ゲームを作成 名前 [GAMENAME] パスワード [PASSWORD] 自分の名前 [DISPLAYNAME] 役割 [ROLE] サーバー [REGION] 定員 [PLAYERCOUNT] ワールド 幅 [WIDTH] 高さ [HEIGHT]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.listMultiplayerGameUsers",
+    "original": "list players in game [GAMENAME] hosted by [HOSTUSERNAME] from server [REGION] in table [TABLE]",
+    "fixed": "ゲーム [GAMENAME] のプレイヤー一覧 ホスト [HOSTUSERNAME] サーバー [REGION] テーブル [TABLE]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.resetMultiplayerGame",
+    "original": "reset game world",
+    "fixed": "ゲームワールドをリセット",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.listMultiplayerGames",
+    "original": "list multiplayer games in server [REGION] in table [TABLE]",
+    "fixed": "マルチプレイヤーゲーム一覧 サーバー [REGION] テーブル [TABLE]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.joinMultiplayerGame",
+    "original": "join multiplayer game 名前d [GAMENAME] by host [HOSTUSERNAME] from server [REGION] with password [PASSWORD] my 名前 [DISPLAYNAME] role [ROLE]",
+    "fixed": "マルチプレイヤーゲームに参加 名前 [GAMENAME] ホスト [HOSTUSERNAME] サーバー [REGION] パスワード [PASSWORD] 自分の名前 [DISPLAYNAME] 役割 [ROLE]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.addSpriteToGame",
+    "original": "add this sprite to game as a [MOTIONTYPE] [SHAPETYPE] width [WIDTH] height [HEIGHT]",
+    "fixed": "このスプライトをゲームに追加 [MOTIONTYPE] [SHAPETYPE] 幅 [WIDTH] 高さ [HEIGHT]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.removeSpriteFromGame",
+    "original": "remove this sprite from game",
+    "fixed": "このスプライトをゲームから削除",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.setSyncMovement",
+    "original": "synchronously set speed x [XSPEED] y [YSPEED]",
+    "fixed": "同期的に速度を設定 x [XSPEED] y [YSPEED]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp_setSyncMovement2",
+    "original": "synchronously set speed [SPEED] in direction [DIR]",
+    "fixed": "同期的に速度を設定 [SPEED] 向き [DIR]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp_setSyncDir",
+    "original": "synchronously set direction [DIRECTION]",
+    "fixed": "同期的に向きを設定 [DIRECTION]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp_setSyncPosition",
+    "original": "synchronously set position x [XPOS] y [YPOS]",
+    "fixed": "同期的に位置を設定 x [XPOS] y [YPOS]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.broadcastMessageToAll",
+    "original": "broadcast [BROADCASTMESSAGE] with parameter [PARAM] mode [TARGETTYPE]",
+    "fixed": "[BROADCASTMESSAGE] を送る パラメータ [PARAM] モード [TARGETTYPE]",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.spriteScope.allSprites",
+    "original": "All Sprites",
+    "fixed": "すべてのスプライト",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.spriteScope.originalSprites",
+    "original": "Original Sprites",
+    "fixed": "オリジナルスプライト",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.stop",
+    "original": "Stop",
+    "fixed": "停止",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.stopAndCollect",
+    "original": "Stop and Collect",
+    "fixed": "停止して収集",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.continue",
+    "original": "Continue",
+    "fixed": "続行",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.continueAndCollect",
+    "original": "Continue and Collect",
+    "fixed": "続行して収集",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.selfDestruct",
+    "original": "Self-Destruct",
+    "fixed": "自己破壊",
+    "type": "manual_fix"
+  },
+  {
+    "key": "mp.stopType.selfDestructAndCollect",
+    "original": "Self-Destruct and Collect",
+    "fixed": "自己破壊 と 収集",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.stopType.reboundAndDelete",
+    "original": "Rebound and Destroy It",
+    "fixed": "Rebound と Destroy It",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.broadcastTouchMessage",
+    "original": "when touching [SPRITE] with clone ID prefix [CLONEID] I will [STOPTYPE] and broadcast [BROADCASTMESSAGE] with parameter [PARAM]",
+    "fixed": "とき 触れた [スプライト] で clone ID prefix [CLONEID] I will [STOPTYPE] と 送る [BROADCASTMESSAGE] で パラメータ [PARAM]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.isConnectedToGame",
+    "original": "connected to game",
+    "fixed": "connected へ ゲーム",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.whenAddedToGame",
+    "original": "when added to game",
+    "fixed": "とき added へ ゲーム",
+    "type": "auto_fix"
+  },
+  {
+    "key": "playerentity",
+    "original": "Player",
+    "fixed": "プレイヤー",
+    "type": "auto_fix"
+  },
+  {
+    "key": "circleshape",
+    "original": "Circle",
+    "fixed": "円",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.setSyncCostume",
+    "original": "synchronously set costume to [COSTUME]",
+    "fixed": "同期的に 設定 コスチューム へ [コスチューム]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "mp.leaveMultiplayerGame",
+    "original": "leave multiplayer game world [WORLDNAME]",
+    "fixed": "leave マルチプレイヤー ゲーム ワールド [WORLDNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.enablePhysics",
+    "original": "initialize 2D physics world with gravity x [X] y [Y]",
+    "fixed": "initialize 2D physics ワールド で gravity x [X] y [Y]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setPhysicsBody",
+    "original": "behave as a [TYPE] [SENSORTYPE] shape [SHAPE] debug [DEBUG]",
+    "fixed": "behave として a [TYPE] [SENSORTYPE] shape [SHAPE] debug [DEBUG]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "dynamicbody",
+    "original": "Dynamic",
+    "fixed": "動的",
+    "type": "auto_fix"
+  },
+  {
+    "key": "boxshape",
+    "original": "Box",
+    "fixed": "四角形",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setPhysicsBody2",
+    "original": "behave as a [TYPE] [SENSORTYPE] in compound shape with curve tolerance [TOLERANCE] point distance [DISTANCE] debug [DEBUG]",
+    "fixed": "behave として a [TYPE] [SENSORTYPE] の compound shape で curve tolerance [TOLERANCE] point distance [DISTANCE] debug [DEBUG]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.updatePhysicsBody",
+    "original": "update density [DENSITY] friction [FRICTION]% restitution [RESTITUION]%",
+    "fixed": "更新 density [DENSITY] friction [FRICTION]% restitution [RESTITUION]%",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setVelocityX",
+    "original": "set x speed [SPEED]",
+    "fixed": "設定 x 速度 [速度]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setVelocityY",
+    "original": "set y speed [SPEED]",
+    "fixed": "設定 y 速度 [速度]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setVelocityDIR",
+    "original": "set speed [SPEED] in direction [DIR]",
+    "fixed": "設定 速度 [速度] の 向き [DIR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setVelocityMovingDIR",
+    "original": "set speed [SPEED] in moving direction",
+    "fixed": "設定 速度 [速度] の moving 向き",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setRotationSpeed",
+    "original": "set rotation speed [SPEED]",
+    "fixed": "設定 回転 速度 [速度]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setDIRByVelocity",
+    "original": "point in direction of speed",
+    "fixed": "point の 向き の 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addForce",
+    "original": "add force [FORCE] in direction [DIR]",
+    "fixed": "追加 force [FORCE] の 向き [DIR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addForce2",
+    "original": "add force [FORCE] in direction [DIR] at position x [PX] y [PY]",
+    "fixed": "追加 force [FORCE] の 向き [DIR] at 位置 x [PX] y [PY]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.clearForce",
+    "original": "remove all forces",
+    "fixed": "削除 すべて forces",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addTorque",
+    "original": "add torque [TORQUE]",
+    "fixed": "追加 torque [TORQUE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.clearTorque",
+    "original": "remove all torques",
+    "fixed": "削除 すべて torques",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.applyImpulse",
+    "original": "apply impulse [FORCE] in direction [DIR]",
+    "fixed": "apply impulse [FORCE] の 向き [DIR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.applyImpulse2",
+    "original": "apply impulse [FORCE] in direction [DIR] at position x [PX] y [PY]",
+    "fixed": "apply impulse [FORCE] の 向き [DIR] at 位置 x [PX] y [PY]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.lockMovement",
+    "original": "prevent body movement from forces [YESNO]",
+    "fixed": "prevent body movement から forces [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.lockRotation",
+    "original": "prevent body rotation from forces [YESNO]",
+    "fixed": "prevent body 回転 から forces [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setDampingFactor",
+    "original": "set damping factor for movement [MD] % rotation [RD] %",
+    "fixed": "設定 damping factor for movement [MD] % 回転 [RD] %",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.broadcastCollisionEventMessage",
+    "original": "broadcast [BROADCASTMESSAGESTART] when colliding with [SPRITE]",
+    "fixed": "送る [BROADCASTMESSAGESTART] とき colliding で [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.broadcastCollisionEventMessage2",
+    "original": "broadcast [BROADCASTMESSAGESTOP] when finish colliding with [SPRITE]",
+    "fixed": "送る [BROADCASTMESSAGESTOP] とき finish colliding で [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addToCollisionGroup",
+    "original": "add to collision group [GROUP]",
+    "fixed": "追加 へ collision group [GROUP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.removeFromCollisionGroup",
+    "original": "remove from collision group [GROUP]",
+    "fixed": "削除 から collision group [GROUP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addCollisionFilter",
+    "original": "enable collision with group [GROUP]",
+    "fixed": "enable collision で group [GROUP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.removeCollisionFilter",
+    "original": "disable collision with group [GROUP]",
+    "fixed": "disable collision で group [GROUP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setDominanceGroup",
+    "original": "set dominance group to [GROUP]",
+    "fixed": "設定 dominance group へ [GROUP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setCCD",
+    "original": "enable collision detection as a fast object [YESNO]",
+    "fixed": "enable collision detection として a fast object [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setGravityScale",
+    "original": "set gravity scale [SCALE] %",
+    "fixed": "設定 gravity scale [SCALE] %",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addFixedJoint",
+    "original": "fix relative position to [SPRITE]",
+    "fixed": "fix relative 位置 へ [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addRevolteJoint",
+    "original": "set [SPRITE] as rotation axis with offset x [X] y [Y]",
+    "fixed": "設定 [スプライト] として 回転 axis で offset x [X] y [Y]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setRotationAxisSpeed",
+    "original": "set rotation axis speed [SPEED] damping factor [DAMPING] %",
+    "fixed": "設定 回転 axis 速度 [速度] damping factor [DAMPING] %",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.removeFixedJoint",
+    "original": "remove relative position constraint",
+    "fixed": "削除 relative 位置 constraint",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.removeRevolteJoint",
+    "original": "remove rotation axis",
+    "fixed": "削除 回転 axis",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.addPrismaticJoint",
+    "original": "allow [XORY] sliding relative to [SPRITE] range from [MINDISTANCE] to [MAXDISTANCE]",
+    "fixed": "allow [XORY] sliding relative へ [スプライト] range から [MINDISTANCE] へ [MAXDISTANCE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setEdgeCollider",
+    "original": "set world border collider friction [FRICTION]%  restitution [RESTITUION]%",
+    "fixed": "設定 ワールド border collider friction [FRICTION]%  restitution [RESTITUION]%",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.setEdgeCollisionGroup",
+    "original": "set world border collision group [CG] colliding with group [TG]",
+    "fixed": "設定 ワールド border collision group [CG] colliding で group [TG]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.removeCollider",
+    "original": "remove physics-based behavior",
+    "fixed": "削除 physics-based behavior",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.getVelocityX",
+    "original": "x speed",
+    "fixed": "x 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.getVelocityY",
+    "original": "y speed",
+    "fixed": "y 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.getAngularVelocity",
+    "original": "angular speed",
+    "fixed": "angular 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "physics.getCollidingBottom",
+    "original": "in collision below",
+    "fixed": "の collision below",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.listSheetsInGoogleSheet",
+    "original": "list all sheets in google sheet at URL [SHEET_URL] into list [LIST]",
+    "fixed": "一覧 すべて sheets の google sheet at URL [SHEET_URL] into 一覧 [一覧]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.readFromGoogleSheet",
+    "original": "read from google sheet: URL [SHEET_URL] sheet 名前 [SHEET_NAME] range [RANGE_VALUE] into table [TABLE]",
+    "fixed": "read から google sheet: URL [SHEET_URL] sheet 名前 [SHEET_NAME] range [RANGE_VALUE] into テーブル [テーブル]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.getGoogleFolderContent",
+    "original": "list content of Google Drive folder [URL] in table [TABLE]",
+    "fixed": "一覧 content の Google Drive folder [URL] の テーブル [テーブル]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.uploadSoundToGoogleDrive",
+    "original": "upload sound [SOUNDNAME] to Google Drive folder at URL [URL]",
+    "fixed": "upload sound [SOUNDNAME] へ Google Drive folder at URL [URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.writeInToGoogleSheet",
+    "original": "write into google sheet: URL [SHEET_URL] sheet 名前 [SHEET_NAME] starting cell [RANGE_VALUE] from table [TABLE]",
+    "fixed": "write into google sheet: URL [SHEET_URL] sheet 名前 [SHEET_NAME] starting cell [RANGE_VALUE] から テーブル [テーブル]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.addSheet",
+    "original": "add sheet [SHEET_NAME] to google sheet at URL [SHEET_URL]",
+    "fixed": "追加 sheet [SHEET_NAME] へ google sheet at URL [SHEET_URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.removeSheet",
+    "original": "remove sheet [SHEET_NAME] from google sheet at URL [SHEET_URL]",
+    "fixed": "削除 sheet [SHEET_NAME] から google sheet at URL [SHEET_URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.appendRow",
+    "original": "append row [ROW] from table [TABLE] to sheet [SHEET_NAME] in Google Sheet at URL [SHEET_URL]",
+    "fixed": "append row [ROW] から テーブル [テーブル] へ sheet [SHEET_NAME] の Google Sheet at URL [SHEET_URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.setValue",
+    "original": "set value to [VALUE] at row [ROW] column [COLUMN] of sheet [SHEET_NAME] in Google Sheet at URL [SHEET_URL]",
+    "fixed": "設定 value へ [VALUE] at row [ROW] column [COLUMN] の sheet [SHEET_NAME] の Google Sheet at URL [SHEET_URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.getValue",
+    "original": "value at row [ROW] column [COLUMN] of sheet [SHEET_NAME] in Google Sheet at URL [SHEET_URL]",
+    "fixed": "value at row [ROW] column [COLUMN] の sheet [SHEET_NAME] の Google Sheet at URL [SHEET_URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.removeColumnsFromSheet",
+    "original": "remove columns %1 to %2 from sheet %3 in Google Sheet at URL %4",
+    "fixed": "削除 columns %1 へ %2 から sheet %3 の Google Sheet at URL %4",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.readWorldsInfo",
+    "original": "read all worlds info into table [TABLE]",
+    "fixed": "read すべて worlds info into テーブル [テーブル]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.fetchFromURL",
+    "original": "fetch web page as [FORMAT] from URL [URL]",
+    "fixed": "fetch web page として [FORMAT] から URL [URL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.createWorld",
+    "original": "create world [WORLD] password [PASSWORD] my nick名前 [NICKNAME]",
+    "fixed": "作成 ワールド [ワールド] パスワード [パスワード] my nick名前 [NICKNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.joinWorld",
+    "original": "join world [WORLD] password [PASSWORD] my nick名前 [NICKNAME]",
+    "fixed": "参加 ワールド [ワールド] パスワード [パスワード] my nick名前 [NICKNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.leaveworld",
+    "original": "leave world",
+    "fixed": "leave ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.deleteworld",
+    "original": "delete world",
+    "fixed": "削除 ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.broadcast",
+    "original": "broadcast a message [MESSAGE] to world",
+    "fixed": "送る a メッセージ [メッセージ] へ ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.receivemessage",
+    "original": "when I receive [MESSAGE] from [USER]",
+    "fixed": "とき I receive [メッセージ] から [USER]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.whenworldcreated",
+    "original": "when world created",
+    "fixed": "とき ワールド 作成された",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.whenworlddeleted",
+    "original": "when world deleted",
+    "fixed": "とき ワールド deleted",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.whenmemberjoined",
+    "original": "when new member [USERNAME] with nick名前 [NICKNAME] joins the world",
+    "fixed": "とき new member [USERNAME] で nick名前 [NICKNAME] joins the ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.whenmemberleft",
+    "original": "when member [USERNAME] leaves the world",
+    "fixed": "とき member [USERNAME] leaves the ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.readworldmember",
+    "original": "read world member info into table [WORLD_MEMBER]",
+    "fixed": "read ワールド member info into テーブル [WORLD_MEMBER]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.currentWorld",
+    "original": "current world",
+    "fixed": "current ワールド",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.createEmail",
+    "original": "create email 名前d [NAME] sender 名前 [SENDER] sender email [SENDEREMAIL] receiver email [RECEIVEREMAIL] Subject [SUBJECT]",
+    "fixed": "作成 email 名前d [名前] sender 名前 [SENDER] sender email [SENDEREMAIL] receiver email [RECEIVEREMAIL] Subject [SUBJECT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.addToEmailContent",
+    "original": "add to email 名前d [NAME] content [TEXT] font size [FSIZE] format [FORMAT] color [COLOR] new line [YES]",
+    "fixed": "追加 へ email 名前d [名前] content [TEXT] font 大きさ [FSIZE] format [FORMAT] color [COLOR] new line [YES]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.sendEmail",
+    "original": "send email 名前d [NAME]",
+    "fixed": "send email 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.sendPhoneSMS",
+    "original": "send message to phone number [RECEIVER] content [CONTENT]",
+    "fixed": "send メッセージ へ phone number [RECEIVER] content [CONTENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addTextbox",
+    "original": "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]",
+    "fixed": "追加 textbox at X [X] Y [Y] 幅 [幅] 高さ [高さ] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] モード [モード] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addRichTextbox",
+    "original": "add rich textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] mode [MODE] as [NAME]",
+    "fixed": "追加 rich textbox at X [X] Y [Y] 幅 [幅] 高さ [高さ] padding [PADDING] モード [モード] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.valueFromWidget",
+    "original": "value of widget [NAME]",
+    "fixed": "value の ウィジェット [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setText",
+    "original": "set value to [TEXT] for widget [NAME]",
+    "fixed": "設定 value へ [TEXT] for ウィジェット [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.appendText",
+    "original": "append text [TEXT] to [NAME] in new line [YESNO]",
+    "fixed": "append text [TEXT] へ [名前] の new line [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addLabel",
+    "original": "add label [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] as [NAME]",
+    "fixed": "追加 label [TEXT] at X [X] Y [Y] 幅 [幅] 高さ [高さ] padding [PADDING] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addButton",
+    "original": "add button [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] tooltip [TOOLTIP] as [NAME]",
+    "fixed": "追加 button [TEXT] at X [X] Y [Y] 幅 [幅] 高さ [高さ] tooltip [TOOLTIP] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addDatePicker",
+    "original": "add date picker at X [X] Y [Y] as [NAME]",
+    "fixed": "追加 date picker at X [X] Y [Y] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addColorPicker",
+    "original": "add color picker at X [X] Y [Y] as [NAME]",
+    "fixed": "追加 color picker at X [X] Y [Y] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addSlider",
+    "original": "add slider at X [X] Y [Y] width [WIDTH] between [MIN] and [MAX] as [NAME]",
+    "fixed": "追加 slider at X [X] Y [Y] 幅 [幅] between [MIN] と [MAX] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addMenu",
+    "original": "add dropdown menu at X [X] Y [Y] width [WIDTH] height [HEIGHT] using list [LIST] as [NAME]",
+    "fixed": "追加 dropdown menu at X [X] Y [Y] 幅 [幅] 高さ [高さ] using 一覧 [一覧] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenWidgetClicked",
+    "original": "when widget [NAME] clicked",
+    "fixed": "とき ウィジェット [名前] clicked",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenWidgetChanges",
+    "original": "when widget [NAME] changes",
+    "fixed": "とき ウィジェット [名前] changes",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setTextStyle",
+    "original": "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] for widget [NAME]",
+    "fixed": "設定 text 方法 [FONT] font 大きさ [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] for ウィジェット [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setWidgetStyle",
+    "original": "set widget background color [BGCOLOR] border color [BORDERCOLOR] border width [BORDERWIDTH] border radius [BORDERRADIUS] for [NAME]",
+    "fixed": "設定 ウィジェット background color [BGCOLOR] border color [BORDERCOLOR] border 幅 [BORDERWIDTH] border radius [BORDERRADIUS] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.removeWidget",
+    "original": "remove widget 名前d [NAME]",
+    "fixed": "削除 ウィジェット 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.removeAllWidgets",
+    "original": "remove all widgets",
+    "fixed": "削除 すべて widgets",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setVisibility",
+    "original": "set visibility [VISIBILITY] for widget 名前d [NAME]",
+    "fixed": "設定 visibility [VISIBILITY] for ウィジェット 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setVisibilityForAll",
+    "original": "set visibility [VISIBILITY] for all widgets",
+    "fixed": "設定 visibility [VISIBILITY] for すべて widgets",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setZindex",
+    "original": "set z-index to [ZINDEX] for widget 名前d [NAME]",
+    "fixed": "設定 z-index へ [ZINDEX] for ウィジェット 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenMouseEnter",
+    "original": "when pointer enters widget 名前d [NAME]",
+    "fixed": "とき pointer enters ウィジェット 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenMouseLeave",
+    "original": "when pointer leaves widget 名前d [NAME]",
+    "fixed": "とき pointer leaves ウィジェット 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addVideo",
+    "original": "add youtube video [URL] at X [X] Y [Y] width [WIDTH] height [HEIGHT] 名前d [NAME] in [BACKGROUND]",
+    "fixed": "追加 youtube video [URL] at X [X] Y [Y] 幅 [幅] 高さ [高さ] 名前d [名前] の [BACKGROUND]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.actionVideo",
+    "original": "[ACTION] video for [NAME]",
+    "fixed": "[ACTION] video for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.seekToSecondsVideo",
+    "original": "seek to [SECONDS] seconds in video 名前d [NAME]",
+    "fixed": "seek へ [SECONDS] seconds の video 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.currentVideoTime",
+    "original": "current video time for [NAME]",
+    "fixed": "current video time for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setYoutubeVolume",
+    "original": "set volume to [VOLUME] for [NAME]",
+    "fixed": "設定 volume へ [VOLUME] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setYoutubePlaybackSpeedRatio",
+    "original": "set playback speed ratio [SPEED] for [NAME]",
+    "fixed": "設定 playback 速度 ratio [速度] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenVideoTimeIs",
+    "original": "when video time is [SECONDS] seconds for [NAME]",
+    "fixed": "とき video time is [SECONDS] seconds for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addImage",
+    "original": "add image [COSTUME] to widget 名前d [NAME] at position X [X] Y [Y]",
+    "fixed": "追加 image [コスチューム] へ ウィジェット 名前d [名前] at 位置 X [X] Y [Y]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addImageURL",
+    "original": "add image at URL [URL] to widget 名前d [NAME] at position X [X] Y [Y]",
+    "fixed": "追加 image at URL [URL] へ ウィジェット 名前d [名前] at 位置 X [X] Y [Y]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "left-right flipped",
+    "original": "Left-Right Flipped",
+    "fixed": "退出した-Right Flipped",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.menuItem.show",
+    "original": "show",
+    "fixed": "表示",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.menuItem.hide",
+    "original": "hide",
+    "fixed": "非表示",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.menuItem.stop",
+    "original": "stop",
+    "fixed": "停止",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.alignment.left",
+    "original": "Left",
+    "fixed": "退出した",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.tabMenu.add",
+    "original": "add",
+    "fixed": "追加",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.tabMenu.remove",
+    "original": "remove",
+    "fixed": "削除",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.moveWidgetToXY",
+    "original": "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]",
+    "fixed": "move ウィジェット [名前] へ X [X] Y [Y] の [SECONDS] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.scaleWidgetToWidthHeight",
+    "original": "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]",
+    "fixed": "scale ウィジェット [名前] へ 幅 [幅]% 高さ [高さ]% の [SECONDS] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.resizeWidgetToWidthHeight",
+    "original": "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]",
+    "fixed": "resize ウィジェット [名前] へ 幅 [幅] 高さ [高さ] の [SECONDS] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.rotateWidgetByDegrees",
+    "original": "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]",
+    "fixed": "rotate ウィジェット [名前] による [DEGREES] degrees の [SECONDS] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.transparencyToWidget",
+    "original": "set transparency for widget [NAME] to [TRANSPARENT] % in [SECONDS] seconds [BLOCKING]",
+    "fixed": "設定 transparency for ウィジェット [名前] へ [TRANSPARENT] % の [SECONDS] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addLink",
+    "original": "add link at X [X] Y [Y] url [URL] as [NAME]",
+    "fixed": "追加 link at X [X] Y [Y] url [URL] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addMenuBar",
+    "original": "add menu bar at X [X] Y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "追加 menu bar at X [X] Y [Y] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addMenuGroup",
+    "original": "add menu group [MENUGROUP] to menu bar 名前d [NAME]",
+    "fixed": "追加 menu group [MENUGROUP] へ menu bar 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addMenuItem",
+    "original": "add menu item [MENUITEM] to menu group 名前d [NAME]",
+    "fixed": "追加 menu item [MENUITEM] へ menu group 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.confirmTextWithButtons",
+    "original": "confirm [NAME] with buttons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]",
+    "fixed": "confirm [名前] で buttons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenAnyButtonNamedClicked",
+    "original": "when any button 名前d [VARIABLE] clicked",
+    "fixed": "とき any button 名前d [VARIABLE] clicked",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.releaseFocus",
+    "original": "release focus for widget [WIDGETNAME]",
+    "fixed": "release focus for ウィジェット [WIDGETNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setValueOfWidgetTo",
+    "original": "set value of widget [WIDGET] to [VALUE]",
+    "fixed": "設定 value の ウィジェット [ウィジェット] へ [VALUE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addRadioButton",
+    "original": "add radio buttons [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] at x [X] y [Y] width [WIDTH] height [HEIGHT] 名前d [NAME]",
+    "fixed": "追加 radio buttons [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [向き] at x [X] y [Y] 幅 [幅] 高さ [高さ] 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addCheckbox",
+    "original": "add checkbox at X [X] Y [Y] 名前d [NAME]",
+    "fixed": "追加 checkbox at X [X] Y [Y] 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.runProject",
+    "original": "run project [PROJECT] in [OPTION] browser tab",
+    "fixed": "run project [PROJECT] の [OPTION] browser tab",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.runProject-dropdown1",
+    "original": "this",
+    "fixed": "この",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.openNewTabWithURL",
+    "original": "open URL [URL] in new browser tab",
+    "fixed": "open URL [URL] の new browser tab",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.applyLayoutRowHeightCellWidth",
+    "original": "apply layout row 名前d [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]",
+    "fixed": "apply layout row 名前d [ROW] 高さ [高さ]% cell 幅 [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addTabs",
+    "original": "create tabs at X [X] Y [Y] width [WIDTH] height [HEIGHT] 名前s [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] show heading [OPTION]",
+    "fixed": "作成 tabs at X [X] Y [Y] 幅 [幅] 高さ [高さ] 名前s [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] 表示 heading [OPTION]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.selectTab",
+    "original": "select tab [NAME]",
+    "fixed": "select tab [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setTabContainer",
+    "original": "set tab container [NAME]",
+    "fixed": "設定 tab container [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.showHideTabNamed",
+    "original": "[VISIBILITY] tab 名前d [NAME]",
+    "fixed": "[VISIBILITY] tab 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addRemoveTabNamed",
+    "original": "[OPTION] tab 名前d [NAME]",
+    "fixed": "[OPTION] tab 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenTabSelected",
+    "original": "when tab [NAME] selected",
+    "fixed": "とき tab [名前] selected",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenVideoIsPaused",
+    "original": "when video [NAME] paused",
+    "fixed": "とき video [名前] paused",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenVideoStopped",
+    "original": "when video [NAME] stopped",
+    "fixed": "とき video [名前] stopped",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.whenVideoStart",
+    "original": "when video [NAME] start",
+    "fixed": "とき video [名前] start",
+    "type": "auto_fix"
+  },
+  {
+    "key": "game.recordPlayerScore",
+    "original": "record player score [VALUE]",
+    "fixed": "record プレイヤー score [VALUE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "game.showGameLeaderboard",
+    "original": "show game leaderboard [SORT] rows [ROWS] header [HEADER_COLOR] background [BACKGROUND_COLOR]",
+    "fixed": "表示 ゲーム leaderboard [SORT] rows [ROWS] header [HEADER_COLOR] background [BACKGROUND_COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "game.hideGameLeaderboard",
+    "original": "hide game leaderboard",
+    "fixed": "非表示 ゲーム leaderboard",
+    "type": "auto_fix"
+  },
+  {
+    "key": "game.clearGameLeaderboard",
+    "original": "clear scores for [WHO]",
+    "fixed": "クリア scores for [WHO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "game.removePlayerScoreByRange",
+    "original": "remove score for player 名前d [NAME] with score between [LOW] and [HIGH]",
+    "fixed": "削除 score for プレイヤー 名前d [名前] で score between [LOW] と [HIGH]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "gui.stageHeader.captureBtn",
+    "original": "Update project preview",
+    "fixed": "更新 project preview",
+    "type": "auto_fix"
+  },
+  {
+    "key": "gui.whoMenu.allUsers",
+    "original": "all users",
+    "fixed": "すべて users",
+    "type": "auto_fix"
+  },
+  {
+    "key": "forwardandshift",
+    "original": "Forward and Shift",
+    "fixed": "Forward と Shift",
+    "type": "auto_fix"
+  },
+  {
+    "key": "forwardandturn",
+    "original": "Forward and Turn",
+    "fixed": "Forward と Turn",
+    "type": "auto_fix"
+  },
+  {
+    "key": "All Other Sprites",
+    "original": "All Other Sprites",
+    "fixed": "すべて Other スプライト",
+    "type": "auto_fix"
+  },
+  {
+    "key": "remove",
+    "original": "Remove",
+    "fixed": "削除",
+    "type": "auto_fix"
+  },
+  {
+    "key": "addbox",
+    "original": "Box",
+    "fixed": "四角形",
+    "type": "auto_fix"
+  },
+  {
+    "key": "add6box",
+    "original": "6-Colored Box",
+    "fixed": "6-Colored 四角形",
+    "type": "auto_fix"
+  },
+  {
+    "key": "globechinese",
+    "original": "Globe in Chinese",
+    "fixed": "Globe の Chinese",
+    "type": "auto_fix"
+  },
+  {
+    "key": "runjump",
+    "original": "Run,Jump in Air",
+    "fixed": "Run,Jump の Air",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Another object has already used this name: ",
+    "original": "Another object has already used this 名前: ",
+    "fixed": "Another object has already used この 名前: ",
+    "type": "auto_fix"
+  },
+  {
+    "key": "withBorder",
+    "original": "with border",
+    "fixed": "で border",
+    "type": "auto_fix"
+  },
+  {
+    "key": "box",
+    "original": "box",
+    "fixed": "四角形",
+    "type": "auto_fix"
+  },
+  {
+    "key": "all",
+    "original": "All",
+    "fixed": "すべて",
+    "type": "auto_fix"
+  },
+  {
+    "key": "left-right",
+    "original": "Left-Right",
+    "fixed": "退出した-Right",
+    "type": "auto_fix"
+  },
+  {
+    "key": "left-right + front-back",
+    "original": "Left-Right + Front-Back",
+    "fixed": "退出した-Right + Front-Back",
+    "type": "auto_fix"
+  },
+  {
+    "key": "left-right + up-down",
+    "original": "Left-Right + Up-Down",
+    "fixed": "退出した-Right + Up-Down",
+    "type": "auto_fix"
+  },
+  {
+    "key": "forward speed",
+    "original": "Forward Speed",
+    "fixed": "Forward 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "dir speed",
+    "original": "Directional Speed",
+    "fixed": "Directional 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "side move speed",
+    "original": "Side Move Speed",
+    "fixed": "Side Move 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "rising speed",
+    "original": "Rising Speed",
+    "fixed": "Rising 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "z rotation",
+    "original": "Z Rotation",
+    "fixed": "Z 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "x rotation",
+    "original": "X Rotation",
+    "fixed": "X 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "y rotation",
+    "original": "Y Rotation",
+    "fixed": "Y 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Select this object",
+    "original": "Select this object",
+    "fixed": "Select この object",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Select this texture",
+    "original": "Select this texture",
+    "fixed": "Select この texture",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Select this scene",
+    "original": "Select this scene",
+    "fixed": "Select この scene",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Select this character",
+    "original": "Select this character",
+    "fixed": "Select この character",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Select this animation",
+    "original": "Select this animation",
+    "fixed": "Select この animation",
+    "type": "auto_fix"
+  },
+  {
+    "key": "low5",
+    "original": "Low with bottom 5",
+    "fixed": "Low で bottom 5",
+    "type": "auto_fix"
+  },
+  {
+    "key": "left-right flipped camera mode",
+    "original": "left-right flipped",
+    "fixed": "退出した-right flipped",
+    "type": "auto_fix"
+  },
+  {
+    "key": "position x",
+    "original": "Position x",
+    "fixed": "位置 x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "position y",
+    "original": "Position y",
+    "fixed": "位置 y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "position z",
+    "original": "Position z",
+    "fixed": "位置 z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "absolute position x",
+    "original": "Absolute position x",
+    "fixed": "Absolute 位置 x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "absolute position y",
+    "original": "Absolute position y",
+    "fixed": "Absolute 位置 y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "absolute position z",
+    "original": "Absolute position z",
+    "fixed": "Absolute 位置 z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "rotation x",
+    "original": "Rotation x",
+    "fixed": "回転 x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "rotation y",
+    "original": "Rotation y",
+    "fixed": "回転 y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "rotation z",
+    "original": "Rotation z",
+    "fixed": "回転 z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "size x",
+    "original": "Size x",
+    "fixed": "大きさ x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "size y",
+    "original": "Size y",
+    "fixed": "大きさ y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "size z",
+    "original": "Size z",
+    "fixed": "大きさ z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "x rotation speed",
+    "original": "Rotation Speed x",
+    "fixed": "回転 速度 x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "y rotation speed",
+    "original": "Rotation Speed y",
+    "fixed": "回転 速度 y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "z rotation speed",
+    "original": "Rotation Speed z",
+    "fixed": "回転 速度 z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "blocked back",
+    "original": "Blocked in the Back",
+    "fixed": "Blocked の the Back",
+    "type": "auto_fix"
+  },
+  {
+    "key": "blocked front",
+    "original": "Blocked in the Front",
+    "fixed": "Blocked の the Front",
+    "type": "auto_fix"
+  },
+  {
+    "key": "blocked left",
+    "original": "Blocked to the Left",
+    "fixed": "Blocked へ the 退出した",
+    "type": "auto_fix"
+  },
+  {
+    "key": "blocked right",
+    "original": "Blocked to the Right",
+    "fixed": "Blocked へ the Right",
+    "type": "auto_fix"
+  },
+  {
+    "key": "blocking object left",
+    "original": "Blocking Object Left",
+    "fixed": "Blocking Object 退出した",
+    "type": "auto_fix"
+  },
+  {
+    "key": "speed x",
+    "original": "Speed X",
+    "fixed": "速度 X",
+    "type": "auto_fix"
+  },
+  {
+    "key": "speed y",
+    "original": "Speed Y",
+    "fixed": "速度 Y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "speed z",
+    "original": "Speed Z",
+    "fixed": "速度 Z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "Starfield and Sun",
+    "original": "Starfield and Sun",
+    "fixed": "Starfield と Sun",
+    "type": "auto_fix"
+  },
+  {
+    "key": "zspeed",
+    "original": "Z Speed",
+    "fixed": "Z 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "x direction",
+    "original": "X Direction",
+    "fixed": "X 向き",
+    "type": "auto_fix"
+  },
+  {
+    "key": "y direction",
+    "original": "Y Direction",
+    "fixed": "Y 向き",
+    "type": "auto_fix"
+  },
+  {
+    "key": "z direction",
+    "original": "Z Direction",
+    "fixed": "Z 向き",
+    "type": "auto_fix"
+  },
+  {
+    "key": "x position",
+    "original": "X Position",
+    "fixed": "X 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "y position",
+    "original": "Y Position",
+    "fixed": "Y 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "z position",
+    "original": "Z Position",
+    "fixed": "Z 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "leftbuttonpointer",
+    "original": "Left Button",
+    "fixed": "退出した Button",
+    "type": "auto_fix"
+  },
+  {
+    "key": "removeit",
+    "original": "Remove it",
+    "fixed": "削除 it",
+    "type": "auto_fix"
+  },
+  {
+    "key": "anydirection",
+    "original": "Any Direction",
+    "fixed": "Any 向き",
+    "type": "auto_fix"
+  },
+  {
+    "key": "leftrightonly",
+    "original": "Left-Right Only",
+    "fixed": "退出した-Right Only",
+    "type": "auto_fix"
+  },
+  {
+    "key": "speeddrop",
+    "original": "Speed Drop",
+    "fixed": "速度 Drop",
+    "type": "auto_fix"
+  },
+  {
+    "key": "speedlimit",
+    "original": "Speed Limit",
+    "fixed": "速度 Limit",
+    "type": "auto_fix"
+  },
+  {
+    "key": "turnright",
+    "original": "Turn Right Speed",
+    "fixed": "Turn Right 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "shiftright",
+    "original": "Shift Right Speed",
+    "fixed": "Shift Right 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "addFpsCarCameraError",
+    "original": "Sorry, when adding the fps car camera, I can't find the target object",
+    "fixed": "Sorry, とき adding the fps car camera, I can't find the target object",
+    "type": "auto_fix"
+  },
+  {
+    "key": "addFpsCameraError",
+    "original": "Sorry, when adding the fps camera, I can't find the target",
+    "fixed": "Sorry, とき adding the fps camera, I can't find the target",
+    "type": "auto_fix"
+  },
+  {
+    "key": "updateFpsCamera",
+    "original": "Sorry, when update the fps camera, I can't find the target",
+    "fixed": "Sorry, とき 更新 the fps camera, I can't find the target",
+    "type": "auto_fix"
+  },
+  {
+    "key": "loginbeforecreate",
+    "original": "You need to sign in before creating a new multiplayer game world.",
+    "fixed": "You need へ sign の before creating a new マルチプレイヤー ゲーム ワールド.",
+    "type": "auto_fix"
+  },
+  {
+    "key": "saveprojectfirst",
+    "original": "You need to save the current project before creating a new multiplayer game world.",
+    "fixed": "You need へ save the current project before creating a new マルチプレイヤー ゲーム ワールド.",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_initscene",
+    "original": "initialize 3D scene [SCENETYPE] as hidden [HIDDEN]",
+    "fixed": "initialize 3D scene [SCENETYPE] として hidden [HIDDEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_when3dsceneisready",
+    "original": "when 3D scene is initialized",
+    "fixed": "とき 3D scene is initialized",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_configbrickworld",
+    "original": "configure brick world plane size [SIZE] highlight color [COLOR]",
+    "fixed": "configure brick ワールド plane 大きさ [大きさ] highlight color [COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_getbrickworldstring",
+    "original": "show brick world code",
+    "fixed": "表示 brick ワールド code",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_loadbrickworldstring",
+    "original": "build brick world from code [CODE]",
+    "fixed": "build brick ワールド から code [CODE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setscenecolor",
+    "original": "set scene background color [COLOR]",
+    "fixed": "設定 scene background color [COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setscenefog",
+    "original": "set scene fog [FOGMODE] [COLOR] start [START] end [END] density [DENSITY]",
+    "fixed": "設定 scene fog [FOGMODE] [COLOR] start [START] end [END] density [DENSITY]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setclipplane",
+    "original": "set clipping plane [NUMBER] direction xyz [X] [Y] [Z] offset [OFFSET]",
+    "fixed": "設定 clipping plane [NUMBER] 向き xyz [X] [Y] [Z] offset [OFFSET]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removeclipplane",
+    "original": "remove clipping plane [NUMBER]",
+    "fixed": "削除 clipping plane [NUMBER]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setskybox",
+    "original": "set sky [SKYTYPE]",
+    "fixed": "設定 sky [SKYTYPE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removeskybox",
+    "original": "remove sky",
+    "fixed": "削除 sky",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addpipeline",
+    "original": "add pipeline vignette [DOVIG] [VCOLOR] bloom strength [BWEIGHT] threshold [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] sharpening [DOSHARPENING] camera contrast [CCONTRAST] exposure [CEXPOSURE]",
+    "fixed": "追加 pipeline vignette [DOVIG] [VCOLOR] bloom strength [BWEIGHT] threshold [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] sharpening [DOSHARPENING] camera contrast [CCONTRAST] exposure [CEXPOSURE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removepipeline",
+    "original": "remove pipeline",
+    "fixed": "削除 pipeline",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_showscene",
+    "original": "show 3D scene [SHOW]",
+    "fixed": "表示 3D scene [表示]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addeditorcamera",
+    "original": "add editor camera at xyz [X] [Y] [Z] direction [DIRECTION] speed [SPEED] angular speed [ANGULARSPEED]",
+    "fixed": "追加 editor camera at xyz [X] [Y] [Z] 向き [向き] 速度 [速度] angular 速度 [ANGULARSPEED]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addobservercamera",
+    "original": "add observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] speed [SPEED]",
+    "fixed": "追加 observer camera at xyz [X] [Y] [Z] towards xyz [X2] [Y2] [Z2] 速度 [速度]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addorbitcamera",
+    "original": "add orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning speed ratio [PANSPEEDRATIO] inputs key [WITHKEY] pointer [WITHPOINTER] active [ISACTIVE] as [NAME]",
+    "fixed": "追加 orbit camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] panning 速度 ratio [PANSPEEDRATIO] inputs key [WITHKEY] pointer [WITHPOINTER] active [ISACTIVE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_adduniversalcamera",
+    "original": "add first person camera at xyz [X] [Y] [Z] pointer lock [POINTERLOCK]",
+    "fixed": "追加 first person camera at xyz [X] [Y] [Z] pointer lock [POINTERLOCK]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_configureuniversalcamera",
+    "original": "configure first person camera min XYZ [X] [Y] [Z] max XYZ [X2] [Y2] [Z2] visible range min [MINRANGE] max [MAXRANGE] speed ratio moving [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO] damp ratio [DAMPRATIO]",
+    "fixed": "configure first person camera min XYZ [X] [Y] [Z] max XYZ [X2] [Y2] [Z2] visible range min [MINRANGE] max [MAXRANGE] 速度 ratio moving [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO] damp ratio [DAMPRATIO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameratarget",
+    "original": "set camera target xyz [X] [Y] [Z]",
+    "fixed": "設定 camera target xyz [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameratargetobj",
+    "original": "set camera target object [NAME] offset xyz [X] [Y] [Z]",
+    "fixed": "設定 camera target object [名前] offset xyz [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameraviewport",
+    "original": "set display region bottom [BOTTOM]% left [LEFT]% width [WIDTH]% height [HEIGHT]% border width [BORDER_WIDTH] color [BORDER_COLOR] for camera [NAME]",
+    "fixed": "設定 display 地域 bottom [BOTTOM]% 退出した [退出した]% 幅 [幅]% 高さ [高さ]% border 幅 [BORDER_WIDTH] color [BORDER_COLOR] for camera [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameraparent",
+    "original": "set [NAME] as parent of camera",
+    "fixed": "設定 [名前] として parent の camera",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameradirection",
+    "original": "set camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] z offset [ZOFFSET] target xyz [X] [Y] [Z] in [PERIOD] seconds",
+    "fixed": "設定 camera distance [DISTANCE] v-angle [VANGLE] h-angle [HANGLE] z offset [ZOFFSET] target xyz [X] [Y] [Z] の [PERIOD] seconds",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_setcameraonglobe",
+    "original": "set camera distance [DISTANCE] [DIR1] [D1]° [M1]' [S1]\" [DIR2] [D2]° [M2]' [S2]\" in [PERIOD] seconds",
+    "fixed": "設定 camera distance [DISTANCE] [DIR1] [D1]° [M1]' [S1]\" [DIR2] [D2]° [M2]' [S2]\" の [PERIOD] seconds",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_configureorbitcamera",
+    "original": "configure camera radius min [MINDIST] max [MAXDIST] visible range min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] speed ratio panning [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",
+    "fixed": "configure camera radius min [MINDIST] max [MAXDIST] visible range min [MINRANGE] max [MAXRANGE] v-angle min [MINVANGLE] max [MAXVANGLE] 速度 ratio panning [PANSPEEDRATIO] angular [ANGULARSPEEDRATIO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_carfollowcamera",
+    "original": "add follow camera distance [DISTANCE] z offset [ZOFFSET] v-angle [VANGLE] h-angle [HANGLE] direction lock [DIRECTIONTYPE] see-through [TRANS]% active [ISACTIVE] as [NAME]",
+    "fixed": "追加 follow camera distance [DISTANCE] z offset [ZOFFSET] v-angle [VANGLE] h-angle [HANGLE] 向き lock [DIRECTIONTYPE] see-through [TRANS]% active [ISACTIVE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addhatcamera",
+    "original": "add hat camera with offset xyz [X] [Y] [Z]",
+    "fixed": "追加 hat camera で offset xyz [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addpointlight",
+    "original": "add point light [COLOR] at xyz [X] [Y] [Z] intensity [INTENSITY] show position [SHOW] as [NAME]",
+    "fixed": "追加 point light [COLOR] at xyz [X] [Y] [Z] intensity [INTENSITY] 表示 位置 [表示] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_adddirectionallight",
+    "original": "add directional light [COLOR] in direction xyz [X] [Y] [Z] at xyz [X2] [Y2] [Z2] intensity [INTENSITY] as [NAME]",
+    "fixed": "追加 directional light [COLOR] の 向き xyz [X] [Y] [Z] at xyz [X2] [Y2] [Z2] intensity [INTENSITY] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addhemisphericlight",
+    "original": "add ambient light [COLOR] sky direction xyz [X] [Y] [Z] intensity [INTENSITY] as [NAME]",
+    "fixed": "追加 ambient light [COLOR] sky 向き xyz [X] [Y] [Z] intensity [INTENSITY] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addspotlight",
+    "original": "add spot light [COLOR] at xyz [X] [Y] [Z] open angle [ANGLE] intensity [INTENSITY] blur [DECAY] show position [SHOW] as [NAME]",
+    "fixed": "追加 spot light [COLOR] at xyz [X] [Y] [Z] open angle [ANGLE] intensity [INTENSITY] blur [DECAY] 表示 位置 [表示] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_castshadowfromlight",
+    "original": "cast shadow [CAST] from light 名前d [NAME] blur size [BLUR]",
+    "fixed": "cast shadow [CAST] から light 名前d [名前] blur 大きさ [BLUR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_receiveshadow",
+    "original": "receives shadow [SHOW]",
+    "fixed": "receives shadow [表示]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addglowgroup",
+    "original": "create glow layer intensity [INTENSITY] blur size [BLURSIZE] as [NAME]",
+    "fixed": "作成 glow layer intensity [INTENSITY] blur 大きさ [BLURSIZE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addtoglowgroup",
+    "original": "add to glow layer 名前d [NAME]",
+    "fixed": "追加 へ glow layer 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removefromglowgroup",
+    "original": "remove from glow layer 名前d [NAME]",
+    "fixed": "削除 から glow layer 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addhighlightgroup",
+    "original": "create highlight layer blur size [BLURSIZE] as [NAME]",
+    "fixed": "作成 highlight layer blur 大きさ [BLURSIZE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addtohighlightgroup",
+    "original": "add highlight in [COLOR] to layer 名前d [NAME]",
+    "fixed": "追加 highlight の [COLOR] へ layer 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removefromhighlightgroup",
+    "original": "remove from highlight layer 名前d [NAME]",
+    "fixed": "削除 から highlight layer 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removelights",
+    "original": "remove all lights",
+    "fixed": "削除 すべて lights",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removeonelight",
+    "original": "remove light 名前d [NAME]",
+    "fixed": "削除 light 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_switchlightonoff",
+    "original": "switch [ONOFF] light 名前d [NAME]",
+    "fixed": "switch [ONOFF] light 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_excludeobjfromlight",
+    "original": "exclude object [OBJ] from light 名前d [NAME]",
+    "fixed": "exclude object [OBJ] から light 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_pickedspritename",
+    "original": "picked sprite 名前",
+    "fixed": "picked スプライト 名前",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_hoveredspritename",
+    "original": "hovered sprite 名前",
+    "fixed": "hovered スプライト 名前",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_hoveredspritenameend",
+    "original": "previously hovered sprite 名前",
+    "fixed": "previously hovered スプライト 名前",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_showaxis",
+    "original": "show 3D axis [SHOW] length [LEN]",
+    "fixed": "表示 3D axis [表示] length [LEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_showlocalaxis",
+    "original": "show local axis [SHOW] length [LEN]",
+    "fixed": "表示 local axis [表示] length [LEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_webcambackground",
+    "original": "turn [ONOFF] webcam background [CAMERA] in [CAMERA_MODE] mode",
+    "fixed": "turn [ONOFF] webcam background [CAMERA] の [CAMERA_MODE] モード",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_addjoystick",
+    "original": "add [SIDE] joystick [COLOR1] [COLOR2] scale [SCALE]",
+    "fixed": "追加 [SIDE] joystick [COLOR1] [COLOR2] scale [SCALE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_removejoysticks",
+    "original": "remove all joysticks",
+    "fixed": "削除 すべて joysticks",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtube",
+    "original": "add tube [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] thickness [THICKNESS] as [NAME]",
+    "fixed": "追加 tube [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] 高さ [高さ] arc [ARC] 閉じた section [閉じた] cap type [CAPTYPE] sides [SIDES] thickness [THICKNESS] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addrecttube",
+    "original": "add rectangle tube [COLOR] size in X [X] Y [Y] height [HEIGHT] cap type [CAPTYPE] thickness [THICKNESS] sides [SIDES] as [NAME]",
+    "fixed": "追加 rectangle tube [COLOR] 大きさ の X [X] Y [Y] 高さ [高さ] cap type [CAPTYPE] thickness [THICKNESS] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addstairs",
+    "original": "add stairs [COLOR] width [X] depth [Y] height [HEIGHT] count [COUNT] thickness [THICKNESS] type [STAIRTYPE] as [NAME]",
+    "fixed": "追加 stairs [COLOR] 幅 [X] depth [Y] 高さ [高さ] count [COUNT] thickness [THICKNESS] type [STAIRTYPE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcapsule",
+    "original": "add capsule [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] sides [SIDES] as [NAME]",
+    "fixed": "追加 capsule [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] 高さ [高さ] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtorus",
+    "original": "add torus [COLOR] diameter [DIAMETER] thickness [THICKNESS] sides [SIDES] as [NAME]",
+    "fixed": "追加 torus [COLOR] diameter [DIAMETER] thickness [THICKNESS] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcolumn",
+    "original": "add column [COLOR] 2D vertex list [LIST] height [HEIGHT] cap type [CAPTYPE] as [NAME]",
+    "fixed": "追加 column [COLOR] 2D vertex 一覧 [一覧] 高さ [高さ] cap type [CAPTYPE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addframe",
+    "original": "add frame [COLOR] edge count [EDGES] length [EDGELENGTH] thickness [THICKNESS] as [NAME]",
+    "fixed": "追加 frame [COLOR] edge count [EDGES] length [EDGELENGTH] thickness [THICKNESS] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcone",
+    "original": "add cone [COLOR] vertex list [LIST] height [HEIGHT] as [NAME]",
+    "fixed": "追加 cone [COLOR] vertex 一覧 [一覧] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addobject",
+    "original": "add model [OBJECTNAME] target height [HEIGHT] origin offset x [X] y [Y] z [Z] rotation x [RX] y [RY] z [RZ] hidden [HIDDEN] as [NAME]",
+    "fixed": "追加 model [OBJECTNAME] target 高さ [高さ] origin offset x [X] y [Y] z [Z] 回転 x [RX] y [RY] z [RZ] hidden [HIDDEN] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_exportglb",
+    "original": "export object [NAME] as a GLB file",
+    "fixed": "export object [名前] として a GLB file",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_exportstl",
+    "original": "export object [NAME] as an STL file",
+    "fixed": "export object [名前] として an STL file",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_exportboj",
+    "original": "export object [NAME] as an OBJ file and an MTL file",
+    "fixed": "export object [名前] として an OBJ file と an MTL file",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_selectobject",
+    "original": "select sprite object by 名前 [NAME]",
+    "fixed": "select スプライト object による 名前 [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addlinkobject",
+    "original": "add public object at URL [OBJECTNAME] as [OBJTYPE] target height [TARGETHEIGHT] rotation [RX] [RY] [RZ] origin offset [X] [Y] [Z] as [NAME]",
+    "fixed": "追加 public object at URL [OBJECTNAME] として [OBJTYPE] target 高さ [TARGETHEIGHT] 回転 [RX] [RY] [RZ] origin offset [X] [Y] [Z] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcharacter",
+    "original": "add character [CHARACTERNAME] as [NAME]",
+    "fixed": "追加 character [CHARACTERNAME] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addavatar",
+    "original": "add avatar [CHARACTERNAME] height [HEIGHT] as [NAME] hidden [HIDDEN]",
+    "fixed": "追加 avatar [CHARACTERNAME] 高さ [高さ] として [名前] hidden [HIDDEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addavatarforuser",
+    "original": "add avatar [AVATAR_NAME] for user [USERNAME] height [HEIGHT] as [NAME] hidden [HIDDEN]",
+    "fixed": "追加 avatar [AVATAR_NAME] for user [USERNAME] 高さ [高さ] として [名前] hidden [HIDDEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_adduseravatar",
+    "original": "add user avatar [AVATARNAME] height [HEIGHT] as [NAME]",
+    "fixed": "追加 user avatar [AVATARNAME] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_adduseravatar",
+    "original": "add user avatar [AVATARNAME] height [HEIGHT] as [NAME]",
+    "fixed": "追加 user avatar [AVATARNAME] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_addanimation",
+    "original": "add animations [ANIMATIONS]",
+    "fixed": "追加 animations [ANIMATIONS]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_startanimation",
+    "original": "start animation [ANIMATIONNAME] looping [LOOPING] progress from [STARTFRAME] to [ENDFRAME] speed ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] broadcast [BROADCASTMESSAGE] at progress [PROGRESSLIST]",
+    "fixed": "start animation [ANIMATIONNAME] looping [LOOPING] progress から [STARTFRAME] へ [ENDFRAME] 速度 ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] 送る [BROADCASTMESSAGE] at progress [PROGRESSLIST]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_startanimation2",
+    "original": "start model animation [ANIMATIONNAME] looping [LOOPING] progress from [STARTFRAME] to [ENDFRAME] speed ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] broadcast [BROADCASTMESSAGE] at progress [PROGRESSLIST]",
+    "fixed": "start model animation [ANIMATIONNAME] looping [LOOPING] progress から [STARTFRAME] へ [ENDFRAME] 速度 ratio [SPEEDRATIO] [BLOCKING] offset x [X] y [Y] z [Z] 送る [BROADCASTMESSAGE] at progress [PROGRESSLIST]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_stopanimation",
+    "original": "stop animation",
+    "fixed": "停止 animation",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addplane",
+    "original": "add plane [COLOR] size x [SIZEX] y [SIZEY] as [NAME]",
+    "fixed": "追加 plane [COLOR] 大きさ x [SIZEX] y [SIZEY] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addVideoPlane",
+    "original": "add video plane [URL] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "追加 video plane [URL] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addabcdplane",
+    "original": "add plane [COLOR] width [SIZEX] height [SIZEY] coefficients abcd [A] [B] [C] [D] as [NAME]",
+    "fixed": "追加 plane [COLOR] 幅 [SIZEX] 高さ [SIZEY] coefficients abcd [A] [B] [C] [D] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_add3pplane",
+    "original": "add triangle [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] as [NAME]",
+    "fixed": "追加 triangle [COLOR] から points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_add4pplane",
+    "original": "add quadrilateral [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] as [NAME]",
+    "fixed": "追加 quadrilateral [COLOR] から points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtrianglefrompoints",
+    "original": "geometry: add triangle from points [OBJ1] [OBJ2] [OBJ3] color [COLOR] as [NAME]",
+    "fixed": "geometry: 追加 triangle から points [OBJ1] [OBJ2] [OBJ3] color [COLOR] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addframebox",
+    "original": "geometry: add frame box color [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] thickness [THICKNESS] labels [LABELS] as [NAME]",
+    "fixed": "geometry: 追加 frame 四角形 color [COLOR] 大きさ の x [SIZEX] y [SIZEY] z [SIZEZ] thickness [THICKNESS] labels [LABELS] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addlinebetweenpoints",
+    "original": "geometry: add line between points [OBJ1] [OBJ2] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] segments [SEGCOUNT] label [LABEL] as [NAME]",
+    "fixed": "geometry: 追加 line between points [OBJ1] [OBJ2] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] segments [SEGCOUNT] label [LABEL] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addnewpoint",
+    "original": "geometry: add point between points [OBJ1] [OBJ2] at [PCT]% color [COLOR] size [SIZE] as [NAME]",
+    "fixed": "geometry: 追加 point between points [OBJ1] [OBJ2] at [PCT]% color [COLOR] 大きさ [大きさ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addxyzpoint",
+    "original": "geometry: add point at xyz [X] [Y] [Z] color [COLOR] size [SIZE] on [ORIGOBJ] as [NAME]",
+    "fixed": "geometry: 追加 point at xyz [X] [Y] [Z] color [COLOR] 大きさ [大きさ] on [ORIGOBJ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addanglemark",
+    "original": "geometry: add angle mark [OBJ1] [OBJ2] [OBJ3] size [SIZE] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] label [LABEL] as [NAME]",
+    "fixed": "geometry: 追加 angle mark [OBJ1] [OBJ2] [OBJ3] 大きさ [大きさ] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] label [LABEL] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addAtom",
+    "original": "chemistry: add atom [ATOMTYPE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
+    "fixed": "chemistry: 追加 atom [ATOMTYPE] として [名前] connect hole [HOLE] へ atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcustomeatom",
+    "original": "chemistry: add custom atom [COLOR] size [SIZE] holes [HOLESPEC] label [LABEL] angle [LABELANGLE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
+    "fixed": "chemistry: 追加 custom atom [COLOR] 大きさ [大きさ] holes [HOLESPEC] label [LABEL] angle [LABELANGLE] として [名前] connect hole [HOLE] へ atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_convertobjecttomirror",
+    "original": "build mirror brightness [CLARITY] using object 名前d [NAME]",
+    "fixed": "build mirror brightness [CLARITY] using object 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_setvisibleinmirror",
+    "original": "reflect in mirror [NAME]",
+    "fixed": "reflect の mirror [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_clearmirrorreflect",
+    "original": "remove all reflections in mirror [NAME]",
+    "fixed": "削除 すべて reflections の mirror [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addsolidline",
+    "original": "add line [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] xyz from [X] [Y] [Z] to [X2] [Y2] [Z2] segments [SEGCOUNT] as [NAME]",
+    "fixed": "追加 line [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] xyz から [X] [Y] [Z] へ [X2] [Y2] [Z2] segments [SEGCOUNT] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_adddottedline",
+    "original": "add dotted line [COLOR] diameter [DIAMETER] segment length [SEGLEN] gap length [GAPLEN] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] from xyz [X] [Y] [Z] to xyz [X2] [Y2] [Z2] as [NAME]",
+    "fixed": "追加 dotted line [COLOR] diameter [DIAMETER] segment length [SEGLEN] gap length [GAPLEN] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] から xyz [X] [Y] [Z] へ xyz [X2] [Y2] [Z2] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_generatearcpoints",
+    "original": "generate arc points from [X] [Y] [Z] via [X2] [Y2] [Z2] to [X3] [Y3] [Z3] into list [LISTNAME] count [COUNT]",
+    "fixed": "generate arc points から [X] [Y] [Z] via [X2] [Y2] [Z2] へ [X3] [Y3] [Z3] into 一覧 [LISTNAME] count [COUNT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addmovingline",
+    "original": "add moving line between [OBJ1] and [OBJ2] [COLOR] diameter [DIAMETER] sides [SIDES] as [NAME]",
+    "fixed": "追加 moving line between [OBJ1] と [OBJ2] [COLOR] diameter [DIAMETER] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcurveusinglist",
+    "original": "add curve [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] using list [LISTNAME] from [STARTIND] to [ENDIND] segments [SEGCOUNT] as [NAME]",
+    "fixed": "追加 curve [COLOR] diameter [DIAMETER] cap [CAPTYPE] arrow [ARROWHEAD] sides [SIDES] using 一覧 [LISTNAME] から [STARTIND] へ [ENDIND] segments [SEGCOUNT] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addbox",
+    "original": "add box [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] edge radius [RADIUS] as [NAME]",
+    "fixed": "追加 四角形 [COLOR] 大きさ の x [SIZEX] y [SIZEY] z [SIZEZ] edge radius [RADIUS] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtext",
+    "original": "add 3D text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] diameter [CURVED] camera facing [FORWARD] as [NAME]",
+    "fixed": "追加 3D text [TEXT] font [FONT] color [COLOR] 幅 [幅] 高さ [高さ] diameter [CURVED] camera facing [FORWARD] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtext2",
+    "original": "add 3D thick text [TEXT] font [FONT] color [COLOR] width [WIDTH] height [HEIGHT] thickness [THICKNESS] diameter [D] camera facing [FORWARD] as [NAME]",
+    "fixed": "追加 3D thick text [TEXT] font [FONT] color [COLOR] 幅 [幅] 高さ [高さ] thickness [THICKNESS] diameter [D] camera facing [FORWARD] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_add6box",
+    "original": "add 6-colored box [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] size in x [SIZEX] y [SIZEY] z [SIZEZ] as [NAME]",
+    "fixed": "追加 6-colored 四角形 [COLOR1] [COLOR2] [COLOR3] [COLOR4] [COLOR5] [COLOR6] 大きさ の x [SIZEX] y [SIZEY] z [SIZEZ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addsphere",
+    "original": "add sphere [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] arc [ARC] slice [SLICE] sides [SIDES] as [NAME]",
+    "fixed": "追加 sphere [COLOR] 大きさ の x [SIZEX] y [SIZEY] z [SIZEZ] arc [ARC] slice [SLICE] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcylinder",
+    "original": "add cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] height [HEIGHT] arc [ARC] closed section [CLOSED] cap type [CAPTYPE] sides [SIDES] as [NAME]",
+    "fixed": "追加 cylinder [COLOR] diameter top [DIAMETERTOP] bottom [DIAMETERBOTTOM] 高さ [高さ] arc [ARC] 閉じた section [閉じた] cap type [CAPTYPE] sides [SIDES] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtransformnode",
+    "original": "add transformer as [NAME]",
+    "fixed": "追加 transformer として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_setasparent",
+    "original": "set object [PARENTNAME] from sprite [SPRITE] as parent and update position/scale [UPDATEPOS]",
+    "fixed": "設定 object [PARENTNAME] から スプライト [スプライト] として parent と 更新 位置/scale [UPDATEPOS]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_setcameraasparent",
+    "original": "set camera as parent",
+    "fixed": "設定 camera として parent",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_spriteblockeddir",
+    "original": "sprite object blocked [DIRECTION]",
+    "fixed": "スプライト object blocked [向き]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setintersection",
+    "original": "detect intersection with objects from [SPRITE] action [ACTION]",
+    "fixed": "detect intersection で objects から [スプライト] action [ACTION]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_ignoreintersection",
+    "original": "stop detecting intersection with objects from [SPRITE]",
+    "fixed": "停止 detecting intersection で objects から [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenintersect",
+    "original": "when intersecting with object from [SPRITE]",
+    "fixed": "とき intersecting で object から [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_intersectobjectname",
+    "original": "名前 of intersected object",
+    "fixed": "名前 の intersected object",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_intersectobjectposition",
+    "original": "position of intersected object",
+    "fixed": "位置 の intersected object",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_intersectingobjectname",
+    "original": "名前 of intersecting object from this sprite",
+    "fixed": "名前 の intersecting object から この スプライト",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_intersectingobjectposition",
+    "original": "position of intersecting object from this sprite",
+    "fixed": "位置 の intersecting object から この スプライト",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_setasocclusion",
+    "original": "convert to transparent occlusion",
+    "fixed": "convert へ transparent occlusion",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_turnonvr",
+    "original": "switch to VR camera",
+    "fixed": "switch へ VR camera",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setscenephysics",
+    "original": "enable physics for scene with gravity [GRAVITY]",
+    "fixed": "enable physics for scene で gravity [GRAVITY]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updategravity",
+    "original": "update gravity for scene to [GRAVITY]",
+    "fixed": "更新 gravity for scene へ [GRAVITY]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updatephysics",
+    "original": "add [SHAPE] physics body with mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% frozen [YESNO] debug [ISDEBUG] [COLOR]",
+    "fixed": "追加 [SHAPE] physics body で mass [MASS] restitution [RESTITUTION]% friction [FRICTION]% frozen [YESNO] debug [ISDEBUG] [COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_removephysics",
+    "original": "remove physics body",
+    "fixed": "削除 physics body",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_mergephysics",
+    "original": "add physics bodies of [CHILDREN] into compound [NAME] keep object [KEEPOBJ]",
+    "fixed": "追加 physics bodies の [CHILDREN] into compound [名前] keep object [KEEPOBJ]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setasphysicsparent",
+    "original": "set object [PARENTNAME] from sprite [SPRITE] as parent for physics",
+    "fixed": "設定 object [PARENTNAME] から スプライト [スプライト] として parent for physics",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicslinearvelocity",
+    "original": "set physics body speed in xyz [X] [Y] [Z] for [NAME]",
+    "fixed": "設定 physics body 速度 の xyz [X] [Y] [Z] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsxyspeed",
+    "original": "set physics body speed in facing direction [SPEED] for [NAME]",
+    "fixed": "設定 physics body 速度 の facing 向き [速度] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_lockphysicsobjectrotationandspeed",
+    "original": "lock physics body speed in X [X] Y [Y] Z [Z] rotation around X [X2] Y [Y2] Z [Z2] for [NAME]",
+    "fixed": "lock physics body 速度 の X [X] Y [Y] Z [Z] 回転 around X [X2] Y [Y2] Z [Z2] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_touchingphysicsobjectnames",
+    "original": "名前s of physics bodies in contact for [NAME]",
+    "fixed": "名前s の physics bodies の contact for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsspeedtowards",
+    "original": "set physics body speed [SPEED] towards target xyz [X] [Y] [Z] for [NAME]",
+    "fixed": "設定 physics body 速度 [速度] towards target xyz [X] [Y] [Z] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsspeedtoobj",
+    "original": "set physics body speed [SPEED] for [NAME] towards object [TARGETNAME] from sprite [SPRITE]",
+    "fixed": "設定 physics body 速度 [速度] for [名前] towards object [TARGETNAME] から スプライト [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsangularvelocity",
+    "original": "set physics body rotation speed around xyz axes [X] [Y] [Z] for [NAME]",
+    "fixed": "設定 physics body 回転 速度 around xyz axes [X] [Y] [Z] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsspeedlimit",
+    "original": "set physics body movement speed limit [LIMIT] allow direction X [XYES] Y [YYES] Z [ZYES] for [NAME]",
+    "fixed": "設定 physics body movement 速度 limit [LIMIT] allow 向き X [XYES] Y [YYES] Z [ZYES] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsrotationlimit",
+    "original": "set physics body rotation speed limit [LIMIT] allow axis X [XYES] Y [YYES] Z [ZYES] for [NAME]",
+    "fixed": "設定 physics body 回転 速度 limit [LIMIT] allow axis X [XYES] Y [YYES] Z [ZYES] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsdamping",
+    "original": "set physics body damping for movement [MD]% rotation [RD]% for [NAME]",
+    "fixed": "設定 physics body damping for movement [MD]% 回転 [RD]% for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_getphysicsdata",
+    "original": "get physics body [SPEEDTYPE] for [NAME]",
+    "fixed": "取得 physics body [SPEEDTYPE] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_applyimpulse",
+    "original": "apply impulse strength [SIZE] direction xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] to [NAME]",
+    "fixed": "apply impulse strength [大きさ] 向き xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] へ [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_applyforce",
+    "original": "apply force strength [SIZE] direction xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] to [NAME]",
+    "fixed": "apply force strength [大きさ] 向き xyz [X] [Y] [Z] at relative point xyz [X2] [Y2] [Z2] へ [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_broadcastcollisionmessage",
+    "original": "broadcast [BROADCASTMESSAGE] on collision between physics bodies of [NAME] from [SPRITE] and [NAME2] from [SPRITE2]",
+    "fixed": "送る [BROADCASTMESSAGE] on collision between physics bodies の [名前] から [スプライト] と [NAME2] から [SPRITE2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_converttophysicscar",
+    "original": "enable car simulation mass [MASS] restitution [RESTITUTION]% friction [BODYFRICTION]% tire friction [FRICTION]% suspension [SUSPENSION] for [NAME]",
+    "fixed": "enable car simulation mass [MASS] restitution [RESTITUTION]% friction [BODYFRICTION]% tire friction [FRICTION]% suspension [SUSPENSION] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updatecarphysics",
+    "original": "set car engine force [ENGINE] brake level [BRAKE] % for [NAME]",
+    "fixed": "設定 car engine force [ENGINE] brake level [BRAKE] % for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updatecarsteer",
+    "original": "steer car to angle [STEER] for [NAME]",
+    "fixed": "steer car へ angle [STEER] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updatecollisiongroup",
+    "original": "update collision group [COLLISIONGROUP] target groups [TARGETGROUPS] for [NAME]",
+    "fixed": "更新 collision group [COLLISIONGROUP] target groups [TARGETGROUPS] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setphysicsframerate",
+    "original": "set physics frame rate [RATE]",
+    "fixed": "設定 physics frame rate [RATE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_getphysicsframerate",
+    "original": "get physics frame rate for",
+    "fixed": "取得 physics frame rate for",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_freezeallphysics",
+    "original": "freeze all physics bodys [YESNO]",
+    "fixed": "freeze すべて physics bodys [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_freezeonephysics",
+    "original": "freeze physics body 名前d [NAME] [YESNO]",
+    "fixed": "freeze physics body 名前d [名前] [YESNO]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_attachtobone",
+    "original": "attach to body part [BODYPART] of [PARENTNAME] from sprite [SPRITE] target height [HEIGHT]",
+    "fixed": "attach へ body part [BODYPART] の [PARENTNAME] から スプライト [スプライト] target 高さ [高さ]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_detachfrombone",
+    "original": "detach from body",
+    "fixed": "detach から body",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_updateBone",
+    "original": "update bone [BODYPART] move in x [X] y [Y] z [Z] rotate in x [X2] y [Y2] z [Z2]",
+    "fixed": "更新 bone [BODYPART] move の x [X] y [Y] z [Z] rotate の x [X2] y [Y2] z [Z2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_movespsmesh",
+    "original": "move particle on sps [NAME] at x [X] y [Y] z [Z] to x [X2] y [Y2] z [Z2]",
+    "fixed": "move particle on sps [名前] at x [X] y [Y] z [Z] へ x [X2] y [Y2] z [Z2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_removechildren",
+    "original": "unlink all children",
+    "fixed": "unlink すべて children",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_removeobject",
+    "original": "remove object 名前d [NAME]",
+    "fixed": "削除 object 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_removeallobjects",
+    "original": "remove all objects",
+    "fixed": "削除 すべて objects",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_showbounds",
+    "original": "show bounding box [SHOW]",
+    "fixed": "表示 bounding 四角形 [表示]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_showskeleton",
+    "original": "show skeleton [SHOW]",
+    "fixed": "表示 skeleton [表示]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_changephysics",
+    "original": "update physics property restitution [RESTITUTION]% friction [FRICTION]%",
+    "fixed": "更新 physics property restitution [RESTITUTION]% friction [FRICTION]%",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_updatecarwheelphysics",
+    "original": "set car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [NAME]",
+    "fixed": "設定 car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_setcarsteer",
+    "original": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
+    "fixed": "設定 car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_removeconstraint",
+    "original": "remove constraint 名前d [JOINTNAME]",
+    "fixed": "削除 constraint 名前d [JOINTNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_addfixedconstraint",
+    "original": "add fixed constraint between bodies of [NAME] from [SPRITE] and [NAME2] from [SPRITE2] 名前d [JOINTNAME]",
+    "fixed": "追加 fixed constraint between bodies の [名前] から [スプライト] と [NAME2] から [SPRITE2] 名前d [JOINTNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_adddistanceconstraint",
+    "original": "add distance constraint between bodies of [NAME] from [SPRITE] and [NAME2] from [SPRITE2] 名前d [JOINTNAME]",
+    "fixed": "追加 distance constraint between bodies の [名前] から [スプライト] と [NAME2] から [SPRITE2] 名前d [JOINTNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_addhingeconstraint",
+    "original": "add hinge constraint between bodies of [NAME] from [SPRITE] at point x [X2] y [Y2] z [Z2] axis x [X] y [Y] z [Z] and [NAME2] from [SPRITE2] at point x [X4] y [Y4] z [Z4] axis x [X3] y [Y3] z [Z3] 名前d [JOINTNAME]",
+    "fixed": "追加 hinge constraint between bodies の [名前] から [スプライト] at point x [X2] y [Y2] z [Z2] axis x [X] y [Y] z [Z] と [NAME2] から [SPRITE2] at point x [X4] y [Y4] z [Z4] axis x [X3] y [Y3] z [Z3] 名前d [JOINTNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_sethingespeed",
+    "original": "set speed [SPEED] for hinge constraint 名前d [JOINTNAME]",
+    "fixed": "設定 速度 [速度] for hinge constraint 名前d [JOINTNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3physics_d3_sethingelimit",
+    "original": "set limits for hinge constraint 名前d [JOINTNAME] angle between [LOW] and [HIGH] softness [SOFT] bias factor [BIAS] relaxation [RELAX]",
+    "fixed": "設定 limits for hinge constraint 名前d [JOINTNAME] angle between [LOW] と [HIGH] softness [SOFT] bias factor [BIAS] relaxation [RELAX]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_convertToFlatShading",
+    "original": "convert to flat shading",
+    "fixed": "convert へ flat shading",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_showedges",
+    "original": "show edges [SHOW] color [EDGECOLOR] thickness [EDGETHICK]",
+    "fixed": "表示 edges [表示] color [EDGECOLOR] thickness [EDGETHICK]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatecolor",
+    "original": "update color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] remove texture [REMOVETEXTURE] area [COMPONENT]",
+    "fixed": "更新 color diffusion [COLOR] emission [COLOR2] roughness [ROUGHNESS] brightness [BRIGHTNESS] 削除 texture [REMOVETEXTURE] area [COMPONENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_getobjectcolor",
+    "original": "get [COLORTYPE] color of object 名前d [NAME]",
+    "fixed": "取得 [COLORTYPE] color の object 名前d [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatetexture",
+    "original": "update texture [TEXTURE] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]",
+    "fixed": "更新 texture [TEXTURE] unit 大きさ [大きさ] non-四角形 repeat h [REPEATU] v [REPEATV] 回転 [ANGLEW] area [COMPONENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatecostumetexture",
+    "original": "update texture using costume [COSTUME] unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]",
+    "fixed": "更新 texture using コスチューム [コスチューム] unit 大きさ [大きさ] non-四角形 repeat h [REPEATU] v [REPEATV] 回転 [ANGLEW] area [COMPONENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_animatetextureframes",
+    "original": "animate texture spritesheet frames [FRAMECOUNT] row size [ROWSIZE] FPS [FRAMERATE] area [COMPONENT]",
+    "fixed": "animate texture spritesheet frames [FRAMECOUNT] row 大きさ [ROWSIZE] FPS [FRAMERATE] area [COMPONENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_objectexists",
+    "original": "object [NAME] exists",
+    "fixed": "object [名前] exists",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_getCameraXY",
+    "original": "get camera view position for xyz [X] [Y] [Z]",
+    "fixed": "取得 camera view 位置 for xyz [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_getCameraViewDirection",
+    "original": "get camera direction [DIRECTION]",
+    "fixed": "取得 camera 向き [向き]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_converttosps",
+    "original": "convert to sps at xyz from list [LIST] updatable [UPDATABLE]",
+    "fixed": "convert へ sps at xyz から 一覧 [一覧] updatable [UPDATABLE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addtosps",
+    "original": "add to sps [NAME] at xyz from list [LIST]",
+    "fixed": "追加 へ sps [名前] at xyz から 一覧 [一覧]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_createemitter",
+    "original": "add particle emitter shape [EMITTERTYPE] texture [TEXTURE] facing camera [FACINGCAMERA] life min [MINLIFE] max [MAXLIFE] capacity [CAP] GPU [USEGPU] time ratio [UPDATESPEED]% as [NAME]",
+    "fixed": "追加 particle emitter shape [EMITTERTYPE] texture [TEXTURE] facing camera [FACINGCAMERA] life min [MINLIFE] max [MAXLIFE] 定員 [CAP] GPU [USEGPU] time ratio [UPDATESPEED]% として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_addgenerator",
+    "original": "add prebuilt emitter for [GENTYPE] [COLOR1] [COLOR2] capacity [CAP] texture size [SIZE] source size [SOURCESIZE] speed [SPEED] max life [MAXLIFE] as [NAME]",
+    "fixed": "追加 prebuilt emitter for [GENTYPE] [COLOR1] [COLOR2] 定員 [CAP] texture 大きさ [大きさ] source 大きさ [SOURCESIZE] 速度 [速度] max life [MAXLIFE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_addtrail",
+    "original": "add trail diffusion [COLOR] emission [COLOR2] width [WIDTH] segments [LENGTH] as [NAME]",
+    "fixed": "追加 trail diffusion [COLOR] emission [COLOR2] 幅 [幅] segments [LENGTH] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_turnonarcamera",
+    "original": "turn on AR ground size [SIZE] color [COLOR]",
+    "fixed": "turn on AR ground 大きさ [大きさ] color [COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_usearcontrolcamera",
+    "original": "switch to AR world camera scale [SCALE] emulation mode [SIMULATOR]",
+    "fixed": "switch へ AR ワールド camera scale [SCALE] emulation モード [SIMULATOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_usearfacecamera",
+    "original": "switch to AR face camera show marker [SHOW] scale [SCALE] emulation mode [SIMULATOR] data table [INFO_TABLE] with mesh of face [SHOWFACE] eyes [SHOWEYE] mouth [SHOWMOUTH] lips [SHOWLIP]",
+    "fixed": "switch へ AR face camera 表示 marker [表示] scale [SCALE] emulation モード [SIMULATOR] data テーブル [INFO_TABLE] で mesh の face [SHOWFACE] eyes [SHOWEYE] mouth [SHOWMOUTH] lips [SHOWLIP]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_usearimagecameralogoanchor",
+    "original": "switch to AR LOGO as [TYPE] camera [CAMTYPE] marker [SHOW] scale [SCALE] emulation [SIMULATOR]",
+    "fixed": "switch へ AR LOGO として [TYPE] camera [CAMTYPE] marker [表示] scale [SCALE] emulation [SIMULATOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_usearimagecamera",
+    "original": "switch to AR camera [CAMTYPE] for logo as [TYPE] show marker [SHOW] scale [SCALE] emulation mode [SIMULATOR]",
+    "fixed": "switch へ AR camera [CAMTYPE] for logo として [TYPE] 表示 marker [表示] scale [SCALE] emulation モード [SIMULATOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "boxemitter",
+    "original": "Box",
+    "fixed": "四角形",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemittermovement",
+    "original": "configure emitter [NAME] movement: speed min [MINSPEED] max [MAXSPEED] direction 1 [X1] [Y1] [Z1] direction 2 [X2] [Y2] [Z2]",
+    "fixed": "configure emitter [名前] movement: 速度 min [MINSPEED] max [MAXSPEED] 向き 1 [X1] [Y1] [Z1] 向き 2 [X2] [Y2] [Z2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_fireemitter",
+    "original": "start emitter [NAME] [RATEORCOUNT] of [COUNT]",
+    "fixed": "start emitter [名前] [RATEORCOUNT] の [COUNT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemittercolor",
+    "original": "configure emitter [NAME] color: start [STARTCOLOR1] to [STARTCOLOR2] end [ENDCOLOR1] to [ENDCOLOR2] at progress [MIDDLETIME]% [MIDDLECOLOR1] to [MIDDLECOLOR2]",
+    "fixed": "configure emitter [名前] color: start [STARTCOLOR1] へ [STARTCOLOR2] end [ENDCOLOR1] へ [ENDCOLOR2] at progress [MIDDLETIME]% [MIDDLECOLOR1] へ [MIDDLECOLOR2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemittersize",
+    "original": "configure emitter [NAME] size: start [STARTSIZE1] to [STARTSIZE2] end [ENDSIZE1] to [ENDSIZE2] at progress [MIDDLETIME]% [MIDDLESIZE1] to [MIDDLESIZE2]",
+    "fixed": "configure emitter [名前] 大きさ: start [STARTSIZE1] へ [STARTSIZE2] end [ENDSIZE1] へ [ENDSIZE2] at progress [MIDDLETIME]% [MIDDLESIZE1] へ [MIDDLESIZE2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemitterscale",
+    "original": "configure emitter [NAME] scale: x min [XMIN]% max [XMAX]% y min [YMIN]% max [YMAX]%",
+    "fixed": "configure emitter [名前] scale: x min [XMIN]% max [XMAX]% y min [YMIN]% max [YMAX]%",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemitterrotation",
+    "original": "configure emitter [NAME] rotation speed: start [STARTROTATION1] to [STARTROTATION2] end [ENDROTATION1] to [ENDROTATION2] at progress [MIDDLETIME]% [MIDDLEROTATION1] to [MIDDLEROTATION2]",
+    "fixed": "configure emitter [名前] 回転 速度: start [STARTROTATION1] へ [STARTROTATION2] end [ENDROTATION1] へ [ENDROTATION2] at progress [MIDDLETIME]% [MIDDLEROTATION1] へ [MIDDLEROTATION2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemitterinitrotation",
+    "original": "configure emitter [NAME] initial rotation: min [MINROTATION] max [MAXROTATION]",
+    "fixed": "configure emitter [名前] initial 回転: min [MINROTATION] max [MAXROTATION]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateemitterblendmode",
+    "original": "configure emitter [NAME] blend mode [BM]",
+    "fixed": "configure emitter [名前] blend モード [BM]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateboxemitter",
+    "original": "configure box emitter [NAME]: min xyz [X1] [Y1] [Z1] max xyz [X2] [Y2] [Z2]",
+    "fixed": "configure 四角形 emitter [名前]: min xyz [X1] [Y1] [Z1] max xyz [X2] [Y2] [Z2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updatesphereemitter",
+    "original": "configure sphere emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
+    "fixed": "configure sphere emitter [名前]: radius [RADIUS] range [RADIUSRANGE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updatehemisphericemitter",
+    "original": "configure hemispheric emitter [NAME]: radius [RADIUS] range [RADIUSRANGE]",
+    "fixed": "configure hemispheric emitter [名前]: radius [RADIUS] range [RADIUSRANGE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updatecylinderemitter",
+    "original": "configure cylinder emitter [NAME]: radius [RADIUS] range [RADIUSRANGE] height [HEIGHT] direction randomness [DIRRANDOM]%",
+    "fixed": "configure cylinder emitter [名前]: radius [RADIUS] range [RADIUSRANGE] 高さ [高さ] 向き randomness [DIRRANDOM]%",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updateconeemitter",
+    "original": "configure cone emitter [NAME]: radius [RADIUS] angle [ANGLE] radius range [RADIUSRANGE] height range [HEIGHTRANGE]",
+    "fixed": "configure cone emitter [名前]: radius [RADIUS] angle [ANGLE] radius range [RADIUSRANGE] 高さ range [HEIGHTRANGE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_updatemeshemitter",
+    "original": "configure mesh emitter [NAME]: use mesh normal direction [USENORMAL]",
+    "fixed": "configure mesh emitter [名前]: use mesh normal 向き [USENORMAL]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3effect_d3_emittercommand",
+    "original": "[COMMAND] emitter [NAME]",
+    "fixed": "[COMMAND] emitter [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "stop",
+    "original": "Stop",
+    "fixed": "停止",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatefiletexture",
+    "original": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]",
+    "fixed": "追加 texture で shared file [TEXTURE] 四角形 unit 大きさ [大きさ] non-四角形 repeat h [REPEATU] v [REPEATV] 回転 [ANGLEW] area [COMPONENT]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_materialsetting",
+    "original": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]",
+    "fixed": "material setting: wireframe モード [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_setrenderinggroup",
+    "original": "set rendering layer [LAYERID]",
+    "fixed": "設定 rendering layer [LAYERID]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_lockfacing",
+    "original": "set camera facing mode [FACEMODE]",
+    "fixed": "設定 camera facing モード [FACEMODE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatescale",
+    "original": "update scale x [X]% y [Y]% z [Z]% in [PERIOD] seconds [BLOCKING]",
+    "fixed": "更新 scale x [X]% y [Y]% z [Z]% の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_updatescale2",
+    "original": "update size x [X] y [Y] z [Z]",
+    "fixed": "更新 大きさ x [X] y [Y] z [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_subdivideface",
+    "original": "subdivide faces by [MULTIPLE]",
+    "fixed": "subdivide faces による [MULTIPLE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_shiftvertices",
+    "original": "update vertices scale xyz [XS] [YS] [ZS] move xyz [XM] [YM] [ZM] position min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [MAXZ]",
+    "fixed": "更新 vertices scale xyz [XS] [YS] [ZS] move xyz [XM] [YM] [ZM] 位置 min xyz [MINX] [MINY] [MINZ] max xyz [MAXX] [MAXY] [MAXZ]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_movetoxyz",
+    "original": "move to X [X] Y [Y] z [Z] in [PERIOD] seconds [BLOCKING]",
+    "fixed": "move へ X [X] Y [Y] z [Z] の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_rotateto",
+    "original": "rotate to angle [DIRECTIONVALUE] around the [AXIS] axis in [PERIOD] seconds [BLOCKING]",
+    "fixed": "rotate へ angle [DIRECTIONVALUE] around the [AXIS] axis の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_rotateto2",
+    "original": "rotate to direction X [X] Y [Y] z [Z] in [PERIOD] seconds [BLOCKING]",
+    "fixed": "rotate へ 向き X [X] Y [Y] z [Z] の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_3dturnto",
+    "original": "turn [DEGREES] degrees around the [AXIS] axis in [PERIOD] seconds [BLOCKING]/*  */",
+    "fixed": "turn [DEGREES] degrees around the [AXIS] axis の [PERIOD] seconds [BLOCKING]/*  */",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_3dpointto",
+    "original": "point to position x [X] y [Y] z [Z] in [PERIOD] seconds [BLOCKING]",
+    "fixed": "point へ 位置 x [X] y [Y] z [Z] の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_movealongdir",
+    "original": "move [DIST] along current direction in [PERIOD] seconds [BLOCKING]",
+    "fixed": "move [DIST] along current 向き の [PERIOD] seconds [BLOCKING]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_showbubble",
+    "original": "show speech bubble [TEXT] offset xyz [OFFSETX] [OFFSETY] [OFFSETZ] max width [MWIDTH] text font [FONT] size [FONTSIZE] color [FONTCOLOR] background [BACKCOLOR] for [PERIOD] seconds camera facing [FORWARD] ID [ID]",
+    "fixed": "表示 speech bubble [TEXT] offset xyz [OFFSETX] [OFFSETY] [OFFSETZ] max 幅 [MWIDTH] text font [FONT] 大きさ [FONTSIZE] color [FONTCOLOR] background [BACKCOLOR] for [PERIOD] seconds camera facing [FORWARD] ID [ID]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_copycameradirection",
+    "original": "copy direction from camera",
+    "fixed": "copy 向き から camera",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_copycameraposition",
+    "original": "copy position from camera",
+    "fixed": "copy 位置 から camera",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_copyobjectposition",
+    "original": "copy position from object [NAME]",
+    "fixed": "copy 位置 から object [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_copyobjectdirection",
+    "original": "copy direction from object [NAME]",
+    "fixed": "copy 向き から object [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_setrotationpivot",
+    "original": "set pivot point X [X] Y [Y] z [Z]",
+    "fixed": "設定 pivot point X [X] Y [Y] z [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_clearpivot",
+    "original": "clear pivot point",
+    "fixed": "クリア pivot point",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_setmovingmode",
+    "original": "set moving mode [MODE]",
+    "fixed": "設定 moving モード [モード]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setspeed",
+    "original": "set speed [SPEEDTYPE] to [SPEED]",
+    "fixed": "設定 速度 [SPEEDTYPE] へ [速度]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_carveobject",
+    "original": "carve [NAME1] with [NAME2]",
+    "fixed": "carve [NAME1] で [NAME2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_objectintersecting",
+    "original": "objects [NAME1] and [NAME2] are overlapping",
+    "fixed": "objects [NAME1] と [NAME2] are overlapping",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_cloneobject",
+    "original": "copy object share data [SHARE] as [NAME]",
+    "fixed": "copy object share data [SHARE] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_rotationcopy",
+    "original": "copy to rotated position around the [AXIS] axis count [COUNT] degree step [STEP] shift XYZ [X] [Y] [Z]",
+    "fixed": "copy へ rotated 位置 around the [AXIS] axis count [COUNT] degree step [STEP] shift XYZ [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_vrotationcopy",
+    "original": "copy to rotated position around vector xyz [VX] [VY] [VZ] count [COUNT] degree step [STEP] shift XYZ [X] [Y] [Z]",
+    "fixed": "copy へ rotated 位置 around vector xyz [VX] [VY] [VZ] count [COUNT] degree step [STEP] shift XYZ [X] [Y] [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_mirrorcopy",
+    "original": "copy to mirror position [MIRRORTYPE]",
+    "fixed": "copy へ mirror 位置 [MIRRORTYPE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_doadd_addinstancematrix",
+    "original": "copy by matrix count in xyz [X2] [Y2] [Z2] spacing in xyz [SPACINGX] [SPACINGY] [SPACINGZ] random ratio in spacing [SPACINGRANDOM]% scale [SCALERANDOM]% z-rotation [ROTRANDOM]%  [AVOIDMODE] object [AVOIDNAME]",
+    "fixed": "copy による matrix count の xyz [X2] [Y2] [Z2] spacing の xyz [SPACINGX] [SPACINGY] [SPACINGZ] random ratio の spacing [SPACINGRANDOM]% scale [SCALERANDOM]% z-回転 [ROTRANDOM]%  [AVOIDMODE] object [AVOIDNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3tools_d3_doadd_addinstancematrix2",
+    "original": "copy by matrix from center count in xyz [X2] [Y2] [Z2] spacing in xyz [SPACINGX] [SPACINGY] [SPACINGZ] random ratio in spacing [SPACINGRANDOM]% scale [SCALERANDOM]% z-rotation [ROTRANDOM]%  [AVOIDMODE] object [AVOIDNAME]",
+    "fixed": "copy による matrix から center count の xyz [X2] [Y2] [Z2] spacing の xyz [SPACINGX] [SPACINGY] [SPACINGZ] random ratio の spacing [SPACINGRANDOM]% scale [SCALERANDOM]% z-回転 [ROTRANDOM]%  [AVOIDMODE] object [AVOIDNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_turnondistancesensor",
+    "original": "set distance sensor front [ISFRONT] back [ISBACK] left [ISLEFT] right [ISRIGHT] down [ISDOWN] up [ISUP] max distance [LEN] count [COUNT] visible [ISVISIBLE]",
+    "fixed": "設定 distance sensor front [ISFRONT] back [ISBACK] 退出した [ISLEFT] right [ISRIGHT] down [ISDOWN] up [ISUP] max distance [LEN] count [COUNT] visible [ISVISIBLE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_objectdistance",
+    "original": "distance between objects [NAME1] and [NAME2]",
+    "fixed": "distance between objects [NAME1] と [NAME2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setcollision",
+    "original": "turn on [ISBLOCKING] collision with [SPRITE] collider z offset [ZCENTER] precision [PRECISION] debug [ISDEBUG]",
+    "fixed": "turn on [ISBLOCKING] collision で [スプライト] collider z offset [ZCENTER] precision [PRECISION] debug [ISDEBUG]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setcollisiondimension",
+    "original": "update collider dimension x [WIDTH] y [DEPTH] z [HEIGHT] collider z offset [ZCENTER] sensing range x [RX] y [RY] z [RZ] color [COLOR]",
+    "fixed": "更新 collider dimension x [幅] y [DEPTH] z [高さ] collider z offset [ZCENTER] sensing range x [RX] y [RY] z [RZ] color [COLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_broadcastmeshcollisionmessage",
+    "original": "broadcast [BROADCASTMESSAGE] on collision between [NAME] from [SPRITE] and [NAME2] from [SPRITE2]",
+    "fixed": "送る [BROADCASTMESSAGE] on collision between [名前] から [スプライト] と [NAME2] から [SPRITE2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenincollision",
+    "original": "when colliding with [SPRITE]",
+    "fixed": "とき colliding で [スプライト]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_broadcasdistmessage",
+    "original": "broadcast [BROADCASTMESSAGE] when [DISTTYPE] distance <= [THRESHOLD] between [NAME] from [SPRITE] and [NAME2] from [SPRITE2]",
+    "fixed": "送る [BROADCASTMESSAGE] とき [DISTTYPE] distance <= [THRESHOLD] between [名前] から [スプライト] と [NAME2] から [SPRITE2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_broadcastoverlapmessage",
+    "original": "broadcast [BROADCASTMESSAGE] when [NAME] from [SPRITE] and [NAME2] from [SPRITE2] overlap",
+    "fixed": "送る [BROADCASTMESSAGE] とき [名前] から [スプライト] と [NAME2] から [SPRITE2] overlap",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_enablecamerapicking",
+    "original": "turn on picking with [POINTERTYPE] for objects created in sprites [SPRITENAMES] on [CLICKTYPE]",
+    "fixed": "turn on picking で [POINTERTYPE] for objects 作成された の スプライト [SPRITENAMES] on [CLICKTYPE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_enablecamerahovering",
+    "original": "turn on hovering for objects created in sprites [SPRITENAMES]",
+    "fixed": "turn on hovering for objects 作成された の スプライト [SPRITENAMES]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_disablecamerapicking",
+    "original": "turn off picking for objects created in sprites [SPRITENAMES]",
+    "fixed": "turn off picking for objects 作成された の スプライト [SPRITENAMES]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_disablecamerahovering",
+    "original": "turn off hovering for objects created in sprites [SPRITENAMES]",
+    "fixed": "turn off hovering for objects 作成された の スプライト [SPRITENAMES]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_getXYZonPlanefromXY",
+    "original": "map screen XY [X] [Y] to XYZ position on object [OBJNAME]",
+    "fixed": "map screen XY [X] [Y] へ XYZ 位置 on object [OBJNAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenobjectpicked",
+    "original": "when an object from this sprite is picked",
+    "fixed": "とき an object から この スプライト is picked",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setdraggingmode",
+    "original": "set dragging mode [DRAGGINGMODE] direction X [X] Y [Y] z [Z]",
+    "fixed": "設定 dragging モード [DRAGGINGMODE] 向き X [X] Y [Y] z [Z]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_setdragginglimit",
+    "original": "set dragging limits min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
+    "fixed": "設定 dragging limits min xyz [X] [Y] [Z] max xyz [X2] [Y2] [Z2]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenobjectstartdragged",
+    "original": "when an object from this sprite starts to be dragged",
+    "fixed": "とき an object から この スプライト starts へ be dragged",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenobjectbeingdragged",
+    "original": "when an object from this sprite is being dragged",
+    "fixed": "とき an object から この スプライト is being dragged",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_whenobjectenddragged",
+    "original": "when an object from this sprite stops being dragged",
+    "fixed": "とき an object から この スプライト stops being dragged",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_whenobjecthovered",
+    "original": "when an object from this sprite starts being hovered",
+    "fixed": "とき an object から この スプライト starts being hovered",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_whenobjecthoveredend",
+    "original": "when an object from this sprite stops being hovered",
+    "fixed": "とき an object から この スプライト stops being hovered",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_spritename",
+    "original": "sprite object 名前",
+    "fixed": "スプライト object 名前",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritescalex",
+    "original": "sprite object scale x",
+    "fixed": "スプライト object scale x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritescaley",
+    "original": "sprite object scale y",
+    "fixed": "スプライト object scale y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritescalez",
+    "original": "sprite object scale z",
+    "fixed": "スプライト object scale z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritesizex",
+    "original": "sprite object x size",
+    "fixed": "スプライト object x 大きさ",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritesizey",
+    "original": "sprite object y size",
+    "fixed": "スプライト object y 大きさ",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritesizez",
+    "original": "sprite object z size",
+    "fixed": "スプライト object z 大きさ",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteminx",
+    "original": "sprite object min x",
+    "fixed": "スプライト object min x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteminy",
+    "original": "sprite object min y",
+    "fixed": "スプライト object min y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteminz",
+    "original": "sprite object min z",
+    "fixed": "スプライト object min z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritemaxx",
+    "original": "sprite object max x",
+    "fixed": "スプライト object max x",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritemaxy",
+    "original": "sprite object max y",
+    "fixed": "スプライト object max y",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritemaxz",
+    "original": "sprite object max z",
+    "fixed": "スプライト object max z",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritex",
+    "original": "sprite object x position",
+    "fixed": "スプライト object x 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritey",
+    "original": "sprite object y position",
+    "fixed": "スプライト object y 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritez",
+    "original": "sprite object z position",
+    "fixed": "スプライト object z 位置",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritexrot",
+    "original": "sprite object x rotation",
+    "fixed": "スプライト object x 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteyrot",
+    "original": "sprite object y rotation",
+    "fixed": "スプライト object y 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritezrot",
+    "original": "sprite object z rotation",
+    "fixed": "スプライト object z 回転",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedforward",
+    "original": "sprite object forward speed",
+    "fixed": "スプライト object forward 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedsidemove",
+    "original": "sprite object size move speed",
+    "fixed": "スプライト object 大きさ move 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedrising",
+    "original": "sprite object rising speed",
+    "fixed": "スプライト object rising 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedforwardacc",
+    "original": "sprite object forward acceleration speed",
+    "fixed": "スプライト object forward acceleration 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedgravity",
+    "original": "sprite object gravity",
+    "fixed": "スプライト object gravity",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedrotationx",
+    "original": "sprite object x rotation speed",
+    "fixed": "スプライト object x 回転 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedrotationy",
+    "original": "sprite object y rotation speed",
+    "fixed": "スプライト object y 回転 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spritespeedrotationz",
+    "original": "sprite object z rotation speed",
+    "fixed": "スプライト object z 回転 速度",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedfront",
+    "original": "sprite object blocked front",
+    "fixed": "スプライト object blocked front",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedback",
+    "original": "sprite object blocked back",
+    "fixed": "スプライト object blocked back",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedbelow",
+    "original": "sprite object blocked below",
+    "fixed": "スプライト object blocked below",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedabove",
+    "original": "sprite object blocked above",
+    "fixed": "スプライト object blocked above",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedleft",
+    "original": "sprite object blocked left",
+    "fixed": "スプライト object blocked 退出した",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_spriteblockedright",
+    "original": "sprite object blocked right",
+    "fixed": "スプライト object blocked right",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_distancetonearest",
+    "original": "distance to nearest obstacle in the [TARGET] direction for [NAME]",
+    "fixed": "distance へ nearest obstacle の the [TARGET] 向き for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3action_d3_nearestobstaclename",
+    "original": "名前 of nearest obstacle in the [TARGET] direction for [NAME]",
+    "fixed": "名前 の nearest obstacle の the [TARGET] 向き for [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_objectproperty",
+    "original": "[OBJECTPROPERTY] of object [OBJECTNAME] from sprite [SPRITENAME]",
+    "fixed": "[OBJECTPROPERTY] の object [OBJECTNAME] から スプライト [SPRITENAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distancefront",
+    "original": "distance to obstacle in the front",
+    "fixed": "distance へ obstacle の the front",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distanceback",
+    "original": "distance to obstacle in the back",
+    "fixed": "distance へ obstacle の the back",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distancebottom",
+    "original": "distance to obstacle below",
+    "fixed": "distance へ obstacle below",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distanceup",
+    "original": "distance to obstacle above",
+    "fixed": "distance へ obstacle above",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distanceleft",
+    "original": "distance to obstacle to the left",
+    "fixed": "distance へ obstacle へ the 退出した",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_distanceright",
+    "original": "distance to obstacle to the right",
+    "fixed": "distance へ obstacle へ the right",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_extrude2",
+    "original": "extrude costume [COSTUME] thickness [HEIGHT] scaling factor [USERSCALING] side color [COLOR] granularity [GRAN] as [NAME]",
+    "fixed": "extrude コスチューム [コスチューム] thickness [高さ] scaling factor [USERSCALING] side color [COLOR] granularity [GRAN] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3_extrude3",
+    "original": "extrude costume [COSTUME] tiles width [TW] height [TH] row [TX] col [TY] thickness [HEIGHT] side color [COLOR] granularity [GRAN] as [NAME]",
+    "fixed": "extrude コスチューム [コスチューム] tiles 幅 [TW] 高さ [TH] row [TX] col [TY] thickness [高さ] side color [COLOR] granularity [GRAN] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcube",
+    "original": "add voxel size in xyz [SIZEX] [SIZEY] [SIZEZ] with costumes top [TOP] bottom [BOTTOM] front [FRONT] back [BACK] left [LEFT] right [RIGHT] texture size [TEXTURELEN] sampling [SAMPLINGMETHOD] as [NAME]",
+    "fixed": "追加 voxel 大きさ の xyz [SIZEX] [SIZEY] [SIZEZ] で costumes top [TOP] bottom [BOTTOM] front [FRONT] back [BACK] 退出した [退出した] right [RIGHT] texture 大きさ [TEXTURELEN] sampling [SAMPLINGMETHOD] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_addcommunityobject",
+    "original": "add community model [OBJECTNAME] target height [HEIGHT] rotation [RX] [RY] [RZ] origin offset [X] [Y] [Z] as [NAME]",
+    "fixed": "追加 community model [OBJECTNAME] target 高さ [高さ] 回転 [RX] [RY] [RZ] origin offset [X] [Y] [Z] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3arvr_d3_showinspector",
+    "original": "show inspector [SHOW]",
+    "fixed": "表示 inspector [表示]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "communityObjectNotFound",
+    "original": "Model {modelName} is currently private or does not exist",
+    "fixed": "Model {modelName} is currently private または does not exist",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3scene_d3_switchFullScreen",
+    "original": "switch to full screen [BORDERTYPE]",
+    "fixed": "switch へ full screen [BORDERTYPE]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_set_property",
+    "original": "set property [PROPERTY_NAME] to [PROPERTY_VALUE] for [OBJECT_NAME]",
+    "fixed": "設定 property [PROPERTY_NAME] へ [PROPERTY_VALUE] for [OBJECT_NAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_property",
+    "original": "property [PROPERTY_NAME] of [OBJECT_NAME]",
+    "fixed": "property [PROPERTY_NAME] の [OBJECT_NAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "d3object_d3_foreachproperty",
+    "original": "for each property 名前d [PROPERTY_NAME] with value [PROPERTY_VALUE] for [OBJECT_NAME]",
+    "fixed": "for each property 名前d [PROPERTY_NAME] で value [PROPERTY_VALUE] for [OBJECT_NAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "database.createCollectionBtn",
+    "original": "Create a Collection",
+    "fixed": "作成 a Collection",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.scheduleEmailService",
+    "original": "schedule service: email [EMAIL] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
+    "fixed": "schedule service: email [EMAIL] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] で ID [ID]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "p2p.schedulePhoneMessageService",
+    "original": "schedule service: message to phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] with ID [ID]",
+    "fixed": "schedule service: メッセージ へ phone number [PHONENUMBER] content [CONTENT] at date [DATE] hour [HOUR] minute [MINUTE] time zone [TIMEZONE] で ID [ID]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.drawChartUsingList",
+    "original": "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "draw [CHARTTYPE] グラフ using 一覧 [一覧] x [X] y [Y] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.drawChartUsingColumn",
+    "original": "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "draw [CHARTTYPE] グラフ using columns [COLUMNS] から テーブル [テーブル] x [X] y [Y] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.drawChartUsingCategory",
+    "original": "draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "draw pie グラフ using category [CATEGORY] と value [VALUE] から テーブル [テーブル] x [X] y [Y] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.progressBar",
+    "original": "add progress bar as [VALUE] out of total [TOTAL] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] background [BGCOLOR] border width [BORDER_WIDTH] color [BORDER_COLOR] as [NAME]",
+    "fixed": "追加 progress bar として [VALUE] out の total [TOTAL] at x [X] y [Y] 幅 [幅] 高さ [高さ] color [COLOR] background [BGCOLOR] border 幅 [BORDER_WIDTH] color [BORDER_COLOR] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.createChatWindow",
+    "original": "add chat window x [X] y [Y] width [WIDTH] height [HEIGHT] input rows [ROWS] background [COLOR] border [BCOLOR] 名前 [NAME]",
+    "fixed": "追加 chat window x [X] y [Y] 幅 [幅] 高さ [高さ] input rows [ROWS] background [COLOR] border [BCOLOR] 名前 [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.appendChatMessage",
+    "original": "append to chat [NAME] message [MSG] as [ROLE] icon [ICON] align [ALIGN] text size [SIZE] color [TEXTCOLOR] background [BGCOLOR]",
+    "fixed": "append へ chat [名前] メッセージ [MSG] として [役割] icon [ICON] align [ALIGN] text 大きさ [大きさ] color [TEXTCOLOR] background [BGCOLOR]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.updateLastChatMessage",
+    "original": "update last chat message to [NEWMSG] for chat [NAME]",
+    "fixed": "更新 last chat メッセージ へ [NEWMSG] for chat [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.disableWidget",
+    "original": "[DISABLE] widget [NAME]",
+    "fixed": "[DISABLE] ウィジェット [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addToolbox",
+    "original": "add toolbox at x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]",
+    "fixed": "追加 toolbox at x [X] y [Y] 幅 [幅] 高さ [高さ] row count [ROW] column count [COLUMN] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.setIconToToolbox",
+    "original": "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]",
+    "fixed": "設定 icon へ [コスチューム] at row [ROW] column [COLUMN] for toolbox [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.deleteCostume",
+    "original": "delete costume [COSTUME]",
+    "fixed": "削除 コスチューム [コスチューム]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addImageFromCustoms",
+    "original": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "fixed": "追加 image [コスチューム] at x [X] y [Y] 幅 [幅] 高さ [高さ] aspect ratio [ASPECT] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addImageFromCostumes",
+    "original": "add image [COSTUME] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "fixed": "追加 image [コスチューム] at x [X] y [Y] 幅 [幅] 高さ [高さ] aspect ratio [ASPECT] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.addImageFromUrl",
+    "original": "add image from URL [URL] at x [X] y [Y] width [WIDTH] height [HEIGHT] aspect ratio [ASPECT] as [NAME]",
+    "fixed": "追加 image から URL [URL] at x [X] y [Y] 幅 [幅] 高さ [高さ] aspect ratio [ASPECT] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.showCamera",
+    "original": "show [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]",
+    "fixed": "表示 [SIDE] camera の [モード] x [X] y [Y] 幅 [幅] 高さ [高さ] として [名前]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "widget.savePictureFromCamera",
+    "original": "save picture from camera [CAMERANAME] as costume [COSTUMENAME]",
+    "fixed": "save picture から camera [CAMERANAME] として コスチューム [COSTUMENAME]",
+    "type": "auto_fix"
+  },
+  {
+    "key": "static",
+    "original": "Static",
+    "fixed": "静的",
+    "type": "auto_fix"
+  },
+  {
+    "key": "dynamic",
+    "original": "Dynamic",
+    "fixed": "動的",
+    "type": "auto_fix"
+  },
+  {
+    "key": "circle",
+    "original": "Circle",
+    "fixed": "円",
+    "type": "auto_fix"
+  }
+]

@@ -259,7 +259,6 @@
   "circleshape": "Circle",
   "mp.setSyncCostume": "synchronously set costume to [COSTUME]",
   "mp.leaveMultiplayerGame": "leave multiplayer game world [WORLDNAME]",
-
   "physics.enablePhysics": "initialize 2D physics world with gravity x [X] y [Y]",
   "physics.setPhysicsBody": "behave as a [TYPE] [SENSORTYPE] shape [SHAPE] debug [DEBUG]",
   "fixedbody": "Fixed",
@@ -288,7 +287,6 @@
   "physics.applyTorqueImpulse": "apply torque impulse [TORQUE]",
   "physics.lockMovement": "prevent body movement from forces [YESNO]",
   "physics.lockRotation": "prevent body rotation from forces [YESNO]",
-
   "physics.setDampingFactor": "set damping factor for movement [MD] % rotation [RD] %",
   "physics.broadcastCollisionEventMessage": "broadcast [BROADCASTMESSAGESTART] when colliding with [SPRITE]",
   "physics.broadcastCollisionEventMessage2": "broadcast [BROADCASTMESSAGESTOP] when finish colliding with [SPRITE]",
@@ -309,13 +307,13 @@
   "physics.setEdgeCollisionGroup": "set world border collision group [CG] colliding with group [TG]",
   "physics.removeCollider": "remove physics-based behavior",
   "physics.turnoncollisiondetection": "turn on ground detection within distance [DISTANCE] debug [DEBUG]",
-  "physics_getMass": "mass",
+  "physics.setTimeSpeed": "set physics time speed [SPEED]%",
+  "physics.getMass": "mass",
   "physics.getVelocityX": "x speed",
   "physics.getVelocityY": "y speed",
   "physics.getAngularVelocity": "angular speed",
   "physics.getCollidingBottom": "in collision below",
   "physics.getGroundSlope": "ground slope",
-
   "p2p.listSheetsInGoogleSheet": "list all sheets in google sheet at URL [SHEET_URL] into list [LIST]",
   "p2p.readFromGoogleSheet": "read from google sheet: URL [SHEET_URL] sheet name [SHEET_NAME] range [RANGE_VALUE] into table [TABLE]",
   "p2p.getGoogleFolderContent": "list content of Google Drive folder [URL] in table [TABLE]",
@@ -439,7 +437,7 @@
   "widget.addRemoveTabNamed": "[OPTION] tab named [NAME]",
   "widget.whenTabSelected": "when tab [NAME] selected",
   "widget.whenVideoIsPaused": "when video [NAME] paused",
-  "widget.whenVideoStopped": "when video [NAME] stopped",
+  "widget.whenVideoIsStopped": "when video [NAME] stopped",
   "widget.whenVideoStart": "when video [NAME] start",
   "ai.menuItem.male": "Male",
   "ai.menuItem.female": "Female",
@@ -727,7 +725,6 @@
   "Linear": "Linear",
   "Exponential": "Exponential",
   "None": "None",
-
   "d3scene_d3_setskybox": "set sky [SKYTYPE]",
   "d3scene_d3_removeskybox": "remove sky",
   "d3scene_d3_addpipeline": "add pipeline vignette [DOVIG] [VCOLOR] bloom strength [BWEIGHT] threshold [BTHRESH]% kernel [BKERNEL] antialiasing [DOANTI] sharpening [DOSHARPENING] camera contrast [CCONTRAST] exposure [CEXPOSURE]",
@@ -761,7 +758,6 @@
   "d3scene_d3_addhighlightgroup": "create highlight layer blur size [BLURSIZE] as [NAME]",
   "d3scene_d3_addtohighlightgroup": "add highlight in [COLOR] to layer named [NAME]",
   "d3scene_d3_removefromhighlightgroup": "remove from highlight layer named [NAME]",
-
   "d3scene_d3_removelights": "remove all lights",
   "d3scene_d3_removeonelight": "remove light named [NAME]",
   "d3scene_d3_switchlightonoff": "switch [ONOFF] light named [NAME]",
@@ -814,17 +810,14 @@
   "d3object_d3_addabcdplane": "add plane [COLOR] width [SIZEX] height [SIZEY] coefficients abcd [A] [B] [C] [D] as [NAME]",
   "d3object_d3_add3pplane": "add triangle [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] as [NAME]",
   "d3_add4pplane": "add quadrilateral [COLOR] from points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] as [NAME]",
-
   "d3object_d3_addtrianglefrompoints": "geometry: add triangle from points [OBJ1] [OBJ2] [OBJ3] color [COLOR] as [NAME]",
   "d3object_d3_addframebox": "geometry: add frame box color [COLOR] size in x [SIZEX] y [SIZEY] z [SIZEZ] thickness [THICKNESS] labels [LABELS] as [NAME]",
   "d3object_d3_addlinebetweenpoints": "geometry: add line between points [OBJ1] [OBJ2] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] segments [SEGCOUNT] label [LABEL] as [NAME]",
   "d3object_d3_addnewpoint": "geometry: add point between points [OBJ1] [OBJ2] at [PCT]% color [COLOR] size [SIZE] as [NAME]",
   "d3object_d3_addxyzpoint": "geometry: add point at xyz [X] [Y] [Z] color [COLOR] size [SIZE] on [ORIGOBJ] as [NAME]",
   "d3object_d3_addanglemark": "geometry: add angle mark [OBJ1] [OBJ2] [OBJ3] size [SIZE] color [COLOR] diameter [DIAMETER] arrow [ARROWHEAD] sides [SIDES] label [LABEL] as [NAME]",
-
   "d3object_d3_addAtom": "chemistry: add atom [ATOMTYPE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
   "d3object_d3_addcustomeatom": "chemistry: add custom atom [COLOR] size [SIZE] holes [HOLESPEC] label [LABEL] angle [LABELANGLE] as [NAME] connect hole [HOLE] to atom [ATOM2] hole [HOLE2] distance [BONDLEN]",
-
   "d3tools_d3_convertobjecttomirror": "build mirror brightness [CLARITY] using object named [NAME]",
   "d3tools_d3_setvisibleinmirror": "reflect in mirror [NAME]",
   "d3tools_d3_clearmirrorreflect": "remove all reflections in mirror [NAME]",
@@ -890,7 +883,6 @@
   "d3object_d3_removeallobjects": "remove all objects",
   "d3tools_d3_showbounds": "show bounding box [SHOW]",
   "d3tools_d3_showskeleton": "show skeleton [SHOW]",
-
   "d3physics_d3_changephysics": "update physics property restitution [RESTITUTION]% friction [FRICTION]%",
   "d3physics_d3_updatecarwheelphysics": "set car wheel engine force LF [LF] RF [RF] LB [LB] RB [RB] brake level [BRAKE] % for [NAME]",
   "d3physics_d3_setcarsteer": "set car wheel angle LF [LF] RF [RF] LB [LB] RB [RB] for [NAME]",
@@ -958,13 +950,11 @@
   "d3effect_d3_emittercommand": "[COMMAND] emitter [NAME]",
   "stop": "Stop",
   "dispose": "Dispose",
-
   "d3tools_d3_updatefiletexture": "add texture with shared file [TEXTURE] box unit size [SIZE] non-box repeat h [REPEATU] v [REPEATV] rotation [ANGLEW] area [COMPONENT]",
   "d3tools_d3_materialsetting": "material setting: wireframe mode [ISWIREFRAME] draw back face [ISBACKFACE] z-offset [ZOFFSET] log depth [ISLOGDEPTH] transparent [TRANS]",
   "d3tools_d3_applygridmaterial": "apply grid material face [FACECOLOR] line [LINECOLOR] density [LINECOUNT] minor line visibility [MINOR] line offset xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
   "d3tools_d3_setrenderinggroup": "set rendering layer [LAYERID]",
   "d3tools_d3_lockfacing": "set camera facing mode [FACEMODE]",
-
   "d3tools_d3_updatescale": "update scale x [X]% y [Y]% z [Z]% in [PERIOD] seconds [BLOCKING]",
   "d3tools_d3_updatescale2": "update size x [X] y [Y] z [Z]",
   "d3tools_d3_subdivideface": "subdivide faces by [MULTIPLE]",
@@ -1030,7 +1020,6 @@
   "d3object_d3_spritemaxx": "sprite object max x",
   "d3object_d3_spritemaxy": "sprite object max y",
   "d3object_d3_spritemaxz": "sprite object max z",
-
   "d3object_d3_spritex": "sprite object x position",
   "d3object_d3_spritey": "sprite object y position",
   "d3object_d3_spritez": "sprite object z position",
@@ -1045,7 +1034,6 @@
   "d3object_d3_spritespeedrotationx": "sprite object x rotation speed",
   "d3object_d3_spritespeedrotationy": "sprite object y rotation speed",
   "d3object_d3_spritespeedrotationz": "sprite object z rotation speed",
-
   "d3object_d3_spriteblockedfront": "sprite object blocked front",
   "d3object_d3_spriteblockedback": "sprite object blocked back",
   "d3object_d3_spriteblockedbelow": "sprite object blocked below",
@@ -1115,5 +1103,6 @@
   "static": "Static",
   "dynamic": "Dynamic",
   "rectangle": "Rectangle",
-  "circle": "Circle"
+  "circle": "Circle",
+  "physics.categoryName": "2D Physics"
 }
