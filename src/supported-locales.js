@@ -7,11 +7,13 @@ const locales = {
     'en': {name: 'English'},
     'es': {name: 'Español (España)'},
     'fr': {name: 'Français'},
-    'de': {name: 'Deutsch'},
     'zh-cn': {name: '简体中文'},
     'pl': {name: 'Polski'},
-    'zh-tw': {name: '繁體中文'},
+    'vi': {name: 'Tiếng Việt'},
+    'pt': {name: 'Português'},
     'ja': {name: '日本語'},
+    'de': {name: 'Deutsch'},
+    'zh-tw': {name: '繁體中文'},
     'ab': {name: 'Аҧсшәа'},
     'af': {name: 'Afrikaans'},
     'ar': {name: 'العربية'},
@@ -63,7 +65,6 @@ const locales = {
     'uz': {name: 'Oʻzbekcha'},
     'th': {name: 'ไทย'},
     'km': {name: 'ភាសាខ្មែរ'},
-    'pt': {name: 'Português'},
     'pt-br': {name: 'Português Brasileiro'},
     'rap': {name: 'Rapa Nui'},
     'ro': {name: 'Română'},
@@ -75,7 +76,6 @@ const locales = {
     'sr': {name: 'Српски'},
     'fi': {name: 'Suomi'},
     'sv': {name: 'Svenska'},
-    'vi': {name: 'Tiếng Việt'},
     'tr': {name: 'Türkçe'},
     'uk': {name: 'Українська'}
 };
@@ -85,7 +85,8 @@ const indexLanguage = {
     'es': {name: 'Español (España)'},
     'fr': {name: 'Français'},
     'zh-cn': {name: '简体中文'},
-    'pl': {name: 'Polski'}
+    'pl': {name: 'Polski'},
+    'vi': {name: 'Tiếng Việt'}
 };
 
 const customLocales = {
