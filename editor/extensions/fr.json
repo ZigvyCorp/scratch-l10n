@@ -1,5 +1,5 @@
 {
-  "boost.color.any": "any color",
+  "boost.color.any": "n'importe quelle couleur",
   "boost.color.black": "noir",
   "boost.color.blue": "bleu",
   "boost.color.green": "vert",
@@ -32,8 +32,8 @@
   "ev3.getDistance": "distance",
   "ev3.getMotorPosition": "position du moteur [PORT]",
   "ev3.motorSetPower": "mettre la puissance du moteur [PORT] à [POWER] %",
-  "ev3.motorTurnClockwise": "motor [PORT] turn this way for [TIME] seconds",
-  "ev3.motorTurnCounterClockwise": "motor [PORT] turn that way for [TIME] seconds",
+  "ev3.motorTurnClockwise": "moteur [PORT] tourner dans ce sens pendant [TIME] secondes",
+  "ev3.motorTurnCounterClockwise": "moteur [PORT] tourner dans l'autre sens pendant [TIME] secondes",
   "ev3.whenBrightnessLessThan": "quand la luminosité < [DISTANCE]",
   "ev3.whenButtonPressed": "quand le bouton [PORT] est appuyé",
   "ev3.whenDistanceLessThan": "quand la distance < [DISTANCE]",
@@ -68,7 +68,7 @@
   "makeymakey.upArrowShort": "haut",
   "makeymakey.whenKeyPressed": "quand la touche [KEY] pressée",
   "makeymakey.whenKeysPressedInOrder": "quand [SEQUENCE] sont pressés dans l'ordre",
-  "microbit.buttonsMenu.any": "any",
+  "microbit.buttonsMenu.any": "n'importe lequel",
   "microbit.clearDisplay": "effacer l'écran",
   "microbit.defaultTextToDisplay": "Bonjour !",
   "microbit.displaySymbol": "afficher [MATRIX]",
@@ -81,7 +81,7 @@
   "microbit.pinStateMenu.off": "désactivée",
   "microbit.pinStateMenu.on": "activée",
   "microbit.tiltAngle": "angle d'inclinaison [DIRECTION]",
-  "microbit.tiltDirectionMenu.any": "any",
+  "microbit.tiltDirectionMenu.any": "n'importe laquelle",
   "microbit.tiltDirectionMenu.back": "back",
   "microbit.tiltDirectionMenu.front": "front",
   "microbit.tiltDirectionMenu.left": "left",
@@ -139,7 +139,6 @@
   "music.playNoteForBeats": "jouer la note [NOTE] pendant [BEATS]",
   "music.playNoteForBeatsWithBlocking": "jouer la note [NOTE] pendant [BEATS] bat en bloquant [BLOCKING] battements",
   "music.playNoteForBeatsLoudness": "jouer la note [NOTE1] [NOTE2] [NOTE3] [NOTE4] pour [BEATS] battements volume [LOUDNESS] bloquant [BLOCKING] battements",
-
   "music.restForBeats": "faire une pause pendant [BEATS] temps",
   "music.setInstrument": "choisir l'instrument n° [INSTRUMENT]",
   "music.setTempo": "mettre le tempo à [TEMPO]",
@@ -186,8 +185,8 @@
   "videoSensing.direction": "direction",
   "videoSensing.motion": "mouvement",
   "videoSensing.off": "désactivée",
-  "videoSensing.on": "on",
-  "videoSensing.onFlipped": "on flipped",
+  "videoSensing.on": "activée",
+  "videoSensing.onFlipped": "activée inversée",
   "videoSensing.setVideoTransparency": "set video transparency to [TRANSPARENCY]",
   "videoSensing.sprite": "sprite",
   "videoSensing.stage": "scène",
@@ -211,7 +210,7 @@
   "wedo2.setLightHue": "mettre la couleur de la lampe à [HUE]",
   "wedo2.setMotorDirection": "mettre la direction du moteur [MOTOR_ID] à [MOTOR_DIRECTION]",
   "wedo2.startMotorPower": "mettre la puissance du moteur [MOTOR_ID] à [POWER]",
-  "wedo2.tiltDirection.any": "any",
+  "wedo2.tiltDirection.any": "n'importe laquelle",
   "wedo2.tiltDirection.down": "vers le bas",
   "wedo2.tiltDirection.left": "à gauche",
   "wedo2.tiltDirection.right": "à droite",
@@ -247,7 +246,6 @@
   "mp.stopType.rebound": "Rebondir",
   "mp.stopType.reboundAandCollect": "Rebondir et Supprimer",
   "Edge": "Bord",
-
   "mp.broadcastTouchMessage": "lorsque je touche [SPRITE] avec préfixe d'ID de clone [CLONEID] je vais [STOPTYPE] et diffuser [BROADCASTMESSAGE] avec paramètre [PARAM]",
   "mp.isConnectedToGame": "connecté au jeu",
   "mp.whenAddedToGame": "lorsqu'ajouté au jeu",
@@ -258,7 +256,6 @@
   "circleshape": "Cercle",
   "mp.setSyncCostume": "définir le costume de manière synchrone sur [COSTUME]",
   "mp.leaveMultiplayerGame": "quitter le monde du jeu multijoueur [WORLDNAME]",
-
   "physics.enablePhysics": "initialise le monde physique 2D avec la gravité x [X] y [Y]",
   "physics.setPhysicsBody": "se comporter comme une forme [TYPE] [SENSORTYPE] [SHAPE] de débogage [DEBUG]",
   "fixedbody": "Fixé",
@@ -314,9 +311,7 @@
   "physics.getAngularVelocity": "vitesse angulaire",
   "physics.getCollidingBottom": "en collision ci-dessous",
   "physics.getGroundSlope": "pente du sol",
-
   "physics.categoryName": "2D la physique",
-
   "p2p.listSheetsInGoogleSheet": "répertorier toutes les feuilles dans la feuille de calcul Google à l'URL [SHEET_URL] dans la liste [LIST]",
   "p2p.readFromGoogleSheet": "lire depuis la feuille Google: URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
   "p2p.getGoogleFolderContent": "lister le contenu du dossier Google Drive %1 dans le tableau %2",
@@ -659,7 +654,6 @@
   "blocking object back": "Bloquer l'objet en arrière",
   "blocking object left": "Objet bloquant à gauche",
   "blocking object right": "Blocage de l'objet à droite",
-
   "speed x": "Vitesse X",
   "speed y": "Vitesse Y",
   "speed z": "Vitesse Z",
@@ -818,17 +812,14 @@
   "d3object_d3_addabcdplane": "ajouter plan [COLOR] largeur [SIZEX] hauteur [SIZEY] coefficients abcd [A] [B] [C] [D] nommé [NAME]",
   "d3object_d3_add3pplane": "ajouter le triangle [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] nommé [NAME]",
   "d3_add4pplane": "ajouter le quadrilatère [COLOR] à partir des points xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] nommé [NAME ]",
-
   "d3object_d3_addtrianglefrompoints": "géométrie: ajouter un triangle à partir des points [OBJ1] [OBJ2] [OBJ3] colorer [COLOR] comme [NAME]",
   "d3object_d3_addframebox": "géométrie: ajoutez la couleur de la boîte de cadre [COLOR] taille en x [SIZEX] y [SIZEY] z [SIZEZ] épaisseur [THICKNESS] étiquettes [LABELS] as [NAME]",
   "d3object_d3_addlinebetweenpoints": "géométrie: ajouter une ligne entre les points [OBJ1] [OBJ2] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] segments [SEGCOUNT] étiquette [LABEL] as [NAME]",
   "d3object_d3_addnewpoint": "géométrie: ajouter un point entre les points [OBJ1] [OBJ2] à [PCT] % de couleur [COLOR] taille [SIZE] comme [NAME]",
   "d3object_d3_addxyzpoint": "géométrie: ajouter un point à xyz [X] [Y] [Z] couleur [COLOR] taille [SIZE] sur [ORIGOBJ] en tant que [NAME]",
   "d3object_d3_addanglemark": "géométrie : ajouter une marque d'angle [OBJ1] [OBJ2] [OBJ3] taille [SIZE] couleur [COLOR] diamètre [DIAMETER] flèche [ARROWHEAD] côtés [SIDES] étiquette [LABEL] comme [NAME]",
-
   "d3object_d3_addAtom": "chimie: ajouter l'atome [ATOMTYPE] en tant que [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN]",
   "d3object_d3_addcustomeatom": "chimie: ajouter un atome personnalisé [COLOR] taille [SIZE] trous [HOLESPEC] étiquette [LABEL] angle [LABELANGLE] comme [NAME] connecter le trou [HOLE] à l'atome [ATOM2] trou [HOLE2] distance [BONDLEN ]",
-
   "d3tools_d3_convertobjecttomirror": "construire la luminosité du miroir [CLARITY] en utilisant l'objet nommé [NAME]",
   "d3tools_d3_setvisibleinmirror": "refléter dans le miroir [NAME]",
   "d3tools_d3_clearmirrorreflect": "supprimer tous les reflets dans le miroir [NAME]",
@@ -889,7 +880,6 @@
   "d3object_d3_removeallobjects": "supprime tous les objets",
   "d3tools_d3_showbounds": "afficher le cadre de délimitation [SHOW]",
   "d3tools_d3_showskeleton": "afficher le squelette [SHOW]",
-
   "d3object_d3_addmovingline": "ajouter une ligne mobile entre [OBJ1] et [OBJ2] [COLOR] diamètre [DIAMETER] côtés [SIDES] comme [NAME]",
   "d3physics_d3_updatecarwheelphysics": "régler la force du moteur de la roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] niveau de freinage [BRAKE]% pour [NAME]",
   "d3physics_d3_setcarsteer": "définit l'angle de roue de la voiture LF [LF] RF [RF] LB [LB] RB [RB] pour [NAME]",
@@ -951,7 +941,6 @@
   "d3effect_d3_emittercommand": "[COMMANDE] émetteur [NAME]",
   "stop": "Arrêter",
   "dispose": "Disposer",
-
   "d3tools_d3_updatefiletexture": "ajouter une texture avec le fichier partagé [TEXTURE] taille de l'unité de la boîte [SIZE] répétition non-boîte h [REPEATU] v [REPEATV] rotation [ANGLEW] Région [COMPONENT]",
   "d3tools_d3_materialsetting": "réglage du matériau : mode filaire [ISWIREFRAME] face arrière [ISBACKFACE] décalage z [ZOFFSET] profondeur du journal [ISLOGDEPTH] transparent [TRANS]",
   "d3tools_d3_applygridmaterial": "appliquer le matériau de la grille face [FACECOLOR] ligne [LINECOLOR] densité [LINECOUNT] visibilité des lignes mineures [MINOR]% décalage de ligne xyz [XOFFSET] [YOFFSET] [ZOFFSET]",
@@ -1025,9 +1014,7 @@
   "d3object_d3_spritemaxx": "objet sprite max x",
   "d3object_d3_spritemaxy": "objet sprite max y",
   "d3object_d3_spritemaxz": "objet sprite max z",
-
   "d3_changephysics": "met à jour la restitution des propriétés physiques [RESTITUTION]% frottement [FRICTION]%",
-
   "d3object_d3_spritex": "objet sprite position x",
   "d3object_d3_spritey": "objet sprite position y",
   "d3object_d3_spritez": "objet sprite position z",
@@ -1042,7 +1029,6 @@
   "d3object_d3_spritespeedrotationx": "objet sprite x vitesse de rotation",
   "d3object_d3_spritespeedrotationy": "objet sprite y vitesse de rotation",
   "d3object_d3_spritespeedrotationz": "vitesse de rotation de l'objet sprite z",
-
   "d3object_d3_spriteblockedfront": "objet sprite bloqué devant",
   "d3object_d3_spriteblockedback": "objet sprite bloqué en arrière",
   "d3object_d3_spriteblockedbelow": "objet sprite bloqué en dessous",

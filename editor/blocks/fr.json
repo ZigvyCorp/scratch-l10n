@@ -38,7 +38,7 @@
   "CONTROL_DEFAULT_OPTION": "sélectionner",
   "CONTROL_REPORT_TEST_RESULT": "rapport du résultat du test %1",
   "CONTROL_SETGLOBALPARAM": "définir la clé de paramètre global %1 valeur %2",
-  "CONTROL_SUBMITQUIZASSIGNMENT": "soumettre le résultat de l'affectation %1 code %2 commentaire %3",
+  "CONTROL_SUBMITQUIZASSIGNMENT": "soumettre le devoir résultat %1 code %2 commentaire %3",
   "CONTROL_FAIL": "Échec",
   "CONTROL_PASS": "Réussite",
   "CONTROL_GET_SCRIPT_FROM_SPRITE_CUSTOM_BLOCK": "obtenir le script pour le bloc personnalisé %1 à partir du sprite %2",

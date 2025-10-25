@@ -86,7 +86,10 @@ const indexLanguage = {
     'fr': {name: 'Français'},
     'zh-cn': {name: '简体中文'},
     'pl': {name: 'Polski'},
-    'vi': {name: 'Tiếng Việt'}
+    'vi': {name: 'Tiếng Việt'},
+    'pt': {name: 'Português'},
+    'ja': {name: '日本語'},
+    'de': {name: 'Deutsch'}
 };
 
 const customLocales = {

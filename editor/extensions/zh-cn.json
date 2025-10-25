@@ -70,7 +70,7 @@
   "makeymakey.whenKeysPressedInOrder": "当依次按下[SEQUENCE]键时",
   "microbit.buttonsMenu.any": "任意",
   "microbit.clearDisplay": "清空屏幕",
-  "microbit.defaultTextToDisplay": "Hello!",
+  "microbit.defaultTextToDisplay": "你好!",
   "microbit.displaySymbol": "显示[MATRIX]",
   "microbit.displayText": "显示文本[TEXT]",
   "microbit.gesturesMenu.jumped": "抛起",
@@ -139,7 +139,6 @@
   "music.playNoteForBeats": "演奏音符 [NOTE] 拍数 [BEATS]",
   "music.playNoteForBeatsWithBlocking": "演奏音符 [NOTE] 拍数 [BEATS] 等待 [BLOCKING] 拍",
   "music.playNoteForBeatsLoudness": "演奏音符 [NOTE1] [NOTE2] [NOTE3] [NOTE4] 拍数 [BEATS] 占时 [BLOCKING]",
-
   "music.restForBeats": "休止[BEATS]拍",
   "music.setInstrument": "将乐器设为 [INSTRUMENT]",
   "music.setTempo": "将演奏速度设定为[TEMPO]",
@@ -228,7 +227,6 @@
   "physics.categoryName": "二维物理",
   "d3arvr.categoryName": "三维AR/VR",
   "mp.categoryName": "多人游戏",
-
   "mp.createMultiplayerGame": "创建多人游戏 名为 [GAMENAME] 密码 [PASSWORD] 我的名字 [DISPLAYNAME] 角色 [ROLE] 服务器 [REGION] 容量 [PLAYERCOUNT] 世界宽度 [WIDTH] 高度 [HEIGHT]",
   "mp.listMultiplayerGameUsers": "在表格 [TABLE] 中列出由 [HOSTUSERNAME] 在服务器 [REGION] 上创建的多人游戏 [GAMENAME] 中的玩家",
   "mp.resetMultiplayerGame": "重置游戏世界",
@@ -252,18 +250,15 @@
   "mp.stopType.rebound": "反弹",
   "mp.stopType.reboundandCollect": "反弹并收集",
   "Edge": "边缘",
-
   "mp.broadcastTouchMessage": "当触碰 [SPRITE] 且克隆ID前缀为 [CLONEID] 时 我将 [STOPTYPE] 并广播 [BROADCASTMESSAGE] 参数 [PARAM]",
   "mp.isConnectedToGame": "已连接到多人游戏",
   "mp.whenAddedToGame": "添加到多人游戏时",
-
   "playerentity": "玩家",
   "obstacleentity": "障碍物",
   "collectableentity": "物件",
   "rectangleshape": "矩形",
   "circleshape": "圆形",
   "mp.leaveMultiplayerGame": "离开多人游戏世界 [WORLDNAME]",
-
   "physics.enablePhysics": "初始化二维物理世界 重力加速度 x [X] y [Y]",
   "physics.setEdgeCollider": "设置世界边框 摩擦系数 [FRICTION] 弹性系数 [RESTITUION]",
   "physics.setEdgeCollisionGroup": "设置世界边框 碰撞组 [CG] 并与组 [TG] 碰撞",
@@ -302,7 +297,6 @@
   "physics.addCollisionFilter": "允许与组 [GROUP] 的碰撞",
   "physics.removeCollisionFilter": "禁止与组 [GROUP] 的碰撞",
   "physics.setDominanceGroup": "将碰撞优势级别设置为 [GROUP]",
-
   "physics.setCCD": "作为飞速物体进行碰撞检测 [YESNO]",
   "physics.setGravityScale": "设置重力 乘数 [SCALE] %",
   "physics.addFixedJoint": "固定与 [SPRITE] 的相对位置",
@@ -320,9 +314,7 @@
   "physics.getAngularVelocity": "旋转速度",
   "physics.getCollidingBottom": "在下方有碰撞",
   "physics.getGroundSlope": "地面坡度",
-
   "mp.setSyncCostume": "同步将造型设为 [COSTUME]",
-
   "p2p.listSheetsInGoogleSheet": "列出谷歌表格 URL [SHEET_URL 中的所有工作表到列表 %2 [LIST]",
   "p2p.readFromGoogleSheet": "从谷歌表格读取: URL [SHEET_URL] 工作表名称 [SHEET_NAME] 范围 [RANGE_VALUE] 到表 [TABLE]",
   "p2p.getGoogleFolderContent": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
@@ -334,7 +326,6 @@
   "p2p.setValue": "将位于网址 [SHEET_URL] 的谷歌工作表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值设为 [VALUE]",
   "p2p.getValue": "读取位于网址 [SHEET_URL] 的谷歌工作表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值",
   "p2p.removeColumnsFromSheet": "在位于网址 %4 的谷歌工作表的表单 %3 中删除列 %1 到列 %2",
-
   "p2p.readWorldsInfo": "将所有世界信息读入表 [TABLE]",
   "p2p.categoryName": "云",
   "p2p.fetchFromURL": "从URL [URL] 获取网页并转换为Markdown格式",
@@ -558,17 +549,14 @@
   "d3object_d3_addabcdplane": "添加平面 [COLOR] 宽 [SIZEX] 长 [SIZEY] 系数 abcd [A] [B] [C] [D] 名为 [NAME]",
   "d3object_d3_add3pplane": "添加三角形 [COLOR] 顶点位置 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] 名为 [NAME]",
   "d3_add4pplane": "添加四边形 [COLOR] 顶点位置 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [Z4] 名为 [NAME]",
-
   "d3object_d3_addtrianglefrompoints": "几何: 在点 [OBJ1] [OBJ2] [OBJ3] 之间添加 颜色为 [COLOR] 的三角形 名为 [NAME]",
   "d3object_d3_addframebox": "几何: 添加盒子框架  颜色 [COLOR] 长度 x [SIZEX] y [SIZEY] z [SIZEZ] 边厚度 [THICKNESS] 显示标签 [LABELS] 名为 [NAME]",
   "d3object_d3_addlinebetweenpoints": "几何: 在点 [OBJ1] [OBJ2] 之间添加线 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 段数 [SEGCOUNT] 标签 [LABEL] 名为 [NAME]",
   "d3object_d3_addnewpoint": "几何: 在点 [OBJ1] [OBJ2] 之间 [PCT]% 处添加点 颜色 [COLOR] 大小 [SIZE] 名为 [NAME]",
   "d3object_d3_addxyzpoint": "几何: 在 位置xyz [X] [Y] [Z] 上添加点 颜色 [COLOR] 大小 [SIZE] 父节点 [ORIGOBJ] 名为 [NAME]",
   "d3object_d3_addanglemark": "几何:添加角度标记 [OBJ1] [OBJ2] [OBJ3] 大小 [SIZE] 颜色 [COLOR] 直径 [DIAMETER] 箭头 [ARROWHEAD] 边数 [SIDES] 标签 [LABEL] 作为 [NAME]",
-
   "d3object_d3_addAtom": "化学: 添加原子 [ATOMTYPE] 名为 [NAME] 连接孔 [HOLE] 到原子 [ATOM2] 的孔 [HOLE2] 距离 [BONDLEN]",
   "d3object_d3_addcustomeatom": "化学: 添加自定义原子 [COLOR] 大小 [SIZE] 孔 [HOLESPEC] 标签 [LABEL] 角度 [LABELANGLE] 名为 [NAME] 将孔 [HOLE] 连接到原子 [ATOM2] 的孔 [HOLE2] 距离 [BONDLEN]",
-
   "d3tools_d3_convertobjecttomirror": "将名为 [NAME] 的物体变成镜面 亮度 [CLARITY]",
   "d3tools_d3_setvisibleinmirror": "在名为 [NAME] 的镜面中添加镜像",
   "d3tools_d3_clearmirrorreflect": "去掉名为 [NAME] 的镜面中的所有镜像",
@@ -630,7 +618,6 @@
   "d3object_d3_removeallobjects": "删除所有物体",
   "d3tools_d3_showbounds": "显示边界盒子 [SHOW]",
   "d3tools_d3_showskeleton": "显示骨架 [SHOW]",
-
   "d3object_d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之间添加连线 [COLOR] 直径 [DIAMETER] 侧面数 [SIDES] 名为 [NAME]",
   "d3_updatecarphysics": "为汽车 [NAME] 设置引擎动力 [ENGINE] 刹车系数 [BRAKE]%",
   "d3physics_d3_updatecarwheelphysics": "为汽车 [NAME] 设置车轮引擎机力 LF [LF] RF [RF] LB [LB] RB [RB] 刹车系数 [BRAKE]%",
@@ -641,7 +628,6 @@
   "d3physics_d3_removeconstraint": "删除名为 [JOINTNAME] 的约束",
   "d3physics_d3_addfixedconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的固定约束",
   "d3physics_d3_adddistanceconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之间添加名为 [JOINTNAME] 的距离约束",
-
   "d3tools_d3_convertToFlatShading": "显示平面着色",
   "d3tools_d3_showedges": "显示边缘 [SHOW] 颜色 [EDGECOLOR] 宽度 [EDGETHICK]",
   "d3tools_d3_updatecolor": "更新颜色 反射 [COLOR] 自发 [COLOR2] 光泽度 [ROUGHNESS] 亮度 [BRIGHTNESS] 去掉纹理 [REMOVETEXTURE] 区域 [COMPONENT]",
@@ -764,9 +750,7 @@
   "d3object_d3_spriteminx": "角色物体最小x",
   "d3object_d3_spriteminy": "角色物体最小y",
   "d3object_d3_spriteminz": "角色物体最小z",
-
   "d3physics_d3_changephysics": "更新物理属性 恢复系数 [RESTITUTION]% 摩擦系数 [FRICTION]%",
-
   "d3_sprite最大 [x": "角色物体最大x",
   "d3_sprite最大 [y": "角色物体最大y",
   "d3_sprite最大 [z": "角色物体最大z",
@@ -805,7 +789,6 @@
   "d3object_d3_set_property": "将物体 [OBJECT_NAME] 的属性 [PROPERTY_NAME] 设为 [PROPERTY_VALUE]",
   "d3object_d3_property": "物体 [OBJECT_NAME] 的属性 [PROPERTY_NAME]",
   "d3object_d3_foreachproperty": "对于名为 [MODEL_NAME] 的模型中 [OBJECT_NAME] 的每个名为 [PROPERTY_NAME] 且值为 [PROPERTY_VALUE] 的属性",
-
   "d3arvr_d3_showinspector": "显示查看工具 [SHOW]",
   "castle": "城堡",
   "city": "城市",
@@ -938,7 +921,6 @@
   "blocking object back": "背后的障碍物",
   "blocking object left": "左边的障碍物",
   "blocking object right": "右边的障碍物",
-
   "speed x": "x 速度",
   "speed y": "y 速度",
   "speed z": "z 速度",
@@ -1091,7 +1073,7 @@
   "widget.drawChartUsingColumn": "使用表 [TABLE] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 中的列 [COLUMNS] 绘制 [CHARTTYPE] 图表作为 [NAME]",
   "widget.drawChartUsingCategory": "使用表 [TABLE] x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 作为 [NAME] 中的类别 [CATEGORY] 和值 [VALUE] 绘制饼图",
   "widget.chartType.line": "线",
-  "widget.chartType.bar": "bar",
+  "widget.chartType.bar": "柱状图",
   "widget.chartType.pie": "饼图",
   "widget.chartType.percentage": "百分比",
   "widget.progressBar": "在 x [X] y [Y] 宽度 [WIDTH] 高度 [HEIGHT] 颜色 [COLOR] 背景 [BGCOLOR] 边框宽度 [BORDER_WIDTH] 颜色 [BORDER_COLOR] 处添加进度条作为 [VALUE] 总计 [TOTAL] 作为命名 [NAME]",
@@ -1120,5 +1102,27 @@
   "static": "固定的",
   "dynamic": "动态的",
   "rectangle": "矩形",
-  "circle": "圆形"
+  "circle": "圆形",
+  "d3tool.categoryName": "3D工具",
+  "mp.stopType.stopAndCollect": "停止并收集",
+  "mp.stopType.continueAndCollect": "继续并收集",
+  "mp.stopType.selfDestructAndCollect": "自毁并收集",
+  "mp.stopType.reboundAndDelete": "反弹并删除",
+  "Earth Rising": "Earth Rising",
+  "d3action_d3_phoveredname": "上一个悬停对象名称",
+  "d3_exportboj": "将对象[NAME]导出为OBJ文件和MTL文件",
+  "d3action_d3_movespsmesh": "在sps [NAME]中移动粒子到x [X] y [Y] z [Z] 时间[TIME]",
+  "diffusion": "漫反射",
+  "emission": "发光",
+  "d3tools_d3_animatetextureframes": "在[MESH]上动画纹理帧 精灵表名称[SPRITESHEETNAME] 从行[ROWSTART]列[COLUMNSTART]到行[ROWEND]列[COLUMNEND] 宽度[WIDTH] 高度[HEIGHT] 持续时间[DURATION]",
+  "d3action_d3_getXYZonPlanefromXY": "将屏幕XY [X] [Y] 映射到对象[OBJECTNAME]平面[PLANENAME]上的XYZ位置",
+  "d3object_d3_spritemaxx": "精灵对象最大x",
+  "d3object_d3_spritemaxy": "精灵对象最大y",
+  "d3object_d3_spritemaxz": "精灵对象最大z",
+  "p2p.scheduleEmailService": "预约电子邮件服务",
+  "p2p.scheduleEmailService.pacificTime": "太平洋时间",
+  "p2p.scheduleEmailService.mountainTime": "山地时间",
+  "p2p.scheduleEmailService.centralTime": "中部时间",
+  "p2p.scheduleEmailService.easternTime": "东部时间",
+  "p2p.schedulePhoneMessageService": "预约短信服务"
 }
