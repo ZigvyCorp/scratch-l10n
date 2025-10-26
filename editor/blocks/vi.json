@@ -22,6 +22,8 @@
   "CONTROL_ALL_AT_ONCE": "tất cả cùng một lúc",
   "DATA_SETVARIABLETO": "đặt %1 thành %2",
   "DATA_CHANGEVARIABLEBY": "thay đổi %1 một lượng %2",
+  "DATA_JOINCLOUDSESSION": "tham gia phiên đám mây %1",
+  "DATA_CREATECLOUDSESSION": "tạo phiên đám mây %1",
   "DATA_SHOWVARIABLE": "hiện biến số %1",
   "DATA_HIDEVARIABLE": "ẩn biến số %1",
   "DATA_ADDTOLIST": "thêm phần tử %1 vào trong %2",
