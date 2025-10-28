@@ -593,7 +593,6 @@
   "gui.extension.d3physics.description": "3D 环境中的物理模拟",
   "gui.extension.physics.name": "物理",
   "gui.extension.physics.description": "2D 物理模拟",
-
   "gui.extension.automation.name": "自动化",
   "gui.extension.automation.description": "替代手动操作",
   "gui.libraryTags.all": "所有",
@@ -692,7 +691,6 @@
   "rightfoot": "右脚",
   "leftfoot": "左脚",
   "spine": "脊柱",
-
   "chin": "下巴",
   "leftCheek": "左脸颊",
   "leftEar": "左耳",
@@ -715,7 +713,6 @@
   "rightEyebrowOuter": "右眉外",
   "rightEyeOuterCorner": "右眼外角",
   "upperLip": "上唇",
-
   "gui.verticalMode.toggle.tooltip": "垂直模式切换",
   "gui.verticalMode.button.tooltip": "垂直模式面板",
   "gui.verticalMode.nextBlock.button.title": "移动到下一个积木",
@@ -852,5 +849,22 @@
   "gui.codeSnippet.shareModalOk": "分享",
   "gui.codeSnippet.shareModalContentName": "在此输入代码片段的名称...",
   "gui.codeSnippet.shareModalName": "名称",
-  "gui.codeSnippet.shareModalDescription": "描述"
+  "gui.codeSnippet.shareModalDescription": "描述",
+  "gui": {
+    "extension": {
+      "mp": {
+        "name": "多人联机",
+        "description": "创建多人在线游戏"
+      }
+    },
+    "opcodeLabels": {
+      "vpx": "视口 x",
+      "vpy": "视口 y"
+    },
+    "howtos": {
+      "intro-getting-started-ASL": {
+        "name": "入门 - ASL"
+      }
+    }
+  }
 }

@@ -1108,7 +1108,7 @@
   "mp.stopType.continueAndCollect": "继续并收集",
   "mp.stopType.selfDestructAndCollect": "自毁并收集",
   "mp.stopType.reboundAndDelete": "反弹并删除",
-  "Earth Rising": "Earth Rising",
+  "Earth Rising": "地球升起",
   "d3action_d3_phoveredname": "上一个悬停对象名称",
   "d3_exportboj": "将对象[NAME]导出为OBJ文件和MTL文件",
   "d3action_d3_movespsmesh": "在sps [NAME]中移动粒子到x [X] y [Y] z [Z] 时间[TIME]",
