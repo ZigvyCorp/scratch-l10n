@@ -940,5 +940,12 @@
   "USER": "usuario",
   "MODERATION_FAIL": "falla",
   "MODERATION_PASS": "aprobar",
-  "Hindi_ID": "hindi"
+  "Hindi_ID": "hindi",
+  "CONTROL_GET_JSON_FROM_SPRITE_BLOCK": "get json for all blocks into list %1",
+  "CONTROL_GET_SAMPLE_FROM_SPRITE_BLOCK": "get training sample %1",
+  "DATA_setRandomListSeed": "set %1 to %2 random numbers with seed %3",
+  "DATA_INSERTITEMSFROMLIST_LARGEST": "largest",
+  "DATA_ITEMNUMOFLIST2": "# of item containing %1 in %2",
+  "P2P_ADDSHETT": "add sheet %1 to google sheet at URL %2",
+  "Spanish_Paraguay": "Spanish (Paraguay)"
 }

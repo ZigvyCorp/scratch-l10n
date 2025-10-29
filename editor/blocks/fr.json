@@ -935,5 +935,16 @@
   "SYSTEM": "système",
   "USER": "utilisateur",
   "MODERATION_FAIL": "échec",
-  "MODERATION_PASS": "réussir"
+  "MODERATION_PASS": "réussir",
+  "CONTROL_GET_JSON_FROM_SPRITE_BLOCK": "obtenir le json de tous les blocs dans la liste %1",
+  "CONTROL_GET_SAMPLE_FROM_SPRITE_BLOCK": "obtenir l'échantillon d'entraînement %1",
+  "DATA_setRandomListSeed": "définir %1 à %2 nombres aléatoires avec la graine %3",
+  "Swahili_Tanzania": "swahili (Tanzanie)"
+,
+  "DATA_ITEMNUMOFLIST2": "élément # contenant %1 dans %2",
+  "P2P_ADDSHETT": "ajouter la feuille %1 à la feuille de calcul Google à l'URL %2",
+  "P2P_REMOVEROWSFROMSHEET": "supprimer les lignes %1 à %2 de la feuille %3 dans Google Sheets à l'URL %4",
+  "P2P_INSERTCOLUMNSINSHEET": "insérer %1 colonnes à la colonne %2 dans la feuille %3 dans Google Sheets à l'URL %4",
+  "P2P_INSERTROWSINSHEET": "insérer %1 lignes à la ligne %2 dans la feuille %3 dans Google Sheets à l'URL %4",
+  "P2P_CLEARSHEET": "effacer la feuille %1 dans Google Sheets à l'URL %2"
 }
