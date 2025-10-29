@@ -311,7 +311,7 @@
   "physics.getAngularVelocity": "vitesse angulaire",
   "physics.getCollidingBottom": "en collision ci-dessous",
   "physics.getGroundSlope": "pente du sol",
-  "physics.categoryName": "2D la physique",
+  "physics.categoryName": "Physique 2D",
   "p2p.listSheetsInGoogleSheet": "répertorier toutes les feuilles dans la feuille de calcul Google à l'URL [SHEET_URL] dans la liste [LIST]",
   "p2p.readFromGoogleSheet": "lire depuis la feuille Google: URL [SHEET_URL] nom de la feuille [SHEET_NAME] plage [RANGE_VALUE] dans la table [TABLE]",
   "p2p.getGoogleFolderContent": "lister le contenu du dossier Google Drive [URL] dans la table [TABLE]",
