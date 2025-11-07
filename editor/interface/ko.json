@@ -12,6 +12,11 @@
   "gui.backpack.loadingBackpack": "로딩중...",
   "gui.backpack.more": "더 보기",
   "gui.backpack.emptyBackpack": "개인 저장소가 비었습니다",
+  "gui.consolePanel.header": "콘솔 패널",
+  "gui.consolePanel.autoScroll": "자동 스크롤",
+  "gui.consolePanel.copied": "복사됨!",
+  "gui.consolePanel.copyTooltip": "콘솔 내용 복사",
+  "gui.consolePanel.clearTooltip": "콘솔 지우기",
   "gui.unsupportedBrowser.label": "브라우저가 지원되지 않습니다.",
   "gui.unsupportedBrowser.errorLabel": "An Error Occurred",
   "gui.unsupportedBrowser.notRecommended": "We are very sorry, but it looks like you are using a browser version that Scratch does not support. We recommend updating to the latest version of a supported browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.",
@@ -503,5 +508,6 @@
   "gui.sharedMessages.pop": "팝",
   "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
   "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-  "gui.gui.defaultProjectTitle": "스크래치 프로젝트"
+  "gui.gui.defaultProjectTitle": "스크래치 프로젝트",
+  "gui.consolePanel.premiumWarning": "프로젝트의 프리미엄 블록이 비활성화되었습니다"
 }

@@ -15,6 +15,8 @@
   "gui.consolePanel.header": "控制台面板",
   "gui.consolePanel.copied": "已复制！",
   "gui.consolePanel.autoScroll": "自动滚屏",
+  "gui.consolePanel.copyTooltip": "复制控制台内容",
+  "gui.consolePanel.clearTooltip": "清空控制台",
   "gui.unsupportedBrowser.label": "不支持当前浏览器",
   "gui.unsupportedBrowser.errorLabel": "出错了",
   "gui.unsupportedBrowser.notRecommended": "我们十分抱歉,Scratch不支持您正在使用的浏览器,我们建议您升级到我们所支持的浏览器的最新版本,例如Chrome、火狐、Edge或者Safari。",
