@@ -13,6 +13,7 @@
   "gui.backpack.more": "更多資訊",
   "gui.backpack.emptyBackpack": "背包空無一物",
   "gui.consolePanel.header": "控制檯面板",
+  "gui.consolePanel.copied": "已複製！",
   "gui.consolePanel.autoScroll": "自動滾屏",
   "gui.unsupportedBrowser.label": "瀏覽器不支援",
   "gui.unsupportedBrowser.errorLabel": "發生錯誤",
