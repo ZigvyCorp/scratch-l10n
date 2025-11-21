@@ -662,7 +662,7 @@
   "gui.extension.widget.description": "Créer des applications utiles.",
   "gui.extension.game.name": "Jeu",
   "gui.extension.game.description": "Outils pour créer des jeux",
-    "gui.extension.d3scene.name": "3D Scene",
+  "gui.extension.d3scene.name": "3D Scene",
   "gui.extension.d3scene.description": "Créer et gérer des scènes 3D",
   "gui.extension.d3object.name": "Obj. 3D",
   "gui.extension.d3object.description": "Créer et gérer des objets 3D",
@@ -676,7 +676,6 @@
   "gui.extension.d3physics.description": "Simulation de physique dans des environnements 3D",
   "gui.extension.physics.name": "Physique",
   "gui.extension.physics.description": "Simulation de physique en 2D",
-
   "gui.extension.automation.name": "Automatisation",
   "gui.extension.automation.description": "Remplacer les opérations manuelles",
   "head": "Tête",
@@ -693,7 +692,6 @@
   "rightfoot": "Pied droit",
   "leftfoot": "Pied gauche",
   "spine": "colonne vertébrale",
-
   "chin": "menton",
   "leftCheek": "joue gauche",
   "leftEar": "Oreille gauche",
@@ -716,7 +714,6 @@
   "rightEyebrowOuter": "Sourcil droit extérieur",
   "rightEyeOuterCorner": "Coin extérieur de l'œil droit",
   "upperLip": "Lèvre supérieure",
-
   "gui.verticalMode.toggle.tooltip": "Basculer pour le mode vertical",
   "gui.verticalMode.button.tooltip": "Panneau du mode vertical",
   "gui.verticalMode.nextBlock.button.title": "Passer au bloc suivant",
@@ -853,5 +850,7 @@
   "gui.codeSnippet.shareModalOk": "Partager",
   "gui.codeSnippet.shareModalContentName": "Saisissez le nom de l'extrait de code ici...",
   "gui.codeSnippet.shareModalName": "Nom",
-  "gui.codeSnippet.shareModalDescription": "Description"
+  "gui.codeSnippet.shareModalDescription": "Description",
+  "gui.assistantDialog.thinkMore": "Pensée approfondie",
+  "gui.assistantDialog.thinkMoreTooltip": "demander à XO de réfléchir plus longtemps pour une meilleure réponse"
 }

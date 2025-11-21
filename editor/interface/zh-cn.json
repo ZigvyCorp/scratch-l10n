@@ -794,6 +794,8 @@
   "gui.assistantDialog.sendCommand": "发送",
   "gui.assistantDialog.stopCommand": "停止",
   "gui.assistantDialog.socraticMode": "苏格拉底模式",
+  "gui.assistantDialog.thinkMore": "深度思考",
+  "gui.assistantDialog.thinkMoreTooltip": "让XO思考更长时间以获得更好的回答",
   "gui.assistantDialog.explainCommand": "请解释这个程序",
   "gui.assistantDialog.debuggerCommand": "这个程序有什么问题？",
   "gui.aiGenerateLibrary.addToQueue": "您的请求已被推送到队列",

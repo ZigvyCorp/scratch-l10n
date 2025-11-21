@@ -851,5 +851,7 @@
   "gui.codeSnippet.shareModalOk": "Teilen",
   "gui.codeSnippet.shareModalContentName": "Geben Sie hier den Namen des Code-Snippets ein...",
   "gui.codeSnippet.shareModalName": "Name",
-  "gui.codeSnippet.shareModalDescription": "Beschreibung"
+  "gui.codeSnippet.shareModalDescription": "Beschreibung",
+  "gui.assistantDialog.thinkMore": "Tiefes Denken",
+  "gui.assistantDialog.thinkMoreTooltip": "XO bitten, länger nachzudenken für eine bessere Antwort"
 }

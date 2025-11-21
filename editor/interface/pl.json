@@ -848,5 +848,7 @@
   "rightshoulder": "Prawe ramię",
   "rightupleg": "Prawe udo",
   "spine": "Kręgosłup",
-  "upperLip": "Górna warga"
+  "upperLip": "Górna warga",
+  "gui.assistantDialog.thinkMore": "Głębokie myślenie",
+  "gui.assistantDialog.thinkMoreTooltip": "poproś XO, aby myślał dłużej, aby uzyskać lepszą odpowiedź"
 }

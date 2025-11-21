@@ -695,7 +695,6 @@
   "rightfoot": "Pie Derecho",
   "leftfoot": "Pie Izquierdo",
   "spine": "columna vertebral",
-
   "chin": "barbilla",
   "leftCheek": "Mejilla izquierda",
   "leftEar": "Oído Izquierdo",
@@ -718,7 +717,6 @@
   "rightEyebrowOuter": "Exterior de la ceja derecha",
   "rightEyeOuterCorner": "Esquina exterior del ojo derecho",
   "upperLip": "Labio superior",
-
   "gui.verticalMode.toggle.tooltip": "Alternar para modo vertical",
   "gui.verticalMode.button.tooltip": "Panel de modo vertical",
   "gui.verticalMode.nextBlock.button.title": "Mover al bloque siguiente",
@@ -855,5 +853,7 @@
   "gui.codeSnippet.shareModalOk": "Compartir",
   "gui.codeSnippet.shareModalContentName": "Introduce el nombre del fragmento de código aquí...",
   "gui.codeSnippet.shareModalName": "Nombre",
-  "gui.codeSnippet.shareModalDescription": "Descripción"
+  "gui.codeSnippet.shareModalDescription": "Descripción",
+  "gui.assistantDialog.thinkMore": "Pensamiento profundo",
+  "gui.assistantDialog.thinkMoreTooltip": "pide a XO que piense durante más tiempo para una mejor respuesta"
 }

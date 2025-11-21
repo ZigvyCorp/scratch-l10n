@@ -849,5 +849,7 @@
   "rightshoulder": "Vai phải",
   "rightupleg": "Đùi phải",
   "spine": "Xương sống",
-  "upperLip": "Môi trên"
+  "upperLip": "Môi trên",
+  "gui.assistantDialog.thinkMore": "Suy nghĩ sâu",
+  "gui.assistantDialog.thinkMoreTooltip": "yêu cầu XO suy nghĩ lâu hơn để có câu trả lời tốt hơn"
 }
