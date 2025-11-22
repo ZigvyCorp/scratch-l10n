@@ -595,6 +595,8 @@
   "gui.extension.d3physics.description": "Physics simulation in 3D environments",
   "gui.extension.physics.name": "Physics",
   "gui.extension.physics.description": "2D physics simulation",
+  "gui.extension.database.name": "Database",
+  "gui.extension.database.description": "Create collections and run database queries",
   "gui.extension.automation.name": "Automation",
   "gui.extension.automation.description": "Replace manual operations",
   "gui.extension.mp.name": "Multiplayer",
