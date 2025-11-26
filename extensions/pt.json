@@ -370,7 +370,7 @@
   "d3physics_d3_freezeallphysics": "freeze all physics bodys [YESNO]",
   "d3physics_d3_freezeonephysics": "freeze physics body chamado [NAME] [YESNO]",
   "d3physics_d3_getphysicsdata": "get physics body [SPEEDTYPE] for [NAME]",
-  "d3physics_d3_getphysicsframerate": "get physics frame rate for",
+  "d3physics_d3_getphysicsframerate": "get physics frame rate",
   "d3physics_d3_lockphysicsobjectrotationandspeed": "trave physics body velocidade em X [X] Y [Y] Z [Z] rotation around X [X2] Y [Y2] Z [Z2] para [NAME]",
   "d3physics_d3_mergephysics": "adicione physics bodies de [CHILDREN] em compound [NAME] keep objeto [KEEPOBJ]",
   "d3physics_d3_removeconstraint": "remova constraint chamado [JOINTNAME]",

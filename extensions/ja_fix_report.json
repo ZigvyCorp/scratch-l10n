@@ -6311,9 +6311,9 @@
   },
   {
     "key": "d3physics_d3_getphysicsframerate",
-    "original": "get physics frame rate for",
+    "original": "get physics frame rate",
     "fixed": "取得 physics frame rate 間",
-    "english": "get physics frame rate for",
+    "english": "get physics frame rate",
     "types": [
       "untranslated"
     ],
