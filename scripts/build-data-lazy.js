@@ -19,6 +19,12 @@ mkdirpSync(MSGS_DIR);
 let missingLocales = [];
 let availableLocales = [];
 
+const writeFileSyncAtomic = (targetPath, data) => {
+    const tempPath = `${targetPath}.tmp`;
+    fs.writeFileSync(tempPath, data);
+    fs.renameSync(tempPath, targetPath);
+};
+
 const combineJson = (component) => {
     return Object.keys(locales).reduce((collection, lang) => {
         try {
@@ -41,7 +47,7 @@ Object.keys(blocksMessages).forEach((lang) => {
         'export default ' +
         JSON.stringify(blocksMessages[lang], null, 2) +
         ';\n';
-    fs.writeFileSync(MSGS_DIR + `blocks-msgs-${lang}.js`, blockData);
+    writeFileSyncAtomic(MSGS_DIR + `blocks-msgs-${lang}.js`, blockData);
 
     // Also generate CommonJS version for compatibility
     let blockData2 =
@@ -49,7 +55,7 @@ Object.keys(blocksMessages).forEach((lang) => {
         'module.exports = ' +
         JSON.stringify(blocksMessages[lang], null, 2) +
         ';\n';
-    fs.writeFileSync(MSGS_DIR + `blocks-msgs-${lang}-cjs.js`, blockData2);
+    writeFileSyncAtomic(MSGS_DIR + `blocks-msgs-${lang}-cjs.js`, blockData2);
 });
 
 // Generate messages for GUI components per language
@@ -71,7 +77,7 @@ components.forEach((component) => {
             'export default ' +
             JSON.stringify(messages[lang], null, 2) +
             ';\n';
-        fs.writeFileSync(MSGS_DIR + `${component}-msgs-${lang}.js`, data);
+        writeFileSyncAtomic(MSGS_DIR + `${component}-msgs-${lang}.js`, data);
 
         // Merge into editor messages
         defaultsDeep(editorMsgsByLang[lang], messages[lang]);
@@ -86,7 +92,7 @@ Object.keys(editorMsgsByLang).forEach((lang) => {
             'export default ' +
             JSON.stringify(editorMsgsByLang[lang], null, 2) +
             ';\n';
-        fs.writeFileSync(MSGS_DIR + `editor-msgs-${lang}.js`, editorData);
+        writeFileSyncAtomic(MSGS_DIR + `editor-msgs-${lang}.js`, editorData);
         availableLocales.push(lang);
     }
 });
@@ -107,7 +113,7 @@ const manifest = {
     }, {})
 };
 
-fs.writeFileSync(
+writeFileSyncAtomic(
     MSGS_DIR + 'locale-manifest.json',
     JSON.stringify(manifest, null, 2)
 );
@@ -131,7 +137,7 @@ let editorData =
     'export default ' +
     JSON.stringify(allEditorMsgs, null, 2) +
     ';\n';
-fs.writeFileSync(MSGS_DIR + 'editor-msgs.js', editorData);
+writeFileSyncAtomic(MSGS_DIR + 'editor-msgs.js', editorData);
 
 let blockData =
     '// GENERATED FILE:\n' +
@@ -140,7 +146,7 @@ let blockData =
     'export default ' +
     JSON.stringify(allBlocksMsgs, null, 2) +
     ';\n';
-fs.writeFileSync(MSGS_DIR + 'blocks-msgs.js', blockData);
+writeFileSyncAtomic(MSGS_DIR + 'blocks-msgs.js', blockData);
 
 // Write CommonJS version for compatibility
 let blockData2 =
@@ -150,7 +156,7 @@ let blockData2 =
     'module.exports = ' +
     JSON.stringify(allBlocksMsgs, null, 2) +
     ';\n';
-fs.writeFileSync(MSGS_DIR + 'blocks-msgs-2.js', blockData2);
+writeFileSyncAtomic(MSGS_DIR + 'blocks-msgs-2.js', blockData2);
 
 console.log(`Generated locale files for ${availableLocales.length} languages`);
 console.log('Available locales:', availableLocales.join(', '));
