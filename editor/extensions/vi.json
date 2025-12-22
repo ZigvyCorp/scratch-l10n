@@ -879,6 +879,8 @@
   "d3physics_d3_setasphysicsparent": "đặt đối tượng [PARENTNAME] từ nhân vật [SPRITE] làm cha cho vật lý",
   "d3physics_d3_setcarsteer": "đặt góc bánh xe ô tô trái trước [LF] phải trước [RF] trái sau [LB] phải sau [RB] cho [NAME]",
   "d3physics_d3_sethingelimit": "đặt giới hạn cho ràng buộc bản lề tên [JOINTNAME] góc giữa [LOW] và [HIGH] độ mềm [SOFT] hệ số thiên lệch [BIAS] độ giãn [RELAX]",
+  "d3physics_d3_addgravitationalfield": "thêm trường hấp dẫn vào [NAME] cường độ [STRENGTH]",
+  "d3physics_d3_removegravitationalfield": "xóa trường hấp dẫn khỏi [NAME]",
   "d3physics_d3_sethingespeed": "đặt tốc độ [SPEED] cho ràng buộc bản lề tên [JOINTNAME]",
   "d3physics_d3_setphysicsangularvelocity": "đặt tốc độ quay vật thể vật lý quanh trục xyz [X] [Y] [Z] cho [NAME]",
   "d3physics_d3_setphysicsdamping": "đặt giảm chấn vật thể vật lý cho chuyển động [MD]% quay [RD]% cho [NAME]",

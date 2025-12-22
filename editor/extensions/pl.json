@@ -903,6 +903,8 @@
   "d3physics_d3_setasphysicsparent": "ustaw obiekt [PARENTNAME] z postaci [SPRITE] jako rodzica dla fizyki",
   "d3physics_d3_setcarsteer": "ustaw kąt koła samochodu LF [LF] RF [RF] LB [LB] RB [RB] dla [NAME]",
   "d3physics_d3_sethingelimit": "ustaw limity dla ograniczenia zawiasu o nazwie [JOINTNAME] kąt między [LOW] a [HIGH] miękkość [SOFT] współczynnik biasu [BIAS] relaksacja [RELAX]",
+  "d3physics_d3_addgravitationalfield": "dodaj pole grawitacyjne do [NAME] siła [STRENGTH]",
+  "d3physics_d3_removegravitationalfield": "usuń pole grawitacyjne z [NAME]",
   "d3physics_d3_sethingespeed": "ustaw prędkość [SPEED] dla ograniczenia zawiasu o nazwie [JOINTNAME]",
   "d3physics_d3_setphysicsangularvelocity": "ustaw prędkość rotacji ciała fizycznego wokół osi xyz [X] [Y] [Z] dla [NAME]",
   "d3physics_d3_setphysicsdamping": "ustaw tłumienie ciała fizycznego dla ruchu [MD]% rotacji [RD]% dla [NAME]",

@@ -378,6 +378,8 @@
   "d3physics_d3_setasphysicsparent": "definir objeto [PARENTNAME] de sprite [SPRITE] como pai para física",
   "d3physics_d3_setcarsteer": "defina car wheel ângulo LF [LF] RF [RF] LB [LB] RB [RB] para [NAME]",
   "d3physics_d3_sethingelimit": "defina limites para restrição de dobradiça chamado [JOINTNAME] ângulo entre [LOW] e [HIGH] suavidade [SOFT] fator de viés [BIAS] relaxamento [RELAX]",
+  "d3physics_d3_addgravitationalfield": "adicionar campo gravitacional a [NAME] força [STRENGTH]",
+  "d3physics_d3_removegravitationalfield": "remover campo gravitacional de [NAME]",
   "d3physics_d3_sethingespeed": "defina velocidade [SPEED] para hinge constraint chamado [JOINTNAME]",
   "d3physics_d3_setphysicsangularvelocity": "definir velocidade de rotação do corpo físico em torno dos eixos xyz [X] [Y] [Z] para [NAME]",
   "d3physics_d3_setphysicsdamping": "definir amortecimento do corpo físico para movimento [MD]% rotação [RD]% para [NAME]",

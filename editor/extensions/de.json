@@ -892,6 +892,8 @@
   "d3physics_d3_addhingeconstraint": "füge Scharnier-Constraint hinzu zwischen Körpern von [NAME] von [SPRITE] an Punkt X [X2] Y [Y2] Z [Z2] Achse X [X] Y [Y] Z [Z] und [NAME2] von [SPRITE2] an Punkt X [X4] Y [Y4] Z [Z4] Achse X [X3] Y [Y3] Z [Z3] namens [JOINTNAME]",
   "d3physics_d3_sethingespeed": "setze Geschwindigkeit [SPEED] für Scharnier-Constraint namens [JOINTNAME]",
   "d3physics_d3_sethingelimit": "setze Limits für Scharnier-Constraint namens [JOINTNAME] Winkel zwischen [LOW] und [HIGH] Weichheit [SOFT] Bias-Faktor [BIAS] Entspannung [RELAX]",
+  "d3physics_d3_addgravitationalfield": "Gravitationsfeld zu [NAME] hinzufügen Stärke [STRENGTH]",
+  "d3physics_d3_removegravitationalfield": "Gravitationsfeld von [NAME] entfernen",
   "d3tools_d3_convertToFlatShading": "konvertiere zu Flat-Shading",
   "d3tools_d3_showedges": "zeige Kanten [SHOW] Farbe [EDGECOLOR] Dicke [EDGETHICK]",
   "d3tools_d3_updatecolor": "aktualisiere Farbe Diffusion [COLOR] Emission [COLOR2] Rauheit [ROUGHNESS] Helligkeit [BRIGHTNESS] entferne Textur [REMOVETEXTURE] Bereich [COMPONENT]",

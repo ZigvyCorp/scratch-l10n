@@ -916,6 +916,8 @@
   "d3physics_d3_addhingeconstraint": "スプライト [NAME] の [SPRITE] 点 X [X2] Y [Y2] Z [Z2] 軸 X [X] Y [Y] Z [Z] とスプライト [NAME2] の [SPRITE2] 点 X [X4] Y [Y4] Z [Z4] 軸 X [X3] Y [Y3] Z [Z3] 間にヒンジ制約を追加 名前 [JOINTNAME]",
   "d3physics_d3_sethingespeed": "ヒンジ制約 [SPEED] の速度を [JOINTNAME] に設定",
   "d3physics_d3_sethingelimit": "ヒンジ制約 [JOINTNAME] の制限を設定 角度 [LOW] から [HIGH] 柔らかさ [SOFT] バイアス係数 [BIAS] 緩和 [RELAX]",
+  "d3physics_d3_addgravitationalfield": "[NAME] に重力場を追加 強さ [STRENGTH]",
+  "d3physics_d3_removegravitationalfield": "[NAME] の重力場を削除",
   "d3tools_d3_convertToFlatShading": "フラットシェーディングに変換",
   "d3tools_d3_showedges": "エッジを表示 [SHOW] 色 [EDGECOLOR] 厚さ [EDGETHICK]",
   "d3tools_d3_updatecolor": "色を更新 拡散 [COLOR] 放射 [COLOR2] 粗さ [ROUGHNESS] 明度 [BRIGHTNESS] テクスチャ削除 [REMOVETEXTURE] 領域 [COMPONENT]",
