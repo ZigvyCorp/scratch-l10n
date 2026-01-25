@@ -805,6 +805,7 @@
   "gui.aiGenerateLibrary.myselfOption": "Created By Me",
   "gui.aiGenerateLibrary.humanOption": "Human",
   "gui.aiGenerateLibrary.nonhumanOption": "Non-human",
+  "gui.aiGenerateLibrary.vectorOption": "Vector",
   "gui.aiGenerateLibrary.confirmModalTitle": "Confirm",
   "gui.aiGenerateLibrary.modalContent": "You already have a request in queue:",
   "gui.aiGenerateLibrary.okBtnModal": "continue to wait",

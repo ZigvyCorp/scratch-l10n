@@ -806,6 +806,7 @@
   "gui.aiGenerateLibrary.confirmModalTitle": "確認",
   "gui.aiGenerateLibrary.modalContent": "すでにキューにリクエストがあります：",
   "gui.aiGenerateLibrary.okBtnModal": "待ち続ける",
+  "gui.aiGenerateLibrary.vectorOption": "ベクター",
   "gui.aiGenerateLibrary.cancelBtnModal": "既存のリクエストをキャンセル",
   "gui.aiGenerateLibrary.deleteItem": "削除",
   "gui.aiGenerateLibrary.deleteConfirm": "この画像を削除してもよろしいですか？",

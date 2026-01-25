@@ -806,6 +806,7 @@
   "gui.aiGenerateLibrary.confirmModalTitle": "Bestätigen",
   "gui.aiGenerateLibrary.modalContent": "Sie haben bereits eine Anfrage in der Warteschlange:",
   "gui.aiGenerateLibrary.okBtnModal": "Weiter warten",
+  "gui.aiGenerateLibrary.vectorOption": "Vektor",
   "gui.aiGenerateLibrary.cancelBtnModal": "Bestehende Anfrage abbrechen",
   "gui.aiGenerateLibrary.deleteItem": "Löschen",
   "gui.aiGenerateLibrary.deleteConfirm": "Sind Sie sicher, dass Sie dieses Bild löschen möchten?",
