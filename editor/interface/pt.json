@@ -850,6 +850,8 @@
   "gui.consolePanel.premiumWarning": "The premium blocks in the projetos are disabled",
   "gui.alerts.reviewing": "Review projeto…",
   "gui.alerts.reviewSuccess": "Review success.",
+  "gui.alerts.shareReviewSuccess": "Parabéns! A versão do seu projeto foi aprovada e agora está compartilhada. Você pode selecionar esta versão no menu suspenso abaixo.",
+  "gui.alerts.publishReviewSuccess": "Parabéns! A versão do seu projeto foi aprovada e agora está publicada. Você pode selecionar esta versão no menu suspenso abaixo.",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "Unreachable Block",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "The blocks after the for-loop will not run",
   "gui.autoCodeReview.ignored3dBlock.title": "Ignored 3D Blocks",

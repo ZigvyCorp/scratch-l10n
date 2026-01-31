@@ -593,6 +593,8 @@
   "gui.aiGenerateLibrary.setToShared": "đặt ở chế độ chia sẻ",
   "gui.aiGenerateLibrary.vectorOption": "Vector",
   "gui.alerts.reviewSuccess": "Đánh giá thành công.",
+  "gui.alerts.shareReviewSuccess": "Chúc mừng! Phiên bản dự án của bạn đã được duyệt và hiện đã được chia sẻ. Bạn có thể chọn phiên bản này từ menu thả xuống bên dưới.",
+  "gui.alerts.publishReviewSuccess": "Chúc mừng! Phiên bản dự án của bạn đã được duyệt và hiện đã được xuất bản. Bạn có thể chọn phiên bản này từ menu thả xuống bên dưới.",
   "gui.alerts.reviewing": "Đang đánh giá dự án…",
   "gui.assistantDialog.chatDialogName": "Chatbot CreatiCode XO (v5)",
   "gui.assistantDialog.closeDialog": "đóng trò chuyện XO",

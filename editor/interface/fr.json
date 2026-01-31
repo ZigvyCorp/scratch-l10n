@@ -760,6 +760,8 @@
   "gui.consolePanel.premiumWarning": "Les blocs premium dans les projets sont désactivés",
   "gui.alerts.reviewing": "Revoir le projet…",
   "gui.alerts.reviewSuccess": "Révision réussie.",
+  "gui.alerts.shareReviewSuccess": "Félicitations ! La version de votre projet a été approuvée et est maintenant partagée. Vous pouvez sélectionner cette version dans le menu déroulant ci-dessous.",
+  "gui.alerts.publishReviewSuccess": "Félicitations ! La version de votre projet a été approuvée et est maintenant publiée. Vous pouvez sélectionner cette version dans le menu déroulant ci-dessous.",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "Bloc inaccessible",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "Les blocs après la boucle for ne fonctionneront pas",
   "gui.autoCodeReview.ignored3dBlock.title": "Blocs 3D ignorés",

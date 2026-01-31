@@ -760,6 +760,8 @@
   "gui.consolePanel.premiumWarning": "Los bloques premium en los proyectos están deshabilitados.",
   "gui.alerts.reviewing": "Revisar proyecto…",
   "gui.alerts.reviewSuccess": "Revisión exitosa",
+  "gui.alerts.shareReviewSuccess": "¡Felicidades! Tu versión del proyecto ha pasado la revisión y ahora está compartida. Puedes seleccionar esta versión en el menú desplegable de abajo.",
+  "gui.alerts.publishReviewSuccess": "¡Felicidades! Tu versión del proyecto ha pasado la revisión y ahora está publicada. Puedes seleccionar esta versión en el menú desplegable de abajo.",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "Bloque inalcanzable",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "Los bloques después del bucle for no se ejecutarán",
   "gui.autoCodeReview.ignored3dBlock.title": "Bloques 3D ignorados",

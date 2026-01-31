@@ -757,6 +757,8 @@
   "gui.consolePanel.premiumWarning": "プロジェクト内のプレミアムブロックは無効です",
   "gui.alerts.reviewing": "プロジェクトをレビュー中…",
   "gui.alerts.reviewSuccess": "レビュー成功。",
+  "gui.alerts.shareReviewSuccess": "おめでとうございます！プロジェクトのバージョンが審査を通過し、共有されました。下のドロップダウンからこのバージョンを選択できます。",
+  "gui.alerts.publishReviewSuccess": "おめでとうございます！プロジェクトのバージョンが審査を通過し、公開されました。下のドロップダウンからこのバージョンを選択できます。",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "到達不可能なブロック",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "ずっとループの後のブロックは実行されません",
   "gui.autoCodeReview.ignored3dBlock.title": "無視された3Dブロック",

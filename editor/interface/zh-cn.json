@@ -762,6 +762,8 @@
   "gui.consolePanel.premiumWarning": "项目中的付费积木被禁用",
   "gui.alerts.reviewing": "审核项目...",
   "gui.alerts.reviewSuccess": "审核成功。",
+  "gui.alerts.shareReviewSuccess": "恭喜！您的项目版本已通过审核，现已分享。您可以在下方的下拉菜单中选择此版本。",
+  "gui.alerts.publishReviewSuccess": "恭喜！您的项目版本已通过审核，现已发布。您可以在下方的下拉菜单中选择此版本。",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "无法到达的积木",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "for-loop 之后的积木不会运行",
   "gui.autoCodeReview.ignored3dBlock.title": "忽略的 3D 积木",

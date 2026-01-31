@@ -759,6 +759,8 @@
   "gui.consolePanel.premiumWarning": "The premium blocks in the projects are disabled",
   "gui.alerts.reviewing": "Review project…",
   "gui.alerts.reviewSuccess": "Review success.",
+  "gui.alerts.shareReviewSuccess": "Congratulations! Your project version has passed review and is now shared. You can select this version from the dropdown below.",
+  "gui.alerts.publishReviewSuccess": "Congratulations! Your project version has passed review and is now published. You can select this version from the dropdown below.",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "Unreachable Block",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "The blocks after the for-loop will not run",
   "gui.autoCodeReview.ignored3dBlock.title": "Ignored 3D Blocks",

@@ -85,6 +85,8 @@
   "gui.alerts.importing": "Importowanie...",
   "gui.alerts.lostPeripheralConnection": "Scratch stracił połączenie z {extensionNazwa}.",
   "gui.alerts.reviewSuccess": "Przegląd zakończony sukcesem.",
+  "gui.alerts.shareReviewSuccess": "Gratulacje! Twoja wersja projektu przeszła weryfikację i jest teraz udostępniona. Możesz wybrać tę wersję z rozwijanego menu poniżej.",
+  "gui.alerts.publishReviewSuccess": "Gratulacje! Twoja wersja projektu przeszła weryfikację i jest teraz opublikowana. Możesz wybrać tę wersję z rozwijanego menu poniżej.",
   "gui.alerts.reviewing": "Przeglądanie projektu…",
   "gui.alerts.savesuccess": "Projekt zapisany.",
   "gui.alerts.saving": "Zapisywanie projektu...",

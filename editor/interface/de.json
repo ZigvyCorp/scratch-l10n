@@ -757,6 +757,8 @@
   "gui.consolePanel.premiumWarning": "Die Premium-Blöcke in den Projekten sind deaktiviert",
   "gui.alerts.reviewing": "Projekt überprüfen…",
   "gui.alerts.reviewSuccess": "Überprüfung erfolgreich.",
+  "gui.alerts.shareReviewSuccess": "Herzlichen Glückwunsch! Deine Projektversion hat die Überprüfung bestanden und ist jetzt geteilt. Du kannst diese Version im Dropdown-Menü unten auswählen.",
+  "gui.alerts.publishReviewSuccess": "Herzlichen Glückwunsch! Deine Projektversion hat die Überprüfung bestanden und ist jetzt veröffentlicht. Du kannst diese Version im Dropdown-Menü unten auswählen.",
   "gui.autoCodeReview.foreverLoopInDefineBlock.title": "Unerreichbarer Block",
   "gui.autoCodeReview.foreverLoopInDefineBlock.description": "Die Blöcke nach der For-Schleife werden nicht ausgeführt",
   "gui.autoCodeReview.ignored3dBlock.title": "Ignorierte 3D-Blöcke",
