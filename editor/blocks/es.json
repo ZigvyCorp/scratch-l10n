@@ -580,6 +580,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Ya existe un procedimiento llamado \"%1\".",
   "PROCEDURE_DEFAULT_NAME": "nombre del bloque",
   "PROCEDURE_USED": "Antes de eliminar la definición del bloque debes eliminar todos sus usos",
+  "PROCEDURE_DELETE_CONFIRM": "¿Está seguro de que desea eliminar esta definición de bloque?",
   "PROCEDURES_RETURN": "Regreso %1",
   "PROCEDURES_COMMENT": "// %1 ",
   "PROCEDURES_COMMENT2": "/* %1 */ ",

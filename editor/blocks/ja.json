@@ -579,6 +579,7 @@
   "PROCEDURE_ALREADY_EXISTS": "プロシージャ \"%1\" は既に存在します。",
   "PROCEDURE_DEFAULT_NAME": "ブロック 名前",
   "PROCEDURE_USED": "に 〜の〜番目を削除 a ブロック でfのitiオン, 最初 削除 すべて uses の ブロック",
+  "PROCEDURE_DELETE_CONFIRM": "このブロック定義を削除してもよろしいですか?",
   "PROCEDURES_RETURN": "re〜度回す %1",
   "PROCEDURES_COMMENT": "// %1",
   "PROCEDURES_COMMENT2": "/* %1 */",

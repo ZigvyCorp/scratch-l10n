@@ -627,6 +627,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Procedura o nazwie \"%1\" już istnieje.",
   "PROCEDURE_DEFAULT_NAME": "nazwa bloku",
   "PROCEDURE_USED": "by usunąć blok definicji, najpierw usuń wszystkie jego elementy",
+  "PROCEDURE_DELETE_CONFIRM": "Czy na pewno chcesz usunąć tę definicję bloku?",
   "PROCEDURE_ADD_LABEL": "tekst etykiety",
   "PROCEDURE_ADD_BOOLEAN": "wardość logiczna",
   "PROCEDURE_ADD_TEXT": "liczba lub tekst",

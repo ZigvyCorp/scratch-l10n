@@ -576,6 +576,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Une procédure nommée \"%1\" existe déjà.",
   "PROCEDURE_DEFAULT_NAME": "nom du bloc",
   "PROCEDURE_USED": "Pour supprimer la définition d'un bloc, supprimez d'abord toutes les utilisations de ce bloc",
+  "PROCEDURE_DELETE_CONFIRM": "Êtes-vous sûr de vouloir supprimer cette définition de bloc ?",
   "PROCEDURES_RETURN": "revenir %1",
   "PROCEDURES_COMMENT": "// commentaire : %1",
   "PROCEDURES_COMMENT2": "/* commentaire %1 */",

@@ -271,6 +271,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Một thủ tục có tên \"%1\" đã tồn tại.",
   "PROCEDURE_DEFAULT_NAME": "Tên khối",
   "PROCEDURE_USED": "Để xóa định nghĩa khối, trước tiên hãy xóa tất cả cách sử dụng của khối",
+  "PROCEDURE_DELETE_CONFIRM": "Bạn có chắc muốn xóa định nghĩa khối này?",
   "NEW_LIST": "Tạo một Danh sách",
   "NEW_LIST_TITLE": "Tên danh sách mới:",
   "LIST_MODAL_TITLE": "Danh sách mới",

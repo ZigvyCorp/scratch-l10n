@@ -271,6 +271,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Já existe um bloco chamado '%1'.",
   "PROCEDURE_DEFAULT_NAME": "nãome do bloco",
   "PROCEDURE_USED": "Para removerrr a defemição de um bloco, elimeme primeiro paradcomo como referêncicomo a esse bloco.",
+  "PROCEDURE_DELETE_CONFIRM": "Tem certeza de que deseja excluir esta definição de bloco?",
   "NEW_LIST": "Criar uma lista",
   "NEW_LIST_TITLE": "Nome da nãova listaaa:",
   "LIST_MODAL_TITLE": "Nova Lista",

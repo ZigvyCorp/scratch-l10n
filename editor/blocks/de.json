@@ -579,6 +579,7 @@
   "PROCEDURE_ALREADY_EXISTS": "Eine Prozedur mit dem Namen \"%1\" existiert seinreits.",
   "PROCEDURE_DEFAULT_NAME": "Block Name",
   "PROCEDURE_USED": "Um eine Blockdefinition zu löschen, entferne zuerst alleee Verwendungen des Blocks",
+  "PROCEDURE_DELETE_CONFIRM": "Möchtest du diese Blockdefinition wirklich löschen?",
   "PROCEDURES_RETURN": "gesein zurück %1",
   "PROCEDURES_COMMENT": "// %1",
   "PROCEDURES_COMMENT2": "/* %1 */",

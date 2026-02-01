@@ -577,6 +577,7 @@
   "PROCEDURE_ALREADY_EXISTS": "A procedure named \"%1\" already exists.",
   "PROCEDURE_DEFAULT_NAME": "block name",
   "PROCEDURE_USED": "To delete a block definition, first remove all uses of the block",
+  "PROCEDURE_DELETE_CONFIRM": "Are you sure you want to delete this block definition?",
   "PROCEDURES_RETURN": "return %1",
   "PROCEDURES_COMMENT": "// %1",
   "PROCEDURES_COMMENT2": "/* %1 */",
