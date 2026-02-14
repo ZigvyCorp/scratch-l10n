@@ -856,5 +856,9 @@
   "gui.codeSnippet.shareModalName": "名前",
   "gui.codeSnippet.shareModalDescription": "説明",
   "gui.assistantDialog.thinkMore": "深く考える",
-  "gui.assistantDialog.thinkMoreTooltip": "XOによりよい回答のために長く考えるよう依頼する"
+  "gui.assistantDialog.thinkMoreTooltip": "XOによりよい回答のために長く考えるよう依頼する",
+  "paintEditor.showOthers": "他を表示",
+  "paintEditor.sharing": "共有中…",
+  "paintEditor.lockedBy": "{name} が編集中",
+  "paintEditor.unknownUser": "不明なユーザー"
 }

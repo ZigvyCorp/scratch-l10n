@@ -862,6 +862,10 @@
   "gui.codeSnippet.shareModalContentName": "在此输入代码片段的名称...",
   "gui.codeSnippet.shareModalName": "名称",
   "gui.codeSnippet.shareModalDescription": "描述",
+  "paintEditor.showOthers": "显示其他",
+  "paintEditor.sharing": "分享中…",
+  "paintEditor.lockedBy": "{name} 正在编辑",
+  "paintEditor.unknownUser": "未知用户",
   "gui": {
     "extension": {
       "mp": {

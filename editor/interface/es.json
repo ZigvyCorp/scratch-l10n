@@ -859,5 +859,9 @@
   "gui.codeSnippet.shareModalName": "Nombre",
   "gui.codeSnippet.shareModalDescription": "Descripción",
   "gui.assistantDialog.thinkMore": "Pensamiento profundo",
-  "gui.assistantDialog.thinkMoreTooltip": "pide a XO que piense durante más tiempo para una mejor respuesta"
+  "gui.assistantDialog.thinkMoreTooltip": "pide a XO que piense durante más tiempo para una mejor respuesta",
+  "paintEditor.showOthers": "Mostrar otros",
+  "paintEditor.sharing": "Compartiendo…",
+  "paintEditor.lockedBy": "Edición bloqueada por {name}",
+  "paintEditor.unknownUser": "Desconocido"
 }

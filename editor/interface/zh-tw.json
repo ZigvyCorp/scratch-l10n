@@ -867,5 +867,9 @@
   "gui.codeSnippet.shareModalOk": "分享",
   "gui.codeSnippet.shareModalContentName": "在此輸入程式碼片段的名稱...",
   "gui.codeSnippet.shareModalName": "名稱",
-  "gui.codeSnippet.shareModalDescription": "描述"
+  "gui.codeSnippet.shareModalDescription": "描述",
+  "paintEditor.showOthers": "顯示其他",
+  "paintEditor.sharing": "分享中…",
+  "paintEditor.lockedBy": "{name} 正在編輯",
+  "paintEditor.unknownUser": "未知使用者"
 }

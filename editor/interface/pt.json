@@ -948,5 +948,10 @@
   "gui.codeSnippet.shareModalName": "Name",
   "gui.codeSnippet.shareModalDescription": "Description",
   "gui.assistantDialog.thinkMore": "Pensamento profundo",
-  "gui.assistantDialog.thinkMoreTooltip": "pedir ao XO para pensar mais tempo para obter uma resposta melhor"
+  "gui.assistantDialog.thinkMoreTooltip": "pedir ao XO para pensar mais tempo para obter uma resposta melhor",
+  "gui.aiGenerateLibrary.vectorOption": "Vetor",
+  "paintEditor.showOthers": "Mostrar outros",
+  "paintEditor.sharing": "Compartilhando…",
+  "paintEditor.lockedBy": "Edição bloqueada por {name}",
+  "paintEditor.unknownUser": "Desconhecido"
 }

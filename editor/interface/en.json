@@ -858,5 +858,9 @@
   "gui.codeSnippet.shareModalName": "Name",
   "gui.codeSnippet.shareModalDescription": "Description",
   "gui.assistantDialog.thinkMore": "Deep Thinking",
-  "gui.assistantDialog.thinkMoreTooltip": "ask XO to think longer for a better response"
+  "gui.assistantDialog.thinkMoreTooltip": "ask XO to think longer for a better response",
+  "paintEditor.showOthers": "Show others",
+  "paintEditor.sharing": "Sharing…",
+  "paintEditor.lockedBy": "Editing locked by {name}",
+  "paintEditor.unknownUser": "Unknown"
 }

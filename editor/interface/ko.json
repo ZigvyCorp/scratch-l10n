@@ -854,5 +854,9 @@
   "rightshoulder": "오른쪽 어깨",
   "rightupleg": "오른쪽 위 다리",
   "spine": "척추",
-  "upperLip": "윗입술"
+  "upperLip": "윗입술",
+  "paintEditor.showOthers": "다른 항목 표시",
+  "paintEditor.sharing": "공유 중…",
+  "paintEditor.lockedBy": "{name}이(가) 편집 중",
+  "paintEditor.unknownUser": "알 수 없는 사용자"
 }
