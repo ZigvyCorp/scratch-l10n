@@ -139,7 +139,6 @@
   "music.playNoteForBeats": "演奏音符 [NOTE] 拍數 [BEATS]",
   "music.playNoteForBeatsWithBlocking": "演奏音符 [NOTE] 拍數 [BEATS] 等待 [BLOCKING] 拍",
   "music.playNoteForBeatsLoudness": "演奏音符 [NOTE1] [NOTE2] [NOTE3] [NOTE4] 拍數 [BEATS] 佔時 [BLOCKING]",
-
   "music.restForBeats": "演奏休息 [BEATS] 拍",
   "music.setInstrument": "演奏樂器設為 [INSTRUMENT]",
   "music.setTempo": "演奏速度設為 [TEMPO]",
@@ -251,7 +250,6 @@
   "mp.stopType.rebound": "反彈",
   "mp.stopType.reboundandCollect": "反彈並收集",
   "Edge": "邊緣",
-
   "mp.broadcastTouchMessage": "當觸碰 [SPRITE] 且克隆ID前綴為 [CLONEID] 時 我將 [STOPTYPE] 並廣播 [BROADCASTMESSAGE] 參數 [PARAM]",
   "mp.isConnectedToGame": "已連接到多人遊戲",
   "mp.whenAddedToGame": "新增到多人遊戲時",
@@ -262,7 +260,6 @@
   "circleshape": "圓形",
   "mp.setSyncCostume": "同步將造型設為 [COSTUME]",
   "mp.leaveMultiplayerGame": "離開多人遊戲世界 [WORLDNAME]",
-
   "physics.enablePhysics": "初始化二維物理世界 重力加速度 x [X] y [Y]",
   "physics.setEdgeCollider": "設置世界邊框 摩擦係數 [FRICTION]% 彈性係數 [RESTITUION]%",
   "physics.setEdgeCollisionGroup": "設置世界邊框 碰撞組 [CG] 並與組 [TG] 碰撞",
@@ -301,7 +298,6 @@
   "physics.addCollisionFilter": "允許與組 [GROUP] 的碰撞",
   "physics.removeCollisionFilter": "禁止與組 [GROUP] 的碰撞",
   "physics.setDominanceGroup": "將碰撞優勢級別設置為 [GROUP]",
-
   "physics.setCCD": "作為飛速物體進行碰撞檢測 [YESNO]",
   "physics.setGravityScale": "設置重力 乘數 [SCALE] %",
   "physics.addFixedJoint": "固定與 [SPRITE] 的相對位置",
@@ -318,7 +314,6 @@
   "physics.getAngularVelocity": "旋轉速度",
   "physics.getCollidingBottom": "在下方有碰撞",
   "physics.getGroundSlope": "地面坡度",
-
   "p2p.listSheetsInGoogleSheet": "列出谷歌試算表中位於 URL [SHEET_URL] 的所有工作表到列表 [LIST]",
   "p2p.readFromGoogleSheet": "從谷歌試算表讀取: URL [SHEET_URL] 工作表名稱 [SHEET_NAME] 範圍 [RANGE_VALUE] 到表格 [TABLE]",
   "p2p.getGoogleFolderContent": "列出谷歌云盘文件夹 %1 的内容到表格 %2",
@@ -330,7 +325,6 @@
   "p2p.setValue": "将位于网址 [SHEET_URL] 的谷歌試算表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值设为 [VALUE]",
   "p2p.getValue": "读取位于网址 [SHEET_URL] 的谷歌試算表中表单 [SHEET_NAME] 的第 [ROW] 行第 [COLUMN] 列的值",
   "p2p.removeColumnsFromSheet": "在位於網址 %4 的 Google 試算表的工作表 %3 中刪除第 %1 列到第 %2 列",
-
   "p2p.readWorldsInfo": "將所有世界資訊讀入表 [TABLE]",
   "p2p.categoryName": "云",
   "p2p.fetchFromURL": "從URL [URL] 獲取網頁並轉換為Markdown格式",
@@ -375,6 +369,7 @@
   "widget.removeAllWidgets": "刪除本角色的所有控件",
   "widget.setVisibility": "設置名為 [NAME] 的控件的可見性 [VISIBILITY]",
   "widget.setVisibilityForAll": "为所有控件設置可见性 [VISIBILITY]",
+  "widget.setVisibilityForSprite": "set visibility [VISIBILITY] for all widgets from this sprite",
   "widget.setZindex": "設置名爲 [NAME] 的控件的z層級設置爲 [ZINDEX]",
   "widget.whenMouseEnter": "當指針進入控件 [NAME] 時",
   "widget.whenMouseLeave": "當指針離開控件 [NAME] 時",
@@ -552,17 +547,14 @@
   "d3object_d3_addabcdplane": "添加平面 [COLOR] 寬度 [SIZEX] 高度 [SIZEY] 係數 abcd [A] [B] [C] [D] 名為 [NAME]",
   "d3object_d3_add3pplane": "從點 xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] 添加三角形 [COLOR] 名為 [NAME]",
   "d3_add4pplane": "從點xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [ Z4] 名為 [NAME]",
-
   "d3object_d3_addtrianglefrompoints": "幾何: 在點 [OBJ1] [OBJ2] [OBJ3] 之間添加 顏色為 [COLOR] 的三角形 名為 [NAME]",
   "d3object_d3_addframebox": "幾何: 添加盒子框架  顏色 [COLOR] 長度 x [SIZEX] y [SIZEY] z [SIZEZ] 邊厚度 [THICKNESS] 顯示標籤 [LABELS] 名為 [NAME]",
   "d3object_d3_addlinebetweenpoints": "幾何: 在點 [OBJ1] [OBJ2] 之間添加線 顏色 [COLOR] 直徑 [DIAMETER] 箭頭 [ARROWHEAD] 邊數 [SIDES] 段數 [SEGCOUNT] 標籤 [LABEL] 名為 [NAME]",
   "d3object_d3_addnewpoint": "幾何: 在點 [OBJ1] [OBJ2] 之間 [PCT]% 處添加點 顏色 [COLOR] 大小 [SIZE] 名為 [NAME]",
   "d3object_d3_addxyzpoint": "幾何: 在 位置xyz [X] [Y] [Z] 上添加點 顏色 [COLOR] 大小 [SIZE] 父節點 [ORIGOBJ] 名為 [NAME]",
   "d3object_d3_addanglemark": "幾何：添加角度標記 [OBJ1] [OBJ2] [OBJ3] 大小 [SIZE] 顏色 [COLOR] 直徑 [DIAMETER] 箭頭 [ARROWHEAD] 邊數 [SIDES] 標籤 [LABEL] 作為 [NAME]",
-
   "d3object_d3_addAtom": "化學: 添加原子 [ATOMTYPE] 名為 [NAME] 連接孔 [HOLE] 到原子 [ATOM2] 的孔 [HOLE2] 距離 [BONDLEN]",
   "d3object_d3_addcustomeatom": "化學: 添加自定義原子 [COLOR] 大小 [SIZE] 孔 [HOLESPEC] 標籤 [LABEL] 角度 [LABELANGLE] 名為 [NAME] 將孔 [HOLE] 連接到原子 [ATOM2] 的孔 [HOLE2] 距離 [BONDLEN]",
-
   "d3tools_d3_convertobjecttomirror": "使用名為 [NAME] 的物體構建鏡像亮度 [CLARITY]",
   "d3tools_d3_setvisibleinmirror": "在鏡子中反射 [NAME]",
   "d3tools_d3_clearmirrorreflect": "刪除鏡子 [NAME] 中的所有反射",
@@ -624,7 +616,6 @@
   "d3object_d3_removeallobjects": "刪除所有物體",
   "d3tools_d3_showbounds": "顯示邊界框 [SHOW]",
   "d3tools_d3_showskeleton": "顯示骨架 [SHOW]",
-
   "d3object_d3_addmovingline": "在 [OBJ1] 和 [OBJ2] 之間添加連線 [COLOR] 直徑 [DIAMETER] 側面數 [SIDES] 名為 [NAME]",
   "d3physics_d3_updatecarwheelphysics": "為汽車 [NAME] 設置車輪引擎機力 LF [LF] RF [RF] LB [LB] RB [RB] 剎車係數 [BRAKE]%",
   "d3physics_d3_setcarsteer": "為汽車 [NAME] 設置車輪角度 LF [LF] RF [RF] LB [LB] RB [RB]",
@@ -634,7 +625,6 @@
   "d3physics_d3_removeconstraint": "刪除名為 [JOINTNAME] 的約束",
   "d3physics_d3_addfixedconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之間添加名為 [JOINTNAME] 的固定約束",
   "d3physics_d3_adddistanceconstraint": "在 [SPRITE] 中的 [NAME] 和 [SPRITE2] 中的 [NAME2] 之間添加名為 [JOINTNAME] 的距離約束",
-
   "d3tools_d3_convertToFlatShading": "顯示平面著色",
   "d3tools_d3_showedges": "顯示邊緣 [SHOW] 顏色 [EDGECOLOR] 寬度 [EDGETHICK]",
   "d3tools_d3_updatecolor": "更新顏色擴散 [COLOR] 發射 [COLOR2] 粗糙度 [ROUGHNESS] 亮度 [BRIGHTNESS] 去除紋理 [REMOVETEXTURE] 區域 [COMPONENT]",
@@ -687,7 +677,6 @@
   "d3effect_d3_emittercommand": "[COMMAND] 發射器 [NAME]",
   "stop": "停止",
   "dispose": "清除",
-
   "d3tools_d3_updatefiletexture": "添加紋理與共享文件 [TEXTURE] 框單元大小 [SIZE] 非框重複 h [REPEATU] v [REPEATV] 旋轉 [ANGLEW] 區域 [COMPONENT]",
   "d3tools_d3_materialsetting": "材料設置：線框模式 [ISWIREFRAME] 繪製背面 [ISBACKFACE] z-offset [ZOFFSET] 日誌深度 [ISLOGDEPTH] 透明 [TRANS]",
   "d3tools_d3_applygridmaterial": "應用網格材料 [FACECOLOR] 線條 [LINECOLOR] 密度 [LINECOUNT] 次要線條可見性 [MINOR]% 線條偏移 xyz [XOFFSET] [YOFFSET] [ZOFFSET]",

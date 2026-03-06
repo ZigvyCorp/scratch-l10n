@@ -1514,6 +1514,7 @@
   "widget.setValueOfWidgetTo": "defema valor do widget [WIDGET] até [VALUE]",
   "widget.setVisibility": "defema visibility [VISIBILITY] para widget nomeado [NAME]",
   "widget.setVisibilityForAll": "defema visibility [VISIBILITY] para todos os widgets",
+  "widget.setVisibilityForSprite": "set visibility [VISIBILITY] for all widgets from this sprite",
   "widget.setWidgetStyle": "defema widget background cor [BGCOLOR] border cor [BORDERCOLOR] border largura [BORDERWIDTH] raio da borda [BORDERRADIUS] for [NAME]",
   "widget.setYoutubePlaybackSpeedRatio": "defema playback speed ratio [SPEED] for [NAME]",
   "widget.setYoutubeVolume": "defema volume até [VOLUME] for [NAME]",

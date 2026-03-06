@@ -863,5 +863,6 @@
   "paintEditor.showOthers": "Afficher les autres",
   "paintEditor.sharing": "Partage en cours…",
   "paintEditor.lockedBy": "Édition verrouillée par {name}",
-  "paintEditor.unknownUser": "Inconnu"
+  "paintEditor.unknownUser": "Inconnu",
+  "gui.menuBar.openAddons": "Ouvrir les extensions"
 }

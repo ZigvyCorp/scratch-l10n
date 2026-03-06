@@ -1069,6 +1069,7 @@
   "widget.setValueOfWidgetTo": "defina valor de widget [WIDGET] para [VALUE]",
   "widget.setVisibility": "defina visibilidade [VISIBILITY] para widget chamado [NAME]",
   "widget.setVisibilityForAll": "defina visibilidade [VISIBILITY] para todos os widgets",
+  "widget.setVisibilityForSprite": "defina visibilidade [VISIBILITY] para todos os widgets deste sprite",
   "widget.setWidgetStyle": "defina widget cor de fundo [BGCOLOR] cor da borda [BORDERCOLOR] largura da borda [BORDERWIDTH] raio da borda [BORDERRADIUS] para [NAME]",
   "widget.setYoutubePlaybackSpeedRatio": "defina velocidade de reprodução proporção [SPEED] para [NAME]",
   "widget.setYoutubeVolume": "defina volume para [VOLUME] para [NAME]",

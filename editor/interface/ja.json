@@ -860,5 +860,6 @@
   "paintEditor.showOthers": "他を表示",
   "paintEditor.sharing": "共有中…",
   "paintEditor.lockedBy": "{name} が編集中",
-  "paintEditor.unknownUser": "不明なユーザー"
+  "paintEditor.unknownUser": "不明なユーザー",
+  "gui.menuBar.openAddons": "アドオンを開く"
 }

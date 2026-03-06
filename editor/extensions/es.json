@@ -367,6 +367,7 @@
   "widget.removeAllWidgets": "eliminar todos los widgets",
   "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
   "widget.setVisibilityForAll": "establecer visibilidad [VISIBILITY] para todos los widgets",
+  "widget.setVisibilityForSprite": "establecer visibilidad [VISIBILITY] para todos los widgets de este objeto",
   "widget.setZindex": "establecer z-index en [ZINDEX] para el widget llamado [NAME]",
   "widget.whenMouseEnter": "cuando el puntero ingresa al widget [NAME]",
   "widget.whenMouseLeave": "cuando el puntero deja el widget llamado [NAME]",

@@ -953,5 +953,6 @@
   "paintEditor.showOthers": "Mostrar outros",
   "paintEditor.sharing": "Compartilhando…",
   "paintEditor.lockedBy": "Edição bloqueada por {name}",
-  "paintEditor.unknownUser": "Desconhecido"
+  "paintEditor.unknownUser": "Desconhecido",
+  "gui.menuBar.openAddons": "Abrir extensões"
 }

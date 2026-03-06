@@ -862,5 +862,6 @@
   "paintEditor.showOthers": "Show others",
   "paintEditor.sharing": "Sharing…",
   "paintEditor.lockedBy": "Editing locked by {name}",
-  "paintEditor.unknownUser": "Unknown"
+  "paintEditor.unknownUser": "Unknown",
+  "gui.menuBar.openAddons": "Open Addons"
 }

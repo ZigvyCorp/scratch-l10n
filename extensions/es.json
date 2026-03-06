@@ -139,7 +139,6 @@
   "music.playNoteForBeats": "toca la nota [NOTE] para [BEATS] beats",
   "music.playNoteForBeatsWithBlocking": "toca la nota [NOTE] para [BEATS] beats bloqueando [BLOCKING] beats",
   "music.playNoteForBeatsLoudness": "reproducir nota [NOTE1] [NOTE2] [NOTE3] [NOTE4] para [BEATS] latidos sonoridad [LOUDNESS] bloqueando [BLOCKING] latidos",
-
   "music.restForBeats": "silencio de [BEATS] tiempos",
   "music.setInstrument": "fijar instrumento a [INSTRUMENT]",
   "music.setTempo": "dar al tempo el valor [TEMPO]",
@@ -246,7 +245,6 @@
   "mp.stopType.rebound": "Rebotar",
   "mp.stopType.reboundAndDelete": "Rebotar y Eliminar",
   "Edge": "Borde",
-
   "mp.broadcastTouchMessage": "cuando toque [SPRITE] con prefijo de ID de clon [CLONEID] voy a [STOPTYPE] y transmitiré [BROADCASTMESSAGE] con parámetro [PARAM]",
   "mp.isConnectedToGame": "conectado al juego",
   "mp.whenAddedToGame": "cuando se añade al juego",
@@ -257,7 +255,6 @@
   "circleshape": "Círculo",
   "mp.setSyncCostume": "ajustar sincrónicamente el disfraz a [COSTUME]",
   "mp.leaveMultiplayerGame": "abandonar el mundo del juego multijugador [WORLDNAME]",
-
   "physics.enablePhysics": "iniciar el mundo de física 2D con gravedad x [X] y [Y]",
   "physics.setPhysicsBody": "comportarse como un [TYPE] [SENSORTYPE] forma [SHAPE] debug [DEBUG]",
   "fixedbody": "Fijo",
@@ -312,10 +309,8 @@
   "physics.getAngularVelocity": "velocidad angular",
   "physics.getCollidingBottom": "en colisión debajo",
   "physics.getGroundSlope": "pendiente del suelo",
-
   "d3effect.categoryName": "Efecto 3D",
   "physics.categoryName": "2D física",
-
   "p2p.listSheetsInGoogleSheet": "enumerar todas las hojas en la hoja de cálculo de Google en la URL [SHEET_URL] en la lista [LIST]",
   "p2p.readFromGoogleSheet": "leer desde la hoja de Google: URL [SHEET_URL] nombre de la hoja [SHEET_NAME] rango [RANGE_VALUE] en la tabla [TABLE]",
   "p2p.getGoogleFolderContent": "listar contenido de la carpeta de Google Drive [URL] en la tabla [TABLE]",
@@ -327,7 +322,6 @@
   "p2p.setValue": "establecer valor en [VALUE] en la fila [ROW] columna [COLUMN] de la hoja [SHEET_NAME] en la hoja de Google en URL [SHEET_URL]",
   "p2p.getValue": "valor en la fila [ROW] columna [COLUMN] de la hoja [SHEET_NAME] en la hoja de Google en URL [SHEET_URL]",
   "p2p.removeColumnsFromSheet": "eliminar las columnas %1 a %2 de la hoja %3 en Google Sheet en la URL %4",
-
   "p2p.readWorldsInfo": "leer toda la información del mundo en la tabla [TABLE]",
   "p2p.categoryName": "Mundo",
   "p2p.fetchFromURL": "obtener página web como markdown desde URL [URL]",
@@ -372,6 +366,7 @@
   "widget.removeAllWidgets": "eliminar todos los widgets",
   "widget.setVisibility": "establecer visibilidad [VISIBILITY] para el widget llamado [NAME]",
   "widget.setVisibilityForAll": "establecer visibilidad [VISIBILITY] para todos los widgets",
+  "widget.setVisibilityForSprite": "establecer visibilidad [VISIBILITY] para todos los widgets de este objeto",
   "widget.setZindex": "establecer z-index en %1 para el widget llamado %2",
   "widget.whenMouseEnter": "cuando el puntero ingresa al widget [NAME]",
   "widget.whenMouseLeave": "cuando el puntero deja el widget llamado [NAME]",
@@ -659,7 +654,6 @@
   "blocking object back": "Objeto de bloqueo de vuelta",
   "blocking object left": "Objeto de bloqueo a la izquierda",
   "blocking object right": "Objeto de bloqueo derecho",
-
   "speed x": "Velocidad X",
   "speed y": "Velocidad Y",
   "speed z": "Velocidad Z",
@@ -824,17 +818,14 @@
   "d3object_d3_addabcdplane": "agregar plano [COLOR] ancho [SIZEX] altura [SIZE] coeficientes abcd [A] [B] [C] [D] llamado [NAME]",
   "d3object_d3_add3pplane": "agregar triángulo [COLOR] desde los puntos xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] llamado [NAME]",
   "d3_add4pplane": "agregar cuadrilátero [COLOR] de los puntos xyz1 [X1] [Y1] [Z1] xyz2 [X2] [Y2] [Z2] xyz3 [X3] [Y3] [Z3] xyz4 [X4] [Y4] [ Z4] llamado [NAME] ",
-
   "d3object_d3_addtrianglefrompoints": "geometría: agregar triángulo desde puntos [OBJ1] [OBJ2] [OBJ3] color [COLOR] como [NAME]",
   "d3object_d3_addframebox": "geometría: agregar cuadro de marco color [COLOR] tamaño en x [SIZEX] y [SIZEY] z [SIZEZ] grosor [THICKNESS] etiquetas [LABELS] como [NAME]",
   "d3object_d3_addlinebetweenpoints": "geometría: agregar línea entre puntos [OBJ1] [OBJ2] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] segmentos [SEGCOUNT] etiqueta [LABEL] como [NAME]",
   "d3object_d3_addnewpoint": "geometría: agregar punto entre puntos [OBJ1] [OBJ2] en [PCT]% color [COLOR] tamaño [SIZE] como [NAME]",
   "d3object_d3_addxyzpoint": "geometría: agregar punto en xyz [X] [Y] [Z] color [COLOR] tamaño [SIZE] en [ORIGOBJ] como [NAME]",
   "d3object_d3_addanglemark": "geometría: agregar marca de ángulo [OBJ1] [OBJ2] [OBJ3] tamaño [SIZE] color [COLOR] diámetro [DIAMETER] flecha [ARROWHEAD] lados [SIDES] etiqueta [LABEL] como [NAME]",
-
   "d3object_d3_addAtom": "química: agregar átomo [ATOMTYPE] como [NAME] conectar el agujero [HOLE] al átomo [ATOM2] agujero [HOLE2] distancia [BONDLEN]",
   "d3object_d3_addcustomeatom": "química: agregue un átomo personalizado [COLOR] tamaño [SIZE] agujeros [HOLESPEC] etiqueta [LABEL] ángulo [LABELANGLE] como [NAME] conecte el agujero [HOLE] al átomo [ATOM2] agujero [HOLE2] distancia [BONDLEN ]",
-
   "d3tools_d3_convertobjecttomirror": "construye el brillo del espejo [CLARIDAD] usando el objeto llamado [NAME]",
   "d3tools_d3_setvisibleinmirror": "reflejarse en el espejo [NAME]",
   "d3tools_d3_clearmirrorreflect": "eliminar todos los reflejos en el espejo [NAME]",
@@ -894,7 +885,6 @@
   "d3object_d3_removeallobjects": "eliminar todos los objetos",
   "d3tools_d3_showbounds": "mostrar cuadro delimitador [SHOW]",
   "d3tools_d3_showskeleton": "mostrar esqueleto [SHOW]",
-
   "d3object_d3_addmovingline": "añadir línea móvil entre [OBJ1] y [OBJ2] [COLOR] diámetro [DIAMETER] lados [SIDES] como [NAME]",
   "d3physics_d3_updatecarwheelphysics": "establecer la fuerza del motor de la rueda del automóvil LF [LF] RF [RF] LB [LB] RB [RB] nivel de freno [BRAKE] % para [NAME]",
   "d3physics_d3_setcarsteer": "establecer el ángulo de la rueda del coche LF [LF] RF [RF] LB [LB] RB [RB] para [NAME]",
@@ -909,7 +899,6 @@
   "d3tools_d3_updatecolor": "actualizar difusión de color [COLOR] emisión [COLOR2] rugosidad [ROUGHESS] brillo [BRIGHTNESS] eliminar textura [REMOVETEXTURE] área [COMPONENT]",
   "d3tools_d3_updatetexture": "actualizar textura [TEXTURA] tamaño de unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
   "d3tools_d3_updatecostumetexture": "actualiza la textura usando el disfraz [COSTUME] tamaño de la unidad [SIZE] repetición sin cuadro h [REPEATU] v [REPEATV] rotación [ANGLEW] área [COMPONENT]",
-
   "d3scene_d3_isgpusupported": "GPU disponible",
   "d3object_d3_objectexists": "el objeto [NAME] existe",
   "d3scene_d3_getCameraXY": "obtener la posición de vista de la cámara para xyz [X] [Y] [Z]",
@@ -1007,14 +996,12 @@
   "d3action_d3_disablecamerahovering": "desactivar el desplazamiento de los objetos creados en sprites [SPRITENAMES]",
   "d3action_d3_disablehoveringignforobject": "deshabilitar el desplazamiento para objetos llamados [OBJECTNAMES]",
   "d3action_d3_enablehoveringignforobject": "habilitar el desplazamiento para objetos llamados [OBJECTNAMES]",
-
   "d3action_d3_draggedname": "nombre del objeto arrastrado",
   "d3action_d3_setdraggingmode": "establecer el modo de arrastre [DRAGGINGMODE] dirección x [X] y [Y] z [Z]",
   "d3action_d3_setdragginglimit": "establecer límites de arrastre mínima xyz [X] [Y] [Z] máxima xyz [X2] [Y2] [Z2]",
   "d3action_d3_whenobjectstartdragged": "cuando un objeto de este sprite comienza a ser arrastrado",
   "d3action_d3_whenobjectbeingdragged": "cuando se arrastra un objeto de este sprite",
   "d3action_d3_whenobjectenddragged": "cuando un objeto de este sprite deja de ser arrastrado",
-
   "d3action_d3_whenobjectpicked": "cuando se elige un objeto de este sprite",
   "d3object_d3_whenobjecthovered": "cuando un objeto de este sprite comienza a ser suspendido",
   "d3object_d3_whenobjecthoveredend": "cuando un objeto de este objeto deja de estar sobrevolado",
@@ -1032,7 +1019,6 @@
   "d3object_d3_spritemaxx": "objeto sprite máxima x",
   "d3object_d3_spritemaxy": "objeto sprite máxima y",
   "d3object_d3_spritemaxz": "objeto sprite máxima z",
-
   "d3object_d3_spritex": "posición x del objeto sprite",
   "d3object_d3_spritey": "posición y del objeto sprite",
   "d3object_d3_spritez": "posición z del objeto sprite",
@@ -1047,7 +1033,6 @@
   "d3object_d3_spritespeedrotationx": "objeto sprite x velocidad de rotación",
   "d3object_d3_spritespeedrotationy": "objeto sprite y velocidad de rotación",
   "d3object_d3_spritespeedrotationz": "objeto sprite z velocidad de rotación",
-
   "d3object_d3_spriteblockedfront": "Objeto de sprite bloqueado al frente",
   "d3object_d3_spriteblockedback": "Objeto sprite bloqueado",
   "d3object_d3_spriteblockedbelow": "objeto sprite bloqueado debajo",

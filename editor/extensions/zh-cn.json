@@ -370,6 +370,7 @@
   "widget.removeAllWidgets": "删除本角色的所有控件",
   "widget.setVisibility": "设置控件 [NAME] 的可见性为 [VISIBILITY]",
   "widget.setVisibilityForAll": "为所有控件设置可见性 [VISIBILITY]",
+  "widget.setVisibilityForSprite": "为本角色的所有控件设置可见性 [VISIBILITY]",
   "widget.setZindex": "设置控件 [NAME] 的 z-index 为 [ZINDEX]",
   "widget.whenMouseEnter": "当指针进入控件 [NAME] 时",
   "widget.whenMouseLeave": "当指针离开控件 [NAME] 时",

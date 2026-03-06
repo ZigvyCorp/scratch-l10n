@@ -1071,6 +1071,7 @@
   "widget.setValueOfWidgetTo": "set value of widget [WIDGET] to [VALUE]",
   "widget.setVisibility": "set visibility [VISIBILITY] for widget named [NAME]",
   "widget.setVisibilityForAll": "set visibility [VISIBILITY] for all widgets",
+  "widget.setVisibilityForSprite": "set visibility [VISIBILITY] for all widgets from this sprite",
   "widget.setWidgetStyle": "set widget background color [BGCOLOR] border color [BORDERCOLOR] border width [BORDERWIDTH] border radius [BORDERRADIUS] for [NAME]",
   "widget.setYoutubePlaybackSpeedRatio": "set playback speed ratio [SPEED] for [NAME]",
   "widget.setYoutubeVolume": "set volume to [VOLUME] for [NAME]",

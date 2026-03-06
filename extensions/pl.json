@@ -465,6 +465,7 @@
   "widget.removeAllWidgets": "usuń wszystkie widżety",
   "widget.setVisibility": "ustaw widoczność [VISIBILITY] dla widżetu o nazwie [NAME]",
   "widget.setVisibilityForAll": "ustaw widoczność [VISIBILITY] dla wszystkich widżetów",
+  "widget.setVisibilityForSprite": "ustaw widoczność [VISIBILITY] dla wszystkich widżetów z tego duszka",
   "widget.setZindex": "ustaw z-index na [ZINDEX] dla widżetu o nazwie [NAME]",
   "widget.whenMouseEnter": "gdy wskaźnik wchodzi na widżet o nazwie [NAME]",
   "widget.whenMouseLeave": "gdy wskaźnik opuszcza widżet o nazwie [NAME]",

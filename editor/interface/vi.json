@@ -857,5 +857,6 @@
   "spine": "Xương sống",
   "upperLip": "Môi trên",
   "gui.assistantDialog.thinkMore": "Suy nghĩ sâu",
-  "gui.assistantDialog.thinkMoreTooltip": "yêu cầu XO suy nghĩ lâu hơn để có câu trả lời tốt hơn"
+  "gui.assistantDialog.thinkMoreTooltip": "yêu cầu XO suy nghĩ lâu hơn để có câu trả lời tốt hơn",
+  "gui.menuBar.openAddons": "Mở tiện ích bổ sung"
 }

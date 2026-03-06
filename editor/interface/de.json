@@ -860,5 +860,6 @@
   "paintEditor.showOthers": "Andere anzeigen",
   "paintEditor.sharing": "Teilen…",
   "paintEditor.lockedBy": "Bearbeitung gesperrt von {name}",
-  "paintEditor.unknownUser": "Unbekannt"
+  "paintEditor.unknownUser": "Unbekannt",
+  "gui.menuBar.openAddons": "Add-ons öffnen"
 }

@@ -856,5 +856,6 @@
   "spine": "Kręgosłup",
   "upperLip": "Górna warga",
   "gui.assistantDialog.thinkMore": "Głębokie myślenie",
-  "gui.assistantDialog.thinkMoreTooltip": "poproś XO, aby myślał dłużej, aby uzyskać lepszą odpowiedź"
+  "gui.assistantDialog.thinkMoreTooltip": "poproś XO, aby myślał dłużej, aby uzyskać lepszą odpowiedź",
+  "gui.menuBar.openAddons": "Otwórz dodatki"
 }
