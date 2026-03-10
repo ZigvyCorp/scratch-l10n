@@ -904,5 +904,6 @@
   "gui.customExtension.loadingInfo": "Ładowanie informacji...",
   "gui.customExtension.action.disable": "Ukryj z listy bloków",
   "gui.customExtension.action.enable": "Pokaż na liście bloków",
-  "gui.customExtension.action.delete": "Usuń rozszerzenie"
+  "gui.customExtension.action.delete": "Usuń rozszerzenie",
+  "gui.menuBar.openAddons": "Otwórz dodatki"
 }

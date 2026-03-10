@@ -905,5 +905,6 @@
   "gui.customExtension.loadingInfo": "Đang tải thông tin...",
   "gui.customExtension.action.disable": "Ẩn tiện ích ở danh sách Khối lệnh",
   "gui.customExtension.action.enable": "Hiện tiện ích ở danh sách Khối lệnh",
-  "gui.customExtension.action.delete": "Xóa tiện ích"
+  "gui.customExtension.action.delete": "Xóa tiện ích",
+  "gui.menuBar.openAddons": "Mở tiện ích bổ sung"
 }

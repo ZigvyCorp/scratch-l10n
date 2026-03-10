@@ -862,6 +862,10 @@
   "gui.codeSnippet.shareModalContentName": "在此输入代码片段的名称...",
   "gui.codeSnippet.shareModalName": "名称",
   "gui.codeSnippet.shareModalDescription": "描述",
+  "paintEditor.showOthers": "显示其他",
+  "paintEditor.sharing": "分享中…",
+  "paintEditor.lockedBy": "{name} 正在编辑",
+  "paintEditor.unknownUser": "未知用户",
   "gui": {
     "extension": {
       "mp": {
@@ -926,5 +930,6 @@
   "gui.customExtension.loadingInfo": "正在加载信息...",
   "gui.customExtension.action.disable": "从积木列表中隐藏",
   "gui.customExtension.action.enable": "在积木列表中显示",
-  "gui.customExtension.action.delete": "删除扩展"
+  "gui.customExtension.action.delete": "删除扩展",
+  "gui.menuBar.openAddons": "打开插件"
 }

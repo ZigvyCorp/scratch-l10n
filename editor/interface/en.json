@@ -906,5 +906,10 @@
   "gui.customExtension.loadingInfo": "Loading information...",
   "gui.customExtension.action.disable": "Do not load extensions in the blocks list.",
   "gui.customExtension.action.enable": "Load extension to blocks list",
-  "gui.customExtension.action.delete": "Delete extension"
+  "gui.customExtension.action.delete": "Delete extension",
+  "paintEditor.showOthers": "Show others",
+  "paintEditor.sharing": "Sharing…",
+  "paintEditor.lockedBy": "Editing locked by {name}",
+  "paintEditor.unknownUser": "Unknown",
+  "gui.menuBar.openAddons": "Open Addons"
 }

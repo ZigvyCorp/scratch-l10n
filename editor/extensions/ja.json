@@ -369,6 +369,7 @@
   "widget.removeAllWidgets": "すべてのウィジェットを削除",
   "widget.setVisibility": "ウィジェット [VISIBILITY] の表示を [NAME] に設定",
   "widget.setVisibilityForAll": "すべてのウィジェットの表示を [VISIBILITY] に設定",
+  "widget.setVisibilityForSprite": "このスプライトのすべてのウィジェットの表示を [VISIBILITY] に設定",
   "widget.setZindex": "ウィジェット [ZINDEX] のZ軸順序を [NAME] に設定",
   "widget.whenMouseEnter": "ポインターがウィジェット [NAME] に入ったとき",
   "widget.whenMouseLeave": "ポインターがウィジェット [NAME] から出たとき",

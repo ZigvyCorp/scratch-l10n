@@ -955,7 +955,7 @@
   "gui.customExtension.notification.deleteExtensionSuccess": "Extensão personalizada excluída com sucesso",
   "gui.customExtension.notification.uploadExtensionSuccess": "Extensão personalizada enviada com sucesso",
   "gui.customExtension.notification.editExtensionSuccess": "Extensão personalizada editada com sucesso",
-  "gui.customExtension.uploadButton": "Enviar Exensão Personalizada",
+  "gui.customExtension.uploadButton": "Enviar Extensão Personalizada",
   "gui.customExtension.filter.all": "Todos",
   "gui.customExtension.filter.disabled": "Desativado",
   "gui.customExtension.filter.enabled": "Ativado",
@@ -996,5 +996,11 @@
   "gui.customExtension.loadingInfo": "Carregando informações...",
   "gui.customExtension.action.disable": "Ocultar da lista de blocos",
   "gui.customExtension.action.enable": "Mostrar na lista de blocos",
-  "gui.customExtension.action.delete": "Excluir extensão"
+  "gui.customExtension.action.delete": "Excluir extensão",
+  "gui.aiGenerateLibrary.vectorOption": "Vetor",
+  "paintEditor.showOthers": "Mostrar outros",
+  "paintEditor.sharing": "Compartilhando…",
+  "paintEditor.lockedBy": "Edição bloqueada por {name}",
+  "paintEditor.unknownUser": "Desconhecido",
+  "gui.menuBar.openAddons": "Abrir extensões"
 }

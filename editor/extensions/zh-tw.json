@@ -1111,6 +1111,7 @@
   "widget.setValueOfWidgetTo": "將控件 [WIDGET] 的值設置為 [VALUE]",
   "widget.setVisibility": "設置名為 [NAME] 的控件的可見性 [VISIBILITY]",
   "widget.setVisibilityForAll": "為所有控件設置可見性 [VISIBILITY]",
+  "widget.setVisibilityForSprite": "set visibility [VISIBILITY] for all widgets from this sprite",
   "widget.setWidgetStyle": "為控件 [NAME] 設置背景顏色 [BGCOLOR] 邊框顏色 [BORDERCOLOR] 邊框寬度 [BORDERWIDTH] 邊框半徑 [BORDERRADIUS]",
   "widget.setYoutubePlaybackSpeedRatio": "為 [NAME] 設置播放速度比 [SPEED]",
   "widget.setYoutubeVolume": "將 [NAME] 的音量設置為 [VOLUME]",

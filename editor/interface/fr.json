@@ -907,5 +907,10 @@
   "gui.customExtension.loadingInfo": "Chargement des informations...",
   "gui.customExtension.action.disable": "Masquer de la liste des blocs",
   "gui.customExtension.action.enable": "Afficher dans la liste des blocs",
-  "gui.customExtension.action.delete": "Supprimer l'extension"
+  "gui.customExtension.action.delete": "Supprimer l'extension",
+  "paintEditor.showOthers": "Afficher les autres",
+  "paintEditor.sharing": "Partage en cours…",
+  "paintEditor.lockedBy": "Édition verrouillée par {name}",
+  "paintEditor.unknownUser": "Inconnu",
+  "gui.menuBar.openAddons": "Ouvrir les extensions"
 }

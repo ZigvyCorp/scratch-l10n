@@ -915,5 +915,9 @@
   "gui.customExtension.loadingInfo": "正在載入資訊...",
   "gui.customExtension.action.disable": "從方塊清單中隱藏",
   "gui.customExtension.action.enable": "在方塊清單中顯示",
-  "gui.customExtension.action.delete": "刪除擴展"
+  "gui.customExtension.action.delete": "刪除擴展",
+  "paintEditor.showOthers": "顯示其他",
+  "paintEditor.sharing": "分享中…",
+  "paintEditor.lockedBy": "{name} 正在編輯",
+  "paintEditor.unknownUser": "未知使用者"
 }

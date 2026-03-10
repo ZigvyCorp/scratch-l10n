@@ -904,5 +904,10 @@
   "gui.customExtension.loadingInfo": "Informationen werden geladen...",
   "gui.customExtension.action.disable": "Aus der Blockliste ausblenden",
   "gui.customExtension.action.enable": "In der Blockliste anzeigen",
-  "gui.customExtension.action.delete": "Erweiterung löschen"
+  "gui.customExtension.action.delete": "Erweiterung löschen",
+  "paintEditor.showOthers": "Andere anzeigen",
+  "paintEditor.sharing": "Teilen…",
+  "paintEditor.lockedBy": "Bearbeitung gesperrt von {name}",
+  "paintEditor.unknownUser": "Unbekannt",
+  "gui.menuBar.openAddons": "Add-ons öffnen"
 }

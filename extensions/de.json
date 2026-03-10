@@ -369,6 +369,7 @@
   "widget.removeAllWidgets": "entferne alle Widgets",
   "widget.setVisibility": "setze Sichtbarkeit [VISIBILITY] für Widget mit Namen [NAME]",
   "widget.setVisibilityForAll": "setze Sichtbarkeit [VISIBILITY] für alle Widgets",
+  "widget.setVisibilityForSprite": "setze Sichtbarkeit [VISIBILITY] für alle Widgets aus dieser Figur",
   "widget.setZindex": "setze Z-Index auf [ZINDEX] für Widget mit Namen [NAME]",
   "widget.whenMouseEnter": "wenn Zeiger Widget mit Namen [NAME] betritt",
   "widget.whenMouseLeave": "wenn Zeiger Widget mit Namen [NAME] verlässt",

@@ -465,6 +465,7 @@
   "widget.removeAllWidgets": "xóa tất cả tiện ích",
   "widget.setVisibility": "đặt trạng thái hiển thị [VISIBILITY] cho tiện ích [NAME]",
   "widget.setVisibilityForAll": "đặt trạng thái hiển thị [VISIBILITY] cho mọi tiện ích",
+  "widget.setVisibilityForSprite": "đặt trạng thái hiển thị [VISIBILITY] cho tất cả tiện ích của nhân vật này",
   "widget.setZindex": "đặt lớp z là [ZINDEX] cho tiện ích [NAME]",
   "widget.whenMouseEnter": "khi con trỏ vào tiện ích [NAME]",
   "widget.whenMouseLeave": "khi con trỏ rời tiện ích [NAME]",

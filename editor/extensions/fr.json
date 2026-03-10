@@ -367,6 +367,7 @@
   "widget.removeAllWidgets": "supprimer tous les widgets",
   "widget.setVisibility": "définir la visibilité [VISIBILITY] pour le widget nommé [NAME]",
   "widget.setVisibilityForAll": "définir la visibilité [VISIBILITY] pour tous les widgets",
+  "widget.setVisibilityForSprite": "définir la visibilité [VISIBILITY] pour tous les widgets de ce sprite",
   "widget.setZindex": "définir l'index Z sur [ZINDEX] pour le widget nommé [NAME]",
   "widget.whenMouseEnter": "lorsque le pointeur entre dans le widget [NAME]",
   "widget.whenMouseLeave": "lorsque le pointeur quitte le widget nommé [NAME]",
