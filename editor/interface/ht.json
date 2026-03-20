@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Ranplase kontni pwojè aktyèl la ?",
     "gui.sharedMessages.loadFromComputerTitle": "Chaje yon pwojè sou òdinatè w ",
-    "gui.gui.defaultProjectTitle": "Pwojè Scratch"
+    "gui.gui.defaultProjectTitle": "Pwojè Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

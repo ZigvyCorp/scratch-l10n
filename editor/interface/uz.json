@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Xozirgi loyihani mazmunini almashtiringmi?",
     "gui.sharedMessages.loadFromComputerTitle": "Kompyuteringizdan yuklab oling",
-    "gui.gui.defaultProjectTitle": "Scratch loyihasi"
+    "gui.gui.defaultProjectTitle": "Scratch loyihasi",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

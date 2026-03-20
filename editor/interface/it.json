@@ -507,5 +507,6 @@
     "gui.sharedMessages.replaceProjectWarning": "Vuoi rimpiazzare il contenuto del progetto corrente?",
     "gui.sharedMessages.loadFromComputerTitle": "Carica dal computer",
     "gui.gui.defaultProjectTitle": "Progetto Scratch",
-    "gui.consolePanel.premiumWarning": "I blocchi premium nei progetti sono disabilitati"
+    "gui.consolePanel.premiumWarning": "I blocchi premium nei progetti sono disabilitati",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

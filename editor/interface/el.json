@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "ποπ",
     "gui.sharedMessages.replaceProjectWarning": "Αντικατάσταση περιεχομένων του παρόντος έργου;",
     "gui.sharedMessages.loadFromComputerTitle": "Φόρτωση από τον υπολογιστή σου",
-    "gui.gui.defaultProjectTitle": "Έργο Scratch"
+    "gui.gui.defaultProjectTitle": "Έργο Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

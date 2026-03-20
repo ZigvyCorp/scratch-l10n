@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Newid cynnwys y project hwn?",
     "gui.sharedMessages.loadFromComputerTitle": "Llwytho o'ch cyfrifiadur",
-    "gui.gui.defaultProjectTitle": "Project Scratch"
+    "gui.gui.defaultProjectTitle": "Project Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

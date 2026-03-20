@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "knald",
     "gui.sharedMessages.replaceProjectWarning": "Erstat indholdet af det nuværende projekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Hent fra din computer",
-    "gui.gui.defaultProjectTitle": "Scratch Projekt"
+    "gui.gui.defaultProjectTitle": "Scratch Projekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

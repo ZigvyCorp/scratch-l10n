@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pup",
     "gui.sharedMessages.replaceProjectWarning": "Musuqmanta ruray Llamkasqaykita?",
     "gui.sharedMessages.loadFromComputerTitle": "Kumputaduraykimanta Llamkariy",
-    "gui.gui.defaultProjectTitle": "Scratch llamkay"
+    "gui.gui.defaultProjectTitle": "Scratch llamkay",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Ynhâld ferfange fan dit projekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Ynlade fan jo kompjûter ôf",
-    "gui.gui.defaultProjectTitle": "Scratchprojekt"
+    "gui.gui.defaultProjectTitle": "Scratchprojekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

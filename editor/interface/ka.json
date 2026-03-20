@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "შევანაცვლო მიმდინარე პროექტის შიგთავსი?",
     "gui.sharedMessages.loadFromComputerTitle": "ატვირთე შენი კომპიუტერიდან",
-    "gui.gui.defaultProjectTitle": "Scratch პროექტი"
+    "gui.gui.defaultProjectTitle": "Scratch პროექტი",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

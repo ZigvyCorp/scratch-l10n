@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "پۆپ",
     "gui.sharedMessages.replaceProjectWarning": "گۆڕینەوەی ناوەڕۆکی پڕۆژەی ئێستا؟",
     "gui.sharedMessages.loadFromComputerTitle": "هێنان لە کۆمپیوتەرەکەت",
-    "gui.gui.defaultProjectTitle": "پڕۆژەی سکڕاچ"
+    "gui.gui.defaultProjectTitle": "پڕۆژەی سکڕاچ",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Ағымдағы проекттің мазмұнын ауыстыру керек пе?",
     "gui.sharedMessages.loadFromComputerTitle": "Компьютерден жүктеу",
-    "gui.gui.defaultProjectTitle": "Scratch  проекті"
+    "gui.gui.defaultProjectTitle": "Scratch  проекті",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

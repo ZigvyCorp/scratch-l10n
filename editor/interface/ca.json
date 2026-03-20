@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Vols substituir els continguts del projecte actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Carrega des del teu ordinador",
-    "gui.gui.defaultProjectTitle": "Projecte de Scratch"
+    "gui.gui.defaultProjectTitle": "Projecte de Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

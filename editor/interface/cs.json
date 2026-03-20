@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "prask",
     "gui.sharedMessages.replaceProjectWarning": "Nahradit obsah aktuálního projektu?",
     "gui.sharedMessages.loadFromComputerTitle": "Načti z tvého počítače",
-    "gui.gui.defaultProjectTitle": "Můj projekt"
+    "gui.gui.defaultProjectTitle": "Můj projekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

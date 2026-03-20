@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Mevcut projenin üstüne yazayım mı?",
     "gui.sharedMessages.loadFromComputerTitle": "Bilgisayarından yükle",
-    "gui.gui.defaultProjectTitle": "Scratch Projesi"
+    "gui.gui.defaultProjectTitle": "Scratch Projesi",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

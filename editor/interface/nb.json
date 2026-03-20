@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "plopp",
     "gui.sharedMessages.replaceProjectWarning": "Starte på nytt uten å lagre?",
     "gui.sharedMessages.loadFromComputerTitle": "Last opp fra datamaskinen",
-    "gui.gui.defaultProjectTitle": "Mitt Scratch-prosjekt"
+    "gui.gui.defaultProjectTitle": "Mitt Scratch-prosjekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }
