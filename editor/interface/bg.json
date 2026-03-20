@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "пук",
     "gui.sharedMessages.replaceProjectWarning": "Да се замени ли съдържанието от текущия проект?",
     "gui.sharedMessages.loadFromComputerTitle": "Зареди от своя компютър",
-    "gui.gui.defaultProjectTitle": "Scratch Проект"
+    "gui.gui.defaultProjectTitle": "Scratch Проект",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

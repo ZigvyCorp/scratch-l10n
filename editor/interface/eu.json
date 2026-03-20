@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Kargatu zure ordenagailutik",
-    "gui.gui.defaultProjectTitle": "Scratch proiektua"
+    "gui.gui.defaultProjectTitle": "Scratch proiektua",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "апоп",
     "gui.sharedMessages.replaceProjectWarning": "Иалаԥсахтәума абри апроект аҵанакы?",
     "gui.sharedMessages.loadFromComputerTitle": "Иҭагалатәуп акомпиутер аҟынтәи",
-    "gui.gui.defaultProjectTitle": "Scratch Апроект"
+    "gui.gui.defaultProjectTitle": "Scratch Апроект",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

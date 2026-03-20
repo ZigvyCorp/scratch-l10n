@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "փոփ",
     "gui.sharedMessages.replaceProjectWarning": "Փոխարինե՞լ ընթացիկ նախագծի պարունակությունը:",
     "gui.sharedMessages.loadFromComputerTitle": "Բեռնել համակարգչից",
-    "gui.gui.defaultProjectTitle": "Scratch նախագիծ"
+    "gui.gui.defaultProjectTitle": "Scratch նախագիծ",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

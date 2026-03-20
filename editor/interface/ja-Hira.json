@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "ポップ",
     "gui.sharedMessages.replaceProjectWarning": "げんざいのプロジェクトのないようをおきかえますか？",
     "gui.sharedMessages.loadFromComputerTitle": "コンピューターからよみこむ",
-    "gui.gui.defaultProjectTitle": "Scratchのプロジェクト"
+    "gui.gui.defaultProjectTitle": "Scratchのプロジェクト",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

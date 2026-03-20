@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "poberi",
     "gui.sharedMessages.replaceProjectWarning": "Ali zamenjam vsebino trenutnega projekta?",
     "gui.sharedMessages.loadFromComputerTitle": "Naloži z računalnika",
-    "gui.gui.defaultProjectTitle": "Scratch projekt"
+    "gui.gui.defaultProjectTitle": "Scratch projekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

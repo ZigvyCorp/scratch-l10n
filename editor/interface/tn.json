@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "thwanya",
     "gui.sharedMessages.replaceProjectWarning": "Emisetsa diteng tsa porojeke ya jaanong",
     "gui.sharedMessages.loadFromComputerTitle": "Tsenya tshedimosetso go tswa mo khomputareng ya gago",
-    "gui.gui.defaultProjectTitle": "Porojeke ya Scratch"
+    "gui.gui.defaultProjectTitle": "Porojeke ya Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

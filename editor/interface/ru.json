@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Заменить содержимое текущего проекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Загрузить с компьютера",
-    "gui.gui.defaultProjectTitle": "Проект Scratch"
+    "gui.gui.defaultProjectTitle": "Проект Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

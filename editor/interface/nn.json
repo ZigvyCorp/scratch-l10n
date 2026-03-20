@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "plopp",
     "gui.sharedMessages.replaceProjectWarning": "Vil du byta ut innhaldet i gjeldande prosjekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Last opp frå datamaskina",
-    "gui.gui.defaultProjectTitle": "Scratch-prosjekt"
+    "gui.gui.defaultProjectTitle": "Scratch-prosjekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

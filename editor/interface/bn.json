@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "পপ",
     "gui.sharedMessages.replaceProjectWarning": "বর্তমান প্রজেক্ট এর কনটেন্ট প্রতিস্থাপন করবে? ",
     "gui.sharedMessages.loadFromComputerTitle": " তোমার কম্পিউটার থেকে লোড কর",
-    "gui.gui.defaultProjectTitle": "Scratch প্রকল্প"
+    "gui.gui.defaultProjectTitle": "Scratch প্রকল্প",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

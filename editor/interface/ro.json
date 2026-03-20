@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Confirmi înlocuirea proiectului curent ?",
     "gui.sharedMessages.loadFromComputerTitle": "Încarcă de pe calculator",
-    "gui.gui.defaultProjectTitle": "Proiect Scratch"
+    "gui.gui.defaultProjectTitle": "Proiect Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }
