@@ -328,6 +328,7 @@
   "p2p.readWorldsInfo": "lese alle Welt-Informationen in Tabelle [TABLE]",
   "p2p.categoryName": "P2P",
   "p2p.fetchFromURL": "lade Webseite als [FORMAT] von URL [URL]",
+  "p2p.sendHttpRequest": "HTTP-Anfrage senden URL [URL] Typ [TYPE] Header [HEADER] Body [BODY] Ergebnis [VARIABLE]",
   "p2p.createWorld": "erstelle Welt [WORLD] Passwort [PASSWORD] mein Nickname [NICKNAME]",
   "p2p.joinWorld": "Trete Welt [WORLD] bei",
   "p2p.leaveworld": "verlasse Welt",
