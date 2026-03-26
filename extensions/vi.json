@@ -418,6 +418,7 @@
   "p2p.readWorldsInfo": "đọc thông tin tất cả thế giới vào bảng [TABLE]",
   "p2p.categoryName": "Đám mây",
   "p2p.fetchFromURL": "lấy trang web dạng [FORMAT] từ URL [URL]",
+  "p2p.sendHttpRequest": "gửi HTTP request url [URL] kiểu [TYPE] header [HEADER] nội dung [BODY] kết quả [VARIABLE]",
   "p2p.createWorld": "tạo thế giới [WORLD] mật khẩu [PASSWORD] biệt danh của tôi [NICKNAME]",
   "p2p.joinWorld": "tham gia thế giới [WORLD] mật khẩu [PASSWORD] biệt danh của tôi [NICKNAME]",
   "p2p.leaveworld": "rời khỏi thế giới",

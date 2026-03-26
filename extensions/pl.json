@@ -416,6 +416,7 @@
   "p2p.readWorldsInfo": "wczytaj informacje o wszystkich światach do tabeli [TABLE]",
   "p2p.categoryName": "Chmura",
   "p2p.fetchFromURL": "pobierz stronę internetową jako [FORMAT] z URL [URL]",
+  "p2p.sendHttpRequest": "wyślij żądanie HTTP url [URL] typ [TYPE] nagłówek [HEADER] treść [BODY] wynik [VARIABLE]",
   "p2p.createWorld": "utwórz świat [WORLD] hasło [PASSWORD] mój pseudonim [NICKNAME]",
   "p2p.joinWorld": "dołącz do świata [WORLD] hasło [PASSWORD] mój pseudonim [NICKNAME]",
   "p2p.leaveworld": "opuść świat",

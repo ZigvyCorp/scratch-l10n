@@ -745,6 +745,7 @@
   "p2p.currentWorld": "mundo atual",
   "p2p.deleteworld": "delete mundo",
   "p2p.fetchFromURL": "busque página web como [FORMAT] da URL [URL]",
+  "p2p.sendHttpRequest": "enviar requisição HTTP url [URL] tipo [TYPE] cabeçalho [HEADER] corpo [BODY] resultado [VARIABLE]",
   "p2p.formatContent.bold": "bold",
   "p2p.formatContent.boldItalic": "bold-italic",
   "p2p.formatContent.italic": "italic",

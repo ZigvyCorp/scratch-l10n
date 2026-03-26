@@ -328,6 +328,7 @@
   "p2p.readWorldsInfo": "全世界情報をテーブル [TABLE] に読み込む",
   "p2p.categoryName": "P2P",
   "p2p.fetchFromURL": "URL [FORMAT] からWebページを [URL] として取得",
+  "p2p.sendHttpRequest": "HTTPリクエストを送信 URL [URL] タイプ [TYPE] ヘッダー [HEADER] ボディ [BODY] 結果 [VARIABLE]",
   "p2p.createWorld": "世界 [WORLD] を作成 パスワード [PASSWORD] ニックネーム [NICKNAME]",
   "p2p.joinWorld": "世界 [WORLD] に参加",
   "p2p.leaveworld": "世界を退出",
