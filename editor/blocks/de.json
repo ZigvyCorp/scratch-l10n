@@ -908,6 +908,7 @@
   "AI_loadModel": "Lade NN-Modell mit Name %1",
   "AI_openAIChatCompletion": "OpenAI ChatGPT: Anfrage %1 Ergebnis %2 Modus %3 Länge %4 Temperatur %5 Sitzung %6",
   "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: System-Anfrage %1 Sitzung %2 Ergebnis %3 Temperatur %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: Tabellenanfrage %1 Spezifikation %2 Antwort %3 Temperatur %4 Sitzung %5",
   "AI_openAIChatCancelation": "OpenAI ChatGPT: Anfrage abbrechen",
   "AI_llmChatCompletion": "LLM Modell %1 Anfrage %2 Ergebnis %3 Modus %4 Länge %5 Temperatur %6 Sitzung %7",
   "AI_llmSystemInstruction": "LLM Setze Systemanweisung %1 für Modell %2",

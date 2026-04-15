@@ -908,6 +908,7 @@
   "AI_loadModel": "NNモデル %1 を読み込み",
   "AI_openAIChatCompletion": "OpenAI ChatGPT: リクエスト %1 結果 %2 ロール %3 長さ %4 温度 %5 セッション %6",
   "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: システムリクエスト %1 セッション %2 結果 %3 温度 %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: テーブルリクエスト %1 仕様 %2 レスポンス %3 温度 %4 セッション %5",
   "AI_openAIChatCancelation": "OpenAI ChatGPT: リクエストをキャンセル",
   "AI_llmChatCompletion": "LLMモデル %1 リクエスト %2 結果 %3 モード %4 長さ %5 温度 %6 セッション %7",
   "AI_llmSystemInstruction": "LLMシステム指示を %1 に設定 モデル %2",

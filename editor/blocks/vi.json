@@ -361,6 +361,7 @@
   "AI_loadModel": "tải mô hình NN tên %1",
   "AI_openAIChatCompletion": "OpenI ChtạiGPT: yêu cầu %1 số kết quả %2 chế độ %3 độ dài tối đa %4 nhiệt độ %5 phiên %6",
   "AI_openAIChatCompletionSystem": "OpenI ChtạiGPT: yêu cầu hệ thống %1 phiên %2 số kết quả %3 nhiệt độ %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: yêu cầu bảng %1 spec %2 kết quả %3 nhiệt độ %4 phiên %5",
   "AI_openAIChatCancelation": "OpenI ChtạiGPT: hủy yêu cầu",
   "AI_llmChatCompletion": "Mô hình LLM %1 yêu cầu %2 số kết quả %3 chế độ %4 độ dài tối đa %5 nhiệt độ %6 phiên %7",
   "AI_llmSystemInstruction": "đặt hướng dẫn hệ thống %1 cho mô hình %2",
