@@ -191,6 +191,7 @@
   "EVENT_WHENTOUCHINGOBJECT": "Wenn diese Figur %1 berührt",
   "EVENT_WHENBROADCASTRECEIVED": "Wenn ich erhalte %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "Wenn ich %1 durch Parameter %2 erhalte",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "Wenn ich %1 mit Parameter gleich %2 erhalte",
   "EVENT_WHENBACKDROPSWITCHESTO": "Wenn Bühnenbild wechselt zu %1",
   "EVENT_WHENGREATERTHAN": "Wenn %1 > %2",
   "EVENT_WHENGREATERTHAN_TIMER": "Stoppuhr",

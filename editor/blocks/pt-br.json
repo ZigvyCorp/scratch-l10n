@@ -356,6 +356,7 @@
   "EVENT_WHENBOOLEAN": "quando %1",
   "EVENT_WHENBROADCASTRECEIVED": "quando eu receber %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "quando eu receber %1 com parâmetro %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "quando eu receber %1 com parâmetro igual a %2",
   "EVENT_WHENFLAGCLICKED": "quando %1 for clicado",
   "EVENT_WHENGREATERTHAN": "quando %1 > %2",
   "EVENT_WHENGREATERTHAN_LOUDNESS": "ruído",

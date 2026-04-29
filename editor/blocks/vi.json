@@ -593,6 +593,7 @@
   "EVENT_PREPAREWHENFLAGCLICKED": "chuẩn bị cho %1 nhấp",
   "EVENT_WHENBOOLEAN": "khi %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "khi tôi nhận %1 với tham số %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "khi tôi nhận %1 với tham số bằng %2",
   "EVENT_WHENKEYPRESSED_ALT": "phím lt",
   "EVENT_WHENKEYPRESSED_CTRL": "phím Ctrl",
   "EVENT_WHENKEYPRESSED_DELETE": "phím Delete",

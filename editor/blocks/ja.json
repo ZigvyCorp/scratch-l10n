@@ -191,6 +191,7 @@
   "EVENT_WHENTOUCHINGOBJECT": "このスプライトが %1 に触れたとき",
   "EVENT_WHENBROADCASTRECEIVED": "〜がクリックされたとき I receive %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "〜がクリックされたとき I receive %1 で パラメータ %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "%1 を受け取ったとき パラメータが %2 のとき",
   "EVENT_WHENBACKDROPSWITCHESTO": "〜がクリックされたとき 最背面drop switches にする %1",
   "EVENT_WHENGREATERTHAN": "〜がクリックされたとき %1 > %2",
   "EVENT_WHENGREATERTHAN_TIMER": "タイマー",

@@ -198,6 +198,7 @@
   "EVENT_WHENTOUCHINGOBJECT": "kiedy ten duszek dotknie %1",
   "EVENT_WHENBROADCASTRECEIVED": "kiedy otrzymam %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "kiedy otrzymam %1 z parametrem %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "kiedy otrzymam %1 z parametrem równym %2",
   "EVENT_WHENBACKDROPSWITCHESTO": "kiedy tło zmieni się na %1",
   "EVENT_WHENGREATERTHAN": "kiedy %1 > %2",
   "EVENT_WHENGREATERTHAN_TIMER": "stoper",

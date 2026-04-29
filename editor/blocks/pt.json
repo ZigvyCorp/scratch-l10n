@@ -1052,6 +1052,7 @@
   "EVENT_whenKeyVariablePressed": "queo tecla %1 pressionada",
   "EVENT_whenKeyVariableReleased": "queo tecla %1 liserrada",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "queo I receive %1 com parameter %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "quando eu receber %1 com parâmetro igual a %2",
   "EVENT_WHENSPRITETOUCHINGOBJECT": "queo parauchemg %1",
   "EVENT_WHENSPRITETOUCHINGCOLOR": "queo parauchemg cor %1",
   "EVENT_BROADCASTWITHPARAM": "broadccomot %1 com parameter %2",

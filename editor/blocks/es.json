@@ -188,6 +188,7 @@
   "EVENT_WHENTOUCHINGOBJECT": "cuando el objeto toque %1",
   "EVENT_WHENBROADCASTRECEIVED": "al recibir %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "cuando recibo %1 con el parámetro %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "cuando recibo %1 con el parámetro igual a %2",
   "EVENT_WHENBACKDROPSWITCHESTO": "cuando el fondo cambie a %1",
   "EVENT_WHENGREATERTHAN": "cuando %1 > %2",
   "EVENT_WHENGREATERTHAN_TIMER": "cronómetro",

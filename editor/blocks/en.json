@@ -189,6 +189,7 @@
   "EVENT_WHENTOUCHINGOBJECT": "when this sprite touches %1",
   "EVENT_WHENBROADCASTRECEIVED": "when I receive %1",
   "EVENT_WHENBROADCASTRECEIVEDWITHPARAM": "when I receive %1 with parameter %2",
+  "EVENT_WHENBROADCASTRECEIVEDWITHLITERALPARAM": "when I receive %1 if parameter is %2",
   "EVENT_WHENBACKDROPSWITCHESTO": "when backdrop switches to %1",
   "EVENT_WHENGREATERTHAN": "when %1 > %2",
   "EVENT_WHENGREATERTHAN_TIMER": "timer",
