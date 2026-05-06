@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "ជំនួសខ្លឹមសារនៃកិច្ចការបច្ចុប្បន្នមែនទេ?",
     "gui.sharedMessages.loadFromComputerTitle": "ដំណើរការពីកុំព្យូទ័ររបស់អ្នក",
-    "gui.gui.defaultProjectTitle": "កិច្ចការ Scratch"
+    "gui.gui.defaultProjectTitle": "កិច្ចការ Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "plop",
     "gui.sharedMessages.replaceProjectWarning": "Huidige project vervangen?",
     "gui.sharedMessages.loadFromComputerTitle": "Uploaden vanaf je computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

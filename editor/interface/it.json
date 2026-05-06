@@ -12,6 +12,11 @@
     "gui.backpack.loadingBackpack": "Caricamento in corso...",
     "gui.backpack.more": "Altro",
     "gui.backpack.emptyBackpack": "Lo zaino è vuoto",
+    "gui.consolePanel.header": "Pannello Console",
+    "gui.consolePanel.autoScroll": "scorrimento automatico",
+    "gui.consolePanel.copied": "Copiato!",
+    "gui.consolePanel.copyTooltip": "Copia contenuto console",
+    "gui.consolePanel.clearTooltip": "Cancella console",
     "gui.unsupportedBrowser.label": "Browser non supportato",
     "gui.unsupportedBrowser.errorLabel": "Si è Verificato un Errore",
     "gui.unsupportedBrowser.notRecommended": "Ci dispiace, ma sembra che tu stia usando una versione di un browser non supportata da Scratch. Ti raccomandiamo di usare la versione più recente di uno dei browser supportati, come Chrome, Firefox, Edge o Safari.",
@@ -501,5 +506,7 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Vuoi rimpiazzare il contenuto del progetto corrente?",
     "gui.sharedMessages.loadFromComputerTitle": "Carica dal computer",
-    "gui.gui.defaultProjectTitle": "Progetto Scratch"
+    "gui.gui.defaultProjectTitle": "Progetto Scratch",
+    "gui.consolePanel.premiumWarning": "I blocchi premium nei progetti sono disabilitati",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

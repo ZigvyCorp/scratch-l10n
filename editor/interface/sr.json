@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Заменити садржај тренутног пројекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Пошаљи са свог рачунара",
-    "gui.gui.defaultProjectTitle": "Скрач пројекат"
+    "gui.gui.defaultProjectTitle": "Скрач пројекат",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

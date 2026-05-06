@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "thunya",
     "gui.sharedMessages.replaceProjectWarning": "Bea bakeng sa diteng tša projeke ye.",
     "gui.sharedMessages.loadFromComputerTitle": "Laiša go tšwa khomphuthareng ya gago",
-    "gui.gui.defaultProjectTitle": "Projeke ya Scratch"
+    "gui.gui.defaultProjectTitle": "Projeke ya Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

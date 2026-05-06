@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Одоо хөгжүүлж буй төслийг устган, шинийг нээх үү?",
     "gui.sharedMessages.loadFromComputerTitle": "Компьютероос төсөл оруулах",
-    "gui.gui.defaultProjectTitle": "Scratch төсөл"
+    "gui.gui.defaultProjectTitle": "Scratch төсөл",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

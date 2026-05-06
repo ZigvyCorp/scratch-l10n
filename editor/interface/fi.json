@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Korvataanko nykyisen projektin sisältö?",
     "gui.sharedMessages.loadFromComputerTitle": "Avaa tietokoneeltasi",
-    "gui.gui.defaultProjectTitle": "Scratch-projekti"
+    "gui.gui.defaultProjectTitle": "Scratch-projekti",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

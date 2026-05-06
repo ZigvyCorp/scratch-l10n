@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Vervang inhoud van die huidige projek?",
     "gui.sharedMessages.loadFromComputerTitle": "Laai van jou rekenaar",
-    "gui.gui.defaultProjectTitle": "Scratch Projek"
+    "gui.gui.defaultProjectTitle": "Scratch Projek",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

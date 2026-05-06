@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "cnap",
     "gui.sharedMessages.replaceProjectWarning": "A bheil thu airson seo a chur an àite susbaint a’ phròiseict làithrich?",
     "gui.sharedMessages.loadFromComputerTitle": "Luchdaich on choimpiutair agad",
-    "gui.gui.defaultProjectTitle": "Pròiseact Scratch"
+    "gui.gui.defaultProjectTitle": "Pròiseact Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

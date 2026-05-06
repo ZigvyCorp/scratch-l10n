@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Ersätt innehållet i det aktuella projektet?",
     "gui.sharedMessages.loadFromComputerTitle": "Ladda upp från din dator",
-    "gui.gui.defaultProjectTitle": "Scratchprojekt"
+    "gui.gui.defaultProjectTitle": "Scratchprojekt",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

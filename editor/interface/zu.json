@@ -504,5 +504,6 @@
     "gui.sharedMessages.pop": "qhumisa",
     "gui.sharedMessages.replaceProjectWarning": "Buyisela imininingwane yeprojekthi yamanje?",
     "gui.sharedMessages.loadFromComputerTitle": "Thathela kweyakho ikhomputha",
-    "gui.gui.defaultProjectTitle": "iProject ka Scratch"
+    "gui.gui.defaultProjectTitle": "iProject ka Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

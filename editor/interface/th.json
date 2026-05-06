@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "ป๊อบ",
     "gui.sharedMessages.replaceProjectWarning": "แทนที่เนื้อหาของโครงงานปัจจุบันหรือไม่?",
     "gui.sharedMessages.loadFromComputerTitle": "อัปโหลดจากคอมพิวเตอร์ของคุณ",
-    "gui.gui.defaultProjectTitle": "โครงงาน Scratch"
+    "gui.gui.defaultProjectTitle": "โครงงาน Scratch",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

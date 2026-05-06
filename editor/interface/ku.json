@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Bila naveroka projeya heyî were guhertin?",
     "gui.sharedMessages.loadFromComputerTitle": "Ji kombersa xwe bar bike",
-    "gui.gui.defaultProjectTitle": "Projeya Scratchê"
+    "gui.gui.defaultProjectTitle": "Projeya Scratchê",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

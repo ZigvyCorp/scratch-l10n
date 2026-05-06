@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Замінити вміст поточного проєкту?",
     "gui.sharedMessages.loadFromComputerTitle": "Завантажити з вашого комп’ютера",
-    "gui.gui.defaultProjectTitle": "Скретч-проєкт"
+    "gui.gui.defaultProjectTitle": "Скретч-проєкт",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

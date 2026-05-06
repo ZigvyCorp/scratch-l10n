@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "ترکیدن",
     "gui.sharedMessages.replaceProjectWarning": "محتویات پروژه فعلی جایگزین گردد؟",
     "gui.sharedMessages.loadFromComputerTitle": "بارگذاری از کامپیوتر شما",
-    "gui.gui.defaultProjectTitle": "پروژه‌ی اسکرچ"
+    "gui.gui.defaultProjectTitle": "پروژه‌ی اسکرچ",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pukk",
     "gui.sharedMessages.replaceProjectWarning": "Meglévő projekt tartalmának felülírása?",
     "gui.sharedMessages.loadFromComputerTitle": "Feltöltés saját gépről",
-    "gui.gui.defaultProjectTitle": "Scratch project"
+    "gui.gui.defaultProjectTitle": "Scratch project",
+    "gui.customExtension.detectedExtensionName": "Detected extension name"
 }

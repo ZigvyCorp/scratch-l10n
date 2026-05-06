@@ -1,0 +1,1615 @@
+================================================================================
+COMPREHENSIVE WIDGET TRANSLATION ANALYSIS
+================================================================================
+
+Loading files...
+Files loaded successfully.
+
+================================================================================
+### Japanese (scratch-gui/src/lib/locales/ja.json)
+================================================================================
+**Total widget entries:** 117
+**Problematic entries:** 60
+
+**Issues found:**
+
+- widget.addTextbox
+  Issues: CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "テキストボックスを追加 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] パディング [PADDING] 複数行 [MULTIPLELINE] スクロール [SCROLL] モード [MODE] 名前 [NAME]"
+  L10N value: "テキストボックスを追加 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] パディング [PADDING] 行 [MULTIPLELINE] スクロール [SCROLL] モード [MODE] 名前 [NAME]"
+  EN value: "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]"
+
+- widget.setText
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "値を [TEXT] に ウィジェット [NAME]"
+  L10N value: "ウィジェット [TEXT] の値を [NAME] に設定"
+  EN value: "set value to [TEXT] for widget [NAME]"
+
+- widget.addSlider
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "スライダーを追加 X [X] Y [Y] 幅 [WIDTH] 範囲 [MIN] から [MAX] 名前 [NAME]"
+  L10N value: "スライダーを追加 X [X] Y [Y] 幅 [WIDTH] 最小 [MIN] 最大 [MAX] 名前 [NAME]"
+  EN value: "add slider at X [X] Y [Y] width [WIDTH] between [MIN] and [MAX] as [NAME]"
+
+- widget.setTextStyle
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "テキストスタイルを フォント [FONT] サイズ [FONTSIZE] 色 [TEXTCOLOR] 太さ [BOLDNESS] 配置 [ALIGMENT] に ウィジェット [NAME]"
+  L10N value: "ウィジェット [FONT] のテキストスタイルを設定 フォント [FONTSIZE] サイズ [TEXTCOLOR] 色 [BOLDNESS] 太さ [ALIGMENT] 配置 [NAME]"
+  EN value: "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] for widget [NAME]"
+
+- widget.setWidgetStyle
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェットスタイルを 背景色 [BGCOLOR] ボーダー色 [BORDERCOLOR] ボーダー幅 [BORDERWIDTH] ボーダー半径 [BORDERRADIUS] に ウィジェット [NAME]"
+  L10N value: "ウィジェット [BGCOLOR] のスタイルを設定 背景色 [BORDERCOLOR] 枠線色 [BORDERWIDTH] 枠線幅 [BORDERRADIUS] 角丸 [NAME]"
+  EN value: "set widget background color [BGCOLOR] border color [BORDERCOLOR] border width [BORDERWIDTH] border radius [BORDERRADIUS] for [NAME]"
+
+- widget.setVisibility
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] の表示を [VISIBILITY] に"
+  L10N value: "ウィジェット [VISIBILITY] の表示を [NAME] に設定"
+  EN value: "set visibility [VISIBILITY] for widget named [NAME]"
+
+- widget.setVisibilityForAll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "すべてのウィジェットの表示を [VISIBILITY] に"
+  L10N value: "すべてのウィジェットの表示を [VISIBILITY] に設定"
+  EN value: "set visibility [VISIBILITY] for all widgets"
+
+- widget.setZindex
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] の z-index を [ZINDEX] に"
+  L10N value: "ウィジェット [ZINDEX] のZ軸順序を [NAME] に設定"
+  EN value: "set z-index to [ZINDEX] for widget named [NAME]"
+
+- widget.addVideo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "YouTube動画 [URL] を追加 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME] 背景 [BACKGROUND]"
+  L10N value: "YouTube動画 [URL] を追加 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME] [BACKGROUND] で"
+  EN value: "add youtube video [URL] at X [X] Y [Y] width [WIDTH] height [HEIGHT] named [NAME] in [BACKGROUND]"
+
+- widget.actionVideo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "動画 [NAME] を [ACTION]"
+  L10N value: "動画 [ACTION] を [NAME]"
+  EN value: "[ACTION] video for [NAME]"
+
+- widget.seekToSecondsVideo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "動画 [NAME] で [SECONDS] 秒にシーク"
+  L10N value: "動画 [SECONDS] の [NAME] 秒にシーク"
+  EN value: "seek to [SECONDS] seconds in video named [NAME]"
+
+- widget.currentVideoTime
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "動画 [NAME] の現在の時間"
+  L10N value: "動画 [NAME] の現在時刻"
+  EN value: "current video time for [NAME]"
+
+- widget.setYoutubeVolume
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "音量を [VOLUME] に 動画 [NAME]"
+  L10N value: "動画 [VOLUME] の音量を [NAME] に設定"
+  EN value: "set volume to [VOLUME] for [NAME]"
+
+- widget.setYoutubePlaybackSpeedRatio
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "再生速度比を [SPEED] に 動画 [NAME]"
+  L10N value: "動画 [SPEED] の再生速度を [NAME] に設定"
+  EN value: "set playback speed ratio [SPEED] for [NAME]"
+
+- widget.whenVideoTimeIs
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "動画 [NAME] の時間が [SECONDS] 秒のとき"
+  L10N value: "動画 [SECONDS] の時刻が [NAME] 秒のとき"
+  EN value: "when video time is [SECONDS] seconds for [NAME]"
+
+- widget.menuItem.normal
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "通常"
+  L10N value: "標準"
+  EN value: "normal"
+
+- widget.menuItem.show
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "表示する"
+  L10N value: "表示"
+  EN value: "show"
+
+- widget.menuItem.hide
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "隠す"
+  L10N value: "非表示"
+  EN value: "hide"
+
+- widget.menuItem.stop
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "止める"
+  L10N value: "停止"
+  EN value: "stop"
+
+- widget.moveWidgetToXY
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] を X [X] Y [Y] に移動 [SECONDS] 秒 [BLOCKING]"
+  L10N value: "ウィジェット [NAME] を X [X] Y [Y] に [SECONDS] 秒で移動 [BLOCKING]"
+  EN value: "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]"
+
+- widget.scaleWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] を拡大 幅 [WIDTH]% 高さ [HEIGHT]% [SECONDS] 秒 [BLOCKING]"
+  L10N value: "ウィジェット [NAME] を幅 [WIDTH]% 高さ [HEIGHT]% に [SECONDS] 秒で拡大縮小 [BLOCKING]"
+  EN value: "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]"
+
+- widget.resizeWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] をリサイズ 幅 [WIDTH] 高さ [HEIGHT] [SECONDS] 秒 [BLOCKING]"
+  L10N value: "ウィジェット [NAME] を幅 [WIDTH] 高さ [HEIGHT] に [SECONDS] 秒でリサイズ [BLOCKING]"
+  EN value: "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]"
+
+- widget.rotateWidgetByDegrees
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] を [DEGREES] 度回転 [SECONDS] 秒 [BLOCKING]"
+  L10N value: "ウィジェット [NAME] を [DEGREES] 度 [SECONDS] 秒で回転 [BLOCKING]"
+  EN value: "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]"
+
+- widget.transparencyToWidget
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [NAME] の透明度を [TRANSPARENT] % に [SECONDS] 秒 [BLOCKING]"
+  L10N value: "ウィジェット [NAME] の透明度を [TRANSPARENT] % に [SECONDS] 秒で設定 [BLOCKING]"
+  EN value: "set transparency for widget [NAME] to [TRANSPARENT] % in [SECONDS] seconds [BLOCKING]"
+
+- widget.addMenuItem
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "メニュー項目 [MENUITEM] をメニューグループ [NAME] に追加"
+  L10N value: "メニューアイテム [MENUITEM] をメニューグループ [NAME] に追加"
+  EN value: "add menu item [MENUITEM] to menu group named [NAME]"
+
+- widget.confirmTextWithButtons
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "確認 [NAME] ボタン [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+  L10N value: "ボタン [NAME] [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] で [BUTTON6] を確認"
+  EN value: "confirm [NAME] with buttons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+
+- widget.whenAnyButtonNamedClicked
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "任意のボタン [VARIABLE] がクリックされたとき"
+  L10N value: "ボタン [VARIABLE] がクリックされたとき"
+  EN value: "when any button named [VARIABLE] clicked"
+
+- widget.setValueOfWidgetTo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ウィジェット [WIDGET] の値を [VALUE] に"
+  L10N value: "ウィジェット [WIDGET] の値を [VALUE] に設定"
+  EN value: "set value of widget [WIDGET] to [VALUE]"
+
+- widget.addRadioButton
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ラジオボタンを追加 [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] 方向 [DIRECTION] X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  L10N value: "ラジオボタン [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] を追加 [DIRECTION] X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  EN value: "add radio buttons [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] at x [X] y [Y] width [WIDTH] height [HEIGHT] named [NAME]"
+
+- widget.runProject-dropdown1
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "この"
+  L10N value: "このタブ"
+  EN value: "this"
+
+- widget.runProject-dropdown2
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "新規"
+  L10N value: "新しいタブ"
+  EN value: "new"
+
+- widget.addTabs
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "タブを作成 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] 見出し表示 [OPTION]"
+  L10N value: "タブを作成 X [X] Y [Y] 幅 [WIDTH] 高さ [HEIGHT] タブ名 [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] 見出し表示 [OPTION]"
+  EN value: "create tabs at X [X] Y [Y] width [WIDTH] height [HEIGHT] names [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] show heading [OPTION]"
+
+- widget.setTabContainer
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "タブコンテナを [NAME] に"
+  L10N value: "タブコンテナを [NAME] に設定"
+  EN value: "set tab container [NAME]"
+
+- widget.showHideTabNamed
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "タブ [NAME] を [VISIBILITY]"
+  L10N value: "タブ [VISIBILITY] を [NAME]"
+  EN value: "[VISIBILITY] tab named [NAME]"
+
+- widget.addRemoveTabNamed
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "タブ [NAME] を [OPTION]"
+  L10N value: "タブ [OPTION] を [NAME]"
+  EN value: "[OPTION] tab named [NAME]"
+
+- widget.drawChartUsingList
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "リスト [LIST] を使って [CHARTTYPE] グラフを描く x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  L10N value: "[CHARTTYPE] グラフを描画 リスト [LIST] を使用 x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  EN value: "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingColumn
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "テーブル [TABLE] の列 [COLUMNS] を使って [CHARTTYPE] グラフを描く x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  L10N value: "[CHARTTYPE] グラフを描画 テーブル [COLUMNS] の列 [TABLE] を使用 x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  EN value: "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingCategory
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "テーブル [TABLE] のカテゴリ [CATEGORY] と値 [VALUE] を使って円グラフを描く x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  L10N value: "円グラフを描画 カテゴリ [CATEGORY] と値 [VALUE] をテーブル [TABLE] から x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  EN value: "draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.chartType.line
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "折れ線"
+  L10N value: "line"
+  EN value: "line"
+
+- widget.chartType.bar
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "棒"
+  L10N value: "bar"
+  EN value: "bar"
+
+- widget.chartType.pie
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "円"
+  L10N value: "pie"
+  EN value: "pie"
+
+- widget.chartType.percentage
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "パーセント"
+  L10N value: "percentage"
+  EN value: "percentage"
+
+- widget.progressBar
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "プログレスバーを追加 値 [VALUE] / 合計 [TOTAL] x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 色 [COLOR] 背景 [BGCOLOR] 名前 [NAME]"
+  L10N value: "プログレスバーを追加 [VALUE] / 合計 [TOTAL] x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 色 [COLOR] 背景 [BGCOLOR] ボーダー幅 [BORDER_WIDTH] 色 [BORDER_COLOR] 名前 [NAME]"
+  EN value: "add progress bar as [VALUE] out of total [TOTAL] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] background [BGCOLOR] border width [BORDER_WIDTH] color [BORDER_COLOR] as [NAME]"
+
+- widget.appendChatMessage
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "チャット [NAME] にメッセージを追加 [MSG] ロール [ROLE] アイコン [ICON] 配置 [ALIGN] テキストサイズ [SIZE] 色 [TEXTCOLOR] 背景 [BGCOLOR]"
+  L10N value: "チャット [NAME] にメッセージ [MSG] を追加 役割 [ROLE] アイコン [ICON] 配置 [ALIGN] テキストサイズ [SIZE] 色 [TEXTCOLOR] 背景 [BGCOLOR]"
+  EN value: "append to chat [NAME] message [MSG] as [ROLE] icon [ICON] align [ALIGN] text size [SIZE] color [TEXTCOLOR] background [BGCOLOR]"
+
+- widget.updateLastChatMessage
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "チャット [NAME] の最後のメッセージを [NEWMSG] に更新"
+  L10N value: "チャット [NEWMSG] の最後のメッセージを [NAME] に更新"
+  EN value: "update last chat message to [NEWMSG] for chat [NAME]"
+
+- widget.disableWidget
+  Issues: IDENTICAL_TO_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "[DISABLE] widget [NAME]"
+  L10N value: "ウィジェット [DISABLE] を [NAME]"
+  EN value: "[DISABLE] widget [NAME]"
+
+- widget.disable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Disbale"
+  L10N value: "Disbale"
+  EN value: "Disbale"
+
+- widget.enable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Enable"
+  L10N value: "Enable"
+  EN value: "Enable"
+
+- widget.chat.robot
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "ROBOT"
+  L10N value: "ROBOT"
+  EN value: "ROBOT"
+
+- widget.chat.user
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "USER"
+  L10N value: "USER"
+  EN value: "USER"
+
+- widget.setIconToToolbox
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ツールボックス [NAME] の行 [ROW] 列 [COLUMN] にアイコン [COSTUME] を設定"
+  L10N value: "ツールボックス [COSTUME] の行 [ROW] 列 [COLUMN] にアイコン [NAME] を設定"
+  EN value: "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]"
+
+- widget.deleteCostume
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "削除 コスチューム [COSTUME]"
+  L10N value: "コスチューム [COSTUME] を削除"
+  EN value: "delete costume [COSTUME]"
+
+- widget.image.keep
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "keep"
+  L10N value: "keep"
+  EN value: "keep"
+
+- widget.image.stretch
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "stretch"
+  L10N value: "stretch"
+  EN value: "stretch"
+
+- widget.showCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "表示する [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "[SIDE] カメラを表示 [MODE] モードで x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] 名前 [NAME]"
+  EN value: "show [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.savePictureFromCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "カメラ [CAMERANAME] から画像をコスチューム [COSTUMENAME] として保存"
+  L10N value: "カメラ [CAMERANAME] からの画像をコスチューム [COSTUMENAME] として保存"
+  EN value: "save picture from camera [CAMERANAME] as costume [COSTUMENAME]"
+
+- widget.camera.side
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "前"
+  L10N value: "front"
+  EN value: "front"
+
+- widget.camera.back
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "後ろ"
+  L10N value: "back"
+  EN value: "back"
+
+- widget.camera.normal
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "通常"
+  L10N value: "normal"
+  EN value: "normal"
+
+- widget.camera.flipped
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "flipped"
+  L10N value: "flipped"
+  EN value: "flipped"
+
+
+================================================================================
+### German (scratch-gui/src/lib/locales/de.json)
+================================================================================
+**Total widget entries:** 117
+**Problematic entries:** 101
+
+**Issues found:**
+
+- widget.categoryName
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Widget"
+  L10N value: "Widget"
+  EN value: "Widget"
+
+- widget.addTextbox
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "füge textbox an Positiein X [X] Y [Y] width [WIDTH] height [HEIGHT] pfügeing [PADDING] line [MULTIPLELINE] scroll [SCROLL] Rest veine [MODE] as [NAME]"
+  L10N value: "füge Textfeld hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Abstand [PADDING] Zeile [MULTIPLELINE] Scrollen [SCROLL] Modus [MODE] als [NAME]"
+  EN value: "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]"
+
+- widget.addRichTextbox
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "füge rich textbox an Positiein X [X] Y [Y] width [WIDTH] height [HEIGHT] pfügeing [PADDING] Rest veine [MODE] as [NAME]"
+  L10N value: "füge Rich-Textfeld hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Abstand [PADDING] Modus [MODE] als [NAME]"
+  EN value: "add rich textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] mode [MODE] as [NAME]"
+
+- widget.valueFromWidget
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "value vein widget [NAME]"
+  L10N value: "Wert von Widget [NAME]"
+  EN value: "value of widget [NAME]"
+
+- widget.setText
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze value auf [TEXT] für widget [NAME]"
+  L10N value: "setze Wert auf [TEXT] für Widget [NAME]"
+  EN value: "set value to [TEXT] for widget [NAME]"
+
+- widget.appendText
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "append text [TEXT] auf [NAME] in new line [YESNO]"
+  L10N value: "hänge Text [TEXT] an [NAME] in neuer Zeile [YESNO] an"
+  EN value: "append text [TEXT] to [NAME] in new line [YESNO]"
+
+- widget.addDatePicker
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Füge Datumswähler hinzu bei X [X] Y [Y] als [NAME]"
+  L10N value: "füge Datumsauswahl hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "add date picker at X [X] Y [Y] as [NAME]"
+
+- widget.addColorPicker
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Füge Farbwähler hinzu bei X [X] Y [Y] als [NAME]"
+  L10N value: "füge Farbwähler hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "add color picker at X [X] Y [Y] as [NAME]"
+
+- widget.addSlider
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge slider an Positiein X [X] Y [Y] width [WIDTH] between [MIN] und [MAX] as [NAME]"
+  L10N value: "füge Schieberegler hinzu bei X [X] Y [Y] Breite [WIDTH] zwischen [MIN] und [MAX] als [NAME]"
+  EN value: "add slider at X [X] Y [Y] width [WIDTH] between [MIN] and [MAX] as [NAME]"
+
+- widget.whenWidgetClicked
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn widget [NAME] angeklickt"
+  L10N value: "wenn Widget [NAME] angeklickt wird"
+  EN value: "when widget [NAME] clicked"
+
+- widget.whenWidgetChanges
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn widget [NAME] änderes"
+  L10N value: "wenn Widget [NAME] sich ändert"
+  EN value: "when widget [NAME] changes"
+
+- widget.setTextStyle
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "setze text style [FONT] feint Größe [FONTSIZE] text Farbe [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] für widget [NAME]"
+  L10N value: "setze Textstil [FONT] Schriftgröße [FONTSIZE] Textfarbe [TEXTCOLOR] Fettdruck [BOLDNESS] Textausrichtung [ALIGMENT] für Widget [NAME]"
+  EN value: "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] for widget [NAME]"
+
+- widget.setWidgetStyle
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "setze widget hinterstegrunde Farbe [BGCOLOR] boderder Farbe [BORDERCOLOR] boderder width [BORDERWIDTH] boderder radius [BORDERRADIUS] für [NAME]"
+  L10N value: "setze Widget-Hintergrundfarbe [BGCOLOR] Rahmenfarbe [BORDERCOLOR] Rahmenbreite [BORDERWIDTH] Rahmenradius [BORDERRADIUS] für [NAME]"
+  EN value: "set widget background color [BGCOLOR] border color [BORDERCOLOR] border width [BORDERWIDTH] border radius [BORDERRADIUS] for [NAME]"
+
+- widget.removeWidget
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "regehe widget Named [NAME]"
+  L10N value: "entferne Widget [NAME]"
+  EN value: "remove widget named [NAME]"
+
+- widget.removeAllWidgets
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "regehe alles widgets"
+  L10N value: "entferne alle Widgets"
+  EN value: "remove all widgets"
+
+- widget.setVisibility
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze visibility [VISIBILITY] für widget Named [NAME]"
+  L10N value: "setze Sichtbarkeit [VISIBILITY] für Widget mit Namen [NAME]"
+  EN value: "set visibility [VISIBILITY] for widget named [NAME]"
+
+- widget.setVisibilityForAll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze visibility [VISIBILITY] für alles widgets"
+  L10N value: "setze Sichtbarkeit [VISIBILITY] für alle Widgets"
+  EN value: "set visibility [VISIBILITY] for all widgets"
+
+- widget.setZindex
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze z-index auf [ZINDEX] für widget Named [NAME]"
+  L10N value: "setze Z-Index auf [ZINDEX] für Widget mit Namen [NAME]"
+  EN value: "set z-index to [ZINDEX] for widget named [NAME]"
+
+- widget.whenMouseEnter
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "Wenn pointer Eingabetastes widget Named [NAME]"
+  L10N value: "wenn Zeiger Widget mit Namen [NAME] betritt"
+  EN value: "when pointer enters widget named [NAME]"
+
+- widget.whenMouseLeave
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn pointer leaves widget Named [NAME]"
+  L10N value: "wenn Zeiger Widget mit Namen [NAME] verlässt"
+  EN value: "when pointer leaves widget named [NAME]"
+
+- widget.addVideo
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge youtube video [URL] an Positiein X [X] Y [Y] width [WIDTH] height [HEIGHT] Named [NAME] in [BACKGROUND]"
+  L10N value: "füge YouTube-Video [URL] hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] mit Namen [NAME] in [BACKGROUND]"
+  EN value: "add youtube video [URL] at X [X] Y [Y] width [WIDTH] height [HEIGHT] named [NAME] in [BACKGROUND]"
+
+- widget.seekToSecondsVideo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "seek auf [SECONDS] Sekunden in video Named [NAME]"
+  L10N value: "seek to [SECONDS] seconds in video Named [NAME]"
+  EN value: "seek to [SECONDS] seconds in video named [NAME]"
+
+- widget.currentVideoTime
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "aktuell video time für [NAME]"
+  L10N value: "current video time for [NAME]"
+  EN value: "current video time for [NAME]"
+
+- widget.setYoutubePlaybackSpeedRatio
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "setze playhinterste speed ran Positieinio [SPEED] für [NAME]"
+  L10N value: "setze Wiedergabegeschwindigkeitsverhältnis [SPEED] für [NAME]"
+  EN value: "set playback speed ratio [SPEED] for [NAME]"
+
+- widget.whenVideoTimeIs
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn video time is [SECONDS] Sekunden für [NAME]"
+  L10N value: "wenn Video-Zeit [SECONDS] Sekunden für [NAME] ist"
+  EN value: "when video time is [SECONDS] seconds for [NAME]"
+
+- widget.menuItem.single
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "einzeln"
+  L10N value: "single"
+  EN value: "single"
+
+- widget.menuItem.multiple
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mehrfach"
+  L10N value: "multiple"
+  EN value: "multiple"
+
+- widget.menuItem.scroll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Scrollen"
+  L10N value: "scroll"
+  EN value: "scroll"
+
+- widget.menuItem.noScroll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "nein scroll"
+  L10N value: "no scroll"
+  EN value: "no scroll"
+
+- widget.menuItem.input
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Eingabe"
+  L10N value: "input"
+  EN value: "input"
+
+- widget.menuItem.readOnly
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "read einly"
+  L10N value: "schreibgeschützt"
+  EN value: "read only"
+
+- widget.menuItem.normal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "neindermal"
+  L10N value: "normal"
+  EN value: "normal"
+
+- widget.menuItem.bold
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "fett"
+  L10N value: "bold"
+  EN value: "bold"
+
+- widget.menuItem.show
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "zeige dich"
+  L10N value: "show"
+  EN value: "show"
+
+- widget.menuItem.hide
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "verstecke dich"
+  L10N value: "hide"
+  EN value: "hide"
+
+- widget.menuItem.varDefault
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "Neine"
+  L10N value: "None"
+  EN value: "None"
+
+- widget.menuItem.pleaseSelect
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Bitte auswählen"
+  L10N value: "Please select"
+  EN value: "Please select"
+
+- widget.menuItem.start
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Start"
+  L10N value: "start"
+  EN value: "start"
+
+- widget.menuItem.pause
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Pause"
+  L10N value: "pause"
+  EN value: "pause"
+
+- widget.menuItem.stop
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "saufppe"
+  L10N value: "stop"
+  EN value: "stop"
+
+- widget.menuItem.mute
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Stummschalten"
+  L10N value: "mute"
+  EN value: "mute"
+
+- widget.menuItem.unmute
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Stummschaltung aufheben"
+  L10N value: "unmute"
+  EN value: "unmute"
+
+- widget.tabMenu.yes
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ja"
+  L10N value: "yes"
+  EN value: "yes"
+
+- widget.tabMenu.no
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "nein"
+  L10N value: "no"
+  EN value: "no"
+
+- widget.alignment.left
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Links"
+  L10N value: "Left"
+  EN value: "Left"
+
+- widget.alignment.center
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Mitte"
+  L10N value: "Middle"
+  EN value: "Middle"
+
+- widget.alignment.right
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Rechts"
+  L10N value: "Right"
+  EN value: "Right"
+
+- widget.tabMenu.add
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "füge"
+  L10N value: "add"
+  EN value: "add"
+
+- widget.tabMenu.remove
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "regehe"
+  L10N value: "remove"
+  EN value: "remove"
+
+- widget.moveWidgetToXY
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "gehe widget [NAME] auf X [X] Y [Y] in [SECONDS] Sekunden [BLOCKING]"
+  L10N value: "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]"
+  EN value: "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]"
+
+- widget.scaleWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "scale widget [NAME] auf width [WIDTH]% height [HEIGHT]% in [SECONDS] Sekunden [BLOCKING]"
+  L10N value: "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]"
+  EN value: "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]"
+
+- widget.resizeWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "reGröße widget [NAME] auf width [WIDTH] height [HEIGHT] in [SECONDS] Sekunden [BLOCKING]"
+  L10N value: "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]"
+  EN value: "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]"
+
+- widget.rotateWidgetByDegrees
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "rotan Positieine widget [NAME] um [DEGREES] Grad in [SECONDS] Sekunden [BLOCKING]"
+  L10N value: "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]"
+  EN value: "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]"
+
+- widget.transparencyToWidget
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze transparency für widget [NAME] auf [TRANSPARENT] % in [SECONDS] Sekunden [BLOCKING]"
+  L10N value: "setze Transparenz für Widget [NAME] auf [TRANSPARENT] % in [SECONDS] Sekunden [BLOCKING]"
+  EN value: "set transparency for widget [NAME] to [TRANSPARENT] % in [SECONDS] seconds [BLOCKING]"
+
+- widget.addMenuBar
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Füge Menüleiste hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  L10N value: "füge Menüleiste hinzu an Y [Y] Höhe [HEIGHT] als [NAME]"
+  EN value: "add menu bar at X [X] Y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.addMenuItem
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "füge menu Element [MENUITEM] auf menu group Named [NAME]"
+  L10N value: "füge Menüeintrag [MENUITEM] zu Menügruppe mit Namen [NAME] hinzu"
+  EN value: "add menu item [MENUITEM] to menu group named [NAME]"
+
+- widget.confirmTextWithButtons
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "ceinfirm [NAME] durch butaufns [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+  L10N value: "bestätige [NAME] mit Schaltflächen [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+  EN value: "confirm [NAME] with buttons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+
+- widget.whenAnyButtonNamedClicked
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "Wenn beliebige Taste butaufn Named [VARIABLE] angeklickt"
+  L10N value: "wenn irgendein Button mit Namen [VARIABLE] angeklickt wird"
+  EN value: "when any button named [VARIABLE] clicked"
+
+- widget.releaseFocus
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "release focus für widget [WIDGETNAME]"
+  L10N value: "release focus for widget [WIDGETNAME]"
+  EN value: "release focus for widget [WIDGETNAME]"
+
+- widget.setValueOfWidgetTo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "setze value vein widget [WIDGET] auf [VALUE]"
+  L10N value: "setze Wert von Widget [WIDGET] auf [VALUE]"
+  EN value: "set value of widget [WIDGET] to [VALUE]"
+
+- widget.addRadioButton
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge radio butaufns [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] an Positiein x [X] y [Y] width [WIDTH] height [HEIGHT] Named [NAME]"
+  L10N value: "füge Radiobutton [TEXT] hinzu bei X [X] Y [Y] als [NAME]"
+  EN value: "add radio buttons [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] at x [X] y [Y] width [WIDTH] height [HEIGHT] named [NAME]"
+
+- widget.addRadioButton.vertical
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "vertikal"
+  L10N value: "vertical"
+  EN value: "vertical"
+
+- widget.addRadioButton.horizontal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "hoderizeintal"
+  L10N value: "horizontal"
+  EN value: "horizontal"
+
+- widget.runProject
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Projekt [PROJECT] in [OPTION] Browser-Tab ausführen"
+  L10N value: "führe Projekt [PROJECT] in [OPTION] Browser-Tab aus"
+  EN value: "run project [PROJECT] in [OPTION] browser tab"
+
+- widget.runProject-dropdown1
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "dies"
+  L10N value: "this"
+  EN value: "this"
+
+- widget.runProject-dropdown2
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "neu"
+  L10N value: "new"
+  EN value: "new"
+
+- widget.applyLayoutRowHeightCellWidth
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "apply layout row Named [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] pfügeing [PADDING]"
+  L10N value: "wende Layout-Zeile mit Namen [ROW] Höhe [HEIGHT]% Zellenbreite [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% Widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] Rand [MARGIN] Abstand [PADDING] an"
+  EN value: "apply layout row named [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]"
+
+- widget.addTabs
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "crean Positieine tabs an Positiein X [X] Y [Y] width [WIDTH] height [HEIGHT] Names [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] zeige dich heading [OPTION]"
+  L10N value: "erstelle Tabs bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Namen [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] zeige Überschrift [OPTION]"
+  EN value: "create tabs at X [X] Y [Y] width [WIDTH] height [HEIGHT] names [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] show heading [OPTION]"
+
+- widget.selectTab
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Tab [NAME] auswählen"
+  L10N value: "select tab [NAME]"
+  EN value: "select tab [NAME]"
+
+- widget.setTabContainer
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "setze tab ceintainer [NAME]"
+  L10N value: "setze Tab-Container [NAME]"
+  EN value: "set tab container [NAME]"
+
+- widget.whenTabSelected
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn tab [NAME] selected"
+  L10N value: "wenn Tab [NAME] ausgewählt wird"
+  EN value: "when tab [NAME] selected"
+
+- widget.whenVideoIsPaused
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn video [NAME] paused"
+  L10N value: "wenn Video [NAME] pausiert wird"
+  EN value: "when video [NAME] paused"
+
+- widget.whenVideoStopped
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "Wenn video [NAME] saufppeped"
+  L10N value: "wenn Video [NAME] gestoppt wird"
+  EN value: "when video [NAME] stopped"
+
+- widget.whenVideoStart
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Wenn video [NAME] start"
+  L10N value: "wenn Video [NAME] startet"
+  EN value: "when video [NAME] start"
+
+- widget.drawChartUsingList
+  Issues: IDENTICAL_TO_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "zeichne [CHARTTYPE]-Diagramm mit Liste [LIST] x [X] y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingColumn
+  Issues: IDENTICAL_TO_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "zeichne [CHARTTYPE]-Diagramm mit Spalten [COLUMNS] aus Tabelle [TABLE] x [X] y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingCategory
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "draw pie chart using can Positieinegodery [CATEGORY] und value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "zeichne Kreisdiagramm mit Kategorie [CATEGORY] und Wert [VALUE] aus Tabelle [TABLE] x [X] y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.chartType.line
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "line"
+  L10N value: "line"
+  EN value: "line"
+
+- widget.chartType.bar
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "bar"
+  L10N value: "bar"
+  EN value: "bar"
+
+- widget.chartType.pie
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "pie"
+  L10N value: "pie"
+  EN value: "pie"
+
+- widget.chartType.percentage
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "percentage"
+  L10N value: "percentage"
+  EN value: "percentage"
+
+- widget.progressBar
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge progress bar as [VALUE] out vein auftal [TOTAL] an Positiein x [X] y [Y] width [WIDTH] height [HEIGHT] Farbe [COLOR] hinterstegrunde [BGCOLOR] boderder width [BORDER_WIDTH] Farbe [BORDER_COLOR] as [NAME]"
+  L10N value: "füge Fortschrittsbalken hinzu mit [VALUE] von gesamt [TOTAL] bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Farbe [COLOR] Hintergrund [BGCOLOR] Rahmenbreite [BORDER_WIDTH] Farbe [BORDER_COLOR] als [NAME]"
+  EN value: "add progress bar as [VALUE] out of total [TOTAL] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] background [BGCOLOR] border width [BORDER_WIDTH] color [BORDER_COLOR] as [NAME]"
+
+- widget.createChatWindow
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge chan Positiein window x [X] y [Y] width [WIDTH] height [HEIGHT] input rows [ROWS] hinterstegrunde [COLOR] boderder [BCOLOR] Name [NAME]"
+  L10N value: "füge Chat-Fenster hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Eingabezeilen [ROWS] Hintergrund [COLOR] Rahmen [BCOLOR] Name [NAME]"
+  EN value: "add chat window x [X] y [Y] width [WIDTH] height [HEIGHT] input rows [ROWS] background [COLOR] border [BCOLOR] name [NAME]"
+
+- widget.appendChatMessage
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "append auf chan Positiein [NAME] message [MSG] as [ROLE] icein [ICON] align [ALIGN] text Größe [SIZE] Farbe [TEXTCOLOR] hinterstegrunde [BGCOLOR]"
+  L10N value: "append to chat [NAME] message [MSG] as [ROLE] icon [ICON] align [ALIGN] text size [SIZE] color [TEXTCOLOR] background [BGCOLOR]"
+  EN value: "append to chat [NAME] message [MSG] as [ROLE] icon [ICON] align [ALIGN] text size [SIZE] color [TEXTCOLOR] background [BGCOLOR]"
+
+- widget.updateLastChatMessage
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "upDan Positieinum last chan Positiein message auf [NEWMSG] für chan Positiein [NAME]"
+  L10N value: "aktualisiere letzte Chat-Nachricht auf [NEWMSG] für Chat [NAME]"
+  EN value: "update last chat message to [NEWMSG] for chat [NAME]"
+
+- widget.disableWidget
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "[DISABLE] widget [NAME]"
+  L10N value: "[DISABLE] widget [NAME]"
+  EN value: "[DISABLE] widget [NAME]"
+
+- widget.disable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Disbale"
+  L10N value: "Disbale"
+  EN value: "Disbale"
+
+- widget.enable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Enable"
+  L10N value: "Enable"
+  EN value: "Enable"
+
+- widget.chat.robot
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "ROBOT"
+  L10N value: "ROBOT"
+  EN value: "ROBOT"
+
+- widget.chat.user
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "USER"
+  L10N value: "USER"
+  EN value: "USER"
+
+- widget.addToolbox
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "füge aufolbox an Positiein x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]"
+  L10N value: "füge Werkzeugkasten hinzu bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] Zeilenanzahl [ROW] Spaltenanzahl [COLUMN] als [NAME]"
+  EN value: "add toolbox at x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]"
+
+- widget.setIconToToolbox
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "setze icein auf [COSTUME] an Positiein row [ROW] column [COLUMN] für aufolbox [NAME]"
+  L10N value: "setze Symbol auf [COSTUME] in Zeile [ROW] Spalte [COLUMN] für Werkzeugkasten [NAME]"
+  EN value: "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]"
+
+- widget.deleteCostume
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "entferne Kostüm [COSTUME]"
+  L10N value: "lösche Kostüm [COSTUME]"
+  EN value: "delete costume [COSTUME]"
+
+- widget.image.keep
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "keep"
+  L10N value: "keep"
+  EN value: "keep"
+
+- widget.image.stretch
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "stretch"
+  L10N value: "stretch"
+  EN value: "stretch"
+
+- widget.showCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "zeige dich [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "zeige [SIDE] Kamera in [MODE] bei X [X] Y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME]"
+  EN value: "show [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.savePictureFromCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Bild von Kamera [CAMERANAME] als Kostüm [COSTUMENAME] speichern"
+  L10N value: "save picture from camera [CAMERANAME] as costume [COSTUMENAME]"
+  EN value: "save picture from camera [CAMERANAME] as costume [COSTUMENAME]"
+
+- widget.camera.side
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "voderderste"
+  L10N value: "front"
+  EN value: "front"
+
+- widget.camera.back
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "hinterste"
+  L10N value: "back"
+  EN value: "back"
+
+- widget.camera.normal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "neindermal"
+  L10N value: "normal"
+  EN value: "normal"
+
+- widget.camera.flipped
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "flipped"
+  L10N value: "flipped"
+  EN value: "flipped"
+
+
+================================================================================
+### Portuguese (scratch-gui/src/lib/locales/pt.json)
+================================================================================
+**Total widget entries:** 117
+**Problematic entries:** 101
+
+**Issues found:**
+
+- widget.categoryName
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Widget"
+  L10N value: "Widget"
+  EN value: "Widget"
+
+- widget.addTextbox
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe textbox na posição X [X] Y [Y] width [WIDTH] height [HEIGHT] padiciligadoeing [PADDING] line [MULTIPLELINE] scroll [SCROLL] resto dee [MODE] as [NAME]"
+  L10N value: "adicione caixa de texto em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] preenchimento [PADDING] linha [MULTIPLELINE] rolagem [SCROLL] modo [MODE] como [NAME]"
+  EN value: "add textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] line [MULTIPLELINE] scroll [SCROLL] mode [MODE] as [NAME]"
+
+- widget.addRichTextbox
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe rich textbox na posição X [X] Y [Y] width [WIDTH] height [HEIGHT] padiciligadoeing [PADDING] resto dee [MODE] as [NAME]"
+  L10N value: "adicione caixa de texto rica em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] preenchimento [PADDING] modo [MODE] como [NAME]"
+  EN value: "add rich textbox at X [X] Y [Y] width [WIDTH] height [HEIGHT] padding [PADDING] mode [MODE] as [NAME]"
+
+- widget.valueFromWidget
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "value de widget [NAME]"
+  L10N value: "valor do widget [NAME]"
+  EN value: "value of widget [NAME]"
+
+- widget.setText
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mude value para [TEXT] pou widget [NAME]"
+  L10N value: "defina valor para [TEXT] para widget [NAME]"
+  EN value: "set value to [TEXT] for widget [NAME]"
+
+- widget.appendText
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "append text [TEXT] para [NAME] in new line [YESNO]"
+  L10N value: "adicione texto [TEXT] em [NAME] em nova linha [YESNO]"
+  EN value: "append text [TEXT] to [NAME] in new line [YESNO]"
+
+- widget.addButton
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "adicione botão [TEXT] em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] dica [TOOLTIP] como [NAME]"
+  L10N value: "adicione botão [TEXT] em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] preenchimento [TOOLTIP] como [NAME]"
+  EN value: "add button [TEXT] at X [X] Y [Y] width [WIDTH] height [HEIGHT] tooltip [TOOLTIP] as [NAME]"
+
+- widget.addSlider
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe slider na posição X [X] Y [Y] width [WIDTH] between [MIN] e [MAX] as [NAME]"
+  L10N value: "adicione controle deslizante em X [X] Y [Y] largura [WIDTH] entre [MIN] e [MAX] como [NAME]"
+  EN value: "add slider at X [X] Y [Y] width [WIDTH] between [MIN] and [MAX] as [NAME]"
+
+- widget.whenWidgetClicked
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo widget [NAME] fou clicado"
+  L10N value: "quando widget [NAME] clicado"
+  EN value: "when widget [NAME] clicked"
+
+- widget.whenWidgetChanges
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo widget [NAME] adiciligadoe as"
+  L10N value: "quando widget [NAME] mudar"
+  EN value: "when widget [NAME] changes"
+
+- widget.setTextStyle
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude text style [FONT] fligadot tamanho [FONTSIZE] text cou [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] pou widget [NAME]"
+  L10N value: "defina estilo do texto [FONT] tamanho da fonte [FONTSIZE] cor do texto [TEXTCOLOR] negrito [BOLDNESS] alinhamento do texto [ALIGMENT] para widget [NAME]"
+  EN value: "set text style [FONT] font size [FONTSIZE] text color [TEXTCOLOR] boldness [BOLDNESS] text alignment [ALIGMENT] for widget [NAME]"
+
+- widget.setWidgetStyle
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude widget trásgarredligadode cou [BGCOLOR] bouder cou [BORDERCOLOR] bouder width [BORDERWIDTH] bouder radius [BORDERRADIUS] pou [NAME]"
+  L10N value: "defina widget cor de fundo [BGCOLOR] cor da borda [BORDERCOLOR] largura da borda [BORDERWIDTH] raio da borda [BORDERRADIUS] para [NAME]"
+  EN value: "set widget background color [BGCOLOR] border color [BORDERCOLOR] border width [BORDERWIDTH] border radius [BORDERRADIUS] for [NAME]"
+
+- widget.removeWidget
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "remova widget nãomed [NAME]"
+  L10N value: "remova widget chamado [NAME]"
+  EN value: "remove widget named [NAME]"
+
+- widget.removeAllWidgets
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "remova parados widgets"
+  L10N value: "remova todos os widgets"
+  EN value: "remove all widgets"
+
+- widget.setVisibility
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude visibility [VISIBILITY] pou widget nãomed [NAME]"
+  L10N value: "defina visibilidade [VISIBILITY] para widget chamado [NAME]"
+  EN value: "set visibility [VISIBILITY] for widget named [NAME]"
+
+- widget.setVisibilityForAll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mude visibility [VISIBILITY] pou parados widgets"
+  L10N value: "defina visibilidade [VISIBILITY] para todos os widgets"
+  EN value: "set visibility [VISIBILITY] for all widgets"
+
+- widget.setZindex
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude z-index para [ZINDEX] pou widget nãomed [NAME]"
+  L10N value: "defina índice z para [ZINDEX] para widget chamado [NAME]"
+  EN value: "set z-index to [ZINDEX] for widget named [NAME]"
+
+- widget.whenMouseEnter
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo pointer enters widget nãomed [NAME]"
+  L10N value: "quando ponteiro entrar no widget chamado [NAME]"
+  EN value: "when pointer enters widget named [NAME]"
+
+- widget.whenMouseLeave
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo pointer leaves widget nãomed [NAME]"
+  L10N value: "quando ponteiro sair do widget chamado [NAME]"
+  EN value: "when pointer leaves widget named [NAME]"
+
+- widget.addVideo
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe youtube video [URL] na posição X [X] Y [Y] width [WIDTH] height [HEIGHT] nãomed [NAME] in [BACKGROUND]"
+  L10N value: "adicione vídeo do youtube [URL] em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] chamado [NAME] em [BACKGROUND]"
+  EN value: "add youtube video [URL] at X [X] Y [Y] width [WIDTH] height [HEIGHT] named [NAME] in [BACKGROUND]"
+
+- widget.seekToSecondsVideo
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "seek para [SECONDS] segundos in video nãomed [NAME]"
+  L10N value: "pule para [SECONDS] segundos em vídeo chamado [NAME]"
+  EN value: "seek to [SECONDS] seconds in video named [NAME]"
+
+- widget.currentVideoTime
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "na posiçãoual video time pou [NAME]"
+  L10N value: "tempo atual do vídeo para [NAME]"
+  EN value: "current video time for [NAME]"
+
+- widget.setYoutubeVolume
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mude volume para [VOLUME] pou [NAME]"
+  L10N value: "defina volume para [VOLUME] para [NAME]"
+  EN value: "set volume to [VOLUME] for [NAME]"
+
+- widget.setYoutubePlaybackSpeedRatio
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude playtrás speed rna posiçãoio [SPEED] pou [NAME]"
+  L10N value: "defina velocidade de reprodução proporção [SPEED] para [NAME]"
+  EN value: "set playback speed ratio [SPEED] for [NAME]"
+
+- widget.whenVideoTimeIs
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo video time is [SECONDS] segundos pou [NAME]"
+  L10N value: "quando tempo do vídeo for [SECONDS] segundos para [NAME]"
+  EN value: "when video time is [SECONDS] seconds for [NAME]"
+
+- widget.menuItem.single
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "sengle"
+  L10N value: "single"
+  EN value: "single"
+
+- widget.menuItem.multiple
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "múltiplo"
+  L10N value: "multiple"
+  EN value: "multiple"
+
+- widget.menuItem.scroll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "rolagem"
+  L10N value: "scroll"
+  EN value: "scroll"
+
+- widget.menuItem.noScroll
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "não scroll"
+  L10N value: "no scroll"
+  EN value: "no scroll"
+
+- widget.menuItem.input
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "entrada"
+  L10N value: "input"
+  EN value: "input"
+
+- widget.menuItem.readOnly
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "read ligadoly"
+  L10N value: "somente leitura"
+  EN value: "read only"
+
+- widget.menuItem.normal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "nãoumal"
+  L10N value: "normal"
+  EN value: "normal"
+
+- widget.menuItem.bold
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "negrito"
+  L10N value: "bold"
+  EN value: "bold"
+
+- widget.menuItem.hide
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "escligadoda"
+  L10N value: "esconda"
+  EN value: "hide"
+
+- widget.menuItem.varDefault
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "Nligadoe"
+  L10N value: "None"
+  EN value: "None"
+
+- widget.menuItem.pleaseSelect
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Por favor selecione"
+  L10N value: "Please select"
+  EN value: "Please select"
+
+- widget.menuItem.start
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "iniciar"
+  L10N value: "start"
+  EN value: "start"
+
+- widget.menuItem.pause
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "pausar"
+  L10N value: "pause"
+  EN value: "pause"
+
+- widget.menuItem.stop
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "pare"
+  L10N value: "stop"
+  EN value: "stop"
+
+- widget.menuItem.mute
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "silenciar"
+  L10N value: "mute"
+  EN value: "mute"
+
+- widget.menuItem.unmute
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "ativar som"
+  L10N value: "unmute"
+  EN value: "unmute"
+
+- widget.tabMenu.yes
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "sim"
+  L10N value: "yes"
+  EN value: "yes"
+
+- widget.tabMenu.no
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "não"
+  L10N value: "no"
+  EN value: "no"
+
+- widget.alignment.left
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Esquerda"
+  L10N value: "Left"
+  EN value: "Left"
+
+- widget.alignment.center
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Meio"
+  L10N value: "Middle"
+  EN value: "Middle"
+
+- widget.alignment.right
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "Direita"
+  L10N value: "Right"
+  EN value: "Right"
+
+- widget.tabMenu.add
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe"
+  L10N value: "adicione"
+  EN value: "add"
+
+- widget.moveWidgetToXY
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mova widget [NAME] para X [X] Y [Y] in [SECONDS] segundos [BLOCKING]"
+  L10N value: "mova widget [NAME] para X [X] Y [Y] em [SECONDS] segundos [BLOCKING]"
+  EN value: "move widget [NAME] to X [X] Y [Y] in [SECONDS] seconds [BLOCKING]"
+
+- widget.scaleWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "scale widget [NAME] para width [WIDTH]% height [HEIGHT]% in [SECONDS] segundos [BLOCKING]"
+  L10N value: "escale widget [NAME] para largura [WIDTH]% altura [HEIGHT]% em [SECONDS] segundos [BLOCKING]"
+  EN value: "scale widget [NAME] to width [WIDTH]% height [HEIGHT]% in [SECONDS] seconds [BLOCKING]"
+
+- widget.resizeWidgetToWidthHeight
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "retamanho widget [NAME] para width [WIDTH] height [HEIGHT] in [SECONDS] segundos [BLOCKING]"
+  L10N value: "redimensione widget [NAME] para largura [WIDTH] altura [HEIGHT] em [SECONDS] segundos [BLOCKING]"
+  EN value: "resize widget [NAME] to width [WIDTH] height [HEIGHT] in [SECONDS] seconds [BLOCKING]"
+
+- widget.rotateWidgetByDegrees
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "rotna posiçãoe widget [NAME] por [DEGREES] graus in [SECONDS] segundos [BLOCKING]"
+  L10N value: "rotacione widget [NAME] por [DEGREES] graus em [SECONDS] segundos [BLOCKING]"
+  EN value: "rotate widget [NAME] by [DEGREES] degrees in [SECONDS] seconds [BLOCKING]"
+
+- widget.transparencyToWidget
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mude transparency pou widget [NAME] para [TRANSPARENT] % in [SECONDS] segundos [BLOCKING]"
+  L10N value: "defina transparência para widget [NAME] para [TRANSPARENT] % em [SECONDS] segundos [BLOCKING]"
+  EN value: "set transparency for widget [NAME] to [TRANSPARENT] % in [SECONDS] seconds [BLOCKING]"
+
+- widget.addMenuGroup
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "adicione grupo de menu [MENUGROUP] à barra de menu [NAME]"
+  L10N value: "adicione grupo de menu em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] preenchimento [PADDING] como [NAME]"
+  EN value: "add menu group [MENUGROUP] to menu bar named [NAME]"
+
+- widget.addMenuItem
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe menu item [MENUITEM] para menu group nãomed [NAME]"
+  L10N value: "adicione item de menu [MENUITEM] para grupo de menu chamado [NAME]"
+  EN value: "add menu item [MENUITEM] to menu group named [NAME]"
+
+- widget.confirmTextWithButtons
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "cligadofirm [NAME] por butparans [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+  L10N value: "confirmar [NAME] com botões [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+  EN value: "confirm [NAME] with buttons [BUTTON1] [BUTTON2] [BUTTON3] [BUTTON4] [BUTTON5] [BUTTON6]"
+
+- widget.whenAnyButtonNamedClicked
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo qualquer butparan nãomed [VARIABLE] fou clicado"
+  L10N value: "quando qualquer botão chamado [VARIABLE] clicado"
+  EN value: "when any button named [VARIABLE] clicked"
+
+- widget.releaseFocus
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "release focus pou widget [WIDGETNAME]"
+  L10N value: "libere foco para widget [WIDGETNAME]"
+  EN value: "release focus for widget [WIDGETNAME]"
+
+- widget.setValueOfWidgetTo
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mude value de widget [WIDGET] para [VALUE]"
+  L10N value: "defina valor de widget [WIDGET] para [VALUE]"
+  EN value: "set value of widget [WIDGET] to [VALUE]"
+
+- widget.addRadioButton
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe radio butparans [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] na posição x [X] y [Y] width [WIDTH] height [HEIGHT] nãomed [NAME]"
+  L10N value: "adicione botões de rádio [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] em x [X] y [Y] largura [WIDTH] altura [HEIGHT] chamado [NAME]"
+  EN value: "add radio buttons [RADIO1] [RADIO2] [RADIO3] [RADIO4] [RADIO5] [RADIO6] [DIRECTION] at x [X] y [Y] width [WIDTH] height [HEIGHT] named [NAME]"
+
+- widget.addRadioButton.vertical
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "vertical"
+  L10N value: "vertical"
+  EN value: "vertical"
+
+- widget.addRadioButton.horizontal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "houizligadotal"
+  L10N value: "horizontal"
+  EN value: "horizontal"
+
+- widget.runProject
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "executar projeto [PROJECT] em [OPTION] aba do navegador"
+  L10N value: "executar projeto [PROJECT] em aba do navegador [OPTION]"
+  EN value: "run project [PROJECT] in [OPTION] browser tab"
+
+- widget.runProject-dropdown1
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "esta"
+  L10N value: "this"
+  EN value: "this"
+
+- widget.runProject-dropdown2
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "nova"
+  L10N value: "new"
+  EN value: "new"
+
+- widget.applyLayoutRowHeightCellWidth
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "apply layout row nãomed [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padiciligadoeing [PADDING]"
+  L10N value: "aplique layout linha chamado [ROW] altura [HEIGHT]% célula largura [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margem [MARGIN] preenchimento [PADDING]"
+  EN value: "apply layout row named [ROW] height [HEIGHT]% cell width [WIDTH1]% [WIDTH2]% [WIDTH3]% [WIDTH4]% [WIDTH5]% [WIDTH6]% widgets [NAME1] [NAME2] [NAME3] [NAME4] [NAME5] [NAME6] margin [MARGIN] padding [PADDING]"
+
+- widget.addTabs
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "crena posiçãoe tabs na posição X [X] Y [Y] width [WIDTH] height [HEIGHT] nãomes [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] mostre heading [OPTION]"
+  L10N value: "crie abas em X [X] Y [Y] largura [WIDTH] altura [HEIGHT] nomes [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] mostre cabeçalho [OPTION]"
+  EN value: "create tabs at X [X] Y [Y] width [WIDTH] height [HEIGHT] names [TAB1] [TAB2] [TAB3] [TAB4] [TAB5] [TAB6] [TAB7] [TAB8] show heading [OPTION]"
+
+- widget.selectTab
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "selecionar aba [NAME]"
+  L10N value: "selecione aba [NAME]"
+  EN value: "select tab [NAME]"
+
+- widget.setTabContainer
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude tab cligadotainer [NAME]"
+  L10N value: "defina contêiner de aba [NAME]"
+  EN value: "set tab container [NAME]"
+
+- widget.showHideTabNamed
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "[VISIBILITY] tab nãomed [NAME]"
+  L10N value: "[VISIBILITY] aba chamada [NAME]"
+  EN value: "[VISIBILITY] tab named [NAME]"
+
+- widget.addRemoveTabNamed
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "[OPTION] tab nãomed [NAME]"
+  L10N value: "[OPTION] aba chamada [NAME]"
+  EN value: "[OPTION] tab named [NAME]"
+
+- widget.whenTabSelected
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo tab [NAME] selected"
+  L10N value: "quando aba [NAME] selecionada"
+  EN value: "when tab [NAME] selected"
+
+- widget.whenVideoIsPaused
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo video [NAME] paused"
+  L10N value: "quando vídeo [NAME] pausado"
+  EN value: "when video [NAME] paused"
+
+- widget.whenVideoStopped
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo video [NAME] pareped"
+  L10N value: "quando vídeo [NAME] parado"
+  EN value: "when video [NAME] stopped"
+
+- widget.whenVideoStart
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "queo video [NAME] start"
+  L10N value: "quando vídeo [NAME] iniciar"
+  EN value: "when video [NAME] start"
+
+- widget.drawChartUsingList
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "draw [CHARTTYPE] chart useng list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] largura [WIDTH] altura [HEIGHT] como [NAME]"
+  EN value: "draw [CHARTTYPE] chart using list [LIST] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingColumn
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "draw [CHARTTYPE] chart useng columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  EN value: "draw [CHARTTYPE] chart using columns [COLUMNS] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.drawChartUsingCategory
+  Issues: CORRUPTED, CONTAINS_TOO_MUCH_ENGLISH, DIFFERS_FROM_L10N
+  GUI value: "draw pie chart useng cna posiçãoegouy [CATEGORY] e value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "desenhar gráfico de pizza usando categoria [CATEGORY] e valor [VALUE] da tabela [TABLE] x [X] y [Y] largura [WIDTH] altura [HEIGHT] como [NAME]"
+  EN value: "draw pie chart using category [CATEGORY] and value [VALUE] from table [TABLE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.chartType.line
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "line"
+  L10N value: "line"
+  EN value: "line"
+
+- widget.chartType.bar
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "bar"
+  L10N value: "bar"
+  EN value: "bar"
+
+- widget.chartType.pie
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "pie"
+  L10N value: "pie"
+  EN value: "pie"
+
+- widget.chartType.percentage
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "percentage"
+  L10N value: "percentage"
+  EN value: "percentage"
+
+- widget.progressBar
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe progress bar as [VALUE] out de parna posiçãoal [TOTAL] na posição x [X] y [Y] width [WIDTH] height [HEIGHT] cou [COLOR] trásgarredligadode [BGCOLOR] bouder width [BORDER_WIDTH] cou [BORDER_COLOR] as [NAME]"
+  L10N value: "adicione progress bar as [VALUE] out de total [TOTAL] em X [X] y [Y] largura [WIDTH] altura [HEIGHT] cor [COLOR] background [BGCOLOR] largura da borda [BORDER_WIDTH] cor [BORDER_COLOR] como [NAME]"
+  EN value: "add progress bar as [VALUE] out of total [TOTAL] at x [X] y [Y] width [WIDTH] height [HEIGHT] color [COLOR] background [BGCOLOR] border width [BORDER_WIDTH] color [BORDER_COLOR] as [NAME]"
+
+- widget.createChatWindow
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe chna posição window x [X] y [Y] width [WIDTH] height [HEIGHT] input rows [ROWS] trásgarredligadode [COLOR] bouder [BCOLOR] nãome [NAME]"
+  L10N value: "adicione janela de chat x [X] y [Y] largura [WIDTH] altura [HEIGHT] linhas de entrada [ROWS] fundo [COLOR] como [NAME]"
+  EN value: "add chat window x [X] y [Y] width [WIDTH] height [HEIGHT] input rows [ROWS] background [COLOR] border [BCOLOR] name [NAME]"
+
+- widget.appendChatMessage
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "append para chna posição [NAME] message [MSG] as [ROLE] icligado [ICON] align [ALIGN] text tamanho [SIZE] cou [TEXTCOLOR] trásgarredligadode [BGCOLOR]"
+  L10N value: "adicione para chat [NAME] mensagem [MSG] as [ROLE] icon [ICON] align [ALIGN] texto tamanho [SIZE] cor [TEXTCOLOR] background [BGCOLOR]"
+  EN value: "append to chat [NAME] message [MSG] as [ROLE] icon [ICON] align [ALIGN] text size [SIZE] color [TEXTCOLOR] background [BGCOLOR]"
+
+- widget.updateLastChatMessage
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "updna posiçãoa last chna posição message para [NEWMSG] pou chna posição [NAME]"
+  L10N value: "update last chat message to [NEWMSG] for chat [NAME]"
+  EN value: "update last chat message to [NEWMSG] for chat [NAME]"
+
+- widget.disableWidget
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "[DISABLE] widget [NAME]"
+  L10N value: "[DISABLE] widget [NAME]"
+  EN value: "[DISABLE] widget [NAME]"
+
+- widget.disable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Disbale"
+  L10N value: "Disbale"
+  EN value: "Disbale"
+
+- widget.enable
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "Enable"
+  L10N value: "Enable"
+  EN value: "Enable"
+
+- widget.chat.robot
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "ROBOT"
+  L10N value: "ROBOT"
+  EN value: "ROBOT"
+
+- widget.chat.user
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "USER"
+  L10N value: "USER"
+  EN value: "USER"
+
+- widget.addToolbox
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "adiciligadoe paraolbox na posição x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]"
+  L10N value: "adicione caixa de ferramentas em x [X] y [Y] largura [WIDTH] altura [HEIGHT] contagem de linhas [ROW] contagem de colunas [COLUMN] como [NAME]"
+  EN value: "add toolbox at x [X] y [Y] width [WIDTH] height [HEIGHT] row count [ROW] column count [COLUMN] as [NAME]"
+
+- widget.setIconToToolbox
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "mude icligado para [COSTUME] na posição row [ROW] column [COLUMN] pou paraolbox [NAME]"
+  L10N value: "defina ícone para [COSTUME] na linha [ROW] coluna [COLUMN] para caixa de ferramentas [NAME]"
+  EN value: "set icon to [COSTUME] at row [ROW] column [COLUMN] for toolbox [NAME]"
+
+- widget.deleteCostume
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "apague fantasia [COSTUME]"
+  L10N value: "delete costume [COSTUME]"
+  EN value: "delete costume [COSTUME]"
+
+- widget.image.keep
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "keep"
+  L10N value: "keep"
+  EN value: "keep"
+
+- widget.image.stretch
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "stretch"
+  L10N value: "stretch"
+  EN value: "stretch"
+
+- widget.showCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "mostre [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+  L10N value: "mostre câmera [SIDE] em [MODE] x [X] y [Y] largura [WIDTH] altura [HEIGHT] como [NAME]"
+  EN value: "show [SIDE] camera in [MODE] x [X] y [Y] width [WIDTH] height [HEIGHT] as [NAME]"
+
+- widget.savePictureFromCamera
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "salvar imagem da câmera [CAMERANAME] como fantasia [COSTUMENAME]"
+  L10N value: "salve imagem da câmera [CAMERANAME] como fantasia [COSTUMENAME]"
+  EN value: "save picture from camera [CAMERANAME] as costume [COSTUMENAME]"
+
+- widget.camera.side
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "frente"
+  L10N value: "front"
+  EN value: "front"
+
+- widget.camera.back
+  Issues: DIFFERS_FROM_L10N
+  GUI value: "trás"
+  L10N value: "back"
+  EN value: "back"
+
+- widget.camera.normal
+  Issues: CORRUPTED, DIFFERS_FROM_L10N
+  GUI value: "nãoumal"
+  L10N value: "normal"
+  EN value: "normal"
+
+- widget.camera.flipped
+  Issues: IDENTICAL_TO_ENGLISH
+  GUI value: "flipped"
+  L10N value: "flipped"
+  EN value: "flipped"
+
+
+================================================================================
+### SUMMARY
+================================================================================
+Total widget entries that need fixing across all languages: 262
+
+**Recommendation:**
+Copy all correct translations from scratch-l10n/editor/extensions/*.json
+to scratch-gui/src/lib/locales/*.json
+

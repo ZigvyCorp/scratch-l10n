@@ -48,6 +48,12 @@ const MSGS_DIR = './locales/';
 mkdirpSync(MSGS_DIR);
 let missingLocales = [];
 
+const writeFileSyncAtomic = (targetPath, data) => {
+    const tempPath = `${targetPath}.tmp`;
+    fs.writeFileSync(tempPath, data);
+    fs.renameSync(tempPath, targetPath);
+};
+
 const combineJson = (component) => {
     return Object.keys(locales).reduce((collection, lang) => {
         try {
@@ -70,7 +76,7 @@ let blockData =
     JSON.stringify(blocksMessages, null, 2) +
     ';\n';
 
-fs.writeFileSync(MSGS_DIR + 'blocks-msgs.js', blockData);
+writeFileSyncAtomic(MSGS_DIR + 'blocks-msgs.js', blockData);
 
 // generate the blocks messages: files are plain key-value JSON
 let blockData2 =
@@ -79,7 +85,7 @@ let blockData2 =
     JSON.stringify(blocksMessages, null, 2) +
     ';\n';
 
-fs.writeFileSync(MSGS_DIR + 'blocks-msgs-2.js', blockData2);
+writeFileSyncAtomic(MSGS_DIR + 'blocks-msgs-2.js', blockData2);
 
 // generate messages for gui components - all files are plain key-value JSON
 let components = ['interface', 'extensions', 'paint-editor'];
@@ -91,7 +97,7 @@ components.forEach((component) => {
         'export default ' +
         JSON.stringify(messages, null, 2) +
         ';\n';
-    fs.writeFileSync(MSGS_DIR + component + '-msgs.js', data);
+    writeFileSyncAtomic(MSGS_DIR + component + '-msgs.js', data);
     defaultsDeep(editorMsgs, messages);
 });
 
@@ -101,7 +107,7 @@ let editorData =
     'export default ' +
     JSON.stringify(editorMsgs, null, 2) +
     ';\n';
-fs.writeFileSync(MSGS_DIR + 'editor-msgs.js', editorData);
+writeFileSyncAtomic(MSGS_DIR + 'editor-msgs.js', editorData);
 
 if (missingLocales.length > 0) {
     process.stdout.write('missing locales:\n' + missingLocales.toString());
