@@ -383,7 +383,7 @@
     "gui.alerts.savingError": "project could not be saved.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
-    "gui.alerts.cloudInfo": "Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}",
+    "gui.alerts.cloudInfo": "Cloud variables can store numbers and short text. You must be signed in to update cloud data in shared projects. {learnMoreLink}",
     "gui.alerts.cloudInfoLearnMore": "Learn more.",
     "gui.alerts.importing": "Importing…",
     "gui.defaultProject.meow": "Meow",
