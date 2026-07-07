@@ -739,6 +739,8 @@
     "gui.menuBar.olympicToggle.title": "オリンピックプロジェクト",
     "gui.extension.database.name": "データベース",
     "gui.extension.database.description": "データを保存・分析する",
+    "gui.extension.app.name": "アプリ",
+    "gui.extension.app.description": "センサー、共有、保存、インストール補助機能でスマホアプリを作る。",
     "gui.gui.addFieldMessage": "新しい列を追加",
     "gui.gui.columnsLabelMessage": "列名",
     "gui.gui.typeLabelMessage": "型",

@@ -671,6 +671,8 @@
     "gui.extension.d3tools.name": "Công cụ 3D",
     "gui.extension.database.description": "Lưu trữ và phân tích dữ liệu",
     "gui.extension.database.name": "Cơ sở dữ liệu",
+    "gui.extension.app.description": "Xây dựng ứng dụng điện thoại với cảm biến, chia sẻ, lưu trữ và công cụ hỗ trợ cài đặt.",
+    "gui.extension.app.name": "Ứng dụng",
     "gui.extension.game.description": "Công cụ để tạo trò chơi",
     "gui.extension.game.name": "Trò chơi",
     "gui.extension.mp.description": "Tạo trò chơi trực tuyến nhiều người chơi",

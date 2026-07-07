@@ -739,6 +739,8 @@
     "gui.menuBar.olympicToggle.title": "Olympisches Projekt",
     "gui.extension.database.name": "Datenbank",
     "gui.extension.database.description": "Daten speichern und analysieren",
+    "gui.extension.app.name": "App",
+    "gui.extension.app.description": "Baue Handy-Apps mit Sensoren, Teilen-Funktion, Speicher und Installationshilfen.",
     "gui.gui.addFieldMessage": "Neue Spalte hinzufügen",
     "gui.gui.columnsLabelMessage": "Spaltenname",
     "gui.gui.typeLabelMessage": "Typ",

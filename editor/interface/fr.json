@@ -742,6 +742,8 @@
     "gui.menuBar.olympicToggle.title": "Projet olympique",
     "gui.extension.database.name": "Données",
     "gui.extension.database.description": "Stocker et analyser les données",
+    "gui.extension.app.name": "Application",
+    "gui.extension.app.description": "Créez des applications mobiles avec des capteurs, le partage, le stockage et des outils d’installation.",
     "gui.gui.addFieldMessage": "Ajouter une nouvelle colonne",
     "gui.gui.columnsLabelMessage": "Nom des colonnes",
     "gui.gui.typeLabelMessage": "Type",

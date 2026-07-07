@@ -258,6 +258,8 @@
     "gui.extension.d3tools.name": "Narz. 3D",
     "gui.extension.database.description": "Przechowuj i analizuj dane",
     "gui.extension.database.name": "Baza",
+    "gui.extension.app.description": "Twórz aplikacje mobilne z czujnikami, udostępnianiem, pamięcią i narzędziami do instalacji.",
+    "gui.extension.app.name": "Aplikacja",
     "gui.extension.ev3.connectingMessage": "Łączenie. Upewnij się, że PIN na twoim EV3 ustawiony jest na 1234.",
     "gui.extension.ev3.description": "Buduj interaktywne roboty i inne rzeczy.",
     "gui.extension.game.description": "Narzędzia do budowania gier",

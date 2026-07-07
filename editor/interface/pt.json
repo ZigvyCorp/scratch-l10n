@@ -601,6 +601,8 @@
     "gui.extension.ai.description": "Reconhecimento de fala, aprendizado de máquina, ChatGPT e mais.",
     "gui.extension.database.name": "Banco de Dados",
     "gui.extension.database.description": "Armazene e gerencie coleções de dados.",
+    "gui.extension.app.name": "Aplicação",
+    "gui.extension.app.description": "Crie aplicações móveis com sensores, partilha, armazenamento e ajudas de instalação.",
     "gui.extension.p2p.name": "Rede",
     "gui.extension.p2p.description": "Conecte-se a APIs web e Google Sheets.",
     "gui.extension.widget.name": "Widget",

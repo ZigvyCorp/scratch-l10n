@@ -609,6 +609,8 @@
     "gui.extension.physics.description": "2D physics simulation",
     "gui.extension.database.name": "Database",
     "gui.extension.database.description": "Store and analyze data",
+    "gui.extension.app.name": "App",
+    "gui.extension.app.description": "Build phone apps with sensors, sharing, storage, and install helpers.",
     "gui.extension.automation.name": "Automation",
     "gui.extension.automation.description": "Replace manual operations",
     "gui.extension.mp.name": "Multiplayer",

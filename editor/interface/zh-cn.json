@@ -742,6 +742,8 @@
     "gui.menuBar.olympicToggle.title": "奥运项目",
     "gui.extension.database.name": "数据库",
     "gui.extension.database.description": "存储和分析数据",
+    "gui.extension.app.name": "应用",
+    "gui.extension.app.description": "使用传感器、分享、存储和安装辅助功能构建手机应用。",
     "gui.gui.addFieldMessage": "添加新列",
     "gui.gui.columnsLabelMessage": "列名",
     "gui.gui.typeLabelMessage": "类型",
