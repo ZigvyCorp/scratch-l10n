@@ -739,6 +739,7 @@
   "AI_XOImageReporter": "wyszukaj obraz AI %1 z zapytaniem %2",
   "AI_openAIChatCompletion": "OpenAI ChatGPT: żądanie %1 wynik %2 tryb %3 długość %4 temperatura %5 sesja %6",
   "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: żądanie systemowe %1 sesja %2 wynik %3 temperatura %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: table request %1 spec %2 response %3 temperature %4 session %5",
   "AI_openAIChatCancelation": "OpenAI ChatGPT: anuluj żądanie",
   "AI_llmChatCompletion": "LLM model %1 żądanie %2 wynik %3 tryb %4 długość %5 temperatura %6 sesja %7",
   "AI_llmSystemInstruction": "LLM ustaw instrukcję systemową %1 dla modelu %2",

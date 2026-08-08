@@ -1283,6 +1283,7 @@
   "AI_predictByModel": "prever usando modelo NN %1 para tabela %2 linhas de %3 a %4 colunas de entrada %5 coluna de saída %6",
   "AI_openAIChatCompletion": "OpenAI ChatGPT: solicitar %1 resultado %2 modo %3 comprimento %4 temperatura %5 sessão %6",
   "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: solicitação de sistema %1 sessão %2 resultado %3 temperatura %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: solicitação de tabela %1 especificação %2 resposta %3 temperatura %4 sessão %5",
   "AI_openAIChatCancelation": "OpenAI ChatGPT: cancelar solicitação",
   "AI_llmChatCompletion": "LLM modelo %1 solicitar %2 resultado %3 modo %4 comprimento %5 temperatura %6 sessão %7",
   "AI_llmSystemInstruction": "LLM definir instrução de sistema %1 para modelo %2",

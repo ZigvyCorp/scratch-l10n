@@ -33,6 +33,7 @@
   "AI_openAIChatCancelation": "OpenAI ChatGPT: 取消請求",
   "AI_openAIChatCompletion": "OpenAI ChatGPT: 請求 %1 結果 %2 模式 %3 最大長度 %4 溫度 %5 會話 %6",
   "AI_openAIChatCompletionSystem": "OpenAI ChatGPT: 系統請求 %1 會話 %2 結果 %3 溫度 %4",
+  "AI_openAIChatCompletionTable": "OpenAI ChatGPT: 表格請求 %1 規格 %2 響應 %3 溫度 %4 會話 %5",
   "AI_openAiGpt3": "OpenAI GPT-3: 請求 %1 詞數限制 %2",
   "AI_openAiImage": "OpenAI DALL-E：生成造型圖像 名稱 %1 描述 %2 分辨率 %3",
   "AI_openAiImageReporter": "OpenAI DALL-E：生成圖像，請求 %1 解析度 %2",
