@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "ସାମ୍ପ୍ରତିକ ପ୍ରକଳ୍ପର ବିଷୟବସ୍ତୁକୁ ବଦଳାନ୍ତୁ?",
     "gui.sharedMessages.loadFromComputerTitle": "ଆପଣଙ୍କ କମ୍ପ୍ୟୁଟରରୁ ଲୋଡ୍ କରନ୍ତୁ",
     "gui.gui.defaultProjectTitle": "ସ୍କ୍ରାଚ୍ ପ୍ରୋଜେକ୍ଟ",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "ଆପଣଙ୍କ ଡିଫଲ୍ଟ ସ୍ପ୍ରାଇଟ୍ {profileLink} ବାଛନ୍ତୁ।",
+    "gui.defaultSpriteTip.profile": "ଆପଣଙ୍କ ପ୍ରୋଫାଇଲ୍ ପୃଷ୍ଠାରେ",
+    "gui.defaultSpriteTip.suppress": "ଏହାକୁ ଆଉ ଦେଖାନ୍ତୁ ନାହିଁ",
+    "gui.defaultSpriteTip.saving": "ସଞ୍ଚୟ କରାଯାଉଛି…",
+    "gui.defaultSpriteTip.error": "ଏହି ପସନ୍ଦ ସଞ୍ଚୟ ହୋଇପାରିଲା ନାହିଁ। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।",
+    "gui.defaultSpriteTip.close": "ବନ୍ଦ"
 }

@@ -964,5 +964,11 @@
     "gui.targetPane.claimOwnershipSuccess": "スプライトが正常にクレームされました",
     "gui.targetPane.saveAndReleaseSuccess": "スプライトが正常に保存され、リリースされました",
     "gui.targetPane.releaseOwnershipSuccess": "スプライトが正常にリリースされました",
-    "gui.targetPane.unclaimOwnershipSuccess": "スプライトが正常にクレーム解除されました"
+    "gui.targetPane.unclaimOwnershipSuccess": "スプライトが正常にクレーム解除されました",
+    "gui.defaultSpriteTip.message": "既定のスプライトを{profileLink}で選んでください。",
+    "gui.defaultSpriteTip.profile": "プロフィールページ",
+    "gui.defaultSpriteTip.suppress": "今後表示しない",
+    "gui.defaultSpriteTip.saving": "保存中…",
+    "gui.defaultSpriteTip.error": "この設定を保存できませんでした。もう一度お試しください。",
+    "gui.defaultSpriteTip.close": "閉じる"
 }

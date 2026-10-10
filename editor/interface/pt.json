@@ -1030,5 +1030,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Sprite reivindicado com sucesso",
     "gui.targetPane.saveAndReleaseSuccess": "Sprite salvo e liberado com sucesso",
     "gui.targetPane.releaseOwnershipSuccess": "Sprite liberado com sucesso",
-    "gui.targetPane.unclaimOwnershipSuccess": "Sprite não reivindicado com sucesso"
+    "gui.targetPane.unclaimOwnershipSuccess": "Sprite não reivindicado com sucesso",
+    "gui.defaultSpriteTip.message": "Escolha o seu ator predefinido {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na sua página de perfil",
+    "gui.defaultSpriteTip.suppress": "Não voltar a mostrar",
+    "gui.defaultSpriteTip.saving": "A guardar…",
+    "gui.defaultSpriteTip.error": "Não foi possível guardar esta preferência. Tente novamente.",
+    "gui.defaultSpriteTip.close": "Fechar"
 }

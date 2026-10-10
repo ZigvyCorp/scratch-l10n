@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Да се замени ли съдържанието от текущия проект?",
     "gui.sharedMessages.loadFromComputerTitle": "Зареди от своя компютър",
     "gui.gui.defaultProjectTitle": "Scratch Проект",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Изберете спрайта си по подразбиране {profileLink}.",
+    "gui.defaultSpriteTip.profile": "на страницата на профила си",
+    "gui.defaultSpriteTip.suppress": "Не показвай отново",
+    "gui.defaultSpriteTip.saving": "Запазване…",
+    "gui.defaultSpriteTip.error": "Тази настройка не можа да бъде запазена. Опитайте отново.",
+    "gui.defaultSpriteTip.close": "Затвори"
 }

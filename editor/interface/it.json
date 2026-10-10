@@ -516,5 +516,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "Carica dal computer",
     "gui.gui.defaultProjectTitle": "Progetto Scratch",
     "gui.consolePanel.premiumWarning": "I blocchi premium nei progetti sono disabilitati",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Scegli il tuo sprite predefinito {profileLink}.",
+    "gui.defaultSpriteTip.profile": "nella pagina del tuo profilo",
+    "gui.defaultSpriteTip.suppress": "Non mostrare più",
+    "gui.defaultSpriteTip.saving": "Salvataggio…",
+    "gui.defaultSpriteTip.error": "Impossibile salvare questa preferenza. Riprova.",
+    "gui.defaultSpriteTip.close": "Chiudi"
 }

@@ -899,5 +899,11 @@
     "gui.customExtension.action.enable": "Mostrar na lista de blocos",
     "gui.customExtension.detectedExtensionName": "Nome detectado da extensão",
     "gui.customExtension.nameNotDetectedYet": "Cole um URL válido da extensão para detectar o nome automaticamente.",
-    "gui.customExtension.browserWarning": "Se o navegador não conseguir ler diretamente o URL da extensão, abra primeiro o catálogo, copie o URL direto do script e cole-o aqui novamente."
+    "gui.customExtension.browserWarning": "Se o navegador não conseguir ler diretamente o URL da extensão, abra primeiro o catálogo, copie o URL direto do script e cole-o aqui novamente.",
+    "gui.defaultSpriteTip.message": "Escolha seu ator padrão {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na sua página de perfil",
+    "gui.defaultSpriteTip.suppress": "Não mostrar novamente",
+    "gui.defaultSpriteTip.saving": "Salvando…",
+    "gui.defaultSpriteTip.error": "Não foi possível salvar esta preferência. Tente novamente.",
+    "gui.defaultSpriteTip.close": "Fechar"
 }

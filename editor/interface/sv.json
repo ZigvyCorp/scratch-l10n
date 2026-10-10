@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ersätt innehållet i det aktuella projektet?",
     "gui.sharedMessages.loadFromComputerTitle": "Ladda upp från din dator",
     "gui.gui.defaultProjectTitle": "Scratchprojekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Välj din standardfigur {profileLink}.",
+    "gui.defaultSpriteTip.profile": "på din profilsida",
+    "gui.defaultSpriteTip.suppress": "Visa inte detta igen",
+    "gui.defaultSpriteTip.saving": "Sparar…",
+    "gui.defaultSpriteTip.error": "Det gick inte att spara den här inställningen. Försök igen.",
+    "gui.defaultSpriteTip.close": "Stäng"
 }

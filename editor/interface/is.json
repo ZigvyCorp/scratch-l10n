@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Veldu sjálfgefnu persónuna þína {profileLink}.",
+    "gui.defaultSpriteTip.profile": "á prófílsíðunni þinni",
+    "gui.defaultSpriteTip.suppress": "Ekki sýna þetta aftur",
+    "gui.defaultSpriteTip.saving": "Vista…",
+    "gui.defaultSpriteTip.error": "Ekki tókst að vista þessa stillingu. Reyndu aftur.",
+    "gui.defaultSpriteTip.close": "Loka"
 }

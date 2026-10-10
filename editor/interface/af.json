@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Vervang inhoud van die huidige projek?",
     "gui.sharedMessages.loadFromComputerTitle": "Laai van jou rekenaar",
     "gui.gui.defaultProjectTitle": "Scratch Projek",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Kies jou verstekkarakter {profileLink}.",
+    "gui.defaultSpriteTip.profile": "op jou profielblad",
+    "gui.defaultSpriteTip.suppress": "Moenie dit weer wys nie",
+    "gui.defaultSpriteTip.saving": "Besig om te stoor…",
+    "gui.defaultSpriteTip.error": "Kon nie hierdie voorkeur stoor nie. Probeer asseblief weer.",
+    "gui.defaultSpriteTip.close": "Maak toe"
 }

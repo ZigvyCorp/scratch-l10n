@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "ነባሪ ስፕራይትዎን {profileLink} ይምረጡ።",
+    "gui.defaultSpriteTip.profile": "በመገለጫ ገጽዎ ላይ",
+    "gui.defaultSpriteTip.suppress": "ይህን እንደገና አታሳይ",
+    "gui.defaultSpriteTip.saving": "በማስቀመጥ ላይ…",
+    "gui.defaultSpriteTip.error": "ይህን ምርጫ ማስቀመጥ አልተቻለም። እባክዎ እንደገና ይሞክሩ።",
+    "gui.defaultSpriteTip.close": "ዝጋ"
 }

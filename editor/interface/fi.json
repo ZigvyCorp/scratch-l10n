@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Korvataanko nykyisen projektin sisältö?",
     "gui.sharedMessages.loadFromComputerTitle": "Avaa tietokoneeltasi",
     "gui.gui.defaultProjectTitle": "Scratch-projekti",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Valitse oletushahmosi {profileLink}.",
+    "gui.defaultSpriteTip.profile": "profiilisivullasi",
+    "gui.defaultSpriteTip.suppress": "Älä näytä tätä uudelleen",
+    "gui.defaultSpriteTip.saving": "Tallennetaan…",
+    "gui.defaultSpriteTip.error": "Tätä asetusta ei voitu tallentaa. Yritä uudelleen.",
+    "gui.defaultSpriteTip.close": "Sulje"
 }

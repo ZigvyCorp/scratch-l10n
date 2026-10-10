@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Փոխարինե՞լ ընթացիկ նախագծի պարունակությունը:",
     "gui.sharedMessages.loadFromComputerTitle": "Բեռնել համակարգչից",
     "gui.gui.defaultProjectTitle": "Scratch նախագիծ",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Ընտրեք ձեր լռելյայն կերպարը {profileLink}։",
+    "gui.defaultSpriteTip.profile": "ձեր պրոֆիլի էջում",
+    "gui.defaultSpriteTip.suppress": "Այլևս չցուցադրել",
+    "gui.defaultSpriteTip.saving": "Պահպանվում է…",
+    "gui.defaultSpriteTip.error": "Չհաջողվեց պահպանել այս կարգավորումը։ Խնդրում ենք կրկին փորձել։",
+    "gui.defaultSpriteTip.close": "Փակել"
 }

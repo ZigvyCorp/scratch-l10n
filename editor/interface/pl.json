@@ -960,5 +960,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Duszek pomyślnie przejęty",
     "gui.targetPane.saveAndReleaseSuccess": "Duszek pomyślnie zapisany i zwolniony",
     "gui.targetPane.releaseOwnershipSuccess": "Duszek pomyślnie zwolniony",
-    "gui.targetPane.unclaimOwnershipSuccess": "Duszek pomyślnie nie przejęty"
+    "gui.targetPane.unclaimOwnershipSuccess": "Duszek pomyślnie nie przejęty",
+    "gui.defaultSpriteTip.message": "Wybierz domyślnego duszka {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na stronie swojego profilu",
+    "gui.defaultSpriteTip.suppress": "Nie pokazuj tego ponownie",
+    "gui.defaultSpriteTip.saving": "Zapisywanie…",
+    "gui.defaultSpriteTip.error": "Nie udało się zapisać tego ustawienia. Spróbuj ponownie.",
+    "gui.defaultSpriteTip.close": "Zamknij"
 }

@@ -961,5 +961,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Nhân vật được yêu cầu thành công",
     "gui.targetPane.saveAndReleaseSuccess": "Nhân vật được lưu và phát hành thành công",
     "gui.targetPane.releaseOwnershipSuccess": "Nhân vật được phát hành thành công",
-    "gui.targetPane.unclaimOwnershipSuccess": "Nhân vật được hủy yêu cầu thành công"
+    "gui.targetPane.unclaimOwnershipSuccess": "Nhân vật được hủy yêu cầu thành công",
+    "gui.defaultSpriteTip.message": "Chọn nhân vật mặc định {profileLink}.",
+    "gui.defaultSpriteTip.profile": "trên trang hồ sơ của bạn",
+    "gui.defaultSpriteTip.suppress": "Không hiển thị lại",
+    "gui.defaultSpriteTip.saving": "Đang lưu…",
+    "gui.defaultSpriteTip.error": "Không thể lưu tùy chọn này. Vui lòng thử lại.",
+    "gui.defaultSpriteTip.close": "Đóng"
 }

@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Αντικατάσταση περιεχομένων του παρόντος έργου;",
     "gui.sharedMessages.loadFromComputerTitle": "Φόρτωση από τον υπολογιστή σου",
     "gui.gui.defaultProjectTitle": "Έργο Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Επίλεξε το προεπιλεγμένο αντικείμενό σου {profileLink}.",
+    "gui.defaultSpriteTip.profile": "στη σελίδα του προφίλ σου",
+    "gui.defaultSpriteTip.suppress": "Να μην εμφανιστεί ξανά",
+    "gui.defaultSpriteTip.saving": "Αποθήκευση…",
+    "gui.defaultSpriteTip.error": "Δεν ήταν δυνατή η αποθήκευση αυτής της προτίμησης. Δοκίμασε ξανά.",
+    "gui.defaultSpriteTip.close": "Κλείσιμο"
 }

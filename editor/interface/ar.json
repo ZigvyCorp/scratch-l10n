@@ -512,5 +512,11 @@
     "gui.sharedMessages.replaceProjectWarning": "هل تريد الاستغناء عن محتويات المشروع الحالي؟",
     "gui.sharedMessages.loadFromComputerTitle": "التحميل من حاسوبك",
     "gui.gui.defaultProjectTitle": "مشروع سكراتش",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "اختر الكائن الافتراضي {profileLink}.",
+    "gui.defaultSpriteTip.profile": "في صفحة ملفك الشخصي",
+    "gui.defaultSpriteTip.suppress": "لا تعرض هذا مجددًا",
+    "gui.defaultSpriteTip.saving": "جارٍ الحفظ…",
+    "gui.defaultSpriteTip.error": "تعذر حفظ هذا التفضيل. يُرجى المحاولة مرة أخرى.",
+    "gui.defaultSpriteTip.close": "إغلاق"
 }

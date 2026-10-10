@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ynhâld ferfange fan dit projekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Ynlade fan jo kompjûter ôf",
     "gui.gui.defaultProjectTitle": "Scratchprojekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Kies dyn standertfiguer {profileLink}.",
+    "gui.defaultSpriteTip.profile": "op dyn profylside",
+    "gui.defaultSpriteTip.suppress": "Lit dit net wer sjen",
+    "gui.defaultSpriteTip.saving": "Oan it bewarjen…",
+    "gui.defaultSpriteTip.error": "Dizze foarkar koe net bewarre wurde. Besykje it nochris.",
+    "gui.defaultSpriteTip.close": "Slute"
 }

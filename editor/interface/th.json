@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "แทนที่เนื้อหาของโครงงานปัจจุบันหรือไม่?",
     "gui.sharedMessages.loadFromComputerTitle": "อัปโหลดจากคอมพิวเตอร์ของคุณ",
     "gui.gui.defaultProjectTitle": "โครงงาน Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "เลือกสไปรต์เริ่มต้นของคุณ{profileLink}",
+    "gui.defaultSpriteTip.profile": "ในหน้าโปรไฟล์ของคุณ",
+    "gui.defaultSpriteTip.suppress": "ไม่ต้องแสดงอีก",
+    "gui.defaultSpriteTip.saving": "กำลังบันทึก…",
+    "gui.defaultSpriteTip.error": "ไม่สามารถบันทึกการตั้งค่านี้ได้ โปรดลองอีกครั้ง",
+    "gui.defaultSpriteTip.close": "ปิด"
 }

@@ -967,5 +967,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Figura reclamada exitosamente",
     "gui.targetPane.saveAndReleaseSuccess": "Figura guardada y liberada exitosamente",
     "gui.targetPane.releaseOwnershipSuccess": "Figura liberada exitosamente",
-    "gui.targetPane.unclaimOwnershipSuccess": "Figura no reclamada exitosamente"
+    "gui.targetPane.unclaimOwnershipSuccess": "Figura no reclamada exitosamente",
+    "gui.defaultSpriteTip.message": "Elige tu sprite predeterminado {profileLink}.",
+    "gui.defaultSpriteTip.profile": "en tu página de perfil",
+    "gui.defaultSpriteTip.suppress": "No volver a mostrar esto",
+    "gui.defaultSpriteTip.saving": "Guardando…",
+    "gui.defaultSpriteTip.error": "No se pudo guardar esta preferencia. Inténtalo de nuevo.",
+    "gui.defaultSpriteTip.close": "Cerrar"
 }

@@ -510,5 +510,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Заменить содержимое текущего проекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Загрузить с компьютера",
     "gui.gui.defaultProjectTitle": "Проект Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Выберите спрайт по умолчанию {profileLink}.",
+    "gui.defaultSpriteTip.profile": "на странице своего профиля",
+    "gui.defaultSpriteTip.suppress": "Больше не показывать",
+    "gui.defaultSpriteTip.saving": "Сохранение…",
+    "gui.defaultSpriteTip.error": "Не удалось сохранить эту настройку. Попробуйте ещё раз.",
+    "gui.defaultSpriteTip.close": "Закрыть"
 }

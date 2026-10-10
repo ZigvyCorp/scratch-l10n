@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Huidige project vervangen?",
     "gui.sharedMessages.loadFromComputerTitle": "Uploaden vanaf je computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Kies je standaardsprite {profileLink}.",
+    "gui.defaultSpriteTip.profile": "op je profielpagina",
+    "gui.defaultSpriteTip.suppress": "Dit niet meer tonen",
+    "gui.defaultSpriteTip.saving": "Opslaan…",
+    "gui.defaultSpriteTip.error": "Deze voorkeur kon niet worden opgeslagen. Probeer het opnieuw.",
+    "gui.defaultSpriteTip.close": "Sluiten"
 }

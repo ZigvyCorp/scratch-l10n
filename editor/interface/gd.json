@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "A bheil thu airson seo a chur an àite susbaint a’ phròiseict làithrich?",
     "gui.sharedMessages.loadFromComputerTitle": "Luchdaich on choimpiutair agad",
     "gui.gui.defaultProjectTitle": "Pròiseact Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Tagh an sprìd bhunaiteach agad {profileLink}.",
+    "gui.defaultSpriteTip.profile": "air duilleag na pròifil agad",
+    "gui.defaultSpriteTip.suppress": "Na seall seo a-rithist",
+    "gui.defaultSpriteTip.saving": "Ga shàbhaladh…",
+    "gui.defaultSpriteTip.error": "Cha b' urrainn dhuinn an roghainn seo a shàbhaladh. Feuch ris a-rithist.",
+    "gui.defaultSpriteTip.close": "Dùin"
 }

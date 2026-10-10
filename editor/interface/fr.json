@@ -967,5 +967,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Sprite revendiqué avec succès",
     "gui.targetPane.saveAndReleaseSuccess": "Sprite enregistré et libéré avec succès",
     "gui.targetPane.releaseOwnershipSuccess": "Sprite libéré avec succès",
-    "gui.targetPane.unclaimOwnershipSuccess": "Sprite non revendiqué avec succès"
+    "gui.targetPane.unclaimOwnershipSuccess": "Sprite non revendiqué avec succès",
+    "gui.defaultSpriteTip.message": "Choisissez votre sprite par défaut {profileLink}.",
+    "gui.defaultSpriteTip.profile": "sur votre page de profil",
+    "gui.defaultSpriteTip.suppress": "Ne plus afficher ce message",
+    "gui.defaultSpriteTip.saving": "Enregistrement…",
+    "gui.defaultSpriteTip.error": "Impossible d'enregistrer cette préférence. Réessayez.",
+    "gui.defaultSpriteTip.close": "Fermer"
 }

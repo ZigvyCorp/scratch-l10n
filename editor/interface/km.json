@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "ជំនួសខ្លឹមសារនៃកិច្ចការបច្ចុប្បន្នមែនទេ?",
     "gui.sharedMessages.loadFromComputerTitle": "ដំណើរការពីកុំព្យូទ័ររបស់អ្នក",
     "gui.gui.defaultProjectTitle": "កិច្ចការ Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "ជ្រើសរើសតួអង្គលំនាំដើមរបស់អ្នក {profileLink}។",
+    "gui.defaultSpriteTip.profile": "នៅលើទំព័រប្រវត្តិរូបរបស់អ្នក",
+    "gui.defaultSpriteTip.suppress": "កុំបង្ហាញនេះម្ដងទៀត",
+    "gui.defaultSpriteTip.saving": "កំពុងរក្សាទុក…",
+    "gui.defaultSpriteTip.error": "មិនអាចរក្សាទុកការកំណត់នេះបានទេ។ សូមព្យាយាមម្ដងទៀត។",
+    "gui.defaultSpriteTip.close": "បិទ"
 }

@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Kaupapa Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Kōwhiria tō parehe taunoa {profileLink}.",
+    "gui.defaultSpriteTip.profile": "i tō whārangi kōtaha",
+    "gui.defaultSpriteTip.suppress": "Kaua e whakaatu anō i tēnei",
+    "gui.defaultSpriteTip.saving": "E tiaki ana…",
+    "gui.defaultSpriteTip.error": "Kāore i taea te tiaki i tēnei manakohanga. Me ngana anō.",
+    "gui.defaultSpriteTip.close": "Katia"
 }

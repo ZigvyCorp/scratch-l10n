@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "বর্তমান প্রজেক্ট এর কনটেন্ট প্রতিস্থাপন করবে? ",
     "gui.sharedMessages.loadFromComputerTitle": " তোমার কম্পিউটার থেকে লোড কর",
     "gui.gui.defaultProjectTitle": "Scratch প্রকল্প",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "আপনার ডিফল্ট স্প্রাইট {profileLink} বেছে নিন।",
+    "gui.defaultSpriteTip.profile": "আপনার প্রোফাইল পাতায়",
+    "gui.defaultSpriteTip.suppress": "এটি আর দেখাবেন না",
+    "gui.defaultSpriteTip.saving": "সংরক্ষণ করা হচ্ছে…",
+    "gui.defaultSpriteTip.error": "এই পছন্দটি সংরক্ষণ করা যায়নি। আবার চেষ্টা করুন।",
+    "gui.defaultSpriteTip.close": "বন্ধ কর"
 }

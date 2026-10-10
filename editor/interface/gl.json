@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde o teu ordenador",
     "gui.gui.defaultProjectTitle": "Proxecto de Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Escolle a túa personaxe predeterminada {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na túa páxina de perfil",
+    "gui.defaultSpriteTip.suppress": "Non mostrar isto de novo",
+    "gui.defaultSpriteTip.saving": "Gardando…",
+    "gui.defaultSpriteTip.error": "Non se puido gardar esta preferencia. Téntao de novo.",
+    "gui.defaultSpriteTip.close": "Pechar"
 }

@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ranplase kontni pwojè aktyèl la ?",
     "gui.sharedMessages.loadFromComputerTitle": "Chaje yon pwojè sou òdinatè w ",
     "gui.gui.defaultProjectTitle": "Pwojè Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Chwazi pèsonaj pa defo ou {profileLink}.",
+    "gui.defaultSpriteTip.profile": "sou paj pwofil ou",
+    "gui.defaultSpriteTip.suppress": "Pa montre sa ankò",
+    "gui.defaultSpriteTip.saving": "Ap anrejistre…",
+    "gui.defaultSpriteTip.error": "Pa t kapab anrejistre preferans sa a. Tanpri eseye ankò.",
+    "gui.defaultSpriteTip.close": "Fèmen"
 }

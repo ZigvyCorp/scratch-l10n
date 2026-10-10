@@ -941,5 +941,11 @@
     "gui.targetPane.claimOwnershipSuccess": "精靈聲稱成功",
     "gui.targetPane.saveAndReleaseSuccess": "精靈保存並發布成功",
     "gui.targetPane.releaseOwnershipSuccess": "精靈發布成功",
-    "gui.targetPane.unclaimOwnershipSuccess": "精靈取消聲稱成功"
+    "gui.targetPane.unclaimOwnershipSuccess": "精靈取消聲稱成功",
+    "gui.defaultSpriteTip.message": "請{profileLink}選擇預設角色。",
+    "gui.defaultSpriteTip.profile": "在你的個人資料頁面",
+    "gui.defaultSpriteTip.suppress": "不再顯示此提示",
+    "gui.defaultSpriteTip.saving": "正在儲存…",
+    "gui.defaultSpriteTip.error": "無法儲存此設定。請再試一次。",
+    "gui.defaultSpriteTip.close": "關閉"
 }

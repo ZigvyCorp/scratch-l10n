@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Xozirgi loyihani mazmunini almashtiringmi?",
     "gui.sharedMessages.loadFromComputerTitle": "Kompyuteringizdan yuklab oling",
     "gui.gui.defaultProjectTitle": "Scratch loyihasi",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Standart spraytingizni {profileLink} tanlang.",
+    "gui.defaultSpriteTip.profile": "profil sahifangizda",
+    "gui.defaultSpriteTip.suppress": "Buni qayta ko‘rsatma",
+    "gui.defaultSpriteTip.saving": "Saqlanmoqda…",
+    "gui.defaultSpriteTip.error": "Bu sozlamani saqlab bo‘lmadi. Qayta urinib ko‘ring.",
+    "gui.defaultSpriteTip.close": "Yopish"
 }

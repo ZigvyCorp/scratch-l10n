@@ -964,5 +964,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Target claimed successfully",
     "gui.targetPane.saveAndReleaseSuccess": "Target saved and released successfully",
     "gui.targetPane.releaseOwnershipSuccess": "Target released successfully",
-    "gui.targetPane.unclaimOwnershipSuccess": "Target unclaimed successfully"
+    "gui.targetPane.unclaimOwnershipSuccess": "Target unclaimed successfully",
+    "gui.defaultSpriteTip.message": "Choose your default sprite {profileLink}.",
+    "gui.defaultSpriteTip.profile": "in your profile page",
+    "gui.defaultSpriteTip.suppress": "Don't show this again",
+    "gui.defaultSpriteTip.saving": "Saving…",
+    "gui.defaultSpriteTip.error": "Could not save this preference. Please try again.",
+    "gui.defaultSpriteTip.close": "Close"
 }

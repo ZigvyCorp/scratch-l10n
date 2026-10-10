@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Emisetsa diteng tsa porojeke ya jaanong",
     "gui.sharedMessages.loadFromComputerTitle": "Tsenya tshedimosetso go tswa mo khomputareng ya gago",
     "gui.gui.defaultProjectTitle": "Porojeke ya Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Tlhopha sprite ya gago ya tlwaelo {profileLink}.",
+    "gui.defaultSpriteTip.profile": "mo tsebeng ya porofaele ya gago",
+    "gui.defaultSpriteTip.suppress": "O se ka wa bontsha seno gape",
+    "gui.defaultSpriteTip.saving": "E a boloka…",
+    "gui.defaultSpriteTip.error": "Kgetho eno ga e a kgona go bolokwa. Tsweetswee leka gape.",
+    "gui.defaultSpriteTip.close": "Tswala"
 }

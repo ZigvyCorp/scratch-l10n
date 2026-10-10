@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ағымдағы проекттің мазмұнын ауыстыру керек пе?",
     "gui.sharedMessages.loadFromComputerTitle": "Компьютерден жүктеу",
     "gui.gui.defaultProjectTitle": "Scratch  проекті",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Әдепкі спрайтыңызды {profileLink} таңдаңыз.",
+    "gui.defaultSpriteTip.profile": "профиль бетіңізде",
+    "gui.defaultSpriteTip.suppress": "Мұны қайта көрсетпеу",
+    "gui.defaultSpriteTip.saving": "Сақталуда…",
+    "gui.defaultSpriteTip.error": "Бұл баптауды сақтау мүмкін болмады. Қайталап көріңіз.",
+    "gui.defaultSpriteTip.close": "Жабу"
 }

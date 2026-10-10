@@ -964,5 +964,11 @@
     "gui.targetPane.claimOwnershipSuccess": "Figur erfolgreich beansprucht",
     "gui.targetPane.saveAndReleaseSuccess": "Figur erfolgreich gespeichert und freigegeben",
     "gui.targetPane.releaseOwnershipSuccess": "Figur erfolgreich freigegeben",
-    "gui.targetPane.unclaimOwnershipSuccess": "Figur erfolgreich nicht mehr beansprucht"
+    "gui.targetPane.unclaimOwnershipSuccess": "Figur erfolgreich nicht mehr beansprucht",
+    "gui.defaultSpriteTip.message": "Wähle deine Standardfigur {profileLink}.",
+    "gui.defaultSpriteTip.profile": "auf deiner Profilseite",
+    "gui.defaultSpriteTip.suppress": "Nicht erneut anzeigen",
+    "gui.defaultSpriteTip.saving": "Wird gespeichert…",
+    "gui.defaultSpriteTip.error": "Diese Einstellung konnte nicht gespeichert werden. Bitte versuche es erneut.",
+    "gui.defaultSpriteTip.close": "Schließen"
 }

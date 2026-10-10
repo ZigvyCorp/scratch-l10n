@@ -986,5 +986,11 @@
     "gui.targetPane.claimOwnershipSuccess": "精灵声称成功",
     "gui.targetPane.saveAndReleaseSuccess": "精灵保存并发布成功",
     "gui.targetPane.releaseOwnershipSuccess": "精灵发布成功",
-    "gui.targetPane.unclaimOwnershipSuccess": "精灵取消声称成功"
+    "gui.targetPane.unclaimOwnershipSuccess": "精灵取消声称成功",
+    "gui.defaultSpriteTip.message": "请{profileLink}选择默认角色。",
+    "gui.defaultSpriteTip.profile": "在你的个人资料页面",
+    "gui.defaultSpriteTip.suppress": "不再显示此提示",
+    "gui.defaultSpriteTip.saving": "正在保存…",
+    "gui.defaultSpriteTip.error": "无法保存此设置。请重试。",
+    "gui.defaultSpriteTip.close": "关闭"
 }

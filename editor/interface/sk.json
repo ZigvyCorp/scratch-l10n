@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Otvor z počítača",
     "gui.gui.defaultProjectTitle": "Projekt v prostredí Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Vyberte predvolenú postavu {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na stránke svojho profilu",
+    "gui.defaultSpriteTip.suppress": "Viac nezobrazovať",
+    "gui.defaultSpriteTip.saving": "Ukladanie…",
+    "gui.defaultSpriteTip.error": "Toto nastavenie sa nepodarilo uložiť. Skúste to znova.",
+    "gui.defaultSpriteTip.close": "Ukonči"
 }

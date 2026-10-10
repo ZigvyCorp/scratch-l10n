@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "შევანაცვლო მიმდინარე პროექტის შიგთავსი?",
     "gui.sharedMessages.loadFromComputerTitle": "ატვირთე შენი კომპიუტერიდან",
     "gui.gui.defaultProjectTitle": "Scratch პროექტი",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "აირჩიეთ ნაგულისხმევი სპრაიტი {profileLink}.",
+    "gui.defaultSpriteTip.profile": "თქვენი პროფილის გვერდზე",
+    "gui.defaultSpriteTip.suppress": "აღარ მაჩვენო",
+    "gui.defaultSpriteTip.saving": "ინახება…",
+    "gui.defaultSpriteTip.error": "ამ პარამეტრის შენახვა ვერ მოხერხდა. სცადეთ ხელახლა.",
+    "gui.defaultSpriteTip.close": "დახურვა"
 }

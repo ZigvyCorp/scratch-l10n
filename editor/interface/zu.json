@@ -505,5 +505,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Buyisela imininingwane yeprojekthi yamanje?",
     "gui.sharedMessages.loadFromComputerTitle": "Thathela kweyakho ikhomputha",
     "gui.gui.defaultProjectTitle": "iProject ka Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Khetha umlingisi wakho ozenzakalelayo {profileLink}.",
+    "gui.defaultSpriteTip.profile": "ekhasini lephrofayela yakho",
+    "gui.defaultSpriteTip.suppress": "Ungaphinde ubonise lokhu",
+    "gui.defaultSpriteTip.saving": "Kuyagcinwa…",
+    "gui.defaultSpriteTip.error": "Le nketho ayikwazanga ukugcinwa. Sicela uzame futhi.",
+    "gui.defaultSpriteTip.close": "Vala"
 }

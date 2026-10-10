@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Starte på nytt uten å lagre?",
     "gui.sharedMessages.loadFromComputerTitle": "Last opp fra datamaskinen",
     "gui.gui.defaultProjectTitle": "Mitt Scratch-prosjekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Velg standardfiguren din {profileLink}.",
+    "gui.defaultSpriteTip.profile": "på profilsiden din",
+    "gui.defaultSpriteTip.suppress": "Ikke vis dette igjen",
+    "gui.defaultSpriteTip.saving": "Lagrer…",
+    "gui.defaultSpriteTip.error": "Kunne ikke lagre denne innstillingen. Prøv igjen.",
+    "gui.defaultSpriteTip.close": "Lukk"
 }
