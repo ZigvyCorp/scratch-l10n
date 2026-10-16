@@ -304,7 +304,7 @@
   "CONTROL_REPEAT_ON_EVERY_MILLISECONDS": "milissegundos",
   "CONTROL_REPEAT_ON_EVERY_FRAMES": "quadros",
   "CONTROL_DEBUG": "imprimir %1 em %2 cor %3",
-  "CONTROL_DEBUG_CONSOLE": "consola",
+  "CONTROL_DEBUG_CONSOLE": "console",
   "CONTROL_DEBUG_ALERT": "alerta",
   "CONTROL_DEFAULT_OPTION": "selecionar",
   "CONTROL_REPORT_TEST_RESULT": "reportar resultado do teste %1",
@@ -1261,8 +1261,8 @@
   "AI_createKNNClassifier": "criar classificador KNN de números de tabela %1 K %2 nomeado %3",
   "AI_predictKNNClassifier": "prever para tabela %1 com classificador %2 mostrar vizinhos %3",
   "AI_trainImageClassifier": "treinar classificador de imagens %1 com os atores %2 %3 %4 %5",
-  "AI_predictImageClass": "prever a classe da imagem com o classificador %1 para o traje %2",
-  "AI_predictImageClassFromCamera": "prever a classe da imagem com o classificador %1 a partir da câmara",
+  "AI_predictImageClass": "prever a classe da imagem com o classificador %1 para a fantasia %2",
+  "AI_predictImageClassFromCamera": "prever a classe da imagem com o classificador %1 a partir da câmera",
   "AI_trainSoundClassifier": "treinar classificador de sons %1 com os atores %2 %3 %4 %5",
   "AI_predictSoundClass": "prever a classe do som com o classificador %1 para o som %2",
   "AI_predictSoundClassFromMicrophone": "prever a classe do som com o classificador %1 a partir do microfone",
@@ -1314,5 +1314,5 @@
   "AI_moonshotAIChat": "Kimi: solicitar %1 resultado %2 modo %3 papel %4 temperatura %5 sessão %6",
   "AI_getModerationResult": "obter resultado de moderação para %1",
   "AI_getModerationResult2": "obter resultado de moderação para imagem em URL %1",
-  "AI_getModerationResult3": "obter resultado de moderação para fantasia nomeado %1"
+  "AI_getModerationResult3": "obter resultado de moderação para fantasia nomeada %1"
 }
