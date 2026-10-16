@@ -315,7 +315,7 @@
   "physics.getCollidingBottom": "在下方有碰撞",
   "physics.getGroundSlope": "地面坡度",
   "mp.setSyncCostume": "同步将造型设为 [COSTUME]",
-  "p2p.listSheetsInGoogleSheet": "列出谷歌表格 URL [SHEET_URL 中的所有工作表到列表 [SHEET_URL] [LIST]",
+  "p2p.listSheetsInGoogleSheet": "列出谷歌表格网址 [SHEET_URL] 中的所有工作表到列表 [LIST]",
   "p2p.readFromGoogleSheet": "从谷歌表格读取: URL [SHEET_URL] 工作表名称 [SHEET_NAME] 范围 [RANGE_VALUE] 到表 [TABLE]",
   "p2p.getGoogleFolderContent": "列出谷歌云盘文件夹 [URL] 的内容到表格 [TABLE]",
   "p2p.uploadSoundToGoogleDrive": "上传声音 [SOUNDNAME] 到谷歌云盘文件夹 URL [URL]",

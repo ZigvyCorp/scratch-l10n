@@ -1,5 +1,5 @@
 {
-    "gui.alerts.lostPeripheralConnection": "Scratch đã mất kết nối với {extensionTên}",
+    "gui.alerts.lostPeripheralConnection": "Scratch đã mất kết nối với {extensionName}",
     "gui.alerts.tryAgain": "Vui lòng thử lại",
     "gui.alerts.download": "Tải xuống",
     "gui.connection.reconnect": "Kết nối lại",
@@ -115,7 +115,7 @@
     "gui.loader.message5": "bầy mèo ...",
     "gui.loader.message6": "Đang tải trí tuệ của bạn ...",
     "gui.loader.message7": "Đang tải nhân vật ...",
-    "gui.loader.message8": "Chuân bị emoji...",
+    "gui.loader.message8": "Chuẩn bị emoji...",
     "gui.loader.headline": "Đang tải dự án",
     "gui.loader.creating": "Đang tạo dự án",
     "gui.accountMenu.profile": "Trang cá nhân",
