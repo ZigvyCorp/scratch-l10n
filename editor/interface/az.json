@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Standart spraytınızı {profileLink} seçin.",
+    "gui.defaultSpriteTip.profile": "profil səhifənizdə",
+    "gui.defaultSpriteTip.suppress": "Bunu bir daha göstərmə",
+    "gui.defaultSpriteTip.saving": "Yadda saxlanılır…",
+    "gui.defaultSpriteTip.error": "Bu seçimi yadda saxlamaq mümkün olmadı. Yenidən cəhd edin.",
+    "gui.defaultSpriteTip.close": "Bağla"
 }

@@ -601,6 +601,14 @@
     "gui.menuBar.publishedWithFriendButton": "Publicado para amigos",
     "gui.menuBar.remix": "Remix",
     "gui.menuBar.restore": "Restaurar",
+    "gui.menuBar.restoreSnapshot": "Restaurar snapshot",
+    "gui.restoreSnapshot.cancel": "Cancelar",
+    "gui.restoreSnapshot.restore": "Restaurar",
+    "gui.restoreSnapshot.loading": "Carregando snapshots…",
+    "gui.restoreSnapshot.empty": "Nenhum snapshot disponível.",
+    "gui.restoreSnapshot.snapshot": "Snapshot",
+    "gui.restoreSnapshot.select": "Selecione um snapshot",
+    "gui.restoreSnapshot.unknownDate": "Data desconhecida",
     "gui.menuBar.restoreBlock": "Restaurar Bloco",
     "gui.menuBar.restoreCostume": "Restaurar a Fantasia",
     "gui.menuBar.restoreSound": "Restaurar Som",
@@ -892,5 +900,11 @@
     "gui.customExtension.action.enable": "Mostrar na lista de blocos",
     "gui.customExtension.detectedExtensionName": "Nome detectado da extensão",
     "gui.customExtension.nameNotDetectedYet": "Cole um URL válido da extensão para detectar o nome automaticamente.",
-    "gui.customExtension.browserWarning": "Se o navegador não conseguir ler diretamente o URL da extensão, abra primeiro o catálogo, copie o URL direto do script e cole-o aqui novamente."
+    "gui.customExtension.browserWarning": "Se o navegador não conseguir ler diretamente o URL da extensão, abra primeiro o catálogo, copie o URL direto do script e cole-o aqui novamente.",
+    "gui.defaultSpriteTip.message": "Escolha seu ator padrão {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na sua página de perfil",
+    "gui.defaultSpriteTip.suppress": "Não mostrar novamente",
+    "gui.defaultSpriteTip.saving": "Salvando…",
+    "gui.defaultSpriteTip.error": "Não foi possível salvar esta preferência. Tente novamente.",
+    "gui.defaultSpriteTip.close": "Fechar"
 }

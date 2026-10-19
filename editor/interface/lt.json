@@ -504,5 +504,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ar nori pakeisti šio projekto turinį?",
     "gui.sharedMessages.loadFromComputerTitle": "Įkelti iš kompiuterio",
     "gui.gui.defaultProjectTitle": "Mano projektas",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Pasirinkite numatytąjį veikėją {profileLink}.",
+    "gui.defaultSpriteTip.profile": "savo profilio puslapyje",
+    "gui.defaultSpriteTip.suppress": "Daugiau nerodyti",
+    "gui.defaultSpriteTip.saving": "Išsaugoma…",
+    "gui.defaultSpriteTip.error": "Nepavyko išsaugoti šios nuostatos. Bandykite dar kartą.",
+    "gui.defaultSpriteTip.close": "Uždaryti"
 }

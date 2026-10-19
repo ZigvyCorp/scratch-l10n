@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Одоо хөгжүүлж буй төслийг устган, шинийг нээх үү?",
     "gui.sharedMessages.loadFromComputerTitle": "Компьютероос төсөл оруулах",
     "gui.gui.defaultProjectTitle": "Scratch төсөл",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Өгөгдмөл дүрээ {profileLink} сонгоно уу.",
+    "gui.defaultSpriteTip.profile": "өөрийн профайл хуудсанд",
+    "gui.defaultSpriteTip.suppress": "Үүнийг дахин бүү харуул",
+    "gui.defaultSpriteTip.saving": "Хадгалж байна…",
+    "gui.defaultSpriteTip.error": "Энэ тохиргоог хадгалж чадсангүй. Дахин оролдоно уу.",
+    "gui.defaultSpriteTip.close": "Хаах"
 }

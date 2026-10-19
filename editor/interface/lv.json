@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch projekts",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Izvēlies savu noklusējuma gariņu {profileLink}.",
+    "gui.defaultSpriteTip.profile": "sava profila lapā",
+    "gui.defaultSpriteTip.suppress": "Nerādīt šo vēlreiz",
+    "gui.defaultSpriteTip.saving": "Saglabā…",
+    "gui.defaultSpriteTip.error": "Neizdevās saglabāt šo iestatījumu. Mēģini vēlreiz.",
+    "gui.defaultSpriteTip.close": "Aizvērt"
 }

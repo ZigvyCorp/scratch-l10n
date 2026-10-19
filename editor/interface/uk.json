@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Замінити вміст поточного проєкту?",
     "gui.sharedMessages.loadFromComputerTitle": "Завантажити з вашого комп’ютера",
     "gui.gui.defaultProjectTitle": "Скретч-проєкт",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Виберіть типовий спрайт {profileLink}.",
+    "gui.defaultSpriteTip.profile": "на сторінці свого профілю",
+    "gui.defaultSpriteTip.suppress": "Більше не показувати",
+    "gui.defaultSpriteTip.saving": "Збереження…",
+    "gui.defaultSpriteTip.error": "Не вдалося зберегти це налаштування. Спробуйте ще раз.",
+    "gui.defaultSpriteTip.close": "Закрити"
 }

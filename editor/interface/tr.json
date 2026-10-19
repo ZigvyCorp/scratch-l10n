@@ -109,6 +109,14 @@
     "gui.menuBar.restoreSound": "Sesi Geri Getir",
     "gui.menuBar.restoreCostume": "Kostümü Geri Getir",
     "gui.menuBar.restore": "Geri Getir",
+    "gui.menuBar.restoreSnapshot": "Anlık görüntüyü geri yükle",
+    "gui.restoreSnapshot.cancel": "İptal",
+    "gui.restoreSnapshot.restore": "Geri yükle",
+    "gui.restoreSnapshot.loading": "Anlık görüntüler yükleniyor…",
+    "gui.restoreSnapshot.empty": "Kullanılabilir anlık görüntü yok.",
+    "gui.restoreSnapshot.snapshot": "Anlık görüntü",
+    "gui.restoreSnapshot.select": "Bir anlık görüntü seçin",
+    "gui.restoreSnapshot.unknownDate": "Bilinmeyen tarih",
     "gui.menuBar.saveNow": "Şimdi kaydet",
     "gui.menuBar.saveAsCopy": "Kopya olarak kaydet",
     "gui.menuBar.remix": "Katkı Yap",
@@ -502,5 +510,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Mevcut projenin üstüne yazayım mı?",
     "gui.sharedMessages.loadFromComputerTitle": "Bilgisayarından yükle",
     "gui.gui.defaultProjectTitle": "Scratch Projesi",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Varsayılan kuklanızı {profileLink} seçin.",
+    "gui.defaultSpriteTip.profile": "profil sayfanızda",
+    "gui.defaultSpriteTip.suppress": "Bunu bir daha gösterme",
+    "gui.defaultSpriteTip.saving": "Kaydediliyor…",
+    "gui.defaultSpriteTip.error": "Bu tercih kaydedilemedi. Lütfen tekrar deneyin.",
+    "gui.defaultSpriteTip.close": "Kapat"
 }

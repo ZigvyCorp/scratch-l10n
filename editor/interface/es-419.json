@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Subir desde tu computador",
     "gui.gui.defaultProjectTitle": "Proyecto Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Elige tu objeto predeterminado {profileLink}.",
+    "gui.defaultSpriteTip.profile": "en tu página de perfil",
+    "gui.defaultSpriteTip.suppress": "No volver a mostrar esto",
+    "gui.defaultSpriteTip.saving": "Guardando…",
+    "gui.defaultSpriteTip.error": "No se pudo guardar esta preferencia. Inténtalo de nuevo.",
+    "gui.defaultSpriteTip.close": "Cerrar"
 }

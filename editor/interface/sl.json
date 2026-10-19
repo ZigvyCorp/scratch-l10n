@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Ali zamenjam vsebino trenutnega projekta?",
     "gui.sharedMessages.loadFromComputerTitle": "Naloži z računalnika",
     "gui.gui.defaultProjectTitle": "Scratch projekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Izberi privzeto figuro {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na strani svojega profila",
+    "gui.defaultSpriteTip.suppress": "Ne pokaži več",
+    "gui.defaultSpriteTip.saving": "Shranjevanje…",
+    "gui.defaultSpriteTip.error": "Te nastavitve ni bilo mogoče shraniti. Poskusi znova.",
+    "gui.defaultSpriteTip.close": "Zapri"
 }

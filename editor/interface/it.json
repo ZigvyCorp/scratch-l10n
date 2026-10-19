@@ -114,6 +114,14 @@
     "gui.menuBar.restoreSound": "Annulla rimozione Suono",
     "gui.menuBar.restoreCostume": "Annulla rimozione Costume",
     "gui.menuBar.restore": "Ripristina",
+    "gui.menuBar.restoreSnapshot": "Ripristina snapshot",
+    "gui.restoreSnapshot.cancel": "Annulla",
+    "gui.restoreSnapshot.restore": "Ripristina",
+    "gui.restoreSnapshot.loading": "Caricamento snapshot…",
+    "gui.restoreSnapshot.empty": "Nessuno snapshot disponibile.",
+    "gui.restoreSnapshot.snapshot": "Snapshot",
+    "gui.restoreSnapshot.select": "Seleziona uno snapshot",
+    "gui.restoreSnapshot.unknownDate": "Data sconosciuta",
     "gui.menuBar.saveNow": "Salva ora",
     "gui.menuBar.saveAsCopy": "Salva una copia",
     "gui.menuBar.remix": "Remix",
@@ -508,5 +516,11 @@
     "gui.sharedMessages.loadFromComputerTitle": "Carica dal computer",
     "gui.gui.defaultProjectTitle": "Progetto Scratch",
     "gui.consolePanel.premiumWarning": "I blocchi premium nei progetti sono disabilitati",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Scegli il tuo sprite predefinito {profileLink}.",
+    "gui.defaultSpriteTip.profile": "nella pagina del tuo profilo",
+    "gui.defaultSpriteTip.suppress": "Non mostrare più",
+    "gui.defaultSpriteTip.saving": "Salvataggio…",
+    "gui.defaultSpriteTip.error": "Impossibile salvare questa preferenza. Riprova.",
+    "gui.defaultSpriteTip.close": "Chiudi"
 }

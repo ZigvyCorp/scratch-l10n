@@ -109,6 +109,14 @@
     "gui.menuBar.restoreSound": "Восстановить Звук",
     "gui.menuBar.restoreCostume": "Восстановить Костюм",
     "gui.menuBar.restore": "Восстановить",
+    "gui.menuBar.restoreSnapshot": "Восстановить снимок",
+    "gui.restoreSnapshot.cancel": "Отмена",
+    "gui.restoreSnapshot.restore": "Восстановить",
+    "gui.restoreSnapshot.loading": "Загрузка снимков…",
+    "gui.restoreSnapshot.empty": "Нет доступных снимков.",
+    "gui.restoreSnapshot.snapshot": "Снимок",
+    "gui.restoreSnapshot.select": "Выберите снимок",
+    "gui.restoreSnapshot.unknownDate": "Неизвестная дата",
     "gui.menuBar.saveNow": "Сохранить сейчас",
     "gui.menuBar.saveAsCopy": "Сохранить как копию",
     "gui.menuBar.remix": "Ремикс",
@@ -502,5 +510,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Заменить содержимое текущего проекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Загрузить с компьютера",
     "gui.gui.defaultProjectTitle": "Проект Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Выберите спрайт по умолчанию {profileLink}.",
+    "gui.defaultSpriteTip.profile": "на странице своего профиля",
+    "gui.defaultSpriteTip.suppress": "Больше не показывать",
+    "gui.defaultSpriteTip.saving": "Сохранение…",
+    "gui.defaultSpriteTip.error": "Не удалось сохранить эту настройку. Попробуйте ещё раз.",
+    "gui.defaultSpriteTip.close": "Закрыть"
 }

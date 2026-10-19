@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch projekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Odaberite svoj zadani lik {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na stranici svojeg profila",
+    "gui.defaultSpriteTip.suppress": "Ne prikazuj ponovno",
+    "gui.defaultSpriteTip.saving": "Spremanje…",
+    "gui.defaultSpriteTip.error": "Nije moguće spremiti ovu postavku. Pokušajte ponovno.",
+    "gui.defaultSpriteTip.close": "Zatvori"
 }

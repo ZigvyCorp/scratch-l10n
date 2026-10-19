@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Bila naveroka projeya heyî were guhertin?",
     "gui.sharedMessages.loadFromComputerTitle": "Ji kombersa xwe bar bike",
     "gui.gui.defaultProjectTitle": "Projeya Scratchê",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Karaktera xwe ya standard {profileLink} hilbijêre.",
+    "gui.defaultSpriteTip.profile": "li rûpela profîla xwe",
+    "gui.defaultSpriteTip.suppress": "Vê careke din nîşan nede",
+    "gui.defaultSpriteTip.saving": "Tê tomarkirin…",
+    "gui.defaultSpriteTip.error": "Ev vebijark nehat tomarkirin. Ji kerema xwe dîsa biceribîne.",
+    "gui.defaultSpriteTip.close": "Bigire"
 }

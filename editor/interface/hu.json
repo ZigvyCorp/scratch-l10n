@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Meglévő projekt tartalmának felülírása?",
     "gui.sharedMessages.loadFromComputerTitle": "Feltöltés saját gépről",
     "gui.gui.defaultProjectTitle": "Scratch project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Válaszd ki az alapértelmezett szereplődet {profileLink}.",
+    "gui.defaultSpriteTip.profile": "a profiloldaladon",
+    "gui.defaultSpriteTip.suppress": "Ne mutasd többé",
+    "gui.defaultSpriteTip.saving": "Mentés…",
+    "gui.defaultSpriteTip.error": "Nem sikerült menteni ezt a beállítást. Próbáld újra.",
+    "gui.defaultSpriteTip.close": "Bezár"
 }

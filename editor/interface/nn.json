@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Vil du byta ut innhaldet i gjeldande prosjekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Last opp frå datamaskina",
     "gui.gui.defaultProjectTitle": "Scratch-prosjekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Vel standardfiguren din {profileLink}.",
+    "gui.defaultSpriteTip.profile": "på profilsida di",
+    "gui.defaultSpriteTip.suppress": "Ikkje vis dette igjen",
+    "gui.defaultSpriteTip.saving": "Lagrar…",
+    "gui.defaultSpriteTip.error": "Kunne ikkje lagre denne innstillinga. Prøv igjen.",
+    "gui.defaultSpriteTip.close": "Lukk"
 }

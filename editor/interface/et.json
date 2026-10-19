@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratchi projekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Vali oma vaikimisi sprait {profileLink}.",
+    "gui.defaultSpriteTip.profile": "oma profiililehel",
+    "gui.defaultSpriteTip.suppress": "Ära seda uuesti näita",
+    "gui.defaultSpriteTip.saving": "Salvestamine…",
+    "gui.defaultSpriteTip.error": "Seda eelistust ei saanud salvestada. Proovi uuesti.",
+    "gui.defaultSpriteTip.close": "Sulge"
 }

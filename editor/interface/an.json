@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Reemplazar lo conteniu d'o prochecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar dende lo tuyo ordinador",
     "gui.gui.defaultProjectTitle": "Prochecto de Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Tría lo tuyo sprite predeterminau {profileLink}.",
+    "gui.defaultSpriteTip.profile": "en a tuya pachina de perfil",
+    "gui.defaultSpriteTip.suppress": "No tornar a amostrar isto",
+    "gui.defaultSpriteTip.saving": "Alzando…",
+    "gui.defaultSpriteTip.error": "No s'ha puesto alzar esta preferencia. Torna-lo a intentar.",
+    "gui.defaultSpriteTip.close": "Zarrar"
 }

@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "げんざいのプロジェクトのないようをおきかえますか？",
     "gui.sharedMessages.loadFromComputerTitle": "コンピューターからよみこむ",
     "gui.gui.defaultProjectTitle": "Scratchのプロジェクト",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "きていのスプライトを{profileLink}でえらんでください。",
+    "gui.defaultSpriteTip.profile": "プロフィールページ",
+    "gui.defaultSpriteTip.suppress": "こんごひょうじしない",
+    "gui.defaultSpriteTip.saving": "ほぞんちゅう…",
+    "gui.defaultSpriteTip.error": "このせっていをほぞんできませんでした。もういちどおためしください。",
+    "gui.defaultSpriteTip.close": "とじる"
 }

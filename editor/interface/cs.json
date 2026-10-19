@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Nahradit obsah aktuálního projektu?",
     "gui.sharedMessages.loadFromComputerTitle": "Načti z tvého počítače",
     "gui.gui.defaultProjectTitle": "Můj projekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Vyberte výchozí postavu {profileLink}.",
+    "gui.defaultSpriteTip.profile": "na stránce svého profilu",
+    "gui.defaultSpriteTip.suppress": "Znovu nezobrazovat",
+    "gui.defaultSpriteTip.saving": "Ukládání…",
+    "gui.defaultSpriteTip.error": "Tuto předvolbu se nepodařilo uložit. Zkuste to znovu.",
+    "gui.defaultSpriteTip.close": "Zavřít"
 }

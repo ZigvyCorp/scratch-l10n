@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "¿e hahaʾo te rua aŋa o te aŋa e aŋa mai ena?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Ka tuhi taʾa sprite mo haʾamata {profileLink}.",
+    "gui.defaultSpriteTip.profile": "i te página o toʾou ariŋa",
+    "gui.defaultSpriteTip.suppress": "ʾIna e haka tikeʾa haka ʾou",
+    "gui.defaultSpriteTip.saving": "Hapaʾo…",
+    "gui.defaultSpriteTip.error": "ʾIna e ko hapaʾo i te nei tuhi. Ka aŋa haka ʾou.",
+    "gui.defaultSpriteTip.close": "puru"
 }

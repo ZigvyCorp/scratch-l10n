@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Vols substituir els continguts del projecte actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Carrega des del teu ordinador",
     "gui.gui.defaultProjectTitle": "Projecte de Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Tria el teu personatge predeterminat {profileLink}.",
+    "gui.defaultSpriteTip.profile": "a la teva pàgina de perfil",
+    "gui.defaultSpriteTip.suppress": "No tornis a mostrar-ho",
+    "gui.defaultSpriteTip.saving": "S'està desant…",
+    "gui.defaultSpriteTip.error": "No s'ha pogut desar aquesta preferència. Torna-ho a provar.",
+    "gui.defaultSpriteTip.close": "Tanca"
 }

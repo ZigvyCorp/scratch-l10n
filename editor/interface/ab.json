@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Иалаԥсахтәума абри апроект аҵанакы?",
     "gui.sharedMessages.loadFromComputerTitle": "Иҭагалатәуп акомпиутер аҟынтәи",
     "gui.gui.defaultProjectTitle": "Scratch Апроект",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Анагӡаҩ хада {profileLink} иалшәх.",
+    "gui.defaultSpriteTip.profile": "шәыԥрофиль адаҟьаҿы",
+    "gui.defaultSpriteTip.suppress": "Шьҭа ари шәымырбандаз",
+    "gui.defaultSpriteTip.saving": "Аиқәырхара…",
+    "gui.defaultSpriteTip.error": "Ари аргыламҭа аиқәырхара залмыршахеит. Даҽазнык шәҽазышәшәа.",
+    "gui.defaultSpriteTip.close": "Иарктәуп"
 }

@@ -111,6 +111,14 @@
     "gui.menuBar.restoreSound": "استعادة الصوت",
     "gui.menuBar.restoreCostume": "استعادة المظهر",
     "gui.menuBar.restore": "استعادة",
+    "gui.menuBar.restoreSnapshot": "استعادة لقطة",
+    "gui.restoreSnapshot.cancel": "إلغاء",
+    "gui.restoreSnapshot.restore": "استعادة",
+    "gui.restoreSnapshot.loading": "جارٍ تحميل اللقطات…",
+    "gui.restoreSnapshot.empty": "لا توجد لقطات متاحة.",
+    "gui.restoreSnapshot.snapshot": "لقطة",
+    "gui.restoreSnapshot.select": "اختر لقطة",
+    "gui.restoreSnapshot.unknownDate": "تاريخ غير معروف",
     "gui.menuBar.saveNow": "الحفظ الآن",
     "gui.menuBar.saveAsCopy": "حفظ نسخة",
     "gui.menuBar.remix": "مزج",
@@ -504,5 +512,11 @@
     "gui.sharedMessages.replaceProjectWarning": "هل تريد الاستغناء عن محتويات المشروع الحالي؟",
     "gui.sharedMessages.loadFromComputerTitle": "التحميل من حاسوبك",
     "gui.gui.defaultProjectTitle": "مشروع سكراتش",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "اختر الكائن الافتراضي {profileLink}.",
+    "gui.defaultSpriteTip.profile": "في صفحة ملفك الشخصي",
+    "gui.defaultSpriteTip.suppress": "لا تعرض هذا مجددًا",
+    "gui.defaultSpriteTip.saving": "جارٍ الحفظ…",
+    "gui.defaultSpriteTip.error": "تعذر حفظ هذا التفضيل. يُرجى المحاولة مرة أخرى.",
+    "gui.defaultSpriteTip.close": "إغلاق"
 }

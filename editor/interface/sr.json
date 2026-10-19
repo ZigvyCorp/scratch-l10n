@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Заменити садржај тренутног пројекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Пошаљи са свог рачунара",
     "gui.gui.defaultProjectTitle": "Скрач пројекат",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Изаберите подразумевани лик {profileLink}.",
+    "gui.defaultSpriteTip.profile": "на страници свог профила",
+    "gui.defaultSpriteTip.suppress": "Не приказуј поново",
+    "gui.defaultSpriteTip.saving": "Чување…",
+    "gui.defaultSpriteTip.error": "Није могуће сачувати ову поставку. Покушајте поново.",
+    "gui.defaultSpriteTip.close": "Затвори"
 }

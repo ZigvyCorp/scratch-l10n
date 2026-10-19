@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "محتویات پروژه فعلی جایگزین گردد؟",
     "gui.sharedMessages.loadFromComputerTitle": "بارگذاری از کامپیوتر شما",
     "gui.gui.defaultProjectTitle": "پروژه‌ی اسکرچ",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "شکلک پیش‌فرض خود را {profileLink} انتخاب کنید.",
+    "gui.defaultSpriteTip.profile": "در صفحهٔ نمایهٔ خود",
+    "gui.defaultSpriteTip.suppress": "این را دوباره نشان نده",
+    "gui.defaultSpriteTip.saving": "در حال ذخیره…",
+    "gui.defaultSpriteTip.error": "ذخیرهٔ این تنظیم ممکن نشد. لطفاً دوباره تلاش کنید.",
+    "gui.defaultSpriteTip.close": "بستن"
 }

@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Confirmi înlocuirea proiectului curent ?",
     "gui.sharedMessages.loadFromComputerTitle": "Încarcă de pe calculator",
     "gui.gui.defaultProjectTitle": "Proiect Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Alege personajul implicit {profileLink}.",
+    "gui.defaultSpriteTip.profile": "în pagina profilului tău",
+    "gui.defaultSpriteTip.suppress": "Nu mai afișa",
+    "gui.defaultSpriteTip.saving": "Se salvează…",
+    "gui.defaultSpriteTip.error": "Această preferință nu a putut fi salvată. Încearcă din nou.",
+    "gui.defaultSpriteTip.close": "Închide"
 }

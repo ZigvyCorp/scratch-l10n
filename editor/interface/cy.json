@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Newid cynnwys y project hwn?",
     "gui.sharedMessages.loadFromComputerTitle": "Llwytho o'ch cyfrifiadur",
     "gui.gui.defaultProjectTitle": "Project Scratch",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Dewiswch eich corlun diofyn {profileLink}.",
+    "gui.defaultSpriteTip.profile": "ar eich tudalen proffil",
+    "gui.defaultSpriteTip.suppress": "Peidiwch â dangos hyn eto",
+    "gui.defaultSpriteTip.saving": "Wrthi'n cadw…",
+    "gui.defaultSpriteTip.error": "Methu cadw'r dewis hwn. Rhowch gynnig arall arni.",
+    "gui.defaultSpriteTip.close": "Cau"
 }

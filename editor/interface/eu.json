@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Kargatu zure ordenagailutik",
     "gui.gui.defaultProjectTitle": "Scratch proiektua",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Aukeratu zure pertsonaia lehenetsia {profileLink}.",
+    "gui.defaultSpriteTip.profile": "zure profileko orrian",
+    "gui.defaultSpriteTip.suppress": "Ez erakutsi hau berriro",
+    "gui.defaultSpriteTip.saving": "Gordetzen…",
+    "gui.defaultSpriteTip.error": "Ezin izan da hobespen hau gorde. Saiatu berriro.",
+    "gui.defaultSpriteTip.close": "Itxi"
 }

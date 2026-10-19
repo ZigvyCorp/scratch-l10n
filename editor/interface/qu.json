@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Musuqmanta ruray Llamkasqaykita?",
     "gui.sharedMessages.loadFromComputerTitle": "Kumputaduraykimanta Llamkariy",
     "gui.gui.defaultProjectTitle": "Scratch llamkay",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Ñawpaq spritiykita {profileLink} akllay.",
+    "gui.defaultSpriteTip.profile": "perfilniykipa p'anqanpi",
+    "gui.defaultSpriteTip.suppress": "Ama kayta yapamanta rikuchiychu",
+    "gui.defaultSpriteTip.saving": "Waqaychaspa…",
+    "gui.defaultSpriteTip.error": "Kay akllayta manam waqaychay atikurqanchu. Yapamanta ruray.",
+    "gui.defaultSpriteTip.close": "Wichqay"
 }

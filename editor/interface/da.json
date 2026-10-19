@@ -502,5 +502,11 @@
     "gui.sharedMessages.replaceProjectWarning": "Erstat indholdet af det nuværende projekt?",
     "gui.sharedMessages.loadFromComputerTitle": "Hent fra din computer",
     "gui.gui.defaultProjectTitle": "Scratch Projekt",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "Vælg din standardfigur {profileLink}.",
+    "gui.defaultSpriteTip.profile": "på din profilside",
+    "gui.defaultSpriteTip.suppress": "Vis ikke dette igen",
+    "gui.defaultSpriteTip.saving": "Gemmer…",
+    "gui.defaultSpriteTip.error": "Denne indstilling kunne ikke gemmes. Prøv igen.",
+    "gui.defaultSpriteTip.close": "Luk"
 }

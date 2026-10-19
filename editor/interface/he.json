@@ -504,5 +504,11 @@
     "gui.sharedMessages.replaceProjectWarning": "להחליף את תוכן הפרויקט הנוכחי?",
     "gui.sharedMessages.loadFromComputerTitle": "טעינה מהמחשב שלך",
     "gui.gui.defaultProjectTitle": "פרויקט סקראץ'",
-    "gui.customExtension.detectedExtensionName": "Detected extension name"
+    "gui.customExtension.detectedExtensionName": "Detected extension name",
+    "gui.defaultSpriteTip.message": "בחרו את דמות ברירת המחדל {profileLink}.",
+    "gui.defaultSpriteTip.profile": "בעמוד הפרופיל שלכם",
+    "gui.defaultSpriteTip.suppress": "לא להציג שוב",
+    "gui.defaultSpriteTip.saving": "שמירה…",
+    "gui.defaultSpriteTip.error": "לא ניתן לשמור את ההעדפה הזאת. נסו שוב.",
+    "gui.defaultSpriteTip.close": "סגירה"
 }
