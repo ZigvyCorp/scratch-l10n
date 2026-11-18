@@ -122,6 +122,7 @@
   "DATA_EXPORTTABLE": "テーブル %1 を %2 としてエクスポート",
   "DATA_IMPORTTABLE": "ファイルをテーブル %1 にインポート",
   "DATA_ROWATINDEXOFTABLE": "テーブル %2 の行 %1 区切り文字 %3",
+  "DATA_TABLECONTENTWHERE": "テーブル %1 の列 %2 が %3 に含まれる内容",
   "DATA_ROWINDEXWITHCONDITION": "行 # の %1 の中に 列 %2 の中に テーブル %3",
   "DATA_ROWINDEXWITHCONDITION2": "テーブル %3 の列 %2 で %1 を含む項目の行番号",
   "DATA_ADDROWTOTABLE": "テーブル %1 に追加: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",

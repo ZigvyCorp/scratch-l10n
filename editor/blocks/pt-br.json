@@ -275,6 +275,7 @@
   "DATA_REVERSELIST": "inverta %1",
   "DATA_ROWATINDEXOFTABLE": "linha %1 da tabela %2 separador %3",
   "DATA_ROWCOUNTOFTABLE": "contagem de linhas da tabela %1",
+  "DATA_TABLECONTENTWHERE": "conteúdo da tabela %1 onde a coluna %2 está em %3",
   "DATA_ROWINDEXWITHCONDITION": "linha nº de %1 na coluna %2 na tabela %3",
   "DATA_ROWINDEXWITHCONDITION2": "linha nº do item contendo %1 na coluna %2 na tabela %3",
   "DATA_SAVEDATA": "salve %1 dados %2 com nome %3",

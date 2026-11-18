@@ -122,6 +122,7 @@
   "DATA_EXPORTTABLE": "exportiere Tabelle %1 als %2",
   "DATA_IMPORTTABLE": "importiere Datei in Tabelle %1",
   "DATA_ROWATINDEXOFTABLE": "Zeile %1 von Tabelle %2 Trenner %3",
+  "DATA_TABLECONTENTWHERE": "Inhalt von Tabelle %1, wenn Spalte %2 in %3 ist",
   "DATA_ROWINDEXWITHCONDITION": "Zeile # von %1 in Spalte %2 in Tabelle %3",
   "DATA_ROWINDEXWITHCONDITION2": "Zeile # von Element enthält %1 in Spalte %2 in Tabelle %3",
   "DATA_ADDROWTOTABLE": "füge auf Tabelle %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",

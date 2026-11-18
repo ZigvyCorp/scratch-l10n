@@ -843,6 +843,7 @@
   "DATA_LOAD_DATA_NAMES": "nomes dos dados",
   "DATA_LOOKUPTABLE": "item na coluna %1 de %2 onde coluna %3 igual a %4",
   "DATA_ROWATINDEXOFTABLE": "linha %1 da tabela %2 separador %3",
+  "DATA_TABLECONTENTWHERE": "conteúdo da tabela %1 onde a coluna %2 está em %3",
   "DATA_ROWINDEXWITHCONDITION": "linha # de %1 na coluna %2 da tabela %3",
   "DATA_ROWINDEXWITHCONDITION2": "linha # do item contendo %1 na coluna %2 da tabela %3",
   "DATA_ADDROWTOTABLE": "adicionar à tabela %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",

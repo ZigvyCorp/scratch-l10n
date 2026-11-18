@@ -120,6 +120,7 @@
   "DATA_EXPORTTABLE": "导出表格 %1 名为 %2",
   "DATA_IMPORTTABLE": "将文件导入表格 %1",
   "DATA_ROWATINDEXOFTABLE": "表格 %2 的第 %1 行 分隔符 %3",
+  "DATA_TABLECONTENTWHERE": "表格 %1 中列 %2 的值在 %3 中的内容",
   "DATA_ROWINDEXWITHCONDITION": "表格 %3 的列 %2 中第一个 %1 的行号",
   "DATA_ROWINDEXWITHCONDITION2": "表格 %3 的列 %2 中第一个包含 %1 的行号",
   "DATA_ADDROWTOTABLE": "添加到表格 %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",

@@ -536,6 +536,7 @@
   "DATA_REVERSELIST": "đảo ngược %1",
   "DATA_ROWATINDEXOFTABLE": "dòng %1 của bảng %2 phân tách %3",
   "DATA_ROWCOUNTOFTABLE": "số dòng của bảng %1",
+  "DATA_TABLECONTENTWHERE": "nội dung bảng %1 có cột %2 thuộc %3",
   "DATA_ROWINDEXWITHCONDITION": "# dòng của %1 trong cột %2 trong bảng %3",
   "DATA_ROWINDEXWITHCONDITION2": "# dòng của mục chứa %1 trong cột %2 trong bảng %3",
   "DATA_SAVEDATA": "lưu %1 dữ liệu %2 với tên %3",

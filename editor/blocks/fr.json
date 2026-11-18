@@ -119,6 +119,7 @@
   "DATA_EXPORTTABLE": "exporter la table %1 en tant que %2",
   "DATA_IMPORTTABLE": "importer fichier dans la table %1",
   "DATA_ROWATINDEXOFTABLE": "ligne %1 du tableau %2 séparatrice %3",
+  "DATA_TABLECONTENTWHERE": "contenu du tableau %1 où la colonne %2 est dans %3",
   "DATA_ROWINDEXWITHCONDITION": "ligne # de %1 dans la colonne %2 dans le tableau %3",
   "DATA_ROWINDEXWITHCONDITION2": "ligne # de l'élément contenant %1 dans la colonne %2 de la table %3",
   "DATA_ADDROWTOTABLE": "ajouter au tableau %1: %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13",

@@ -279,6 +279,7 @@
   "DATA_REVERSELIST": "反轉列表 %1",
   "DATA_ROWATINDEXOFTABLE": "表格 %2 的第 %1 行 分隔符 %3",
   "DATA_ROWCOUNTOFTABLE": "表格 %1 的行数",
+  "DATA_TABLECONTENTWHERE": "表格 %1 中欄 %2 的值在 %3 中的內容",
   "DATA_ROWINDEXWITHCONDITION": "表格 %3 的列 %2 中第一個 %1 的行號",
   "DATA_ROWINDEXWITHCONDITION2": "表格 %3 的列 %2 中第一個包含 %1 的行號",
   "DATA_SAVEDATA": "使用名稱 %3 保存 %1 的數據 %2",

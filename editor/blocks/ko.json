@@ -275,6 +275,7 @@
   "DATA_REVERSELIST": "%1 뒤집기",
   "DATA_ROWATINDEXOFTABLE": "테이블 %2의 행 %1 구분자 %3",
   "DATA_ROWCOUNTOFTABLE": "테이블 %1의 행 개수",
+  "DATA_TABLECONTENTWHERE": "테이블 %1에서 열 %2이(가) %3에 포함된 내용",
   "DATA_ROWINDEXWITHCONDITION": "테이블 %3의 열 %2에서 %1의 행 번호",
   "DATA_ROWINDEXWITHCONDITION2": "테이블 %3의 열 %2에서 %1을(를) 포함하는 항목의 행 번호",
   "DATA_SAVEDATA": "%1 데이터 %2를(을) 이름 %3(으)로 저장하기",
