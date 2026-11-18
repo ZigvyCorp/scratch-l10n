@@ -240,6 +240,7 @@
   "LOOKS_SAYFORSECS_WITHSTYLE": "powiedz %1 przez %2 sekund rozmiar tekstu %3 %4 tło %5 krawędź %6",
   "LOOKS_ADDCOSTUMEFROMURL": "dodaj kostium o nazwie %1 z URL %2 max szerokość %3 max wysokość %4",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "dodaj migawkę sceny jako kostium o nazwie %1",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "utwórz kostiumy z kostiumu %1 wiersze %2 kolumny %3 rozmiar części %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "pomyśl %1 przez %2 sekund rozmiar tekstu %3 %4 tło %5 krawędź %6",
   "MOTION_MOVE_VIEWPORT": "przesuń widok do x %1 y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "zablokuj widok do duszka %1",

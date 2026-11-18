@@ -592,6 +592,7 @@
   "LOOKS_SAYFORSECS_WITHSTYLE": "diga %1 por %2 segundos tamanho do texto %3 %4 fundo %5 borda %6",
   "LOOKS_ADDCOSTUMEFROMURL": "adicionar fantasia chamada %1 de URL %2 largura máx %3 altura máx %4",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "adicionar captura do palco como fantasia chamada %1",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "criar fantasias a partir da fantasia %1 linhas %2 colunas %3 tamanho da peça %4",
   "LOOKS_REMOVECOSTUME": "remover fantasia %1",
   "LOOKS_SETCOSTUMETO": "definir fantasia como %1",
   "LOOKS_ADDBACKDROPFROMURL": "adicionar cenário chamado %1 de URL %2 largura máx %3 altura máx %4",

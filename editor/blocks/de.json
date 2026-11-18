@@ -233,6 +233,7 @@
   "LOOKS_SAYFORSECS_WITHSTYLE": "sage %1 für %2 Sekunden Textgröße %3 %4 Hintergrund %5 Rand %6",
   "LOOKS_ADDCOSTUMEFROMURL": "füge Kostüm mit Name %1 von URL %2 Maximum Breite %3 Maximum Höhe %4",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "füge Bühne Schnappschuss als Kostüm mit Name %1",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "erstelle Kostüme aus Kostüm %1 Zeilen %2 Spalten %3 Stückgröße %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "denke %1 für %2 Sekunden Textgröße %3 %4 Hintergrund %5 Rand %6",
   "MOTION_MOVE_VIEWPORT": "bewege Ansicht zu X %1 Y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "sperre Ansicht auf Figur %1",

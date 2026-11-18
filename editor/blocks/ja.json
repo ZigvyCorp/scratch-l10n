@@ -233,6 +233,7 @@
   "LOOKS_SAYFORSECS_WITHSTYLE": "%1 と言う %2 秒 テキストサイズ %3 %4 背景 %5 端 %6",
   "LOOKS_ADDCOSTUMEFROMURL": "URL %2 から名前 %1 のコスチュームを追加 最大幅 %3 最大高さ %4",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "ステージのスナップショットをコスチューム %1 として追加",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "コスチューム %1 からコスチュームを作る 行数 %2 列数 %3 ピースの大きさ %4",
   "LOOKS_THINKFORSECS_WITHSTYLE": "%1 と考える %2 秒 テキストサイズ %3 %4 背景 %5 端 %6",
   "MOTION_MOVE_VIEWPORT": "ビューポートを移動 X %1 Y %2",
   "MOTION_LOCK_VIEWPORT_TO_SPRITE": "ビューポートをスプライト %1 に固定",
