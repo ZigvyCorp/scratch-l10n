@@ -1114,5 +1114,17 @@
   "static": "固定的",
   "dynamic": "动态的",
   "rectangle": "矩形",
-  "circle": "圆形"
+  "circle": "圆形",
+  "widget.setGoogleMapsKey": "设置 Google 地图 API 密钥 [KEY]",
+  "widget.addGoogleMap": "添加 Google 地图，中心 [LOCATION] 缩放 [ZOOM] x [X] y [Y] 宽 [WIDTH] 高 [HEIGHT] 名为 [NAME]",
+  "widget.mapLocation": "位置 纬度 [LAT] 经度 [LNG]",
+  "widget.mapLocationPart": "位置 [LOCATION] 的 [PART]",
+  "widget.setGoogleMapCenter": "将地图 [NAME] 的中心设为 [LOCATION] 缩放 [ZOOM]",
+  "widget.addGoogleMapPin": "在地图 [NAME] 的 [LOCATION] 添加标记，标签 [LABEL] 颜色 [COLOR]",
+  "widget.removeGoogleMapPin": "从地图 [NAME] 移除标记 [PIN]",
+  "widget.clearGoogleMapPins": "移除地图 [NAME] 的所有标记",
+  "widget.whenGoogleMapPinClicked": "当地图 [NAME] 上的标记被点击",
+  "widget.clickedGoogleMapPinId": "被点击标记的 ID",
+  "widget.mapLatitude": "纬度",
+  "widget.mapLongitude": "经度"
 }

@@ -1136,5 +1136,17 @@
   "dynamic": "動的",
   "rectangle": "長方形",
   "circle": "円",
-  "physics.categoryName": "2D物理"
+  "physics.categoryName": "2D物理",
+  "widget.setGoogleMapsKey": "Google マップの API キーを [KEY] にする",
+  "widget.addGoogleMap": "[LOCATION] を中心にズーム [ZOOM] x [X] y [Y] 幅 [WIDTH] 高さ [HEIGHT] の Google マップを [NAME] として追加する",
+  "widget.mapLocation": "位置 緯度 [LAT] 経度 [LNG]",
+  "widget.mapLocationPart": "位置 [LOCATION] の [PART]",
+  "widget.setGoogleMapCenter": "地図 [NAME] の中心を [LOCATION] ズーム [ZOOM] にする",
+  "widget.addGoogleMapPin": "地図 [NAME] の [LOCATION] にラベル [LABEL] 色 [COLOR] のピンを追加する",
+  "widget.removeGoogleMapPin": "地図 [NAME] からピン [PIN] を削除する",
+  "widget.clearGoogleMapPins": "地図 [NAME] のすべてのピンを削除する",
+  "widget.whenGoogleMapPinClicked": "地図 [NAME] のピンがクリックされたとき",
+  "widget.clickedGoogleMapPinId": "クリックされたピンの ID",
+  "widget.mapLatitude": "緯度",
+  "widget.mapLongitude": "経度"
 }

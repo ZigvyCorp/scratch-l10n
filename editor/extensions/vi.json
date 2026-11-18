@@ -1117,5 +1117,17 @@
   "z position": "Vị trí Z",
   "z rotation": "Góc quay Z",
   "z rotation speed": "Tốc độ quay z",
-  "zspeed": "Tốc độ Z"
+  "zspeed": "Tốc độ Z",
+  "widget.setGoogleMapsKey": "đặt khóa API Google Maps thành [KEY]",
+  "widget.addGoogleMap": "thêm bản đồ Google có tâm [LOCATION] thu phóng [ZOOM] x [X] y [Y] rộng [WIDTH] cao [HEIGHT] tên [NAME]",
+  "widget.mapLocation": "vị trí vĩ độ [LAT] kinh độ [LNG]",
+  "widget.mapLocationPart": "[PART] của vị trí [LOCATION]",
+  "widget.setGoogleMapCenter": "đặt tâm bản đồ [NAME] thành [LOCATION] thu phóng [ZOOM]",
+  "widget.addGoogleMapPin": "thêm ghim vào bản đồ [NAME] tại [LOCATION] nhãn [LABEL] màu [COLOR]",
+  "widget.removeGoogleMapPin": "xóa ghim [PIN] khỏi bản đồ [NAME]",
+  "widget.clearGoogleMapPins": "xóa tất cả ghim khỏi bản đồ [NAME]",
+  "widget.whenGoogleMapPinClicked": "khi một ghim trên bản đồ [NAME] được nhấp",
+  "widget.clickedGoogleMapPinId": "ID của ghim được nhấp",
+  "widget.mapLatitude": "vĩ độ",
+  "widget.mapLongitude": "kinh độ"
 }

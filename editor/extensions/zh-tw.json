@@ -1152,5 +1152,17 @@
   "z position": "Z位置",
   "z rotation": "Z 軸旋轉",
   "z rotation speed": "z 旋轉速度",
-  "zspeed": "Z速度"
+  "zspeed": "Z速度",
+  "widget.setGoogleMapsKey": "設定 Google 地圖 API 金鑰 [KEY]",
+  "widget.addGoogleMap": "新增 Google 地圖，中心 [LOCATION] 縮放 [ZOOM] x [X] y [Y] 寬 [WIDTH] 高 [HEIGHT] 名為 [NAME]",
+  "widget.mapLocation": "位置 緯度 [LAT] 經度 [LNG]",
+  "widget.mapLocationPart": "位置 [LOCATION] 的 [PART]",
+  "widget.setGoogleMapCenter": "將地圖 [NAME] 的中心設為 [LOCATION] 縮放 [ZOOM]",
+  "widget.addGoogleMapPin": "在地圖 [NAME] 的 [LOCATION] 新增標記，標籤 [LABEL] 顏色 [COLOR]",
+  "widget.removeGoogleMapPin": "從地圖 [NAME] 移除標記 [PIN]",
+  "widget.clearGoogleMapPins": "移除地圖 [NAME] 的所有標記",
+  "widget.whenGoogleMapPinClicked": "當地圖 [NAME] 上的標記被點擊",
+  "widget.clickedGoogleMapPinId": "被點擊標記的 ID",
+  "widget.mapLatitude": "緯度",
+  "widget.mapLongitude": "經度"
 }

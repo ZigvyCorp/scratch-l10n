@@ -1115,5 +1115,17 @@
   "static": "Estático",
   "dynamic": "Dinámico",
   "rectangle": "Rectángulo",
-  "circle": "Círculo"
+  "circle": "Círculo",
+  "widget.setGoogleMapsKey": "fijar clave API de Google Maps [KEY]",
+  "widget.addGoogleMap": "añadir mapa de Google centrado en [LOCATION] zoom [ZOOM] x [X] y [Y] ancho [WIDTH] alto [HEIGHT] como [NAME]",
+  "widget.mapLocation": "ubicación latitud [LAT] longitud [LNG]",
+  "widget.mapLocationPart": "[PART] de la ubicación [LOCATION]",
+  "widget.setGoogleMapCenter": "fijar centro del mapa [NAME] en [LOCATION] zoom [ZOOM]",
+  "widget.addGoogleMapPin": "añadir marcador al mapa [NAME] en [LOCATION] etiqueta [LABEL] color [COLOR]",
+  "widget.removeGoogleMapPin": "quitar marcador [PIN] del mapa [NAME]",
+  "widget.clearGoogleMapPins": "quitar todos los marcadores del mapa [NAME]",
+  "widget.whenGoogleMapPinClicked": "al hacer clic en un marcador del mapa [NAME]",
+  "widget.clickedGoogleMapPinId": "ID del marcador pulsado",
+  "widget.mapLatitude": "latitud",
+  "widget.mapLongitude": "longitud"
 }

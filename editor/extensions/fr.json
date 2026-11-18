@@ -1167,5 +1167,17 @@
   "Linear": "Linéaire",
   "Exponential": "Exponentiel",
   "diffusion": "Diffusion",
-  "emission": "Émission"
+  "emission": "Émission",
+  "widget.setGoogleMapsKey": "définir la clé API Google Maps [KEY]",
+  "widget.addGoogleMap": "ajouter une carte Google centrée sur [LOCATION] zoom [ZOOM] x [X] y [Y] largeur [WIDTH] hauteur [HEIGHT] nommée [NAME]",
+  "widget.mapLocation": "position latitude [LAT] longitude [LNG]",
+  "widget.mapLocationPart": "[PART] de la position [LOCATION]",
+  "widget.setGoogleMapCenter": "centrer la carte [NAME] sur [LOCATION] zoom [ZOOM]",
+  "widget.addGoogleMapPin": "ajouter un repère à la carte [NAME] à [LOCATION] étiquette [LABEL] couleur [COLOR]",
+  "widget.removeGoogleMapPin": "supprimer le repère [PIN] de la carte [NAME]",
+  "widget.clearGoogleMapPins": "supprimer tous les repères de la carte [NAME]",
+  "widget.whenGoogleMapPinClicked": "quand un repère de la carte [NAME] est cliqué",
+  "widget.clickedGoogleMapPinId": "identifiant du repère cliqué",
+  "widget.mapLatitude": "latitude",
+  "widget.mapLongitude": "longitude"
 }

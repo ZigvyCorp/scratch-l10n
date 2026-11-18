@@ -1117,5 +1117,17 @@
   "dynamic": "Dynamic",
   "rectangle": "Rectangle",
   "circle": "Circle",
-  "physics.categoryName": "2D-Physik"
+  "physics.categoryName": "2D-Physik",
+  "widget.setGoogleMapsKey": "Google Maps API-Schlüssel auf [KEY] setzen",
+  "widget.addGoogleMap": "Google-Karte mit Zentrum [LOCATION] Zoom [ZOOM] x [X] y [Y] Breite [WIDTH] Höhe [HEIGHT] als [NAME] hinzufügen",
+  "widget.mapLocation": "Ort Breitengrad [LAT] Längengrad [LNG]",
+  "widget.mapLocationPart": "[PART] des Ortes [LOCATION]",
+  "widget.setGoogleMapCenter": "Zentrum der Karte [NAME] auf [LOCATION] Zoom [ZOOM] setzen",
+  "widget.addGoogleMapPin": "Markierung zur Karte [NAME] bei [LOCATION] Beschriftung [LABEL] Farbe [COLOR] hinzufügen",
+  "widget.removeGoogleMapPin": "Markierung [PIN] von Karte [NAME] entfernen",
+  "widget.clearGoogleMapPins": "alle Markierungen von Karte [NAME] entfernen",
+  "widget.whenGoogleMapPinClicked": "Wenn eine Markierung auf Karte [NAME] angeklickt wird",
+  "widget.clickedGoogleMapPinId": "ID der angeklickten Markierung",
+  "widget.mapLatitude": "Breitengrad",
+  "widget.mapLongitude": "Längengrad"
 }

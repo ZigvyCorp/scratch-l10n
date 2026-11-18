@@ -1122,5 +1122,17 @@
   "z position": "Pozycja Z",
   "z rotation": "Rotacja Z",
   "z rotation speed": "Prędkość rotacji z",
-  "zspeed": "Prędkość Z"
+  "zspeed": "Prędkość Z",
+  "widget.setGoogleMapsKey": "ustaw klucz API Google Maps na [KEY]",
+  "widget.addGoogleMap": "dodaj mapę Google ze środkiem [LOCATION] powiększenie [ZOOM] x [X] y [Y] szerokość [WIDTH] wysokość [HEIGHT] jako [NAME]",
+  "widget.mapLocation": "lokalizacja szerokość geograficzna [LAT] długość geograficzna [LNG]",
+  "widget.mapLocationPart": "[PART] lokalizacji [LOCATION]",
+  "widget.setGoogleMapCenter": "ustaw środek mapy [NAME] na [LOCATION] powiększenie [ZOOM]",
+  "widget.addGoogleMapPin": "dodaj znacznik do mapy [NAME] w [LOCATION] etykieta [LABEL] kolor [COLOR]",
+  "widget.removeGoogleMapPin": "usuń znacznik [PIN] z mapy [NAME]",
+  "widget.clearGoogleMapPins": "usuń wszystkie znaczniki z mapy [NAME]",
+  "widget.whenGoogleMapPinClicked": "kiedy kliknięto znacznik na mapie [NAME]",
+  "widget.clickedGoogleMapPinId": "identyfikator klikniętego znacznika",
+  "widget.mapLatitude": "szerokość geograficzna",
+  "widget.mapLongitude": "długość geograficzna"
 }
