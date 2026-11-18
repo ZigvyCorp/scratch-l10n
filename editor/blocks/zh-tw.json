@@ -469,7 +469,7 @@
   "LIST_ALREADY_EXISTS": "列表名稱「%1」已經被使用。",
   "LIST_MODAL_TITLE": "新的列表",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "將舞台快照添加為名為 %1 的造型",
-  "LOOKS_MAKECOSTUMESFROMCOSTUME": "從造型 %1 建立造型，列數 %2 欄數 %3 每塊大小 %4",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "從造型 %1 建立造型，列數 %2 欄數 %3",
   "LOOKS_ADDCOSTUMEFROMURL": "從網址 %2 添加名為 %1 的造型 最大寬度 %3 最大高度 %4",
   "LOOKS_BACKDROPNUMBERNAME": "背景 %1",
   "LOOKS_CHANGEEFFECTBY": "圖像效果 %1 改變 %2",

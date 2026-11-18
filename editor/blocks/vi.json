@@ -680,7 +680,7 @@
   "LARGEMODEL": "lớn",
   "LEFT_MOUSE_BUTTON": "trái",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "thêm ảnh chụp sân khấu làm trang phục có tên %1",
-  "LOOKS_MAKECOSTUMESFROMCOSTUME": "tạo trang phục từ trang phục %1 số hàng %2 số cột %3 kích thước mảnh %4",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "tạo trang phục từ trang phục %1 số hàng %2 số cột %3",
   "LOOKS_ADDCOSTUMEFROMURL": "thêm trang phục có tên %1 từ URL %2 chiều rộng tối đa %3 chiều cao tối đa %4",
   "LOOKS_CLEARALLMYPRINTS": "xóa tất cả bản in của tôi",
   "LOOKS_CLEARALLPRINTS": "xóa tất cả bản in",

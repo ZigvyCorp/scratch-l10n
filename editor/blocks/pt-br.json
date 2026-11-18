@@ -464,7 +464,7 @@
   "LIST_ALREADY_EXISTS": "Já existe uma lista chamada '%1'.",
   "LIST_MODAL_TITLE": "Nova Lista",
   "LOOKS_ADDCOSTUMEFROMSTAGESNAPSHOT": "adicione captura do palco como fantasia nomeada %1",
-  "LOOKS_MAKECOSTUMESFROMCOSTUME": "crie fantasias a partir da fantasia %1 linhas %2 colunas %3 tamanho da peça %4",
+  "LOOKS_MAKECOSTUMESFROMCOSTUME": "crie fantasias a partir da fantasia %1 linhas %2 colunas %3",
   "LOOKS_ADDCOSTUMEFROMURL": "adicione fantasia nomeada %1 da URL %2 largura máx %3 altura máx %4",
   "LOOKS_BACKDROPNUMBERNAME": "cenário %1",
   "LOOKS_CHANGEEFFECTBY": "mude %2 ao efeito %1",
